@@ -1,0 +1,655 @@
+arXiv:1604.08686v1  [cond-mat.supr-con]  29 Apr 2016
+Superconductivity and abnormal pressure eﬀect in
+Sr0.5La0.5FBiSe2 superconductor
+Lin Li1, Yongliang Xiang1, Yihong Chen1, Wenhe Jiao2,
+Chuhang Zhang2, Li Zhang3, Jianhui Dai1, Yuke Li1†
+1Department of Physics and Hangzhou Key Laboratory of Quantum Matter,
+Hangzhou Normal University, Hangzhou 310036, China
+2Department of Physics, Zhejiang University of Science and technology Hangzhou
+310023, China
+3Department of Physics, China Jiliang University, Hangzhou 310018, China
+Abstract.
+Through the solid state reaction method, we synthesized a new BiSe2-based
+superconductor Sr0.5La0.5FBiSe2 with superconducting transition temperature Tc≈3.8
+K. A strong diamagnetic signal below Tc in susceptibility χ(T ) is observed indicating
+the bulk nature of superconductivity.
+Diﬀerent to most BiS2-based compounds
+where superconductivity develops from a semiconducting-like normal state, the present
+compound exhibits a metallic behavior down to Tc.
+Under weak magnetic ﬁeld or
+pressure, however, a remarkable crossover from metallic to insulating behaviors takes
+place around Tmin where the resistivity picks up a local minimum. With increasing
+pressure, Tc decreases monotonously and Tmin shifts to high temperatures, while the
+absolute value of the normal state resistivity at low temperatures ﬁrst decreases and
+then increases with pressure up to 2.5 GPa. These results imply that the electronic
+structure of Sr0.5La0.5FBiSe2 may be diﬀerent to those in the other BiS2-based systems.
+PACS numbers: 74.70.Dd,74.25.F-; 74.62.Fj; 74.25.Dw
+† Electronic address: yklee@hznu.edu.cn
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+2
+1. Introduction
+Exotic superconductivity has been discovered in materials with layered crystal
+structures, such as the high-Tc cuprates[1] and the Fe-based superconductors[2] where
+the high-Tc or unconventional superconductivity is believed to be caused by the reduced
+dimensionality and electronic correlations. Recently, a new layered compound Bi4O4S3
+with Tc ≈8.6 K[3, 4] has triggered intensive research interests, leading to a class of
+BiS2-based superconductors including LnO1−xFxBiS2(Ln=La, Ce, Pr, Nd) with Tc up
+to 10 K[5, 6, 7, 8, 9, 10]. Similar to the CuO2 plane in cuprates and the Fe2An2 (An =
+P, As, Se) layers in pnictides, the common BiS2 layer in the BiS2-based compounds
+is expected to play a key role in search for new superconductors by intercalating
+various block layers, for example, the Bi4O4(SO4)1−x or [Ln2O2]2−layers. Following
+this idea, through the replacement of the LaO layer by the SrF block, a new class
+of BiS2-based superconductors Sr1−xLnxFBiS2(Ln=La, Ce) with Tc ≈2.8 K has been
+studied[11, 12, 13]. By ﬁrst principle calculations the parent compounds SrF(LnO)BiS2
+are found to be band insulators without detectable antiferrimagnetic transition or
+structure phase transition[14]. Superconductivity can be induced by electron doping
+into lattice[5] and enhanced by pressure[15].
+To obtain higher Tc in these materials, various chemical substitutions have
+been attempted to alter the structural instability[5, 11, 16].
+Among these, the
+isovalent substitution is a clean method to supply chemical pressure.
+Very recently,
+an isostructural LaO1−xFxBiSe2 compound has been reported to exhibit enhanced-
+superconductivity with Tc of 3.5 K[17, 18] compared to the low-Tc phase in
+LaO1−xFxBiS2[5, 15].
+Although the ARPES experiments[19] have suggested that
+the electronic structure and Fermi surface are quite similar in both compounds, the
+normal state of LaO1−xFxBiSe2 shows the metallic behavior[17] in contrast to the
+semiconducting behavior of LaO1−xFxBiS2. On the other hand, the applied physical
+pressures in BiS2-based compounds always induce a structure phase transition from
+tetragonal to monoclinic [20], leading to an abrupt improvement from low-Tc to high-
+Tc[15]. For LaO1−xFxBiSe2, the reported pressure eﬀect is to suppress the low-Tc but
+enhance the high-Tc[21]. Up to now, most studies including electronic structure[14],
+superconducting transition temperature[15] and the pairing symmetry[22, 23, 24, 25, 26,
+27] have been mainly focused on the BiS2-based system, but superconductivity seems
+to be still under debate.
+In the Letter, we report the successful synthesis of a novel La-doped Sr0.5La0.5FBiSe2
+sample. The compound is iso-structural to SrFBiS2 with the P4/nmm space group as
+conﬁrmed by the XRD pattern measurement. Both the sharp superconducting transition
+in ρ(T) and strong diamagnetic signals in χ(T) conﬁrm the bulk superconductivity.
+In contrast to most of the BiS2-based compounds where the normal state exhibits a
+semiconducting behavior, Sr0.5La0.5FBiSe2 exhibits a metallic behavior down to Tc.
+Interestingly, even a weak magnetic ﬁeld or a weak pressure can induce a crossover
+from metallic to insulating behaviors in the normal state. In particular, by increasing
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+3
+pressure, superconductivity is quickly suppressed.
+Accompanied with the decrease
+of Tc, the normal state resistivity ﬁrst decreases and then increases with pressure.
+In any cases, the resistivity has a local minimum at Tmin where the crossover from
+metallic to insulating behaviors takes place. We ﬁnd that Tmin gradually shifts to high
+temperature with increasing pressure or ﬁeld. All these observations imply that the
+superconducting mechanism of the present system may be distinct from that of the
+BiS2-based superconductors.
+2. Experimental
+The polycrystalline sample of Sr0.5La0.5FBiSe2 used in this study was synthesized by
+the two-step solid state reaction method.
+La2Se3 was pre-synthesized by reacting
+stoichiometric Se powders and La pieces at 1273 K for 15 hours. The as-grown La2Se3
+and the powders of SrSe, SrF2, Bi, and Se as starting materials were weighted according
+to their stoichiometric ratio and then fully ground in an agate mortar. The mixture of
+powders was then pressed into pellets, heated in an evacuated quartz tube at 1073 K
+for 10 hours and ﬁnally furnace-cooled to room temperature.
+Crystal structure characterization was performed by powder X-ray diﬀraction
+(XRD) at room temperature using a D/Max-rA diﬀractometer with Cu Kα radiation
+and a graphite monochromator. Lattice parameters were calculated from least-squares
+ﬁtting routine using Rietveld ﬁtting. The (magneto)resistivity under several magnetic
+ﬁelds was measured with a standard four-terminal method covering temperature range
+from 2 to 300 K in a commercial Quantum Design PPMS-9 system and Oxford He3-
+16T system.
+The temperature dependence of d.c.
+magnetization was measured on
+a Quantum Design SQUID-VSM-7T. Measurement of resistivity under pressure was
+performed up to 2.5GPa on PPMS-9T by using HPC-33 Piston type pressure cell with
+the Quantum Design DC resistivity and AC transport options. Hydrostatic pressures
+were generated by a BeCu/NiCrAl clamped piston-cylinder cell.
+The sample was
+immersed in a pressure transmitting medium (Daphne Oil) covered with a Teﬂon cell.
+Annealed Au wires were aﬃxed to contact surfaces on each sample with silver epoxy in
+a standard four-wire conﬁguration.
+3. Results and Discussion
+3.1. Superconductivity
+Fig.
+1 shows the powder XRD patterns and the Rietveld structural reﬁnement of
+the Sr0.5La0.5FBiSe2 sample.
+The main diﬀraction peaks can be well indexed based
+on a ZrCuSiAs-type crystal structure with the P4/nmm space group except for two
+impurity phases, the Bi2Se3 and a starting material Bi. The reﬁned lattice parameters
+are extracted to be a = 4.1697˚A and c = 13.9422˚A, which are larger than those of
+Sr0.5La0.5FBiS2 with a = 4.0820 ˚A and c = 13.8025 ˚A, respectively[5].
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+4
+Temperature dependence of resistivity (ρ) for Sr0.5La0.5FBiSe2 under ambient
+pressure is plotted in Fig. 2. The inset of ﬁgure 2 shows the magnetic susceptibility
+under ZFC(Zero-Field cooling) and FC(Field cooling) modes with a magnetic ﬁeld
+of 5 Oe.
+The strong diamagnetic signals are observed below 3.5 K. The estimated
+volume fraction of magnetic shielding from ZFC data is over 90%, bearing out the bulk
+superconductivity in our sample. The resistivity displays a metallic behavior in the
+whole temperature region above Tc, and, a linear temperature-dependence above 100 K.
+Such feature is in contrast to the semiconducting feature observed in Sr0.5La0.5FBiS2[11]
+and LaO0.5F0.5BiS2[5]. Noted that the single crystal NdO0.5F0.5BiS2[28] also exhibits
+the metallic behavior above Tc.
+This result seems to be a tendency of the metallic
+normal state in the BiS2- and BiSe2-based superconductors. Upon further cooling, a
+sharp superconducting transition with Tc of 3.8 K, which is sizably higher than that of
+Sr0.5La0.5FBiS2 with Tc ∼2.8 K, can be clearly seen. Considering the relatively larger
+radius of Se ion than that of S ion, the result seems to imply that the negative chemical
+pressure eﬀect may enhance the superconductivity in the Sr0.5La0.5FBiSe2 system.
+Fig. 3(a) shows the low-temperature magnetoresistivity under various magnetic
+ﬁelds below 6 K for the Sr0.5La0.5FBiSe2 sample. The sharp superconducting transition
+with fully vanished resistivity at about 3.5 K is clearly seen at zero-magnetic ﬁeld,
+suggesting the good quality of the poly-crystalline sample. A relatively weak H (∼0.8 T)
+suppresses Tc drastically, and induces an non-zero resistivity above 2 K, implying a low
+Meissner ﬁeld due to the pinning of ﬂux. The inset shows the temperature dependence of
+the upper critical ﬁeld µ0Hc2(T), determined by using the 90% normal state resistivity
+criterion. The Hc2 at zero temperature estimated by using the Werthamer-Helfand-
+Hohenberg(WHH) formula Hc2(T) = −0.69Tc| ∂Hc2
+∂T |Tc is about 5.5 T for T onset
+c
+. This
+value is rather large compared to that of the Sr0.5La0.5FBiS2 system[11].
+A logarithmic plot of the magnetoresistivity vs. temperature below 50 K with the
+applied magnetic ﬁeld up to 9 T is shown in Fig. 3(b). Clearly, the resistivity shows a
+metallic behavior under zero ﬁeld. Small magnetic ﬁelds cause a slight upturn above Tc
+and broaden the superconducting transition. With increasing magnetic ﬁeld Tc shifts to
+lower temperature, while the value of resistivity gradually increases so that the upturn
+feature becomes more prominent. At higher ﬁeld up to 9 T, superconductivity almost
+vanishes, instead, the ρ(T) curves show a metal to semiconductor crossover around Tmin,
+followed by a near logT-dependent feature at lower temperatures. The similar behavior
+was also observed in the LaO0.5F0.5BiSe2 crystal at 2.0 GPa[21]. As a result, the phase
+diagram in terms of magnetic ﬁeld and temperature is mapped in Fig. 4.
+3.2. Pressure eﬀect
+It is known that pressure is an eﬀective method to tune the lattice structures and the
+corresponding electronic states without introducing more disorders. We performed the
+resistivity measurement for several diﬀerent pressures, shown in Fig.
+5.
+The inset
+shows the close view of resistivity transition below Tc at various pressures. A relatively
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+5
+weak pressure can sizably reduce Tc but only slightly broaden the superconducting
+transition. Further increasing pressures, Tc shifts to lower temperatures quickly while the
+superconducting transition remains rather sharp. At higher pressures up to 2.5 GPa, a
+slight drop due to superconducting transition can be distinguished below 2.2 K. The fact
+that Tc decreases monotonously with pressure in the present Sr0.5La0.5FBiSe2 sample is
+in contrast to other BiS2-based superconductors such LnO1−xFxBiS2 and Sr1−xLnxFBiS2
+systems[29, 30], where the Tc is enhanced to 10 K by pressure. In the LaO1−xFxBiSe2
+and Eu3F4Bi2S4 systems[21, 31, 32], while the superconducting phase with low-Tc is
+relatively unchanged, the one with a high-Tc is enhanced with Tc ≈10 K up to 2.5 GPa.
+Fig. 6 displays a close view of temperature dependence of resistivity at several
+representative pressures.
+Starting from 0.9 GPa, a resistivity upturn above Tc is
+induced by pressure. The upturn feature becomes more pronounced with increasing
+pressures, resulting in a clear crossover from metallic to semiconducting behaviors
+around Tmin where the resistivity takes a local minimum.
+Apparently, Tmin shifts
+toward higher temperatures with pressures. It is noted that the value of ρ300K decreases
+with pressure, while ρ10K ﬁrst decreases below 1.3 GPa and then increases above 1.5
+GPa.
+Consequently, while superconductivity is suppressed by pressure, the log(T)-
+dependence of resistivity in the normal state emerges. The region with this insulating
+feature increases quickly with pressure. Therefore compared with the pressure eﬀect
+on other mentioned materials the pressure eﬀect in the Sr0.5La0.5FBiSe2 compound is
+abnormal. The measurement under further higher pressures should be highly desirable
+in the future in order to clarify whether the superconductivity in Sr0.5La0.5FBiSe2 could
+be completely killed by pressure.
+The phase diagram of pressure vs.
+temperature is summarized in Fig.
+7.
+In
+the superconducting state, Tc in the present system decreases monotonously with
+pressure up to 2.5 GPa, in contrast to the universal features in other BiS2-based
+superconductors. In the normal state, the sample shows a highly metallic character
+in the whole temperature at ambient pressure, but undergoes a crossover from metallic
+to insulating behaviors when the physical pressure is beyond 0.9 GPa. With pressure up
+to 2.5 GPa, the superconductivity is suppressed and the sample becomes more insulating
+at low temperatures. Recall that Tc is enhanced in most BiS2- or BiSe2-based compounds
+as typically in LaO1−xFxBiSe2 where Tc is enhanced to 6.5 K at 2.37 GPa [21]. The
+opposite pressure eﬀect in our measured sample though with the similar BiS2 layered
+structure may suggest a rather diﬀerent electronic band structure.
+4. Conclusion
+In summary, we synthesized the Sr0.5La0.5FBiSe2 polycrystalline sample. The resistivity
+vanishes below 3.8 K, which together with strong diamagnetic signals in magnetization
+data, conﬁrming the bulk superconductivity.
+In contrast to most of the BiS2-
+based compounds where superconductivity is developed from the background of a
+semiconducting-like normal state, the normal state of Sr0.5La0.5FBiSe2 exhibits a
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+6
+metallic behavior down to Tc.
+Under magnetic ﬁeld or pressure, a crossover from
+metallic to semiconducting behaviors is induced, and the superconductivity is suppressed
+accordingly. While the Tc decreases with increasing monotonously, the absolute value
+of the normal state resistivity ﬁrst decreases and then increases with pressure. All these
+features are in contrast to the previously known BiS2-based superconductors.
+While the semiconducting behavior in the normal state of most BiS2 and
+BiSe2 remains one of the puzzling issue in connection with the unconventional
+superconductivity, the opposite situation in the present compound, namely, the crossover
+from the metallic to semiconducting behaviors in the normal in the presence of magnetic
+ﬁeld or pressure is rather unusual, pointing to a possible diﬀerent mechanism of
+superconductivity in this family of materials.
+Such feature reminds us of a related
+single crystal compound Nd(O,F)BiS2[33], where the normal state exhibits the ﬁeld-
+induced semiconducting behavior above Tc. This feature was attributed to the possible
+pseudo-gap phase extending to relatively higher temperatures as evidenced by the
+unusual superconducting ﬂuctuations seen in the scanning tunneling spectroscopy (STS)
+experiment[33]. We thus expect that the superconducting mechanism of the present
+system may be also quite unique and deserve further investigations such as by ARPES,
+NMR or STS experiments in future.
+Acknowledgments
+Y. Li would like to thank Z. Xu and G. H. Cao for helpful discussions. This work is
+supported by the National Science Foundation of China (Grant No.
+11274084 and
+61376094) and National Training Programs of Innovation and Entrepreneurship for
+Undergraduates (201510346011).
+References
+[1] Bednorz J G and Mller 1986 Z. Physik B Condensed Matter. 64, 189
+[2] Kamihara Y, Watanabe T, Hirano M, and Hosono H 2008 J. Am. Chem. Soc. 130, 3296
+[3] Mizuguchi Y, Fujihisa H, Gotoh Y, Suzuki K, Usui H, Kuroki K, Demura S, Takano Y, Izawa H,
+Miura O 2012 Phys. Rev. B 86, 220510(R)
+[4] Singh S K, Kumar A, Gahtori B, Sharma G, Patnaik S, and Awana V P S 2012 J. Am. Chem.
+Soc. 134 16504
+[5] Mizuguchi Y, Demura S, Deguchi K, Takano Y, Fujihisa H, Gotoh Y, Izawa H, Miura O 2012 J.
+Phys. Soc. Jpn 81 114725
+[6] Demura S, Mizuguchi Y, Deguchi K, Okazaki H, Hara H, Watanabe T, Denholme S J, Fujioka M,
+Ozaki T, Fujihisa H, Gotoh Y, Miura O, Yamaguchi T, Takeya H, and Takano Y 2013 J. Phys.
+Soc. Jpn 82, 033708
+[7] Jha R, Kumar A, Singh S K, and Awana V P S, 2013 J. Appl. Phys. 113,
+[8] Awana V P S, Kumar A, Jha R, Kumar S, Kumar J, and Pal A, 2013 Solid State Communications
+157, 31
+[9] Xing J, Li S, Ding X, Yang H and Wen H H 2012 Phys. Rev. B 86, 214518
+[10] Jha R, Singh S K, and Awana V P S 2013 J. Sup. and Novel Mag 26, 499
+[11] Lin X, Ni X X, Chen B, Xu X F, Yang X X, Dai J H, Li Y K, Yang X J, Luo Y K, Tao Q, Cao G
+H, and Xu Z A 2013 Phys. Rev. B 87 020504
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+7
+[12] Li L, Li Y K, Jin Y F, Huang H R, Chen B, Xu X F, Dai J H, Zhang L, Yang X, Zhai H F, Cao
+G, and Xu Z A 2015 Phys. Rev. B 91 014508
+[13] Li Y K, Lin X, Li L, Zhou N, Xu X F, Cao C, Dai J H, Zhang L, Luo Y K, Jiao W H, Tao Q, Cao
+G H and Xu Z 2014 Supercond. Sci. Technol 27 035009
+[14] Li B, Xing Z W, and Huang G Q 2013 Europhys. Lett. 101, 47002
+[15] Wolowiec C T, White B D, Jeon I, Yazici D, Huang K, and Maple M B 2013 J. Phys.: Condens.
+Matter 25, 422201
+[16] Yazici D, Huang K, White B D, Jeon I, Burnett V W, Friedman A J, Lum I K, Nallaiyan M,
+Spagna S, and Maple M B 2013 Phys. Rev. B 87, 174512
+[17] Maziopa A K, Guguchia Z, Pomjakushina E, Pomjakushin V, Khasanov R, Luetkens H, Biswas P
+K, Amato A, Keller H, and Conder K 2014 J. Phys.: Condens. Matter 26, 215702
+[18] Tanaka M, Nagao M, Matsushita Y, Fujioka M, Denholme S J, Yamaguchi T, Takeya H, and
+Takano Y 2014 J. Solid State Chem 219 168
+[19] Saini N L, Ootsuki D, Paris E, Joseph B, Barinov A, Tanaka M, Takano Y, and Mizokawa T 2014
+Phys. Rev. B 90, 214507
+[20] Tomita T, Ebata M, Soeda H, Takahashi H, Fujihisa H, Gotoh Y, Mizuguchi Y, Izawa H, Miura
+O, Demura S, Deguchi K, and Takano Y 2014 J. Phys. Soc. Jpn 83, 063704
+[21] Liu J Z, Li S, Li Y F, Zhu X Y, Wen H H 2014 Phys. Rev. B 90, 094507
+[22] Liang Y, Wu X, Tsai W F, and Hu J P 2014 Front. Phys. 9,194
+[23] Yildirim T 2013 Phys. Rev. B 87, 020506(R)
+[24] Martins G B, Moreo A, and Dagotto E 2013 Phys. Rev. B 87, 081102(R)
+[25] Lamura G, Shiroka T, Bonfa P, Sanna S, Renzi R De, Baines C, Luetkens H, Kajitani J, Mizuguchi
+Y, Miura O, Deguchi K, Demura S, Takano Y, and Putti M 2013 Phys. Rev. B 88, 180509
+[26] Zeng L K, Wang X B, Ma J, Richard P, Nie S M, Weng H M, Wang N L, Wang Z, Qian T, and
+Ding H 2014 Phys. Rev. B 90, 054512
+[27] Ye Z R, Yang H F, Shen D W, Jiang J, Niu X H , Feng D L, Du Y P, Wan X G, Liu J Z, Zhu X
+Y , Wen H H , and Jiang M H 2014 Phys. Rev. B 90, 045116
+[28] Nagao M, Demura S, Deguchi K, Miura A, Watauchi S, Takei T, Takano Y, Kumada N, and
+Tanaka I, 2013 J. Phys. Soc. Jpn 82, 113701
+[29] Wolowiec C T, White B D, Jeon I, Yazici D, Huang K, and Maple M B 2013 J. Phys.: Condens.
+Matter 25, 422201
+[30] Rajveer J, Brajesh T, and Awana V P S 2015 J. Appl. Phys 117, 013901
+[31] Jha R, Kishan H, and Awana V P S, 2015 J. Sup. and Novel Mag. 28, L2229
+[32] Luo Y K, Zhai H F, Zhang P, Xu Z, Cao G H, and Thompson J D 2014 Phys. Rev. B 90, 220510
+[33] Liu J Z, Fang D L, Wang Z Y, Xing J, Du Z Y, Zhu X Y, Yang H, and Wen H H 2014 Europhys.
+Lett. 106, 67002
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+8
+20
+40
+60
+80
+100
+120
+a = 0.4169 nm 
+c = 1.3942 nm
+T=300 K
+ Experimental
+ Caculated
+ Differences
+ Sr
+0.5
+La
+0.5
+FBiSe
+2
+   $   Bi
+2
+Se
+3
+   #   Bi
+ 
+ 
+ 
+ 
+Intensity (counts)
+2 
+degree
+$
+#
+Figure 1.
+(color online).
+Powder X-ray diﬀraction patterns and the Rietveld
+reﬁnement proﬁle for Sr0.5La0.5FBiSe2 sample at room temperature. The $ and #
+peak positions designate the impurity phases of Bi2S3 and Bi, respectively.
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+9
+0
+100
+200
+300
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+1
+2
+3
+4
+-0.9
+-0.6
+-0.3
+0.0
+T (K)
+ 
+ 
+ 
+m
+cm
+T (K)
+T
+c
+  ~T
+Sr
+0.5
+La
+0.5
+FBiSe
+2
+4
+ambient pressure
+FC
+ 
+ 
+ 
+ 
+ZFC
+H = 5 Oe
+Figure
+2.
+(a) Temperature dependence of resistivity for the polycrystalline
+Sr0.5La0.5FBiSe2 sample under ambient pressure.
+The inset shows the magnetic
+susceptibility of Sr0.5La0.5FBiSe2 under both ZFC and FC modes.
+2
+3
+4
+5
+0.0
+0.7
+1.4
+2.1
+0
+1
+2
+3
+4
+0
+2
+4
+ 9
+ 7
+ 5
+ 3
+ 2
+ 1
+ 0.8 
+ 0.6
+ 0.4
+ 0.2
+ 0.1 
+ 
+ 
+m
+cm
+T (K)
+B= 0 T
+(a)
+c
+(0)=5.5 T
+ 
+ 
+ 
+ 
+ (T)
+T (K)
+T
+c
+ 
+90%
+1
+5
+10
+10
+50
+1.8
+1.9
+2.0
+2.1
+9
+7
+5
+3
+2
+1
+0.4
+0.2
+B= 0 T
+m
+cm
+ 
+ 
+T (K)
+T
+min
+(b)
+Figure 3. (a)Temperature dependence of resistivity (ρ) around Tc under magnetic
+ﬁelds up to 9 T for the Sr0.5La0.5FBiSe2, the inset shows the Hc2 data. (b) An enlarged
+plot of the temperature dependence of magnetoresistivity.
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+10
+0
+3
+6
+9
+1
+5
+10
+10
+50
+100
+100
+ T
+c
+ 
+onset
+ T
+c
+90%
+ T
+min
+ 
+SC
+Semiconductor
+Metal
+ (T)
+ 
+ 
+ T (K)
+Figure 4.
+The phase diagram of temperature versus magnetic ﬁeld for the
+Sr0.5La0.5FBiSe2.
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+11
+2
+3
+4
+5
+6
+0
+5
+10
+15
+20
+0
+50
+100
+150
+200
+250
+300
+0
+5
+10
+15
+20
+25
+ 
+ 
+m
+T (K)
+T (K)
+ 
+ 
+ 
+ 
+m
+       P=
+ 0 GPa
+ 0.3
+ 0.6
+ 0.9
+ 1.1
+ 1.3
+ 1.5
+ 1.75
+ 2.0
+ 2.2
+ 2.5
+Figure 5.
+Temperature dependence of resistivity for Sr0.5La0.5FBiSe2 sample at
+various pressures. The inset shows an enlarged view of resistivity below Tc.
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+12
+5
+10
+10
+50
+1.59
+1.62
+1.65
+1.68
+4
+6
+8
+10
+10
+20
+1.56
+1.58
+1.60
+(b)
+T (K)
+1.3
+1.1
+T
+min
+T (K)
+P=
+0.9 GPa
+m
+cm
+ 
+ 
+(a)
+T
+min
+1.5
+2.0
+2.5
+m
+cm
+ 
+ 
+ 
+ 
+Figure 6. An enlarged view of temperature vs. resistivity at several representative
+pressures for the Sr0.5La0.5FBiSe2 sample.
+
+
+Superconductivity and abnormal pressure eﬀect in Sr0.5La0.5FBiSe2 superconductor
+13
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+1
+5
+10
+10
+50
+100
+100
+SC
+ 
+T (K)
+Pressure (GPa)
+ T
+c
+ 
+90%
+ T
+c
+zero
+ T
+min
+Metal
+Semiconductor
+Figure 7.
+The phase diagram in terms of pressure and temperature for the
+Sr0.5La0.5FBiSe2 sample.
+
+

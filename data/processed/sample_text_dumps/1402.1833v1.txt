@@ -1,0 +1,648 @@
+arXiv:1402.1833v1  [cond-mat.supr-con]  8 Feb 2014
+Observation of anomalous temperature dependence of spectrum on small Fermi surfaces in a
+BiS2-based superconductor
+L. K. Zeng1, X. B. Wang1, J. Ma1, P. Richard1,2, S. M. Nie1, H. M. Weng1, N. L. Wang1,2, Z. Wang3, T. Qian1,∗and H. Ding1,2†
+1Beijing National Laboratory for Condensed Matter Physics,
+and Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China
+2Collaborative Innovation Center of Quantum Matter, Beijing, China and
+3Department of Physics, Boston College, Chestnut Hill, Massachusetts 02467, USA
+We have performed an angle-resolved photoemission spectroscopy study of the BiS2-based superconductor
+Nd(O,F)BiS2. Two small electron-like Fermi surfaces around X (π, 0) are observed, which enclose 2.4% and
+1.1% of the Brillouin zone area, respectively, corresponding to an electron doping of 7% per Bi site. The low-
+energy spectrum consists of a weakly-dispersing broad hump and a dispersive branch, which follows well the
+calculated band dispersion. This hump is drastically suppressed with increasing temperature, while the dis-
+persive branch is essentially unaﬀected. The anomalous thermal eﬀect indicates a highly interacting electronic
+state, in which the superconducting pairing develops.
+PACS numbers: 74.25.Jb, 71.18.+y, 74.70.-b, 71.38.-k
+The recent discovery of superconductivity with Tc up to ∼
+10 K in the BiS2-based compounds has attracted a lot of at-
+tentions [1–10]. As in the cuprate and iron-based high-Tc su-
+perconductors, the BiS2 family has a layered crystal structure
+consisting of superconducting BiS2 layers intercalated with
+various block layers. Band structure calculations show that
+the parent compound of the BiS2-based superconductors is a
+band insulator with an energy gap of ∼0.8 eV [11–14], and
+bulk superconductivity induced by electron doping is derived
+from the Bi 6px/py orbitals, in which correlation eﬀects are ex-
+pected to be weaker than those in the 3d orbitals of the cuprate
+and iron-based superconductors. The superconducting transi-
+tion temperature Tc reaches a maximum at a nominal doping
+level δ ∼0.5 for many compounds [1–10], where strong nest-
+ing between the large parallel Fermi surface (FS) segments is
+suggested in band calculations [11–14]. Therefore, most of
+the theoretical models for the pairing mechanism are based on
+the nesting scenario.
+However, there is a large bifurcation regarding the conse-
+quences of the nesting. On the one hand, the nesting is pro-
+posed to enhance the electron-phonon coupling, thus favor-
+ing a conventional BCS superconductivity [11–14]. On the
+other hand, as widely believed for the iron-based supercon-
+ductors, the strong FS nesting could enhance charge or spin
+ﬂuctuations, and thus electronic correlations may play a ma-
+jor role in the superconducting pairing [15–18].
+Magnetic
+penetration depth and muon-spin rotation spectroscopy mea-
+surements support a conventional s-wave superconductivity in
+the strong electron-phonon coupling limit [19, 20], whereas
+the absence of phonon anomaly in neutron scattering mea-
+surements suggests that the electron-phonon coupling may be
+much weaker than theoretically expected [21]. Recent scan-
+ning tunneling spectroscopy measurements show that the ratio
+2∆/kBTc is much larger than the BCS value [22, 23]. Giant su-
+perconducting ﬂuctuations and an anomalous semiconducting
+normal state are also observed, suggesting that the supercon-
+ductivity might be diﬀerent from that of a conventional BCS
+superconductor [23].
+In this Letter, we present angle-resolved photoemission
+spectroscopy (ARPES) results of the BiS2-based supercon-
+ductor Nd(O,F)BiS2 (Tczero = 4 K). Two small electron-like
+FSs around X (π, 0) are observed, corresponding to an elec-
+tron doping of 7% of itinerant carriers per Bi site. As a re-
+sult, the measured electronic structure is far from the pro-
+posed FS nesting. Furthermore, we reveal that the low-energy
+spectrum consists of a broad hump around -0.3 eV, which is
+drastically suppressed with increasing temperature, and a dis-
+persive branch, which is essentially unaﬀected by the temper-
+ature. This exotic spectral behavior suggests that the low-
+temperature normal state of this superconductor is a highly
+interacting electronic state.
+Single
+crystals
+with
+a
+nominal
+composition
+of
+NdO0.7F0.3BiS2 were grown by a ﬂux method with KCl/LiCl
+as the ﬂux. Energy dispersion spectrum (EDS) measurements
+were performed on several pieces of samples, which give an
+averaged composition of Nd0.95±0.02OyF0.44±0.1Bi0.94±0.02S2.
+ARPES measurements were performed at the Institute of
+Physics, Chinese Academy of Sciences, using the He Iα
+(hν = 21.218 eV) resonance lines. The angular and energy
+resolutions were set to 0.2◦and 14 ∼32 meV, respectively.
+Samples with a typical size of ∼1 × 1 mm2 were cleaved in
+situ at 30 K and measured between 30 and 230 K in a working
+vacuum better than 4 × 10−11 Torr. The Fermi level (EF) of
+the samples was referenced to that of a gold ﬁlm evaporated
+onto the sample holder.
+Figure 1 shows the band dispersions along the high-
+symmetry lines Γ-M-X-Γ in an energy range within 4 eV be-
+low EF. We observe several dispersive bands below -1.2 eV
+and an electron-like band dispersion with a bottom of -0.3 eV
+near X. There is an energy gap of ∼0.9 eV between them.
+To understand the multiband electronic structure, we super-
+impose the local-density approximation (LDA) band structure
+on top of our data. The calculated band structure reﬂects some
+main features in the experiment data, especially for the direct
+gap between the conduction and valence bands. In LDA calcu-
+lations, the undoped parent compound is a band insulator and
+
+
+2
+E-EF (eV)
+-4
+-3
+-2
+-1
+0
+-4
+-3
+-2
+-1
+0
+Γ
+Γ
+M
+X
+(a)
+(b)
+Intensity (arb. units)
+-4 -3 -2 -1 0
+E-EF (eV)
+Γ
+Γ
+M
+X
+-1.5 -1.0 -0.5 0.0
+E-EF (eV)
+Γ
+Γ
+M
+X
+(c)
+(d)
+FIG. 1. (Color online) (a) ARPES intensity plot along the high sym-
+metry lines Γ-M-X-Γ taken at 30 K. Γ-X is along the nearest Bi-
+Bi direction. (b) Corresponding two-dimensional curvature intensity
+plot. LDA bands without SOC for the undoped parent compound
+LaOBiS2, which are essentially the same as those of NdOBiS2 in the
+energy in our experiments, are also plotted in (b) for comparison. EF
+of the calculated band structure is set to be 1.15 eV above the top of
+the valence bands to match the experimental band dispersions. (c)
+Corresponding EDCs. (d) Magniﬁcation of the box in (c).
+its EF is located within the energy gap. The experimentally
+obtained EF is situated in the conduction bands, indicating
+that electron carriers are introduced in the superconducting
+samples due to the substitution of O with F.
+Figure 2 shows the FS mapping data in the kx-ky plane. We
+extract two FS pockets centered at X, which come from the
+near-EF electron-like dispersion shown in Fig. 1. The two
+extracted FSs exhibit a signiﬁcantly anisotropic separation,
+which is a result of the cooperative eﬀects from spin-orbit cou-
+pling (SOC) and interlayer coupling, as explained below. We
+have performed LDA calculations using the following mod-
+els. In a one-BiS2-layer model (same as the surface layer af-
+ter cleave) with SOC [Fig. 2(d)], the near-EF bands are split
+along both XM and ΓX with comparable magnitudes. In a
+two-BiS2-layer model (same as the bulk) without SOC [Fig.
+2(e)], the bands are doubly-degenerate along XM, but split
+along ΓX due to the interlayer coupling. In the presence of
+SOC, the Rashba term lifts the degeneracy along XM but the
+splitting magnitude along XM is much smaller than along ΓX
+[Fig. 2(f)], in agreement with our observations.
+The two FS pockets enclose 1.1% and 2.4% of the Bril-
+louin zone area, respectively. Counting the Luttinger volume
+of two-dimensional FS sheets, the two observed FSs corre-
+spond to an electron doping of 7% per Bi site. The value for
+doped itinerant carrier density is much less than those inferred
+from the nominal composition and the EDS data. The discrep-
+ancy can be explained in several ways. Firstly, the possibility
+of charge polarization at the terminal layer cannot be com-
+pletely excluded, though this scenario is unlikely since the
+cleavage occurs between two symmetrical BiS2 layers. More-
+over, the plasma frequency calculated using the experimental
+doping level is ∼2.1 eV, in agreement with the optical data
+[24], suggesting that the ARPES data reﬂect the intrinsic car-
+rier density in the bulk. Secondly, as both oxygen and ﬂuorine
+-0.2
+0.0
+0.2
+ky (π/a)
+-1.2
+-1.0
+-0.8
+kx (π/a)
+X
+-1
+0
+1
+ky (π/a)
+-1
+0
+1
+kx (π/a)
+Γ
+M
+X
+cut 1
+cut 2
+(a)
+(b)
+X
+M
+Γ
+one layer with SOC
+X
+M
+Γ
+two layer without SOC
+0.6
+0.4
+0.2
+0.0
+Relative Energy (eV)
+X
+M
+Γ
+one layer without SOC
+X
+M
+Γ
+two layer with SOC
+(c)
+(d)
+(e)
+(f)
+High
+Low
+FIG. 2. (Color online) (a) ARPES intensity plot at EF as a func-
+tion of the two-dimensional wave vector taken at 30 K. The intensity
+is obtained by integrating the spectra within ±15 meV with respect
+to EF. The data are symmetrized by assuming a fourfold symmetry
+with respect to Γ. Red and blue lines represent the extracted FSs.
+White lines labeled cut1 and cut2 indicate the momentum locations,
+along which the data are shown in Figs. 3 and 4, respectively. (b)
+Magniﬁcation of the dashed box in (a). Circles and squares show the
+experimentally determined kF points. Dashed black lines represent
+the LDA + SOC calculated FSs. (c) and (d) Calculated conduction
+bands at X using one-BiS2-layer models with and without SOC, re-
+spectively. (e) and (f) Same as (c) and (d), respectively, but using
+two-BiS2-layer models. In (c)-(f), the zero energy is deﬁned to the
+band bottom at X and the horizontal dashed lines at 0.3 eV represent
+the approximate position of EF.
+are light elements, their concentrations given from the EDS
+data may not be reliable [23]. Thirdly, part of the carriers may
+be localized and thus do not contribute to the conduction band.
+In this case, the localized carriers could form ﬂat bands within
+the energy gap.
+We ﬁnd that at low temperature, the low-energy spectrum
+near EF consists of a large hump around -0.3 eV and a disper-
+sive branch, which tracks well the calculated conduction band
+dispersion. Figure 3 shows ARPES data of the conduction
+bands taken along XM at 30 K. Two electron-like bands are
+resolved in Figs. 3(b) and 3(d). As mentioned above, the band
+splitting along XM originates from the SOC. The band disper-
+sion, extracted by tracking the peak positions of the momen-
+tum distribution curves (MDCs), follows well the LDA bands
+calculated with SOC. On the other hand, the energy distribu-
+tion curves (EDCs) are characterized by a broad hump, whose
+maximum does not cross EF but tends to bend back beyond
+kF2 [Fig. 3(c)]. As shown in Fig. 3(e), the EDC at kF2 shows
+a sharp Fermi cutoﬀ, indicating a metallic behavior. There
+is a change of the slope on the lower binding energy side of
+the hump at ∼-0.05 eV. The linear extrapolation suggests that
+the hump contributes vanishingly small spectral weight at EF,
+indicating that the ﬁnite low-energy spectral weight at EF is
+dominated by the dispersive branch.
+The low-energy spectrum shows anomalous temperature
+
+
+3
+-0.2
+0.0
+0.2
+ky (π/a)
+X
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0.0
+E-EF (eV)
+-0.2
+0.0
+0.2
+ky (π/a)
+X
+-0.2 0.0
+0.2
+ky (π/a)
+EF
+-0.4 eV
+X
+Intensity (arb. units)
+-0.6
+-0.3
+0.0
+E-EF (eV)
+X
+kF1
+kF2
+kF1
+kF2
+(b)
+(a)
+(c)
+(d)
+-0.3 -0.2 -0.1
+0.0
+E-EF (eV)
+EDC at kF2
+(e)
+-0.2
+0.0
+0.2
+ky (π/a)
+ Exp
+ Fit
+(f)
+FIG. 3. (Color online) (a) ARPES intensity plot along XM (cut 1
+from Fig. 2(a)) taken at 30 K. Red and blue lines represent the dis-
+persions extracted from the peak positions of the MDCs and EDCs,
+respectively. Dashed black lines represent the LDA + SOC calcu-
+lated bands. (b) Corresponding intensity plot of second derivative
+along momentum. Dotted lines are the same as the red lines in (a).
+(c) Corresponding EDCs. Crosses indicate the peak positions of the
+EDCs. Black, blue and green curves represent the EDCs at X, kF1
+and kF2, respectively. kF1 and kF2 represent the Fermi wave vectors
+of the inner and outer electron-like bands, respectively. (d) Corre-
+sponding MDCs. Short verticals indicate the peak positions of the
+MDCs. Blue and green curves represent the MDCs at EF and -0.4
+eV, respectively. (e) EDC at kF2. Blue line represents a linear extrap-
+olation of the slope on the lower binding energy side of the hump. (f)
+MDC at EF. The MDC is ﬁtted to four Lorentzian peaks, indicating
+the band splitting along XM due to SOC.
+dependence characterized by a rapid suppression of the spec-
+tral weight of the broad hump with increasing temperature
+that, nevertheless, leaves the dispersive branch little changed.
+The temperature dependent ARPES results along cut 2 are
+shown in Fig. 4. A sharp contrast between the intensity con-
+tours at 30 K [Fig. 4(a)] and 230 K [Fig. 4(b)] is clearly
+visible. To further clarify the evolution of the spectrum with
+temperature, we plot the MDCs at EF and the EDCs at kF of
+the left branch at various temperatures between 30 and 230
+K in Figs. 4(d) and 4(e), respectively. All the spectra are
+normalized by the photon ﬂux. To remove the thermal broad-
+ening eﬀect due to the Fermi-Dirac statistics, the EDCs in Fig.
+4(e) are divided by the resolution-convoluted Fermi functions
+at corresponding temperatures and then multiplied by that of
+10 K. The MDCs almost collapse onto a single curve, whereas
+the lineshape of the EDCs changes dramatically with temper-
+ature. The spectral weight of the broad hump is suppressed
+rapidly with increasing temperature. The hump can no longer
+be clearly resolved above 150 K and the spectra at 180 K and
+-0.4
+-0.2
+0.0
+E-EF (eV)
+0.1
+-0.1
+-0.3
+k// (Å
+-1)
+30 K
+X
+0.1
+-0.1
+-0.3
+k// (Å
+-1)
+230 K
+X
+-0.3
+-0.2
+-0.1
+0.0
+0.2
+0.0
+-0.2
+k// (Å
+-1)
+X
+        30 K
+ EDC
+ MDC
+ 
+      230 K
+ EDC
+ MDC
+Intensity (a.u.)
+-0.2 0.0
+0.2
+k// (Å
+-1)
+X
+0.2
+0.1
+0.0
+Epeak (eV)
+200
+100
+0
+T (K)
+2
+1
+0
+Hump Weight (a.u.)
+(a)
+(b)
+(c)
+(d)
+(f)
+-0.6 -0.3
+0.0
+E-EF (eV)
+  30 K
+  55 K
+  85 K
+100 K
+150 K
+180 K
+230 K
+(e)
+FIG. 4. (Color online) (a) and (b) ARPES intensity plots through the
+X point (cut 2 from Fig. 2(a)) taken at 30 and 230 K, respectively. (c)
+E-k plot of the positions of the EDC and MDC peaks taken at 30 and
+230 K, respectively. To approximately remove the eﬀect of the Fermi
+function on the EDC peak position near EF, the EDC peak positions
+are extracted from the symmetrized curve with respect to EF. (d) and
+(e) MDCs at EF and EDCs at kF of the left branch taken at various
+temperatures between 30 and 230 K, respectively. Thermal broaden
+eﬀect on the EDCs in (e) is removed (see text for details). Inset of (e)
+plots the EDCs (raw data) in a energy window of [-0.05, 0.05 eV]. (f)
+Spectral weight (left axis) and binding energy of the maximum (right
+axis) of the broad hump against temperature. The spectral weight is
+obtained by subtracting the integration of the EDC at 230 K from
+that taken at the corresponding temperature.
+230 K nearly coincide. In sharp contrast to the loss of spectral
+weight below EF, the Fermi cutoﬀof all the EDCs (raw data)
+taken at various temperatures crosses exactly at EF [inset of
+Fig. 4(e)], which is consistent with the collapse of the MDCs
+shown in Fig. 4(d), indicating a negligible temperature eﬀect
+on the spectral weight at EF that is dominated by the disper-
+sive branch. As shown in Fig. 4(c), with the suppression of the
+broad hump, the dichotomy between the dispersions of EDC
+and MDC peaks is almost eliminated at 230 K. The disper-
+sions at 230 K are in good consistence with the one extracted
+from the MDCs at 30 K that corresponds to the dispersive
+branch. Therefore, in sharp contrast to the strong tempera-
+ture dependence of the broad hump, the dispersive branch is
+essentially unaﬀected with temperature.
+A conventional explanation for temperature-induced loss of
+spectral weight is through the eﬀect of lattice vibrations. Such
+an eﬀect in photoemission spectra is similar to that found in
+X-ray and neutron scattering, where the intensities of diﬀrac-
+tion peaks are multiplied by the Debye-Waller factor e−2W (W
+∝T) [25]. Indeed, the integrated spectral weight as a function
+of temperature can be approximately ﬁtted to a function of A
++ Be−CT, as shown in Fig. 4(f). However, the extracted De-
+bye temperature from the ﬁtting is about only 3 K [26], two
+orders of magnitudes smaller than the estimated values from
+the speciﬁc heat data [6, 7, 27–29]. Therefore, the eﬀect of
+
+
+4
+conventional lattice vibrations cannot explain the giant tem-
+perature eﬀects in our data.
+Loss of spectral weight over a large energy scale has been
+observed in a polaronic state of the colossal magnetoresis-
+tant manganites La2−2xSr1+2xMn2O7 [30–33]. In the polaronic
+state induced by strong electron-phonon coupling, the spec-
+tral function consists of a low-energy “zero-phonon” quasi-
+particle peak and a hump-like high-energy incoherent reso-
+nance. Our observation of a high-energy hump as well as a
+sharp Fermi cutoﬀbears some resemblance to the signature
+of polarons. In the manganites, the incoherent branch loses
+its partial spectral weight over an energy range of up to 0.8
+eV, which is accompanied by a disappearance of the quasi-
+particle peaks around the metal-insulator transition tempera-
+ture. This could be associated with either the loss of polaron
+coherence [32] or a decreased fraction of metallic regions in
+the scenario of phase separation [31]. Assuming that the po-
+laron picture could be applied to the BiS2 system, the spectral
+weight of the incoherent branch, i.e. the broad hump, is dras-
+tically suppressed with increasing temperature, while the low-
+energy coherent branch, which dominates the spectral weight
+at EF, is not aﬀected. The behavior looks very unusual in the
+framework of polarons because the strong suppression of the
+incoherent branch indicates signiﬁcant changes of the pola-
+ronic states, which seems not to be perceived by the coher-
+ent part. Our spectra exhibit distinctly diﬀerent temperature
+dependence from those in the manganites, indicating that the
+giant thermal eﬀects observed in the two systems might have
+diﬀerent origins.
+The
+disorder-induced
+self-traping
+of
+polarons
+in
+Na0.025WO3
+also
+shows
+nontrivial
+temperature
+depen-
+dence of the spectral function [34, 35]. The NaxWO3 and
+BiS2 systems bear an interesting resemblance in their elec-
+tronic structures. Their undoped parent compounds are band
+insulators with energy gaps of an order of eV between the
+valence and conduction bands. The introduction of electron
+carriers by element substitutions or intercalations leads to
+an insulator-metal transition on small electron-like FSs. The
+conduction electrons in Na0.025WO3 are self-trapped due to
+strong disorder induced by the randomly distributed Na+
+ions, forming a weakly dispersive polaron band near the
+top of valence bands. The breakdown of polarons at high
+temperature leads to a large decrease in the intensity of the
+polaron band, while the spectrum of the conduction band is
+not signiﬁcantly changed. These properties are quite similar
+to what we have observed in BiS2 except that the polaron
+band would be localized near the bottom of the conduction
+bands in our case. We note that the polaronic self-trapping of
+carriers could also explain the small FS pockets observed in
+our experiment. It is expected that as the polarons become
+more delocalized, the spectral weight should be transferred
+to other k-points. However, such a spectral weight transfer is
+not observed at least along the measured momentum cut.
+In summary, our ARPES results show two small electron-
+like FSs around X (π, 0) instead of large hole-like FSs cen-
+tered at Γ (0, 0) and M (π, π) proposed in recent theoreti-
+cal models. The anomalous temperature dependence of the
+low-energy spectrum indicates that the superconducting pair-
+ing develops in a highly interacting electronic state.
+Our
+results provide detailed information on the low-energy elec-
+tronic structures and valuable insights for further experimental
+and theoretical studies of the pairing mechanism in the BiS2-
+based superconductors.
+We acknowledge X. Dai and Z. Fang for valuable dis-
+cussions.
+This work was supported by grants from CAS
+(2010Y1JB6), MOST (2010CB923000, 2011CBA001000,
+2011CB921701,
+2013CB921700,
+2011CBA00108,
+and
+2012CB821403),
+NSFC
+(11004232,
+11050110422,
+11274362, 11234014, 11120101003, 11074291, 11274359,
+and
+11104339),
+and
+DOE
+(DE-FG02-99ER45747 and
+DE-SC0002554).
+∗tqian@iphy.ac.cn
+† dingh@iphy.ac.cn
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K.
+Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys.
+Rev. B 86, 220510(R) (2012).
+[2] S. K. Singh, A. Kumar, B. Gahtori, Shruti, G. Sharma, S. Pat-
+naik, and V. P. S. Awana, J. Am. Chem. Soc. 134, 16504 (2012).
+[3] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa,
+Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jpn. 81, 114725
+(2012).
+[4] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T.
+Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa,
+Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano,
+J. Phys. Soc. Jpn. 82, 033708 (2013).
+[5] J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B
+86, 214518 (2012).
+[6] X. Lin, X. X. Ni, B. Chen, X. F. Xu, X. X. Yang, J. H. Dai, Y.
+K. Li, X. J. Yang, Y. K. Luo, Q. Tao, G. H. Cao, and Z. A. Xu,
+Phys. Rev. B 87, 020504(R) (2013).
+[7] D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A.
+J. Friedman, I. K. Lum, M. Nallaiyan, S. Spagna, and M. B.
+Maple, Phys. Rev. B 87, 174512 (2013).
+[8] K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe,
+S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, H. Takeya,
+T. Yamaguchi, O. Miura, and Y. Takano, Europhys. Lett. 101,
+17004 (2013).
+[9] S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A.
+Yamashita, T. Yamaki, H. Hara, T. Watanabe, S. J. Denholme,
+M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. Yamaguchi, H.
+Takeya, and Y. Takano, arXiv:1311.4267
+[10] R. Jha and V. P. S. Awana, arXiv:1401.4811
+[11] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B 86, 220501(R)
+(2012).
+[12] X. G. Wan, H. C. Ding, S. Y. Savrasov, and C. G. Duan, Phys.
+Rev. B 87, 115124 (2013).
+[13] B. Li, Z. W. Xing, and G. Q. Huang, Europhys. Lett. 101, 47002
+(2013).
+[14] T. Yildirim, Phys. Rev. B 87, 020506(R) (2013).
+[15] T. Zhou and Z. D. Wang, J. Supercond. Novel Magn. 26, 2735
+(2013).
+[16] G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B 87,
+081102(R) (2013).
+
+
+5
+[17] Y. Yang, W. S. Wang, Y. Y. Xiang, Z. Z. Li, and Q. H. Wang,
+Phys. Rev. B 88, 094519 (2013).
+[18] Y. Liang, X. X. Wu, W. F. Tsai, and J. P. Hu, arXiv:1211.5435
+[19] G. Lamura, T. Shiroka, P. Bonfa, S. Sanna, R. De Renzi, C.
+Baines, H. Luetkens, J. Kajitani, Y. Mizuguchi, O. Miura, K.
+Deguchi, S. Demura, Y. Takano, and M. Putti, Phys. Rev. B 88,
+180509(R) (2013).
+[20] Shruti, P. Srivastava, and S. Patnaik, J. Phys.: Condens. Matter
+25, 339601 (2013).
+[21] J. Lee, M. B. Stone, A. Huq, T. Yildirim, G. Ehlers, Y.
+Mizuguchi, O. Miura, Y. Takano, K. Deguchi, S. Demura, and
+S. H. Lee, Phys. Rev. B 87, 205134 (2013).
+[22] S. Li, H. Yang, D. Fang, Z. Wang, J. Tao, X. Ding, and H. H.
+Wen, Sci. China-Phys. Mech. Astron. 56, 2019 (2013).
+[23] J. Z. Liu, D. L. Fang, Z. Y. Wang, J. Xing, Z. Y. Du, X. Y. Zhu,
+H. Yang, and H. H. Wen, arXiv:1310.0377
+[24] X. B. Wang and N. L. Wang (unpublished)
+[25] S. H¨ufner, Photoelectron Spectroscopy: Principles and Appli-
+cation (Springer-Verlag, New York, 1995).
+[26] In the calculation, ∆k is deﬁned to be (0, 0, 2π/c).
+[27] H. Takatsu, Y. Mizuguchi, H. Izawa, O. Miura, and H. Kad-
+owaki, J. Phys. Soc. Jpn. 81, 125002 (2012).
+[28] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Appl.
+Phys. 113, 056102 (2013).
+[29] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman,
+M. B. Maple, Philos. Mag. 93, 673 (2013).
+[30] S. de Jong, Y. Huang, I. Santoso, F. Massee, R. Follath, O.
+Schwarzkopf, L. Patthey, M. Shi, and M. S. Golden, Phys. Rev.
+B 76, 235117 (2007).
+[31] Z. Sun, J. F. Douglas, A. V. Fedorov, Y. D. Chuang, H. Zheng,
+J. F. Mitchell, and D. S. Dessau, Nature Phys. 3, 248 (2007).
+[32] N. Mannella, W. L. Yang, X. J. Zhou, H. Zheng, J. F. Mitchell,
+J. Zaanen, T. P. Devereaus, N. Nagaosa, Z. Hussain, and Z. X.
+Shen, Nature 438, 474 (2005).
+[33] N. Mannella, W. L. Yang, K. Tanaka, X. J. Zhou, H. Zheng, J. F.
+Mitchell, J. Zaanen, T. P. Devereaux, N. Nagaosa, Z. Hussain,
+and Z. X. Shen, Phys. Rev. B 76, 233102 (2007).
+[34] S. Raj, D. Hashimoto, H. Matsui, S. Souma, T. Sato, T. Taka-
+hashi, D. D. Sarma, P. Mahadevan, and S. Oishi, Phys. Rev.
+Lett. 96, 147603 (2006).
+[35] S. Raj, T. Sato, S. Souma, and T. Takahashi, Mod. Phys. Lett. B
+23, 2819 (2009).
+
+

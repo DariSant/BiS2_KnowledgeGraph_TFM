@@ -1,0 +1,383 @@
+1
+Bulk superconductivity induced by Se substitution in self-doped BiCh2-
+based compound CeOBiS2-xSex
+Ryosuke Kiyama1, Yosuke Goto1, Kazuhisa Hoshi1, Rajveer Jha1, Akira Miura2, Chikako 
+Moriyoshi3, Yoshihiro Kuroiwa3, Tatsuma D. Matsuda1, Yuji Aoki1, Yoshikazu Mizuguchi1
+1.
+Department of Physics, Tokyo Metropolitan University, 1-1, Minami-osawa, Hachioji, 192-
+0397, Japan.
+2.
+Faculty of Engineering, Hokkaido University, Kita-13, Nishi-8, Kita-ku, 060-8628, Japan
+3.
+Department 
+of 
+Physical 
+Science, 
+Hiroshima 
+University, 
+1-3-1, 
+Kagamiyama, 
+Higashihiroshima, 739-8526, Japan
+Abstract
+We report the Se substitution effects on the crystal structure, superconducting properties, and 
+valence states of self-doped BiCh2-based compound CeOBiS2-xSex. Polycrystalline CeOBiS2-xSex
+samples with x = 0–1.0 were synthesized. For x = 0.4 and 0.6, bulk superconducting transitions 
+with a large shielding volume fraction were observed in magnetic susceptibility measurements;
+the highest transition temperature (Tc) was 3.0 K for x = 0.6. A superconductivity phase diagram 
+of CeOBiS2-xSex was established based on Tc estimated from the electrical resistivity and 
+magnetization measurements. The emergence of superconductivity in CeOBiS2-xSex was 
+explained with two essential parameters of in-plane chemical pressure and carrier concentration, 
+which systematically changed with increasing Se concentration.
+
+
+2
+1. Introduction
+Since the discovery of BiS2-based superconductors Bi4O4S3 and LaO1-xFxBiS2, the 
+BiCh2-based (Ch: chalcogen) systems have been drawing much attention as a new class of layered 
+superconductors [1-3]. The crystal structure is composed of alternate stacks of electrically 
+conductive BiCh2 layers and insulating (blocking) layers, which is similar to those of the Cuprate 
+and the FeAs-based superconductors with a high transition temperature (Tc) [4,5]. Several types 
+of BiCh2-based superconductors have been synthesized and the structural and compositional 
+variations have been widely developed. So far, many experimental and theoretical studies have 
+been performed to elucidate the superconducting mechanisms of the BiCh2-based compounds and 
+to further increase Tc, but the conclusion about the superconductivity mechanisms has not been 
+obtained [6,7]. In the early studies including theoretical calculation [8], Raman scattering [9], 
+muon-spin spectroscopy [10], and thermal conductivity [11] experiments suggested conventional 
+mechanisms with fully gapped s-wave. On the other hand, recent first principles calculation [12], 
+angle-resolved photoemission spectroscopy [13], Se isotope effect [14], and in-plane anisotropy 
+measurements [15] proposed unconventional pairing mechanism in BiCh2-based superconductors. 
+The parent phase of the BiCh2-based superconductor is a band insulator [1,3,6,7,16]. 
+Based on the calculated band structure, carrier doping to conduction bands which are mainly 
+composed of Bi-6px and Bi-6py orbitals is expected to induce metallicity. Actually, partial F 
+substitutions for the O site in REO1-xFxBiS2 (RE: rare earth or Bi) generate electron carriers [2,3]. 
+Indeed, superconductivity has been observed in carrier-doped compounds, but, for some of the 
+synthesized samples, filamentary superconductivity with a small shielding volume fraction in 
+magnetic susceptibility measurements has been observed [1-3]. In BiCh2-based compounds, the 
+emergence of bulk superconductivity requires optimization of the local crystal structure as well 
+as carrier doping. External pressure effects [17-20] and chemical pressure effects [21-24] are 
+powerful methods to induce bulk superconductivity. Particularly, in-plane chemical pressure is an 
+important factor for superconductivity in BiCh2-based compounds [22]. One of the typical routes
+to increase in-plane chemical pressure is partial substitution of Se for the S site [23-26]. In 
+LaO0.5F0.5BiS2-xSex, since La-(O/F) bond length is not largely affected by Se substitution, an 
+increase of amount of Se2- with larger ironic radius leads to enhancing in-plane chemical pressure 
+[22]. As a result, metallicity and bulk superconductivity have been induced by the in-plane 
+chemical pressure effect in LaO0.5F0.5BiS2-xSex.
+The target material of this study is CeOBiS2 [27]. CeOBiS2 is a typical REOBiCh2-type
+material. F-substituted CeO1-xFxBiS2 shows bulk superconductivity when the samples were 
+annealed under high pressure [28]. In CeO1-xFxBiS2, superconductivity and ferromagnetism 
+coexist [27-29]. Furthermore, CeOBiS2 has been investigated as a material located at a quantum 
+critical point [30]. Notably, the parent phase CeOBiS2 shows metal-like conductivity and 
+
+
+3
+superconductivity at 1.3 K without carrier doping, and the Tc increases under high pressure [31,32]. 
+This is inconsistent with the band calculations mentioned above. However, this metallicity in F-
+free CeOBiS2 is most likely due to electron doping via mixed valence states of Ce ions [33]. 
+Similar behavior has been observed in EuFBiS2 and Eu3Bi2S4F4 [34-36]. We consider that self-
+doped BiCh2-based superconductor is a promising system for elucidating mechanisms of 
+superconductivity because of less disorder in the blocking layers.
+In this study, we synthesized a BiCh2-based superconductor system CeOBiS2-xSex (x = 
+0–1.0) and investigated the crystal structural, transport, and magnetic properties. Metallic 
+conductivity and bulk superconductivity were induced by Se substitution for x = 0.4 and 0.6.
+2. Experimental
+Polycrystalline samples of CeOBiS2-xSex with x = 0, 0.2, 0.4, 0.6, 0.8, and 1.0 were 
+prepared by a solid-state reaction method. Powders of Bi2S3 and Bi2Se3 were pre-synthesized by 
+sintering a mixture of grains of Bi (99.999%), S (99.99%), and Se (99.999%) in an evacuated 
+quartz tube at 700 ºC for 15 h. Powders of Ce2S3 (99.9%), CeO2 (99.99%), Bi2O3 (99.999%), 
+Bi2S3, Bi2Se3 and Bi (99.999%) grains with a nominal composition of the target phases (x = 0–
+1.0) were mixed, pressed into a pellet, sealed into an evacuated quartz tube, and heated at 700 ºC 
+for 5 h. The obtained sample was ground, mixed, pelletized, and heated for 5 h at different 
+temperature. Samples heated at 400 ºC were labelled S1 and samples heated at 700 ºC were 
+labelled S2. S1 samples contained fewer impurities than S2 samples, but it was too fragile to 
+measure electrical resistivity with four proves. Therefore, S1 was used for structural analysis, and 
+S2 was used for electrical resistivity and magnetization measurements.
+The obtained samples were characterized by X-ray diffraction method (XRD) with a Cu 
+Kradiation (Rigaku, Miniflex-600) by the -2method. Synchrotron XRD experiments with λ 
+= 0.495813(1) Å were performed using BL02B2 beamline at SPring-8 under the proposal of No. 
+2019A1101.The experiment was performed with Multiple MYTHEN system [37] with a step of 
+2θ = 0.006o. A crystal structure image was depicted using a VESTA software [38]. Structure 
+parameters were obtained from Rietveld analysis using RIETAN-FP [39]. Electrical resistivity 
+measurements were performed using the four-terminal method. For x = 0.2 and 1.0, the resistivity 
+measurements were performed with a 3He system of Physical Property Measurement System 
+(Quantum Design, PPMS) down to T = 0.5 K. The temperature dependence of magnetic 
+susceptibility was measured by a superconducting interface device (SQUID) magnetometer with 
+an applied field 10 Oe after both zero-field cooling (ZFC) and field cooling (FC) using Magnetic 
+Property Measurement System (Quantum Design, MPMS-3).
+
+
+4
+3. Results and Discussion
+Figure 1(a) shows the XRD patterns for S2 samples (x = 0.0–1.0). The major phase can 
+be indexed with the CeOBiS2-type tetragonal phase with the space group of P4/nmm, although 
+minor diffraction peaks corresponding CeO2 impurity (< 5 wt%) were also observed. As shown 
+in Fig. 1(b), XRD peaks systematically shift according to the Se concentration. Figure 2 shows 
+the XRD patterns and the Rietveld fitting result for S1 sample (x = 0.6 as a representative sample). 
+The small amount of CeO2 impurity phase (< 2 wt%) was detected. XRD data in Figs. 1 and 2 
+show that the S1 and S2 samples are comparable except for the amount of impurities. Synchrotron 
+XRD data was used for crystal structure analysis (Figs. 3 and 4). 
+Figure 1: (a) XRD patterns (Cu-K) for CeOBiS2-xSex with x = 0.0–1.0. Circles (●) indicate 
+peaks resulting from a CeO2 impurity phase. The numbers in the figure indicate Miller 
+indices. (b) Zoomed profiles near 102 and 004 peaks.
+
+
+5
+Figure 2: Synchrotron X-ray (λ = 0.495813(1) Å) powder diffraction pattern and Rietveld 
+analysis results for CeOBiS1.4Se0.6. The refinements were performed by two-phase analysis 
+with a secondary phase of CeO2. The blue profile plotted at the bottom shows a residual 
+curve between observed and calculated data. The inset shows the schematic representation 
+of crystal structure for CeOBiS1.4Se0.6. Ch1 and Ch2 denote the in-plane and out-of-plane 
+chalcogen sites, respectively.
+Figure 3(a) shows the x dependences of the lattice parameters (a and c) and the lattice 
+volume. Both the lattice parameters increase with increasing x, which can be understood by the 
+difference in the ionic radius of Se2- (198 pm, assuming a coordination number of 6) and S2- (184 
+pm, assuming a coordination number of 6). These elongations of the lattice parameters by Se 
+substitution resemble those observed in LaOBiS2-xSex [40]. While Se ions dominantly occupy the 
+in-plane Ch1 site, S ions occupy the out-of-plane Ch2 site. Thus, Se ions selectively occupy the 
+in-plane Ch1 site, which is consistent with the observations in Se-doped REOBiCh2-type
+compounds [26,40,41]. At x = 1.0, approximately 85% of Ch1 and 15% of Ch2 sites are occupied 
+with Se, respectively. Figure 3(c) shows interatomic distances as a function of x. The Bi-Ch1 
+(inter-plane), Ce-Ch2, and Bi-Ch1 (in-plane) distances increase with increasing x. The maximum 
+change of interatomic distances by Se substitution (ΔRmax) is about 0.07 Å, 0.05 Å and 0.04 Å for 
+those distances, respectively. The Ce-O distance is almost constant but slightly increases (ΔRmax
+~ 0.008 Å). In contrast, the Bi-Ch2 distance decreases (ΔRmax ~ −0.03 Å). The position of Ch2 
+with respect to the BiS2 layer plays an important role in the doping mechanism in EuFBiS2 [35].
+Thus, the change in the Bi-Ch2 distance may be one of the important factors in this system as 
+
+
+6
+well. 
+In order to compare the amplitude of in-plane chemical pressure (CP) and physical 
+properties in CeOBiS2-xSex, we have estimated in-plane chemical pressure amplitude parameter,
+which is defined as CP = (RBi + RCh1) / (Bi-Ch1 in-plane distance), where RBi and RCh1 are the 
+ionic radii of Bi and Ch1, respectively [22]. We assume that the valence of Bi is +3 and the RBi is 
+1.03 Å. RCh1 is 1.84 and 1.98 Å for S2−and Se2−, respectively. We have estimated the Bi-Ch1 (in-
+plane) distance using the structural parameters obtained from Rietveld refinement (Fig. 3(c)).
+Figure 3(d) shows the x dependence of the in-plane CP for CeOBiS2-xSex. The CP increases with 
+increasing x, and this trend of in-plane CP in CeOBiS2-xSex is almost the same as that observed in 
+La(O,F)BiS2-xSex and Eu0.5La0.5FBiS2-xSex [22, 41,42]. 
+Figure 3(e) shows the bond valence sum for the Ce site (Ce-BVS) plotted as a function 
+of x. As demonstrated in Ref. 43 the Ce-BVS was calculated using the following parameters: b0
+= 0.37 Å, R0 = 2.151 Å for Ce-O bond, 2.62 Å for Ce-S bond and 2.74 Å for Ce-Se bond. Bond 
+distances between Ce and nine coordinating anions were determined by Rietveld refinement. Site
+occupancies at the chalcogen site were included in the Ce-BVS calculation. The Ce-BVS tends to 
+decrease with increasing x. This result suggests the mixed valence of Ce in CeOBiS2-xSex.
+Qualitatively, in order to maintain electrical neutrality, the valence of the conductive layer should 
+increase as the valence of the blocking layer decreases. Thus, the decrease of Ce valence implies 
+reduction of the number of self-doped electrons in the conductive layer.
+Figures 4(a) and (b) show x dependences of U11 and U33 for both the Bi and Ch1 sites.
+For the anisotropic analysis of the displacement parameter U, the in-plane U11 and the out-of-
+plane U33 were refined by Rietveld refinement. The U11 for the Ch1 site is clearly larger than that 
+for Bi site for x = 0 and 0.2, and it decreases with increasing x. The origin of the large U11 for Ch1
+has been suggested to be the presence of local in-plane disorder from extended X-ray absorption 
+fine structure, X-ray diffraction, and neutron diffraction for several BiCh2-based system [3, 42, 
+44-50]. The reduction of large U11 for Ch1 indicates that the in-plane local disorder was 
+suppressed due to the in-plane CP. Recent studies have shown that the increase in the in-plane 
+displacement of Ch1 would induce carrier localization and be negatively link to superconductivity 
+[3]. Therefore, Se substituted samples with x > 0.2, which have less in-plane disorder, are 
+expected to show bulk superconductivity in the CeOBiS2-xSex from structural point of view. On 
+the U33 for Bi and Ch1 sites, U33 increases by Se substitution for both sites as displayed in Fig. 
+4(b). This increase in U33 is probably related to the huge atomic vibration along the inter-layer 
+direction which has been proposed for LaOBiS2-xSex. The anharmonic vibration of atoms in the 
+in-plane site is enhanced by Se substitution in LaOBiS2-xSex [51].
+
+
+7
+Figure 3: (a) Lattice parameters (a and c) and lattice volume (V) of CeOBiS2-xSex. (b) S and 
+Se occupancy at the in-plane Ch1 site in CeOBiS2-xSex as a function of x. (c) Interatomic 
+distances in CeOBiS2-xSex as a function of x. (d) In-plane chemical pressure amplitude for 
+CeOBiS2-xSex as a function of x. (e) Bond valence sum for Ce (Ce-BVS) as a function of x.
+Figure 4: Se concentration dependences of the anisotropic displacement parameters (a) U11
+and (b) U33 for the Bi and Ch1 sites in CeOBiS2-xSex.
+
+
+8
+Figures 5(a) and (b) show the temperature dependences of electrical resistivity for x = 
+0.0–1.0. For x = 0, the temperature dependence of resistivity shows slight increase with decreasing 
+temperature, which is different from the previous work [27]. This difference in transport 
+properties may be due to the local in-plane disorder. Furthermore, an anomaly was observed at 
+90–180 K in the parent phase, in a similar manner as that observed in a previous work [28]. With 
+increasing x, resistivity decreased, and metallic conductivity was observed for x = 0.6–1.0. The 
+enhanced metallicity in Se-substituted samples should be due to the increase in in-plane chemical 
+pressure. A superconducting transition was observed for x = 0.2-0.8. The highest onset 
+temperature (Tconset) and the highest zero-resistivity temperature (Tczero) were 3.0 K (x = 0.6) and 
+2.7 K (x = 0.4 and 0.6), respectively. Notably, the anomaly observed for x = 0 was suppressed in 
+x = 0.2 and completely disappeared in x = 0.4. This result implies that the parent phase may have 
+charge-density-wave (CDW)-like instability, which has been also proposed in EuFBiS2 [34]. In 
+order to determine the cause of this anomaly, detailed crystal structure analysis using single 
+crystals at low temperature may be needed.
+Figure 5: (a) Temperature dependences of electrical resistivity for CeOBiS2-xSex. (b) 
+Enlarged picture of electrical resistivity below 10 K.
+
+
+9
+Figure 6: (a) Temperature dependences of resistivity for CeOBiS1.4Se0.6 under magnetic 
+fields up to 1 T. (b) of Bc2 vs. T phase diagram for CeOBiS1.4Se0.6.
+Figure 6(a) shows the temperatures dependence of electrical resistivity under various 
+magnetic fields for CeOBiS1.4Se0.6, which showed the highest Tc. Tc shifts towards the lower 
+temperature side with increasing magnetic field. An upper critical field (Bc2)-temperature phase 
+diagram is shown in Fig. 6(b). Bc2 are estimated at temperatures where the resistivity reaches 90% 
+of normal-state values under various applied magnetic fields. We calculated Bc2(0) by the 
+conventional one-band Werthamer-Helfand-Hohenberg (WHH) model [52], which gives Bc2(0) = 
+-0.693Tc(dBc2/dT) T Tc. Bc2(0) obtained from the WHH method is 1.15 T.
+Figure 7: (a) Temperature dependences of magnetic susceptibilities (4-ZFC) for CeOBiS2-
+xSex (x = 0.0–1.0). (b) ZFC and FC data for x = 0.6.
+
+
+10
+Figure 7 shows the temperature dependences of magnetic susceptibility below 5 K with 
+an applied magnetic field of 10 Oe after ZFC for CeOBiS2-xSex. A large diamagnetic signal 
+corresponding to superconductivity were observed for x = 0.4 and 0.6, indicating that the observed 
+superconducting states are bulk in nature. For the samples with x = 0.2 and 0.8, no diamagnetic 
+signal was observed down to 1.8 K, while those samples showed zero resistivity in the electrical 
+resistivity measurement (Fig. 5(b)). Although measuring specific heat around Tc is one of the best 
+ways to check the bulk nature of superconductivity, it is challenging to characterize a 
+superconducting transition from specific heat because magnetic entropy of Ce 4f electrons should 
+obscure the electronic specific heat jump at a superconducting transition [30]. The largest 
+shielding volume fraction and the highest Tc of 3.0 K were obtained for x = 0.6, which is slightly 
+higher than the one reported for CeO0.5F0.5BiS2-xSex [53]. Regarding possible coexistence of 
+ferromagnetism and superconductivity observed in the CeO1-xFxBiS2 system [27-29], our present 
+results did not show any coexistence of superconductivity and magnetic ordering. 
+On the basis of the measured results of electrical resistivity and magnetization, a
+superconductivity phase diagram was established (Fig. 8); the Tc data for x = 0 was taken from 
+Ref. 31 and plotted as well. Our results show that Se substitution suppresses carrier localization, 
+described as “bad metal” in the phase diagram, and induces bulk superconductivity; this trend can 
+be understood by in-plane chemical pressure effects. Then, Tc decreases and superconductivity 
+phase disappears at higher Se concentrations. The suppression of superconductivity is probably 
+linked to the decreased carrier concentration due to the decrease in Ce valence by Se substitution. 
+From this work, we have obtained a bulk superconducting sample with less disorder in the 
+blocking layer such as CeOBiS1.4Se0.6, which will be useful for experiments to probe mechanisms 
+of superconductivity in BiCh2-based compounds.
+
+
+11
+Figure 8: Superconductivity phase diagram of CeOBiS2-xSex. The data for x = 0 was taken 
+from Ref. 31.
+4. Conclusions
+We have synthesized a new BiCh2-based superconductor system CeOBiS2-xSex, which 
+shows a bulk superconductivity when local structural parameters and carrier concentration were 
+both optimized by Se substitution. Polycrystalline samples of CeOBiS2-xSex with x = 0–1.0 were 
+synthesized by the solid-state reaction method. The XRD and Rietveld analyses revealed that in-
+plane chemical pressure was enhanced, and the in-plane disorder was suppressed by Se 
+substitution. BVS calculation showed that the valence of Ce ions decreased by Se substitution. 
+For x = 0.4 and 0.6, a superconducting transition with a large shielding volume fraction was 
+observed in magnetic susceptibility measurements, and the highest Tc was 3 K for x = 0.6. From 
+electrical resistivity measurements, a zero-resistivity state was observed for x = 0.2-0.8, and the 
+highest Tc was observed for x = 0.6. Since the CeOBiS1.4Se0.6 superconductor has less disorder in 
+the CeO blocking layer owing to no substitution, this superconducting material should be useful 
+for experiments to probe mechanisms of superconductivity in BiCh2-based compounds.
+
+
+12
+Acknowledgements
+We thank O. Miura and N. L. Saini for their support on experiments and discussion. This work 
+was partly supported by grants in Aid for Scientific Research (KAKENHI) (Grant Nos. 15H05886, 
+15H05884, 16H04493, 18KK0076, and 15H03693) and the Advanced Research Program under 
+the Human Resources Funds of Tokyo (Grant Number: H31-1).
+
+
+13
+References
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, 
+H. Izawa, and O. Miura, Phys. Rev. B 86, 220510 (2012).
+[2] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. 
+Miura, J. Phys. Soc. Jpn. 81, 114725 (2012).
+[3] Y. Mizuguchi, J. Phys. Soc. Jpn.88, 041001 (2019).
+[4] J. B. Bednorz and K. Müller, Z. Phys. B 64, 189 (1986).
+[5] Y. Kamihara, T. Watanabe, M. Hirano,H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008).
+[6] H. Usui and K. Kuroki, Nov. Supercond. Mater. 1, 50 (2015).
+[7] K. Suzuki, H. Usui, K. Kuroki, T. Nomoto, K. Hattori, and H. Ikeda, J. Phys. Soc. Jpn. 88, 
+041008 (2019).
+[8] X. Wan, H. Ding, S. Savrasov, C. Duan, Phys. Rev. B 87, 115124 (2013).
+[9] S. F. Wu, P. Richard, X. B. Wang, C. S. Lian, S. M. Nie, J. T. Wang, N. L. Wang, H. Ding, 
+Phys. Rev. B 90, 054519 (2014).
+[10] G. Lamura, T. Shiroka, P. Bonfa, S. Sanna, R. De Renzi, C. Baines, H. Luetkens, J. Kajitani, 
+Y. Mizuguchi, O. Miura, K. Deguchi, S. Demura, Y. Takano, M. Putti, Phys. Rev. B 88, 
+180509 (2013).
+[11] T. Yamashita, Y. Tokiwa, D. Terazawa, M. Nagao, S. Watauchi, I. Tanaka, T. Terashima, Y. 
+Matsuda, J. Phys. Soc. Jpn. 85, 073707 (2016).
+[12] C. Morice, R. Akashi, T. Koretsune, S. S. Saxena, R. Arita, Phys. Rev. B 95, 180505 (2017).
+[13] Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S. Watanabe, C. Chen, M. Nagao, S. 
+Watauchi, I. Tanaka, Y. Takano, S. Shin, Phys. Rev. Lett. 118, 167002 (2017).
+[14] K. Hoshi, Y. Goto, Y. Mizuguchi, Phys. Rev. B 97, 094509 (2018).
+[15] K. Hoshi, M. Kimata, Y. Goto, T. Matsuda, Y. Mizuguchi, J. Phys. Soc. Jpn. 88, 033704 
+(2019).
+[16] H. Usui, K. Suzuki, K. Kuroki, Phys. Rev. B 86, 220501(R) (2012).
+[17] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, 
+Y. Takano, J. Phys. Soc. Jpn. 81, 103702 (2012).
+[18] C. T. Wolowiec, D. Yazici, B. D. White, K. Huang and M. B. Maple, Phys. Rev. B 88, 064503 
+(2013).
+[19] C. T. Wolowiec, B. D. White, I. Jeon, D. Yazici, K. Huang, M. B. Maple, J. Phys.: Condens. 
+Matter 25, 422201 (2013).
+[20] T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. Izawa, 
+O. Miura, S. Demura, K. Deguchi, Y. Takano, J. Phys. Soc. Jpn. 83, 063704 (2014).
+[21] J. Kajitani, T. Hiroi, A. Omachi, O. Miura, Y. Mizuguchi, J. Phys. Soc. Jpn. 84, 044712(1-6) 
+(2015).
+
+
+14
+[22] Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, E. 
+Magome, C. Moriyoshi, Y. Kuroiwa, Sci. Rep. 5, 14968(1-8) (2015).
+[23] T. Hiroi, J. Kajitani, A. Omachi, O. Miura, Y. Mizuguchi, J. Phys. Soc. Jpn 84, 024723(1-4) 
+(2015).
+[24] G. Jinno, R. Jha, A. Yamada, R. Higashinaka, T. D. Matsuda, Y. Aoki, M. Nagao, O. Miura, 
+Y. Mizuguchi, J. Phys. Soc. Jpn. 85, 124708 (2016).
+[25] Y. Goto, R. Sogabe, Y. Mizuguchi, J. Phys. Soc. Jpn. 86, 104712 (2017).
+[26] M. Tanaka, T. Yamaki, Y. Matsushita, M. Fujioka, S. J. Denholme, T. Yamaguchi, H. Takeya, 
+Y. Takano, Appl. Phys. Lett. 106, 112601(1-5) (2015).
+[27] J. Xing, S. Li, X. Ding, H. Yang, H. H. Wen, Phys. Rev. B 86, 214518 (2012). 
+[28] S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. Yamaki, H. Hara, 
+T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. Yamaguchi, H. 
+Takeya, Y. Takano, J. Phys. Soc. Jpn. 84, 024709 (2015).
+[29] J. Lee, S. Demura, M. B. Stone, K. Iida, G. Ehlers, C. R. dela Cruz, M. Matsuda, K. Deguchi, 
+Y. Takano, Y. Mizuguchi, O. Miura, S. H. Lee, Phys. Rev. B, 90, 224410 (2014).
+[30] R. Higashinaka, T. Asano, T. Nakashima, K. Fushiya, Y. Mizuguchi, O. Miura, T. D. Matsuda, 
+Y. Aoki, J. Phys. Soc. Jpn. 84, 023702 (2015).
+[31] M. Nagao, A. Miura, I. Ueta, S. Watauchi, I. Tanaka, Solid State Communications 245, 11-
+14 (2016).
+[32] M. Tanaka, M. Nagao, R. Matsumoto, N. Kataoka, I. Ueta, H. Tanaka, S. Watauchi, I. Tanaka, 
+Y. Takano, J. Alloys and Compd. 722, 467-473 (2017).
+[33] T. Sugimoto, B. Joseph, E. Paris, A. Iadecola, T. Mizokawa, S. Demura, Y. Mizuguchi, Y. 
+Takano, N. L. Saini, Phys. Rev. B 89, 201117(R) (2014).
+[34] H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J. K. Bao, Y. L. Sun, W. H. Jiao, 
+I. Nowik, I. Felner, Y. K. Li, X. F. Xu, Q. Tao, C. M. Feng, Z. A. Xu, and G. H. Cao, Phys. 
+Rev. B 90, 064518 (2014).
+[35] T. Sugimoto, E. Paris, K. Terashima, A. Barinov, A. Giampietri, T. Wakita, T. Yokoya, J. 
+Kajitani, R. Higashinaka, T. D. Matsuda, Y. Aoki, T. Mizokawa, N. L. Saini, Phys. Rev. B 
+100, 064520 (2019).
+[36] H. F. Zhai, P. Zhang, S. Q. Wu, C. Y. He, Z. T. Tang, H. Jiang, Y. L. Sun, J. K. Bao, I. Nowik, 
+I. Felner, Y. W. Zeng, Y. K. Li, X. F. Xu, Q. Tao, Z. A. Xu, G. H. Cao, J. Am. Chem. Soc. 
+136, 15386-15393 (2014).
+[37] F. Izumi, K. Momma, Solid State Phenom.130, 15–20 (2007).
+[38] S. Kawaguchi, M. Takemoto, K. Osaka, E. Nishibori, C. Moriyoshi, Y. Kubota, Y. 
+Kuroiwa, K. Sugimoto, Rev. Sci. Instrum. 88, 085111 (2017).
+[39] K. Momma, F. Izumi, J. Appl. Crystallogr.41, 653–658(2008).
+
+
+15
+[40] Y. Mizuguchi, A. Omachi, Y. Goto, Y. Kamihara, M. Matoba, T. Hiroi, J. Kajitani, O. Miura, 
+J. Appl. Phys. 116, 163915(1-4) (2014).
+[41] Y. Mizuguchi, A. Miura, A. Nishida, O. Miura, K. Tadanaga, N. Kumada, C. H. Lee, E. 
+Magome, C. Moriyoshi, Y. Kuroiwa, J. Appl. Phys. 119, 155103 (2016).
+[42] K. Nagasaka, G. Jinno, O. Miura, A. Miura, C. Moriyoshi, Y. Kuroiwa, Y. Mizuguchi, J. 
+Phys.: Conf. Ser. 871, 012007 (2017).
+[43] R. Sogabe, Y. Goto, A. Nishida, T. Katase, Y. Mizuguchi, EPL 122, 17004 (2018).
+[44] Y. Mizuguchi, E. Paris, T. Wakita, G. Jinno, A. Puri, K. Terashima, B. Joseph, O. Miura, T. 
+Yokoya, N. L. Saini, Phys. Rev. B 95, 064515 (2017).
+[45] E. Paris, B. Joseph, A. Iadecola, T. Sugimoto, L. Olivi, S. Demura, Y. Mizuguchi, Y. Takano, 
+T. Mizokawa, N. L. Saini, J. Phys.: Condens. Matter 26, 435701(1-6) (2014).
+[46] Y. Mizuguchi, E. Paris, T. Sugimoto, A. Iadecola, J. Kajitani, O. Miura, T. Mizokawa, and N. 
+L. Saini, Phys. Chem. Chem. Phys. 17, 22090-22096 (2015).
+[47] A. Athauda, J. Yang, S. Lee, Y. Mizuguchi, K. Deguchi, Y. Takano, O. Miura, D. Louca, Phys. 
+Rev. B 91, 144112 (2014).
+[48] Y. Mizuguchi, K. Hoshi, Y. Goto, A. Miura, K. Tadanaga, C. Moriyoshi, Y. Kuroiwa, J. Phys. 
+Soc. Jpn. 87, 023704 (2018).
+[49] K. Nagasaka, A. Nishida, R. Jha, J. Kajitani, O. Miura, R. Higashinaka, T. D. Matsuda, Y. 
+Aoki, A. Miura, C. Moriyoshi, Y. Kuroiwa, H. Usui, K. Kuroki, Y. Mizuguchi, J. Phys. Soc. 
+Jpn. 86, 074701 (2017).
+[50] A. Athauda, D. Louca, J. Phys. Soc. Jpn. 88, 041004 (2019).
+[51] C. H. Lee, A. Nishida, T. Hasegawa, H. Nishiate, H. Kunioka, S. Ohira-Kawamura, M. 
+Nakamura, K. Nakajima, and Y. Mizuguchi, Appl. Phys. Lett. 112, 023903 (2018).
+[52] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. B 147, 295302 (1966).
+[53] Y. Mizuguchi, T. Hiroi, O. Miura, J. Phys.: Conf. Ser. 683, 012001 (2016).
+
+

@@ -1,0 +1,806 @@
+1 
+ 
+Physics and chemistry review of layered chalcogenide superconductors 
+ 
+Keita Deguchi1, 2, Yoshihiko Takano1, 2, and Yoshikazu Mizuguchi1, 3, * 
+ 
+1. National Institute for Materials Science, 1-2-1, Sengen, Tsukuba, 305-0047, Japan. 
+2. Graduate School of Pure and Applied Sciences, University of Tsukuba, 1-1-1 
+Tennodai, Tsukuba, 305-8571, Japan 
+3. Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, 
+1-1, Minami-osawa, Hachioji, 192-0397, Japan. 
+ 
+* Corresponding author: Yoshikazu Mizuguchi (e-mail: mizugu@tmu.ac.jp) 
+ 
+Abstract 
+Structural and physical properties of layered chalcogenide superconductors are 
+summarized. In particular, we review the remarkable properties of the Fe-chalcogenide 
+superconductors, FeSe and FeTe-based materials. Furthermore, we introduce the 
+recently-discovered new BiS2-based layered superconductors and discuss its prospects. 
+ 
+
+
+2 
+ 
+1. Introduction to layered chalcogenide superconductors 
+Layered materials have provided us with many interesting fields in physics and 
+chemistry. Owing to their two-dimensional crystal structure and electronic states, 
+anomalous electronic and magnetic properties have often been observed. In particular, 
+exotic superconductivity is likely to prefer such a layered crystal structure. For example, 
+superconductivity at a high transition temperature (Tc) has been achieved in layered 
+materials, such as cuprates [1-4], Fe-based [5-13], and MgB2 [14,15] superconductors. 
+With the respect to this fact, we expect that a new high-Tc superconducting family will 
+be found in novel layered materials. 
+Among the layered superconductors, the “chalcogenides” are one of the notable 
+groups, because of the variety of materials and the observation of exotic 
+superconductivity. Sulfur (S), selenium (Se) and tellurium (Te) are categorized as 
+chalcogens. Here we introduce the structural and physical properties of some layered 
+chalcogenide superconductors. CdI2-type TiSe2 has a simple layered structure composed 
+of a stacking of TiSe2 layers as depicted in Fig. 1(a), and exhibits a charge-density-wave 
+(CDW) state. When transition metals are intercalated into the interlayer sites or external 
+pressures are applied, the CDW state is suppressed and superconductivity is induced 
+[16,17]. A topological insulator Bi2Se3 also possesses a layered structure with a 
+
+
+3 
+ 
+Van-der-Waals gap as displayed in Fig. 1(b). As the same in the case of TiSe2, Bi2Se3 
+becomes superconducting by Cu intercalations in the interlayer sites [18,19]. One of the 
+notable characteristics of chalcogenides is crystallization of a simple layered structure 
+with Van-der-Waals gaps. In such a structure, ions can be easily intercalated to the 
+interlayer sites and dramatically change the physical properties of the chalcogenide 
+layers. 
+The most remarkable layered chalcogenides are the Fe chalcogenides, FeSe and 
+FeTe, which are the simplest Fe-based superconductors. The crystal structure of FeSe is 
+shown in Fig. 1(c). FeSe exhibits a superconducting transition around 10 K, and shows 
+a dramatic increase of Tc up to 37 K under high pressure. In contrast to FeSe, FeTe 
+undergoes an antiferromagnetic transition at 70 K. However, a partial substitution of Te 
+by S or Se suppresses the antiferromagnetic ordering and induces superconductivity. 
+This family is very interesting because the physical properties dramatically change with 
+changing local crystal structure upon the co-valent substitutions of S, Se and Te. 
+Recently, 
+superconductivity 
+above 
+40 
+K 
+was 
+observed 
+in 
+metal- 
+or 
+molecule-intercalated FeSe. To that respect, studies on not only fundamental physics but 
+also applications using Fe-chalcogenide superconductors will be actively addressed. In 
+the second section, we summarize the physical and structural properties of the 
+
+
+4 
+ 
+Fe-chalcogenide superconductors. 
+Very recently, we discovered a new superconducting family of the layered 
+bismuth sulfides [20-22]. In this family, the BiS2 layers are the common 
+superconducting structure essential for superconductivity as the CuO2 planes in the 
+cuprates and the Fe2An2 (An: Anions of P, As, S, Se or Te) layers in the Fe-based family. 
+In the third section, we introduce the discovery of the novel BiS2-based layered 
+superconducting family and the latest results. 
+ 
+2. Fe chalcogenides 
+In 2008, Kamihara et al. reported superconductivity in Fe-based compound 
+LaFeAsO1-xFx [5]. Although the parent compound LaFeAsO is an antiferromagnetic 
+metal, 
+the 
+F 
+substitution 
+suppresses 
+the 
+magnetic 
+ordering 
+and 
+induces 
+superconductivity with a Tc as high as 26 K. As shown in Fig. 2(a), LaFeAsO has a 
+layered structure with a stacking of the blocking La2O2 layers and the superconducting 
+Fe2As2 layers. Many FeAs-based compounds analogous to LaFeAsO, for example 
+SmFeAsO1-xFx and Ba1-xKxFe2As2, were found to be superconducting with a maximum 
+Tc as high as 55 K [7,8]. All the Fe-based superconductors share a common layered 
+structure based on the planar layer of an Fe square lattice. In Fe-pnictide 
+
+
+5 
+ 
+superconductors, blocking layers with alkali, alkali-earth or rare-earth and 
+oxygen/fluorine are alternatively stacked with Fe-As conduction layers [5-9, 23-26]. 
+Superconductivity in layered Fe chalcogenides was initially found in FeSe by 
+Hsu et al. soon after the discovery of superconductivity in the LaFeAsO system [10]. 
+Contrary to the FeAs-based superconductors, FeSe is composed of only 
+superconducting Fe2Se2 layers as shown in Fig. 2(b). The absence of a blocking layer 
+leads Fe-chalcogenides to be the simplest crystal structure among the Fe-based 
+superconductors. Furthermore, Fe1+dTe, which possesses a crystal structure analogous to 
+FeSe as depicted in Fig. 2(c), exhibits antiferromagnetic ordering as observed in the 
+parent (non-doped) phases of FeAs-based superconductors. Thus, the Fe-chalcogenides 
+are the key materials for elucidating the mechanism of Fe-based superconductivity 
+[10-12].  
+ 
+2-1. FeSe 
+PbO-type FeSe is well known as a commercial material, but the discovery of 
+superconductivity in this compound was triggered by Fe-based superconductors 
+reported in 2008 [10]. PbO-type FeSe is composed of only Fe2Se2 layers with a 
+tetragonal structure (space group: P4/nmm). It has an iron-square planar sublattice 
+
+
+6 
+ 
+equivalent to that of the iron pnictides and its crystal structure is the simplest among the 
+Fe-based superconductors. The PbO structure is one of the stable phases of the Fe-Se 
+binary compounds [27]. One can therefore obtain a polycrystalline sample of PbO-type 
+FeSe using a conventional solid state reaction method. However, FeSe synthesized by 
+the solid-state reaction at high temperatures partially contains the NiAs-type 
+(hexagonal) FeSe phase. To obtain a single phase of tetragonal FeSe, low temperature 
+annealing around 300-400˚C, which transforms the hexagonal to the tetragonal phase, is 
+required [28]. FeSe exhibits a structural transition from tetragonal to orthorhombic 
+phase (Cmma) at 70-90 K. This structural transition is not accompanied by any 
+magnetic transition and superconductivity occurs in the orthorhombic phase below ~ 12 
+K [10, 28-31]. Figure 3 displays the temperature dependence of resistivity and the insets 
+show the resistivity under the magnetic fields and the estimated upper critical field 
+(µ0Hc2) [10]. The resistivity became zero below 8K, and the high µ0Hc2, the common 
+features of Fe-based superconductivity, were observed. Although the Tc of FeSe at 
+ambient pressure is relatively low as compared to the other Fe-based superconductors, 
+FeSe shows a dramatic enhancement of Tc under high pressures [32-35].  
+Fig. 4(a) and (b) show the temperature dependence of resistivity for FeSe under 
+high pressure measured using a piston cylinder cell and an indenter cell, respectively 
+
+
+7 
+ 
+[32, 34]. The pressure dependence of Tc of FeSe shows an anomalous behavior. With 
+increasing pressure, the pressure dependence of Tc shows an anomaly around 2 GPa, 
+and then exhibits a steep increase above 2 GPa. Above 4 GPa, Tc
+onset reaches a 
+maximum value of 37K. The fact that the application of pressure dramatically enhances 
+Tc in FeSe indicates that the increase of Tc should be related to the change in the local 
+crystal structure, because the carrier density does not change largely with applied 
+pressure. In fact, the dramatic enhancement of Tc is successfully explained by 
+investigating the structural parameter of “anion height” in the Fe layer [33,36,37].  
+As shown in Fig. 5, the pressure dependences of Tc and the anion height for 
+FeSe show an obvious correlation. This implies that Tc of FeSe can be optimized by 
+tuning the anion height. Interestingly, the anion height dependence of Tc is applicable to 
+all the Fe-based superconductors, not only for FeSe [36-38]. Fig. 6(a) is the anion height 
+dependence of Tc of the typical Fe-based superconductors [36]. A schematic image of 
+anion height from the Fe layer is described in Fig. 6(b). The anion height dependence of 
+Tc shows a symmetric curve with a peak around 1.38 Å, as indicated by the hand-fitting 
+curve. For FeSe, although the data point at ambient pressure does not agree with the 
+unique curve, it corresponds above 2 GPa at which the anomaly was observed in the 
+pressure dependence of Tc as shown in Fig. 5. It indicates that intrinsic 
+
+
+8 
+ 
+superconductivity in FeSe might be induced by the application of pressure above 2 GPa. 
+ 
+2-2. High-Tc superconductivity in FeSe-related materials  
+As achieved by the application of the external pressure, the Tc of FeSe can be 
+enhanced by decreasing the anion height upon metal or molecule intercalations into the 
+interlayer sites. Guo et al. reported that K-intercalated FeSe, K0.8Fe2Se2 showed 
+superconductivity with a Tc above 30 K [13]. Interestingly, not only metal ions but also 
+molecules such as Lix(NH2)y(NH3)1–y can be intercalated into the interlayer site of FeSe; 
+Lix(NH2)y(NH3)1–yFe2Se2 shows high Tc above 40 K [39]. To date, many FeSe-based 
+superconductors with Tc above 30 K have been reported [13, 39-46]. These facts 
+indicate that the mechanisms of high-Tc superconductivity in Fe-based compounds are 
+essentially common in FeAs-based and Fe-chalcogenide-based superconductors. 
+ 
+2-3. FeTe 
+The crystal structure of FeTe is very analogous to that of FeSe. However, FeTe 
+exhibits a magnetic/structural transition at 70 K. In fact, the physical properties of FeTe 
+is quite different from those of FeSe [47,48]. FeTe is not superconducting except in the 
+special case of the tensile-stressed FeTe thin film [49], which showed superconductivity 
+
+
+9 
+ 
+at 13 K. Neutron-scattering studies indicate that the spin structure of FeTe is different 
+from that of the Fe-pnictide parent compounds as shown Fig. 7 [47]. For FeSe and 
+Fe-pnictide superconductors, the antiferromagnetic spin fluctuations with a wave vector 
+Qs = (0.5, 0.5) was found to correlates with superconductivity [50-54]. On the other 
+hand, FeTe shows magnetic wave vector Qd = (0.5, 0) [50,51]. Several reports indicated 
+that the wave vector Qd is not favorable for superconductivity [55-57]. The emergence 
+of a Fermi surface nesting associated with Qd could be induced by excess Fe at the 
+interlayer site as described in Fig. 2(c). Excess Fe supplies a substantial amount of 
+electrons and it has a magnetic moment. FeTe contains 7 – 25 % of excess Fe in its 
+crystal structure, and thus the physical properties of FeTe depend on the content of 
+excess Fe [55, 57].  
+ 
+2-4. FeTe-based superconductors 
+2-4-1. FeTe1-xSex 
+As mentioned above, FeTe exhibits an antiferromagnetic ordering associated 
+with a lattice distortion at 70 K. Furthermore, FeTe possesses excess Fe (7 ~ 25 %) at 
+the interlayer sites. However, partial Se substitutions suppress the low temperature 
+structural/magnetic phase transition, and thereby produce superconductivity [11, 58, 59]. 
+
+
+10 
+ 
+The effect of Se substitution other than the suppression of magnetic ordering is a 
+reduction of excess Fe concentration. Due to both effects, bulk superconducting state 
+can be realized. Fig. 8 shows the temperature dependence of magnetic susceptibility for 
+FeTe1-xSex (a) around TN, (b) around Tc. The long-range magnetic ordering was 
+suppressed with increasing Se concentration and completely disappeared at x = 0.15. 
+The Tc is also gradually enhanced with increasing Se content and the optimal 
+superconducting properties are obtained at a composition of FeTe0.5Se0.5 with Tc of 14 K, 
+which is the highest Tc at ambient pressure among the FeTe-based superconductors. 
+Furthermore FeTe1-xSex shows a positive pressure effect on Tc as in the case of FeSe 
+[60,61]. As depict in Fig. 9, a dome-shaped Tc versus pressure curve arises and 
+maximum Tc of 23 K appears at 2 GPa [60].  
+ 
+2-4-2. FeTe1-xSx 
+As the partial Se substitution for Te induces superconductivity in FeTe, the S 
+substitution for Te also suppresses the magnetism and induces superconductivity [12]. 
+However, in the case of FeTe1-xSx, the optimal substitution cannot be achieved due to the 
+low S/Te solubility limit as shown in Fig. 10 [62]. Although the antiferromagnetic 
+ordering can be completely suppressed by the 20 % of S substitution, bulk 
+
+
+11 
+ 
+superconductivity is not observed; only weak superconductivity is observed. This can be 
+understood that the appearance of bulk superconductivity in FeTe1-xSx is influenced by 
+the higher content of excess Fe resulting from low S concentration. In particular, the 
+FeTe0.8S0.2 samples synthesized using a solid state reaction method show a broad 
+transition in temperature dependence of resistivity, and diamagnetic signal 
+corresponding to superconductivity is not observed. In order to enhance the weak 
+superconductivity, ingenious attempts have been carried out and exotic annealing effects 
+were discovered.  
+ 
+2-5. Annealing effects of FeTe-based superconductors 
+Fig. 11(a) displays temperature dependence of resistivity for the FeTe0.8S0.2 
+sample kept in the air for several days. Although the as-grown sample does not show 
+zero resistivity, the sample which was exposed to the air for several days shows zero 
+resistivity with a sharp superconducting transition [63, 64]. After 2 years, the Tc
+zero 
+reached 7.8 K. The superconducting signal of magnetic susceptibility also dramatically 
+enhanced with increasing air-exposure time as shown Fig. 11(b).  
+Furthermore it is found that the weak superconductivity could be effectively 
+improved by annealing in oxygen [65,66]. Fig. 12 shows the temperature dependence of 
+
+
+12 
+ 
+magnetic susceptibility for the samples annealed with various annealing condition. Only 
+the oxygen-annealed sample shows a large superconducting signal. Y. Kawasaki et al. 
+reported that oxygen annealing is applicable to not only FeTe1-xSx but also FeTe1-xSex 
+[67]. Fig. 13 shows temperature dependence of magnetic susceptibility for O2-annealed 
+samples with various Se concentrations (a) around TN, (b) around Tc. Only a 10% 
+substitution of Te by Se completely suppressed the magnetic ordering and induced bulk 
+superconductivity. The difference between as-grown and O2-annealed samples is 
+remarkable with the data in Fig. 8. 
+The phase diagrams based on the magnetic susceptibility measurement for the 
+as-grown and O2-annealed samples are shown in Fig. 14(a) and (b). The as-grown 
+samples showed the long-range AFM in the range of x ≤ 0.15 and weak 
+superconductivity in 0.1 ≤ x ≤ 0.4 where “weak superconductivity” means non-bulk 
+(filamentary or partial) superconducting state interfered by excess Fe. Only the 
+FeTe0.5Se0.5 sample was found to be a bulk superconductor. For O2-annealed samples, 
+the coexistence of AFM ordering and weak superconductivity was observed only for x 
+≤ 0.1. As the long-range AFM ordering was completely suppressed, the O2-annealed 
+samples with x ≥ 0.1 became  bulk superconductors. It is clear from the Fig. 14 that 
+the bulk superconducting region dramatically spreads via O2-annealing.  
+
+
+13 
+ 
+Next, we discuss the origin of the appearance of bulk superconductivity on the 
+basis of antiferromagnetic fluctuations. As mentioned in section 2.1, Antiferromagnetic 
+spin fluctuations with the wave Qs = (0.5, 0.5) were observed in FeSe as well as the 
+other FeAs. In contrast, FeTe exhibits antiferromagnetic wave vector Qd = (0.5, 0). 
+From the neutron scattering measurements, it is revealed that the Qs and Qd are 
+observed over a wide composition range where FeTe1-xSex exhibits weak 
+superconductivity [56, 68]. For as-grown FeTe1-xSex samples, weak superconductivity 
+was observed in the range of 0.1 ≤ x ≤ 0.4, suggesting that the nesting vectors Qs and 
+Qd coexist. It is expected that the nesting vector Qs becomes dominant for FeTe0.5Se0.5 
+where bulk superconductivity sets in. On the other hand, for the O2-annealed samples, 
+the bulk superconducting region extends down to x = 0.1, which implies that the nesting 
+vector Qd is strongly suppressed by O2-annealing. By investigating the oxygen 
+annealing effect, it was concluded that the oxygen ions intercalated between 
+superconducting layers play a key role in the suppression of magnetic wave vector Qd 
+due to the compensation of the electrons given by the excess Fe ion and the appearance 
+of bulk superconductivity. 
+ 
+2-6. Softchemical treatment for deintercalation of excess Fe 
+
+
+14 
+ 
+It was found that the alcoholic beverages induced superconductivity in 
+FeTe0.8S0.2 [69]. In this report, the FeTe0.8S0.2 samples were immersed in red wine, white 
+wine, beer, Japanese sake (rice wine), shochu (distilled spirit), and whisky, and then 
+heated at 70ºC for 24 h. The obtained shielding volume fractions are summarized in Fig. 
+15 as a function of ethanol concentration. The shielding volume fractions of the samples 
+heated in water-ethanol mixtures are between 6 and 9 %. In contrast, the shielding 
+volume fraction of the samples heated in alcoholic beverages is 21 - 63 %, significantly 
+larger than that with the water-ethanol mixtures. In the first report, we concluded that 
+alcoholic beverages, particularly red wine, were more effective in inducing 
+superconductivity in FeTe0.8S0.2 than water, although the exact mechanism of how they 
+acted to enhance the superconductivity in FeTe1-xSx remained unsolved. This unique 
+annealing effect was also confirmed by FeTe1-xSex sample. Fig. 16 indicates alcoholic 
+annealing effect for FeTe0.9Se0.1. In the case of FeTe0.9Se0.1, the highest volume fraction 
+was observed by red wine sample and the smallest value among the alcoholic beverages 
+was obtained with shochu. This behavior is similar to the case of FeTe1-xSx.  
+Recently, we have successfully clarified that the mechanism of inducement of 
+superconductivity in FeTe1-xSx by alcoholic beverages is the deintercalation of excess Fe 
+from the interlayer sites [70]. Utilizing a technology of metabolomic analysis, we 
+
+
+15 
+ 
+performed the investigation of the ingredient in the alcoholic beverage and found that 
+the solutions of malic acid, citric acid, and β-alanine also induced the superconductivity 
+in FeTe0.8S0.2 as depicted in Fig. 17(a) and (b). Additionally, inductively-coupled plasma 
+spectroscopy analysis indicated that Fe ion was deintercalated from the sample to these 
+solutions as shown Fig. 17(c). These results suggest that part of the excess Fe was 
+deintercalated from the interlayer sites. Therefore, alcoholic beverage annealing 
+suppresses the magnetic moment of excess Fe by deintercalating the excess Fe and, 
+hence superconductivity is achieved. The similar situations, enhancement of the 
+superconductivity by the deintercalation of excess Fe, were reported [71, 72] Thus the 
+technique can be generally applied to the layered Fe-chalcogenide superconductors. 
+ 
+3. BiS2-based layered superconductors 
+Discovery of a common superconducting layer is very important because many 
+analogous superconductors can be designed by changing the spacer layers as have the 
+high-Tc cuprates and the Fe-based superconductors. Recently, we found that the BiS2 
+layer can be a basic superconducting layer of new class of the layered superconducting 
+family. 
+The first BiS2-based superconductor is Bi4O4S3 [20]. The determined crystal structure 
+
+
+16 
+ 
+is shown in Fig. 18(a). The crystal structure is composed of a stacking of rock-salt-type 
+BiS2 layers and Bi4O4(SO4)1-x layers (blocks) where x indicates the existence of the 
+defects of SO4
+2- ions at the interlayer sites. The parent phase (x = 0) is Bi6O8S5, and 
+Bi4O4S3 is expected to have about 50 % defects of the SO4
+2- site (x = 0.5). In layered 
+materials, such defects of the interlayer sites are often observed. 
+Temperature dependence of resistivity is displayed in Fig. 19. A gradual 
+decrease of resistivity was observed below 8.6 K and the zero-resistivity state was 
+observed at 4.5 K. Magnetic susceptibility measurements indicate that Bi4O4S3 was a 
+bulk superconductor. To investigate the origin of superconductivity in Bi4O4S3, we 
+performed band calculations. The band calculation indicated that Bi4O4S3 (x = 0.5) was 
+metallic while the parent phase of Bi6O8S5 (x = 0) was found to be a band insulator with 
+Bi3+. For Bi4O4S3, the Fermi level lies within the bands which mainly originate from the 
+Bi 6p orbitals as displayed in Fig. 20. In particular, the Fermi level is just on the peak 
+position of the partial density of states of the Bi 6p orbital within the BiS2 layer. 
+The second BiS2-based system is ReO1-xFxBiS2 (Re = Rare earth). So far, 
+superconductivity is observed in LaO1-xFxBiS2 [24], NdO1-xFxBiS2 [25], CeO1-xFxBiS2 
+[73] and PrO1-xFxBiS2 [74]. The crystal structure of LaO1-xFxBiS2 is show in Fig. 18(b). 
+These materials also possess the BiS2 layers as superconducting layers. The structure is 
+
+
+17 
+ 
+simpler than that of Bi4O4S3; hence, we can consider this system as a prototype of 
+BiS2-based superconductors. Temperature dependences of resistivity under magnetic 
+fields for LaO1-xFxBiS2 and NdO1-xFxBiS2 are shown in Figs. 21(a) and (b), respectively. 
+Super conducting transition occurs at 10.6 and 5.6 K for LaO1-xFxBiS2 and 
+NdO1-xFxBiS2. We note that the blocking layer of La2O2 or Nd2O2 is analogous to those 
+in FeAs-1111 system such as LaFeAsO. Owing to the analogy of crystal structure 
+between the BiS2-based and the Fe-based superconductors, we will easily design new 
+BiS2-based superconductors by changing the blocking layers. We strongly expect that 
+further enhancements of Tc are achieved by changing the blocking layers in the 
+BiS2-based superconductor and the discovery of new BiS2-based materials open a new 
+field in physics and chemistry of low-dimensional superconductors. In fact, some 
+preliminary reports have indicated the possibility of unconventional superconductivity 
+in the BiS2-based superconductors [75-78]. 
+ 
+4. Conclusion 
+In this review, we introduced the crystal structure and physical properties of 
+remarkable layered chalcogenide superconductors. Chalcogenides tend to crystallize in 
+a layered structure; hence, the intercalations/deintercalations of ions or molecules at the 
+
+
+18 
+ 
+interlayer site dramatically changes the physical properties and induces exotic 
+superconductivity. The most remarkable family is the Fe chalcogenides, which is the 
+simplest Fe-based superconductor. In this series, the key factors to induce 
+superconductivity are the suppression of antiferromagnetism of Fe planes and the 
+reduction of magnetic moment of excess Fe at the interlayer site. The later, reduction of 
+magnetic moment of excess Fe can be achieved by oxygen intercalation via annealing in 
+oxygen condition or deintercalation of excess Fe via annealing in acid. Interestingly, red 
+wine is the most effective than any other solution. At the end, we introduced the newly 
+discovered BiS2-based superconducting family. The BiS2 layer is likely to play an 
+important role of the superconductivity, as CuO2 plane of cuprates and FeAn (FeAs, FeP, 
+FeSe or FeTe) layers of Fe-based superconductors. We will be able to create new 
+BiS2-based superconductors with various blocking layers. We believe that unidentified 
+exotic chalcogenide superconductors other than the families introduced here exist and 
+are waiting to be discovered in near future. 
+ 
+Acknowledgements 
+The authors thank the group members of National Institute for Materials Science: 
+Mr. Hara H, Mr. Demura S, Mr. Watanabe T, Dr. Fujioka M, Dr. Denholme S J, Dr. 
+
+
+19 
+ 
+Okazaki H, Dr. Ozaki T, Dr. Takeya H and Dr. Yamaguchi T for useful discussions and 
+experimental help. The authors thank the group members of Tokyo Metropolitan 
+University: Mr. Hamada K, Mr. Izawa H and Dr. Miura O for fruitful discussions and 
+experimental supports. This work was partly supported by a Grant-in-Aid for Scientific 
+Research (KAKENHI) and a Strategic International Collaborative Research Program 
+(SICORP), Japan Science and Technology Agency. 
+
+
+20 
+ 
+References 
+[1] Bednorz J G and Müller K A 1986 Z. Physik B Condensed Matter 64 189. 
+[2] Wu M K, Ashburn J R, Torng C J, Hor P H, Meng R L, Gao L, Huang Z J, Wang Y 
+Q and Chu C W 1987 Phys. Rev. Lett. 58 908. 
+[3] Maeda H, Tanaka Y, Fukutomi M and Asano T 1988 Jpn. J. Appl. Phys. 27 L209. 
+[4] Schilling A, Cantoni M, Guo J D and Ott H R 1993 Nature 363 56. 
+[5] Kamihara Y, Watanabe T, Hirano M and Hosono H 2008 J. Am. Chem. Soc. 130 
+3296. 
+[6] Chen X H, Wu T, Wu G, Liu R H, Chen H, Fang D F 2008 Nature 453 761. 
+[7] Ren Z A, Lu W, Yang J, Yi W, Shen X L, Zheng C, Che C C, Dong X L, Sun L L, 
+Zhou F and Zhao Z X 2008 Chinese Phys. Lett. 25 2215. 
+[8] Rotter M, Tegel M and Johrendt D 2008 Phys. Rev. Lett. 101 107006. 
+[9] Wang X C, Liu Q Q, Lv Y X, Gao W B, Yang L X, Yu R C, Li F Y and Jin C Q 2008  
+Solid State Commun. 148 538. 
+[10] Hsu F C, Luo J Y, Yeh K W, Chen T K, Huang T W, Wu P M, Lee Y C, Huang Y L, 
+Chu Y Y, Yan D C and Wu M K 2008 Proc. Natl. Acad. Sci. U.S.A. 105 14262. 
+[11] Yeh K W, Huang T W, Huang Y I, Chen T K, Hsu F C, Wu P M, Lee Y C, Chu Y Y, 
+Chen C L, Luo J Y, Yan D C and Wu M K 2008 EPL 84 37002. 
+
+
+21 
+ 
+[12] Mizuguchi Y, Tomioka F, Tsuda S, Yamaguchi T and Takano Y 2009 Appl. Phys. 
+Lett. 94 012503. 
+[13] Guo J, Jin S, Wang G, Wang S, Zhu K, Zhou T, He M and Chen X 2010 Phys. Rev. 
+B 82 180520. 
+[14] Nagamatsu J, Nakagawa N, Muranaka T, Zenitani Y and Akimitsu J 2001 Nature 
+410 63. 
+[15] Takano Y, Takeya H, Fujii H, Kumakura H, Hatano T, Togano K, Kito H and Ihara 
+H 2001 Appl. Phys. Lett. 78 2914. 
+[16] Morosan E, Zandbergen H W, Dennis B S, Bos J W G, Onose Y, Klimczuk T, 
+Ramirez A P, Ong N P and Cava R J 2006 Nature Phys. 2 544. 
+[17] Kusmartseva A F, Sipos B, Berger H, Forró L and Tutiš E 2009 Phys. Rev. Lett. 103 
+236401. 
+[18] Hor Y S, Williams A J, Checkelsky J G, Roushan P, Seo J, Xu Q, Zandbergen H W, 
+Yazdani A, Ong N P and Cava R J 2010 Phys. Rev. Lett. 104 057001. 
+[19] Qi X L and Zhang S C 2011 Rev. Mod. Phys. 83 1057. 
+[20] Mizuguchi Y, Fujihisa H, Gotoh Y, Suzuki K, Usui H, Kuroki K, Demura S, Takano 
+Y, Izawa H and Miura O 2012 arXiv:1207.3145. 
+[21] Mizuguchi Y, Demura S, Deguchi K, Takano Y, Fujihisa H, Gotho Y, Izawa H and 
+
+
+22 
+ 
+Miura O 2012 arXiv:1207.3558. 
+[22] Demura S, Mizuguchi Y, Deguchi K, Okazaki H, Hara H, Watanabe T, Denholme S 
+J, Fujioka M, Ozaki T, Fujihisa H, Gotoh Y, Miura O, Yamaguchi T, Takeya H and 
+Takano Y 2012 arXiv:1207.5248. 
+[23] Ishida K, Nakai Y and Hosono H 2009 J. Phys. Soc. Jpn. 78 062001. 
+[24] Mizuguchi Y and Takano Y 2010 J. Phys. Soc. Jpn. 79 102001. 
+[25] Mizuguchi Y and Takano Y 2011 Z. Kristallogr. 226 417. 
+[26] Wu M K, Hsu F C, Yeh K W, Huang T W, Luo J Y, Wang M J, Chang H H, Chen T 
+K, Rao S M, Mok B H, Chen C L, Huang Y L, Ke C T, Wu P M, Chang A M, Wu C T 
+and Perng T P 2009 Physica C 469 340. 
+[27] Hagg G and Kindström A L 1933 Z. Physik. Chem B22
+B22
+B22
+B22 453. 
+[28] McQueen T M, Huang Q, Ksenofontov V, Felser C, Xu Q, Zandbergen H, 
+Hor Y S, Allred J, Williams A J, Qu D, Checkelsky J, Ong N P and Cava R J 
+2009 Phys. Rev. B 79
+79
+79
+79 014522. 
+[29] Margadonna S, Takabayashi Y, McDonald M T, Kasperkiewicz K, Mizuguchi Y, 
+Takano Y, Fitch A N, Suard E and Prassides K 2008 Chem. Commun. 5607. 
+[30] McQueen T M, Williams A J, Stephens P W, Tao J, Zhu Y, Ksenofontov V, 
+Casper F, Felser C and Cava R J 2009 Phys. Rev. Lett. 103 057002. 
+
+
+23 
+ 
+[31] Mizuguchi Y, Furubayashi T, Deguchi K, Tsuda S, Yamaguchi T and Takano Y 
+2010 Physica C 470 S338. 
+[32] Mizuguchi Y, Tomioka F, Tsuda S, Yamaguchi T and Takano Y 2008 Appl. Phys. 
+Lett. 93 152505. 
+[33] Margadonna S, Takabayashi Y, Ohishi Y, Mizuguchi Y, Takano Y, Kagayama T, 
+Nakagawa T, Takata M and Prassides K 2009 Phys. Rev. B 80 064506. 
+[34] Masaki S, Kotegawa H, Hara Y, Tou H, Murata K, Mizuguchi Y and Takano Y 
+2009 J. Phys. Soc. Jpn. 78 063704. 
+[35] Medvedev S, McQueen T M, Troyan I A, Palasyuk T, Eremets M I, Cava R J, 
+Naghavi S, Casper F, Ksenofontov V, Wortmann G and Felser C 2009 Nature Mat. 8 
+630. 
+[36] Mizuguchi Y, Hara Y, Deguchi K, Tsuda S, Yamaguchi T, Takeda K, Kotegawa H, 
+Tou H and Takano Y 2010 Supercond. Sci. Technol. 23 054013. 
+[37] Okabe H, Takeshita N, Horigane K, Muranaka T and Akimitsu J 2010 Phys. Rev. B 
+81 205119. 
+[38] Kuroki K, Usui H, Onari S, Arita R and Aoki H 2009 Phys. Rev. B 79 224511 . 
+[39] Lucas M B, Free D G, Sedlmaier S J, Wright J D, Cassidy S J, Hara Y, Corkett A J, 
+Lancaster T, Baker P J, Blundell S J and Clarke S J 2012 arXiv:1203.5046. 
+
+
+24 
+ 
+[40] Krzton-Maziopa A, Shermadini Z, Pomjakushina E, Pomjakushin V, Bendele M, 
+Amato A, Khasanov R, Luetkens H and Conder K 2011 J. Phys.: Condens. Matter 23 
+052203. 
+[41] Mizuguchi Y, Takeya H, Kawasaki Y, Ozaki T, Tsuda S, Yamaguchi T and Takano 
+Y 2011 Appl. Phys. Lett. 98 042511.  
+[42] Ozaki T, Takeya H, Okazaki H, Deguchi K, Demura S, Kawasaki Y, Hara H, 
+Watanabe T, Yamaguchi T, Takano Y 2012 EPL 98 27002. 
+[43] Ying T P, Chen X L, Wang G, Jin S F, Zhou T T, Lai X F, Zhang H and Wang W Y 
+2012 Sci. Reports 2 426. 
+[44] Wang A F, Ying J J, Yan Y J, Liu R H, Luo X G, Li Z Y, Wang X F, Zhang M, Ye G 
+Y, Cheng P, Xiang Z J and Chen X H 2011 Phys. Rev. B 83 060512(R). 
+[45] Scheidt E W, Hathwar V R, Schmitz D, Dunbar A, Scherer W, Tsurkan V, 
+Deisenhofer J and Loidl A 2012 arXiv:1205.5731. 
+[46] Krzton-Maziopa A, Pomjakushina E V, Pomjakushin V Yu, von Rohr F, Schilling A 
+and Conder K 2012 arXiv:1206.7022. 
+[47] Li S, de la Cruz C, Huang Q, Chen Y, Lynn J W, Hu J, Huang Y L, Hsu F C, Yeh K 
+W, Wu W K and Dai P 2009 Phys. Rev. B 79 054503. 
+
+
+25 
+ 
+[48] Bao W, Qiu Y, Huang Q, Green M A, Zajdel P, Fitzsimmons M R, Zhernenkov M, 
+Chang S, Fang M, Qian B, Vehstedt E K, Yang J, Pham H M, Spinu L and Mao Z Q 
+2009 Phys. Rev. Lett. 102 247001. 
+[49] Han Y, Li W Y, Cao L X, Wang X Y, Xu B, Zhao B R, Guo Y Q and Yang J L 2010 
+Phys. Rev. Lett. 104 017003. 
+[50] Qiu Y, Bao W, Zhao Y, Broholm C, Stanev V, Tesanovic Z, Gasparvic Y C, Chang 
+S, Hu J, Qian B, Fang M and Mao Z 2009 Phys. Rev. Lett. 103 067008. 
+[51] Shi H, Huang Z B, Tse J S and Lin H Q 2011 J. Appl. Phys. 110 043917. 
+[52] McGire M A, Christianson A D, Sefat A S, Sales B C, Lumsden M D, Jin R, 
+Payzant E A and Mandrus D 2008 Phys. Rev. B 78 094517. 
+[53] de la Cruz C, Huang Q, Lynn J W, Li J, Ratcliff W, Zarestky J L, Mook H A, Chen 
+G F, Luo J L, Wang N L and Dai1 P 2008 Nature 453 899. 
+[54] Huang Q, Qiu Y, Bao W, Green M A, Lynn J W, Gasparovic Y C, Wu T, Wu G 
+and Chen X H 2009 Phys. Rev. Lett. 101 247001. 
+[55] Han M J and Savrasov S Y 2009 Phys. Rev. Lett. 103 067001. 
+[56] Lumsden M D, Christianson A D, Goremychkin E A, Nagler S E, Mook H A, Stone 
+M B, Abernathy D L, Guidi T, MacDougall G J, de la Cruz C, Sefat A S, McGuire M A, 
+Sales B C and Mandrus D 2010 Nat. Phys. 6 182. 
+
+
+26 
+ 
+[57] Zhang L, Singh D J and Du M H 2009 Phys. Rev. B 79 012506. 
+[58] Fang M H, Spinu L, Qian B, Pham H M, Liu T J, Vehstedt E K, Liu Y and Mao Z 
+Q, Phys. Rev. B 78 224503. 
+[59] Mizuguchi Y, Tomioka F, Tsuda S, Yamaguchi T and Takano Y 2009 J. Phys. Soc. 
+Jpn. 78 074712. 
+[60] Gresty N C, Takabayashi Y, Ganin A X, McDonald M T, Claridge J B, Giap D, 
+Mizuguchi Y, Takano Y, Kagayama T, Ohishi Y, Takata M, Rosseinsky M J,  
+Margadonna S and Prassides K 2009 J. Am. Chem. Soc. 131 16944. 
+[61] Horigane K, Takeshita N, Lee C H, Hiraka H and Yamada K 2009 J. Phys. Soc. Jpn. 
+78 063705. 
+[62] Mizuguchi Y, Deguchi K, Ozaki T, Nagao M, Tsuda S, Yamaguchi T and Takano Y 
+2011 IEEE Trans. Appl. Supercond. 21 2866. 
+[63] Deguchi K, Mizuguchi Y, Ogawara S, Watanabe T, Tsuda S, Yamaguchi T and 
+Takano Y 2010 Physica C 470 S340. 
+[64] Mizuguchi Y, Deguchi K, Tsuda S, Yamaguchi T and Takano Y 2010 Phys. Rev. B 
+81 214510. 
+[65] Mizuguchi Y, Deguchi K, Tsuda S, Yamaguchi T and Takano Y 2010 EPL 90 
+57002. 
+
+
+27 
+ 
+[66] Mizuguchi Y, Deguchi K, Kawasaki Y, Ozaki T, Nagao M, Tsuda S, Yamaguchi T 
+and Takano Y 2011 J. Appl. Phys. 109 013914. 
+[67] Kawasaki Y, Deguchi K, Demura S, Watanabe T, Okazaki H, Ozaki T, Yamaguchi T, 
+Takeya H and Takano Y 2012 Solid State Commun. 152 1135. 
+[68] Liu T J, Hu J, Qian B, Fobes D, Mao Z Q, Bao W, Reehuis M, Kimber S A J, 
+Prokes K, Matas S, Argyriou D N, Hiess A, Rotaru A, Pham H, Spinu L, Qiu Y, 
+Thampy V, Savici A T, Rodriguez J A and Broholm C 2010 Nat. Mater. 9 718. 
+[69] Deguchi K, Mizuguchi Y, Kawasaki Y, Ozaki T, Tsuda S, Yamaguchi T,  Takano Y 
+2011 Supercond. Sci. Technol. 24 055008. 
+[70] Deguchi K, Sato D, Sugimoto M, Hara H, Kawasaki Y, Demura S, Watanabe T, 
+Denholme S J, Okazaki H, Ozaki T, Yamaguchi T, Takeya H, Soga T, Tomita M and 
+Takano Y 2012 Supercond. Sci. Technol. 25 084025. 
+[71] Rodriguez E E, Stock C, Hsieh P Y , Butch N P, Paglione J and Green M A 2011 
+Chem. Sci. 2 1782. 
+[72] Nagao M, Mizuguchi Y, Deguchi K, Watauchi S, Tanaka I and Takano Y 2012 J. 
+Phys. Soc. Jpn. 81 085005. 
+[73] Xing J, Li S, Ding X, Yang H and Wen H H 2012 arXiv:1208.5000. 
+[74] Jha R, Singh S K and Awana V P S 2012 arXiv:1208.5873. 
+
+
+28 
+ 
+[75] Usui H, Suzuki K and Kuroki K 2012 arXiv:1207.3888. 
+[76] Li S, Yang H, Tao J, Ding X and Wen H H 2012 arXiv:1207.4955. 
+[77] Tan S G, Li L J, Liu Y, Tong P, Zhao B C, Lu W J and Sun Y P 2012 
+arXiv:1207.5395. 
+[78] Singh S K, Kumar A, Gahtori B, Shruti, Sharma G, Patnaik S and Awana V P S 
+2012 arXiv:1207.5428. 
+
+
+29 
+ 
+Figure Captions 
+Fig. 1. Crystal structure of the typical layered chalgenids, (a) TiSe2, (b) BiSe2 and (c) 
+FeSe. 
+Fig. 2. Crystal structure of the typical Fe-based superconductors (a) LaFeAO, (b) FeSe 
+and (c) Fe1+dTe. For Fe1+dTe, excess Fe occupies the interlayer sites with an occupancy 
+of 7 – 25 % as indicated with partially-filled circles.  
+Fig. 3. Temperature dependence of resistivity for FeSe. The insets show temperature 
+dependence of resistivity under high magnetic fields and the obtained field-temperature 
+phase diagram. Reprinted from ref. 10. 
+Fig. 4. Temperature dependence of resistivity for FeSe under high pressure measured 
+using (a) a piston-cylinder cell and (b) an indenter cell. 
+Fig. 5. Pressure dependence of both the Tc and the Se height for FeSe.  
+Fig. 6. (a) Anion height dependence of Tc of the typical Fe-based superconductors. The 
+Tc is the highest value in the system. (b) Schematic image of anion height. 
+Fig. 7. Schematic in-plane spin structure of FeTe and SrFe2As2. Reprinted from ref. 47 
+Fig. 8. Temperature dependence of normalized magnetic susceptibility for FeTe1-xSex  
+(a) around TN (b) around Tc 
+Fig.9. Pressure evolution of Tc as a function of applied pressure. Reprinted from ref. 60. 
+
+
+30 
+ 
+Fig. 10. Nominal x dependence of xE determined by EPMA. Reprinted from ref. 62. 
+Fig. 11. Temperature dependence of (a) resistivity and (b) magnetic susceptibility for 
+FeTe0.8S0.2. 
+Fig.12. Temperature dependence of magnetic susceptibility for FeTe0.8S0.2 with several 
+annealing conditions. 
+Fig. 13. Temperature dependence of magnetic susceptibility for O2-annealed samples 
+with various Se concentrations (a) around TN, (b) around Tc. 
+Fig. 14. Phase diagrams showing Tc and TN as a function of x for (a) as-grown 
+FeTe1-xSex and (b) O2-annealed FeTe1-xSex.sdsd 
+Fig. 15. The shielding volume fraction of FeTe0.8S0.2 samples heated in various liquids 
+as a function of ethanol concentration. 
+Fig. 16. (a) Temperature dependence of magnetic susceptibility for FeTe0.9Se0.1 with 
+various annealing conditions. (b) The shielding volume fraction of FeTe0.1Se0.1 samples 
+heated in various liquids as a function of pH. 
+Fig. 17. (a) Temperature dependence of magnetic susceptibility for FeTe0.8S0.2 annealed 
+in various solutions. (b) The shielding volume fractions for the samples annealed in 
+various liquids as a function of pH. (c) The pH dependence of Fe concentration 
+dissolved in solutions after annealing with the sample. 
+
+
+31 
+ 
+Fig. 18. (a) Crystal structure of Bi4O4(SO4)1-xBi2S4. The composition of x = 0.5 
+corresponds to Bi4O4S3. (b) Crystal structure of LaOBiS2. 
+Fig. 19. Temperature dependence of resistivity for Bi4O4S3 under magnetic fields up to 5 
+T. 
+Fig. 20. The band structure for Bi4O4S3. The radius of the circles represent the weight of 
+the Bi 6p orbitals within the BiS2 layer. The blue and red hatches indicate the bands 
+having mainly px and py characters, respectively. Right panel: the partial density of 
+states of the Bi 6p orbital within the BiS2 layer.   
+Fig. 21. (a) Temperature dependence of resistivity for LaO0.5F0.5BiS2 under magnetic 
+fields up to 5 T. (b) Temperature dependence of resistivity for NdO0.7F0.3 BiS2 under 
+magnetic fields up to 4 T. 
+
+
+32 
+ 
+ 
+Fig. 1 
+ 
+
+
+33 
+ 
+Fig 2 
+ 
+
+
+34 
+ 
+Fig. 3 
+ 
+
+
+35 
+ 
+Fig. 4 
+ 
+
+
+36 
+ 
+Fig. 5 
+ 
+
+
+37 
+ 
+Fig. 6 
+ 
+
+
+38 
+ 
+Fig. 7 
+ 
+
+
+39 
+ 
+Fig. 8 
+ 
+
+
+40 
+ 
+Fig. 9 
+
+
+41 
+ 
+Fig. 10 
+ 
+
+
+42 
+ 
+Fig. 11 
+
+
+43 
+ 
+Fig. 12 
+ 
+
+
+44 
+ 
+Fig. 13 
+ 
+
+
+45 
+ 
+Fig. 14 
+ 
+
+
+46 
+ 
+Fig. 15 
+ 
+
+
+47 
+ 
+Fig. 16 
+ 
+
+
+48 
+ 
+Fig. 17 
+ 
+ 
+ 
+
+
+49 
+ 
+Fig. 18 
+ 
+
+
+50 
+ 
+Fig. 19 
+ 
+
+
+51 
+ 
+Fig. 20 
+ 
+
+
+52 
+ 
+Fig. 21 
+ 
+ 
+
+

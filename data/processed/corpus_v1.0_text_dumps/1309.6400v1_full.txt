@@ -1,0 +1,759 @@
+ 
+1
+Structural Analysis and Superconducting Properties of 
+F-Substituted NdOBiS2 Single Crystals  
+ 
+Masanori Nagao1,2*, Satoshi Demura2, Keita Deguchi2, Akira Miura1, Satoshi Watauchi1, 
+Takahiro Takei1, Yoshihiko Takano2, Nobuhiro Kumada1, and Isao Tanaka1 
+ 
+1University of Yamanashi, 7-32 Miyamae, Kofu 400-8511, Japan 
+2National Institute for Materials Science, 1-2-1 Sengen, Tsukuba 305-0047, Japan 
+ 
+(Received) 
+ 
+Abstract 
+F-substituted NdOBiS2 superconducting single crystals were grown using CsCl/KCl 
+flux. This is the first example of the single-crystal growth of a BiS2-based 
+superconductor. The obtained single crystals had a plate-like shape with a size of 1-2 
+mm and a well-developed ab-plane. The crystal structure of the grown crystals was 
+determined by single-crystal X-ray diffraction analysis to be the tetragonal space group 
+P4/nmm (#129) with a = 3.996(3) Å and c = 13.464(6) Å. The chemical formula of the 
+grown crystals was approximately Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2, and Cs, K, and Cl 
+
+
+ 
+2
+were not detected in the grown crystals by electron probe microanalysis. The grown 
+crystals had a critical temperature of approximately 5 K. The superconducting 
+anisotropy of the single crystals was estimated to be about 30 from the effective mass 
+model and the upper critical field.  
+ 
+ 
+KEYWORDS: BiS2-based superconductor, single-crystal X-ray diffraction, flux growth, 
+cesium chloride and potassium chloride flux 
+ 
+*E-mail address: mnagao@yamanashi.ac.jp 
+
+
+ 
+3
+ 
+*Corresponding Author  
+Masanori Nagao  
+Postal address: University of Yamanashi, Center for Crystal Science and Technology 
+Miyamae 7-32, Kofu 400-8511, Japan 
+Telephone number: (+81)55-220-8610 
+Fax number: (+81)55-254-3035 
+ 
+
+
+ 
+4
+ 
+Main text 
+Since the discovery of the BiS2-based superconductors Bi4O4S3,1) RO1-xFxBiS2 (R=La, 
+Ce, Pr, Nd, Yb),2-6) and Sr1−yLayFBiS2,7) much effort has been focused on the growth of 
+their single crystals. Single crystals of BiS2-based superconductors are attracting much 
+attention because they will enable the analysis of their intrinsic physical properties. 
+However, bulk-size single crystals of BiS2-based superconductors have never been 
+grown. Alkali chloride fluxes are useful for obtaining single crystals. So far, single 
+crystals of Bi2Sr2CaCu2Ox and Bi2Sr2Ca2Cu3Oy high-Tc superconductors have been 
+grown using KCl flux.8-10) However, BiS2-based superconductors cannot be synthesized 
+using KCl flux in a vacuum quartz tube because KCl would corrode the quartz tube at 
+high temperatures. Therefore, a mixture of CsCl and KCl (CsCl/KCl) is a promising 
+flux as it exhibits little reactivity to quartz tubes at high temperatures.11-13)  
+In this paper, we focus on the compound NdO1-xFxBiS2 (x=0.1–0.7), which was found 
+to have a maximum Tc of 5.6 K at x=0.3.5) We report the successful growth of 
+F-substituted NdOBiS2 single crystals using CsCl/KCl as the flux with a eutectic 
+temperature of approximately 616 °C in a quartz tube sealed in vacuum. For the first 
+time, the crystal structure of the grown crystals was determined by single-crystal X-ray 
+
+
+ 
+5
+diffraction (XRD) analysis. The composition and superconducting properties were also 
+investigated to characterize the properties of the single crystals.  
+Single crystals of F-substituted NdOBiS2 were grown in a quartz tube sealed in 
+vacuum by a high-temperature flux method. The raw materials used were Nd2S3, Bi, 
+Bi2S3, Bi2O3, BiF3, CsCl, and KCl.  
+The raw materials were weighed with a nominal composition of NdO0.7F0.3BiS2. The 
+mixture of the raw materials (0.8 g) and CsCl/KCl flux (3.0 g) were mixed using a 
+mortar, and sealed in a quartz tube in vacuum. The molar ratio of the CsCl/KCl flux was 
+CsCl:KCl=5:3. The mixed powder was then heated at 800 °C for 10 h followed by slow 
+cooling to 600 °C at a rate of 0.5 °C/h. The sample was then furnace-cooled from 
+600 °C. After cooling to room temperature, the quartz tube was opened in air 
+atmosphere, and distilled water was added to the quartz tube. The product was then 
+filtered and washed with distilled water.  
+The crystal structure and composition of the single crystals were evaluated by XRD 
+analysis using CuKα radiation, scanning electron microscopy (SEM), and electron 
+probe microanalysis (EPMA). Single-crystal XRD data were collected using a Rigaku 
+XTALAB-MINI diffractometer with graphite monochromated MoKα radiation. The 
+data were corrected for the Lorentz and polarization effects. The crystal structure was 
+
+
+ 
+6
+solved and refined using computer programs from the Crystal Structure crystallographic 
+software package.14) Details of the data collection and refinement are summarized in 
+Table I. The crystal structure was drawn by VESTA computer software.15) The 
+temperature dependence of magnetization was measured by a superconducting quantum 
+interface device (SQUID) magnetometer with an applied field of 10 Oe. The transport 
+properties of the single crystals were measured by the standard four-probe method with 
+constant current density (J) using a Quantum Design Physical Property Measurement 
+System (PPMS). The transition temperature corresponding to the onset of 
+superconductivity (Tc
+onset) was defined as the point at which deviation from linear 
+behavior is observed in the normal conducting state in the resistivity-temperature (ρ-T) 
+characteristics. The zero resistivity (Tc
+zero) was determined considering the criterion of a 
+resistivity of 0.1 μΩcm in the ρ-T characteristics. We measured the angular (θ) 
+dependence of resistivity (ρ) in the flux liquid state under various magnetic fields (H) 
+and calculated the superconducting anisotropy (γs) using the effective mass model.16-18)  
+Figure 1 shows a typical SEM image of a F-substituted NdOBiS2 single crystal. The 
+obtained single crystals had a plate-like shape of side 1.0-2.0 mm and 10-20 μm 
+thickness. We did not measure the in-plane orientation of the grown crystals. Figure 2 
+shows an XRD pattern of a well-developed plane of a F-substituted NdOBiS2 single 
+
+
+ 
+7
+crystal. The grown single crystals were identified to have the NdOBiS2 structure from 
+the XRD pattern. The presence of only 00l diffraction peaks of the NdOBiS2 structure 
+indicates that the ab-plane is well-developed.  
+The structural analysis showed that the crystal structure was the tetragonal space group 
+P4/nmm (#129) with a = 3.996(3) Å, and c = 13.464(6) Å. Structural refinement was 
+performed on NdOBiS2 because it is difficult to distinguish between O and F. In the 
+initial refinement, the occupations of Nd and Bi were refined and found to be unity 
+within the error. Thus, no defects of Nd and Bi sites were detected. The final refinement 
+was performed with fixed occupancies of unity for Nd, Bi, S, and O. The obtained 
+atomic coordinates are summarized in Table II. As shown in Fig. 3, the crystal structure 
+of NdOBiS2 is composed of stacked Nd2O2 layers and Bi2S4 layers, which is almost the 
+same as the LaOBiS2 structure.2) The composition of the F-substituted NdOBiS2 single 
+crystals was estimated to be approximately Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 by 
+EPMA. The obtained values were normalized using S = 2. Nd and Bi were measured to 
+a precision of two decimal places. On the other hand, O and F are accurate to one 
+decimal place. These values are consistent with the crystal structure analysis within the 
+analytical error. The measured values of the lattice constants a and c in the grown 
+crystals are comparable to those of a polycrystalline powder sample with a F content of 
+
+
+ 
+8
+0.3±0.1.5) Cs, K, and Cl were not detected in the grown single crystals by quantitative 
+analysis using EPMA with a minimum sensitivity limit of 0.1 wt%.  
+Figure 4 shows the temperature dependence of magnetic susceptibility for a 
+Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 single crystal. The Meissner effect was confirmed 
+from the magnetic susceptibility between 2 and 20 K. Figure 5 shows the ρ-T 
+characteristics along the ab-plane of a Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 single crystal. 
+A superconducting transition was observed below 6 K. Tc
+onset is 5.5 K and Tc
+zero was 
+observed at 5.0 K. Resistivity slightly decreases with decreasing temperature down to 6 
+K, which is metallic behavior. This is different from the property of polycrystalline 
+samples of semiconducting behavior down to approximately 6 K.5,6,19) We assume that 
+intrinsic property of Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 single crystal is metallic, and 
+that the transport property of the polycrystalline sample is semiconducting owing to the 
+existence of grain boundaries. Figure 6 shows the temperature dependence of resistivity 
+below 10 K under a magnetic field (H) of 0-9.0 T parallel to the (a) ab-plane and (b) 
+c-axis. The resistivity in the normal state exhibits metallic behavior under a magnetic 
+field parallel to the ab-plane. On the other hand, an upturn is observed in the resistivity 
+under a magnetic field of more than 0.5 T parallel to the c-axis, which appears to be 
+semiconducting behavior. Further investigation is underway to clarify this phenomenon. 
+
+
+ 
+9
+The suppression of the critical temperature under the magnetic field applied parallel to 
+the c-axis is more significant than that for a field parallel to the ab-plane. The field 
+dependences of Tc
+onset and Tc
+zero under the magnetic fields (H) parallel to the ab-plane 
+(H//ab-plane) and c-axis (H//c-axis) are plotted in Fig. 7. The linear extrapolations of 
+Tc
+onset for the case of H//ab-plane and H//c-axis approach values of 42 and 1.3 T, 
+respectively. The upper critical fields H//ab
+C2 and H//c
+C2 are predicted to be less than 42 
+and 1.3 T, respectively. Using linear fitting to the Tc
+zero data, the irreversibility fields 
+H//ab
+irr and H//c
+irr are found to be 16 and 0.64 T, respectively. This result indicates that 
+the F-substituted NdOBiS2 superconductor has high anisotropy. We previously 
+estimated the superconducting anisotropy of Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 using a 
+single crystal. The angular (θ) dependence of resistivity (ρ) was measured at various 
+magnetic fields (H) in the flux liquid state to estimate the superconducting anisotropy 
+(γs) of a grown Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 single crystal, as reported in Refs. 16 
+and 17. The reduced field (Hred) is evaluated using the following equation for the 
+effective mass model:  
+Hred = H(sin2θ+γs
+-2cos2θ)1/2,                   (1) 
+where θ is the angle between the ab-plane and the magnetic field.18) Hred is calculated 
+from H and θ. The superconducting anisotropy (γs) was estimated from the best scaling 
+
+
+ 
+10 
+for the ρ-Hred relations. Figure 8 shows the angular (θ) dependence of resistivity (ρ) at 
+various magnetic fields (H = 0.1-9.0 T) in the flux liquid state for a 
+Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 single crystal. Small dips were observed in the ρ-θ 
+curves around the H//c-axis at magnetic fields of less than 0.6 T. These dips presumably 
+originated from small cracks, which behave as weak pinning sites in the single crystal. 
+The ρ-θ curve had twofold symmetry. The ρ-Hred scaling obtained from the ρ-θ curves in 
+Fig. 8 using Eq. (1) is shown in Fig. 9. The scaling is obtained by taking γs = 30, shown 
+in Fig. 9(a). However, this plot deviates from the scaling at a higher field of more than 
+2.5 T as shown in Fig. 8. As described before, H//c
+C2 was predicted to be less than 1.3 T 
+from Fig. 7. Assuming that γs diverges at magnetic field of more than 1.3 T, we perform 
+ρ-Hred scaling only using data from Fig. 8 obtained at magnetic fields of less than or 
+equal to 1.0 T, as shown in Fig. 9(b). The best scaling for this set of data was obtained 
+by taking γs = 9. However, when γs was more than 9, the ρ-Hred scaling was almost 
+saturated at magnetic fields of less than or equal to 1.0 T. On the other hand, the 
+superconducting anisotropy evaluated from the ratio of the upper critical field using the 
+equation:  
+γs = H//ab
+C2/H//c
+C2 = ξab/ξc  (ξ: coherence length)          (2) 
+was 32.3. We assume that the superconducting anisotropy was estimated to be 
+
+
+ 
+11
+approximately 30.  
+We have successfully grown F-substituted NdOBiS2 single crystals using CsCl/KCl 
+flux. Plate-like F-substituted NdOBiS2 single crystals with a size of about 1.0-2.0 mm 
+were obtained. The structure of the grown crystals was determined to be the tetragonal 
+space group P4/nmm (#129) with a = 3.996(3) Å and c = 13.464(6) Å. The composition 
+of the F-substituted NdOBiS2 single crystal was Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2. 
+Tc
+onset and Tc
+zero for the single crystal were 5.5 and 5.0 K, respectively. The values of γs 
+were determined to be 30 and 32.3 using the effective mass model and the upper critical 
+field [Eq. (2)], respectively. The CsCl/KCl flux method is a powerful way to obtain 
+chalcogenide single crystals.  
+ 
+ 
+ 
+Acknowledgment 
+The authors would like to thank Drs. M. Fujioka and H. Okazaki of the National 
+Institute for Materials Science for useful discussions.  
+ 
+
+
+ 
+12 
+ 
+Reference 
+1)  Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, and O. Miura: Phys. Rev. B 86 (2012) 220510(R).  
+2)  Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+and O. Miura: J. Phys. Soc. Jpn. 81 (2012) 114725.  
+3)  J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen: Phys. Rev. B 86 (2012) 214518.  
+4)  R. Jha, A. Kumar, S. Kumar Singh, and V. P. S. Awana: J. Supercond. Novel Magn. 
+26 (2013) 499.  
+5)  S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano: J. Phys. Soc. Jpn. 82 (2013) 033708.  
+6)  D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple: 
+Phil. Mag. 93 (2013) 673.  
+7)  X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. 
+Cao, and Z. Xu: Phys. Rev. B 87 (2013) 020504.  
+8)  A. Katsui: Jpn. J. Appl. Phys. 27 (1988) L844.  
+9)  X. L. Wang, J. Horvat, H. K. Liu, and S. X. Dou: J. Cryst. Growth 173 (1997) 380.  
+
+
+ 
+13 
+10)  S. Lee, A. Yamamoto, and S. Tajima: J. Mater. Res. 17 (2002) 2286.  
+11)  M. Masaoka and A. Kyono: Mater. Lett. 60 (2006) 3922.  
+12)  R. Hu, H. Lei, M. Abeykoon, E. S. Bozin, S. J. L. Billinge, J. B. Warren, T. 
+Siegrist, and C. Petrovic: Phys. Rev. B 83 (2011) 224502.  
+13)  G. N. Oh and J. A. Ibers: Acta Crystallogr., Sect. E 67 (2011) i75.  
+14)  CrystalStructure 3.7.0: Crystal Structure Analysis Package, Rigaku and 
+Rigaku/MSC (2000-2007).  
+15)  K. Momma and F. Izumi: J. Appl. Crystallogr. 41 (2008) 653.  
+16)  Y. Iye, I. Oguro, T. Tamegai, W. R. Datars, N. Motohira, and K. Kitazawa: Physica 
+C 199 (1992) 154.  
+17)  H. Iwasaki, O. Taniguchi, S. Kenmochi, and N. Kobayashi: Physica C 244 (1995) 
+71.  
+18)  G. Blatter, V. B. Geshkenbein, and A. I. Larkin: Phys. Rev. Lett. 68 (1992) 875.  
+19)  R. Jha, A. Kumar, S. Kumar Singh, and V. P. S. Awana: J. Appl. Phys. 113 (2013) 
+056102.  
+ 
+ 
+
+
+ 
+14 
+ 
+Figure captions 
+FIG. 1. SEM image of F-substituted NdOBiS2 single crystal.  
+FIG. 2. XRD pattern of well-developed plane of F-substituted NdOBiS2 single crystal.  
+FIG. 3. (Color online) Crystal structure of NdOBiS2. The dashed line indicates the unit 
+cell.  
+FIG. 
+4 
+Temperature 
+dependence 
+of 
+magnetic 
+susceptibility 
+for 
+Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 single crystal under zero-field cooling (ZFC) and 
+field cooling (FC).  
+FIG. 5. Resistivity–temperature (ρ-T) characteristics along the ab-plane of 
+Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 single crystal. The inset is an enlargement of the 
+superconducting transition.  
+FIG. 
+6. 
+(Color 
+online) 
+Temperature 
+dependence 
+of 
+resistivity 
+for 
+Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 under magnetic fields of 0-9.0 T (0, 0.1, 0.2, 0.3, 0.4, 
+0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.5, 2.0, 2.5, 3.0, 5.0, 7.0, and 9.0 T) parallel to the (a) 
+ab-plane and (b) c-axis.  
+FIG. 7. Field dependences of Tc
+onset and Tc
+zero under magnetic fields (H) parallel to the 
+ab-plane (H//ab-plane) and c-axis (H//c-axis). The lines are linear fits to the data. The 
+
+
+ 
+15 
+inset is an enlargement of the lower-field region.  
+FIG. 8. (Color) Angular θ dependence of resistivity ρ in flux liquid state at various 
+magnetic fields (bottom to top, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.5, 2.0, 2.5, 
+3.0, 5.0, 7.0, and 9.0 T) for Nd0.98±0.06O0.7±0.1F0.3±0.1Bi0.98±0.04S2 single crystal.  
+FIG. 9. (Color) (a) Data in Fig. 8 after scaling of angular θ dependence of resistivity ρ at 
+a reduced magnetic field of Hred = H(sin2θ+γs
+-2cos2θ)1/2. (b) Best fit for the data for H = 
+0.1-1.0 T.  
+ 
+
+
+ 
+16 
+ 
+TABLE I. Crystal data and intensity collection of F-substituted NdOBiS2 single crystal.  
+Crystal system 
+Tetragonal 
+Space group 
+P4/nmm (No. 129), Z = 2 
+Lattice parameters (Å) 
+a = 3.996(3) 
+c = 13.464(6) 
+Volume (Å3) 
+215.0(4) 
+Diffractometer 
+XTALAB-MINI 
+Radiation 
+Graphite monochromated MoKα  
+(λ = 0.71075 Å) 
+Temperature (°C) 
+Room temperature 
+μ (MoKα) (cm-1) 
+534.884 
+No. of reflections measured 
+Total: 2128 
+Unique: 191 (Rint = 0.141) 
+Corrections refinement method 
+Lorentz polarization 
+No. observations (all reflections) 191 
+Full-matrix least-squares on F2 
+No. variables 
+16 
+Reflection/parameter ratio 
+11.94 
+
+
+ 
+17 
+Residuals: R1 (I>2.00σ(I)) 
+0.0458 
+Residuals: R (all reflections) 
+0.0471 
+Residuals: wR2 (all reflections) 
+0.1276 
+Goodness-of-fit indicator 
+0.940 
+ 
+
+
+ 
+18 
+ 
+TABLE II. Atomic coordinates for F-substituted NdOBiS2. All occupancies were fixed 
+to 1.  
+*Beq: Equivalent isotropic atomic displacement parameter 
+ 
+Site 
+x 
+y 
+z 
+*Beq (Ǻ2) 
+Bi1 
+1/4 
+1/4 
+0.87407(9) 
+1.253 
+Nd1 
+-1/4 
+-1/4 
+0.59470(14) 
+1.05(5) 
+S1 
+-1/4 
+-1/4 
+0.8800(8) 
+1.69(14) 
+S2 
+1/4 
+1/4 
+0.6860(6) 
+1.06(12) 
+O/F 
+-3/4 
+-1/4 
+1/2 
+0.8(3) 
+
+
+ 
+19 
+ 
+Figure 1  
+1.0 mm 
+
+
+ 
+20 
+ 
+Figure 2  
+CuKα 2θ (deg) 
+Intensity (CPS) 
+(003) 
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+0
+10
+20
+30
+40
+50
+60
+70
+80
+(002) 
+(004) 
+(005) (006) 
+(008) 
+(007) 
+(0010) (0011) 
+
+
+ 
+21 
+ 
+Figure 3 (Color online) 
+Nd 
+O 
+S 
+Bi 
+c 
+a 
+
+
+ 
+22 
+ 
+Figure 4  
+-0.05
+-0.04
+-0.03
+-0.02
+-0.01
+0
+0.01
+0
+5
+10
+15
+20
+T (K) 
+Magnetic susceptibility (emu/g) 
+H : 10 Oe 
+FC 
+ZFC 
+H//ab-plane 
+
+
+ 
+23 
+ 
+ 
+ 
+Figure 5  
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+0
+50
+100
+150
+200
+250
+300
+T (K) 
+ρab (mΩcm) 
+Tc
+onset
+ : 5.5 K 
+Tc
+zero
+ : 5.0 K 
+J : 0.49 A/cm2 
+T (K) 
+ρab (mΩcm) 
+0
+0.2
+0.4
+0.6
+0.8
+1
+4
+5
+6
+
+
+ 
+24 
+ 
+ 
+Figure 6 (Color online) 
+0
+0.2
+0.4
+0.6
+0.8
+1
+0
+2
+4
+6
+8
+10
+J : 0.49 A/cm2 
+ρab (mΩcm) 
+T (K) 
+H//ab-plane 
+(a) 
+9.0 T 
+7.0 T 
+5.0 T 
+3.0 T 
+2.5 T 
+2.0 T 
+1.5 T 
+0.1-1.0 T 
+0 T 
+0
+0.2
+0.4
+0.6
+0.8
+1
+0
+2
+4
+6
+8
+10
+J : 0.49 A/cm2 
+ρab (mΩcm) 
+H//c-axis 
+T (K) 
+(b) 
+0.9-9.0 T 
+0.4 T 
+0.8 T 
+0.7 T 
+0.5 T 
+0.6 T 
+0.3 T 
+0.2 T 
+0.1 T 
+0 T 
+
+
+ 
+25 
+ 
+ 
+0
+10
+20
+30
+40
+50
+0
+1
+2
+3
+4
+5
+6
+T (K) 
+H(T) 
+Tc
+onset (H//ab-plane) 
+42 T 
+T (K) 
+H(T) 
+Tc
+onset (H//c-axis) 
+Tc
+zero (H//c-axis) 
+Tc
+zero (H//ab-plane) 
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+16 T 
+1.3 T 
+0.64 T 
+Figure 7  
+
+
+ 
+26 
+ 
+ 
+○:0.1T 
+●:0.2T 
+■:0.3T 
+▲:0.4T 
+▼:0.5T 
+●:0.6T 
+■:0.7T 
+▲:0.8T 
+▼:0.9T 
+●:1.0T 
+■:1.5T 
+▲:2.0T 
+▼:2.5T 
+●:3.0T 
+■:5.0T 
+▲:7.0T 
+▼:9.0T 
+ρab (mΩcm) 
+θ (deg) 
+H//c-axis 
+at 3.0 K 
+J : 0.49 A/cm2 
+0
+0.2
+0.4
+0.6
+0.8
+1
+0
+50
+100
+150
+200
+H//ab-plane 
+H//ab-plane 
+Figure 8 (Color) 
+
+
+ 
+27 
+ 
+ 
+ 
+Figure 9 (Color) 
+0
+0.2
+0.4
+0.6
+0.8
+1
+0.01
+0.1
+1
+10
+ρab (mΩcm) 
+Hred (T) 
+ρab (mΩcm) 
+at 3.0 K 
+γs : 30 
+(a) 
+(b) 
+Hred (T) 
+H = 0.1-9.0 T 
+○:0.1T 
+●:0.2T 
+■:0.3T 
+▲:0.4T 
+▼:0.5T 
+●:0.6T 
+■:0.7T 
+▲:0.8T 
+▼:0.9T 
+●:1.0T 
+■:1.5T 
+▲:2.0T 
+▼:2.5T 
+●:3.0T 
+■:5.0T 
+▲:7.0T 
+▼:9.0T 
+0
+0.2
+0.4
+0.6
+0.8
+1
+0.01
+0.1
+1
+10
+H = 0.1-1.0 T 
+γs : 9 
+○:0.1T 
+●:0.2T 
+■:0.3T 
+▲:0.4T 
+▼:0.5T 
+●:0.6T 
+■:0.7T 
+▲:0.8T 
+▼:0.9T 
+●:1.0T 
+at 3.0 K 
+
+

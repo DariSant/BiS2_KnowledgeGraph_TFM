@@ -1,0 +1,427 @@
+1 
+ 
+Novel BiS2-based layered superconductor Bi4O4S3 
+ 
+Yoshikazu Mizuguchi1,4,*, Hiroshi Fujihisa2, Yoshito Gotoh2, Katsuhiro Suzuki3, 
+Hidetomo Usui3, Kazuhiko Kuroki3, Satoshi Demura4, Yoshihiko Takano4, Hiroki 
+Izawa1, Osuke Miura1 
+ 
+1. Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, 
+1-1, Minami-osawa, Hachioji, Tokyo 192-0397, Japan. 
+2. National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba 
+Central 5, 1-1-1, Higashi, Tsukuba 305-8565, Japan. 
+3. Department of Engineering Science, The University of Electro-Communications, 
+1-5-1 Chofugaoka, Chofu, Tokyo 182-8585, Japan. 
+4. National Institute for Materials Science, 1-2-1, Sengen, Tsukuba 305-0047, Japan. 
+ 
+ 
+[Contact information] 
+*Corresponding author: Yoshikazu Mizuguchi 
+ Affiliation: Tokyo Metropolitan University 
+ E-mail: mizugu@tmu.ac.jp 
+ Address: 1-1, Minami-osawa, Hachioji, 192-0397, Japan 
+
+
+2 
+ 
+Exotic superconductivity has often been discovered in materials with a 
+layered (two-dimensional) crystal structure. The low dimensionality can affect the 
+electronic structure and can realize high transition temperatures (Tc) and/or 
+unconventional superconductivity mechanisms. As standard examples, we now 
+have two types of high-Tc superconductors. The first group is the Cu-oxide 
+superconductors whose crystal structure is basically composed of a stacking of 
+spacer (blocking) layers and superconducting CuO2 layers.1-4 The second group is 
+the Fe-based superconductors which also possess a stacking structure of spacer 
+layers and superconducting Fe2An2 (An = P, As, Se, Te) layers.5-13 In both systems, 
+dramatic enhancements of Tc are achieved by optimizing the spacer layer structure, 
+for instance, a variety of composing elements, spacer thickness, and carrier doping 
+levels with respect to the superconducting layers. In this respect, to realize 
+higher-Tc superconductivity, other than Cu-oxide and Fe-based superconductors, 
+the discovery of a new prototype of layered superconductors needs to be achieved. 
+Here we show superconductivity in a new bismuth-oxysulfide layered compound 
+Bi4O4S3. Crystal structure analysis indicates that this superconductor has a layered 
+structure composed of stacking of Bi4O4(SO4)1-x and Bi2S4 layers; the parent 
+compound (x = 0) is Bi6O8S5. Band calculation suggests that Bi4O4S3 (x = 0.5) is 
+metallic while Bi6O8S5 (x = 0) is a band insulator with Bi3+. Furthermore, the Fermi 
+level for Bi4O4S3 is just on the peak position of the partial density of states of the Bi 
+6p orbital within the BiS2 layer. The BiS2 layer is a basic structure which provides 
+another universality class for layered superconducting family, and this opens up a 
+new field in the physics and chemistry of low-dimensional superconductors. 
+
+
+3 
+ 
+In the 100 years since the discovery of superconductivity, many 
+superconductors have been discovered. In the early stages, new superconductors had 
+been found in metallic compounds such as Nb-Ti alloy and Nb3Sn. In 1986, Bednorz 
+and Müller reported high-Tc superconductivity in (La,Ba)2CuO4 at 30K.1 After this 
+discovery, a dramatic increase of Tc was achieved by optimizing the spacer layers and 
+the number of CuO2 planes, for example in YBa2Cu3Ox (Tc > 90 K), Bi2Sr2Ca2Cu3Ox (Tc 
+> 110 K) and HgBa2Ca2Cu3Ox (Tc > 130 K).2-4 The high-Tc Cu-oxide (cuprate) 
+superconductors provided us with some strategies to explore new high-Tc 
+superconductors, such as layered (low-dimensional) crystal structures, insulator-metal 
+boundaries, electronic correlations and the correlation between magnetism and 
+superconductivity. 
+After the discovery of the cuprate family, some layered superconductors were 
+discovered. Layered magnesium diboride MgB2 exhibits a comparably high Tc of 39K 
+although it is a simple binary compound.14 Layered nitride HfNCl and ZrNCl are band 
+insulators. However, when electrons are doped by intercalation of ions into the 
+interlayer site, an insulator-metal transition occurs and a superconductivity of Tc > 25 K 
+is achieved.15,16 As in the Hf-nitride superconductor, superconductivity in layered 
+Co-oxide NaxCoO2 is achieved by intercalation of H3O+ ions into the interlayer site.17 
+Most recently, high-Tc superconductivity was discovered in Fe-based compounds. 
+Kamihara and Hosono et al. reported that the antiferromagnetic metal LaFeAsO became 
+superconducting (Tc > 26 K) when the O was partially substituted by F.5 Soon after the 
+discovery, SmFeAsO1-xFx was reported to be a superconductor with Tc > 55 K.6,7 To date, 
+over 50 Fe-based superconductors with a layered structure, basically composed of 
+superconducting layers of Fe-pnictogen (Fe2As2 or Fe2P2) or Fe-chalcogen (Fe2Se2 or 
+Fe2Te2) layers and spacer layers, have been discovered.8-13 As introduced here, 
+discovery of a new layered superconductor provides us with a new research field on 
+physics and chemistry. If a new superconducting layer was discovered, we  have a 
+challenge for increasing Tc or exploring new superconductors by changing the spacer 
+layer or alignment of superconducting and spacer layers. In this letter, we show 
+superconductivity in a new layered superconductor bismuth-oxysulfide Bi4O4S3. 
+Polycrystalline samples of Bi4O4S3 were prepared using a conventional solid 
+state reaction method. Bi2S3, Bi2O3 powders and S grains were ground, pelletized, 
+sealed into an evacuated quartz tube and heated at 510 ºC for 10 h. The product was 
+well-ground, pelletized and annealed at 510 ºC for 10 h in an evacuated quartz tube 
+again. 
+Firstly, we show the physical properties of the new superconductor Bi4O4S3. 
+
+
+4 
+ 
+Figure 1a shows the temperature dependence of magnetic susceptibility () for Bi4O4S3 
+from 10 to 2 K. Both zero-field-cooled (ZFC) and field-cooled (FC) data begins to 
+decrease below 6 K as indicated by an arrow in the inset of fig. 1a. A large diamagnetic 
+signal is observed below 4.5K in the ZFC curve. The value of 4(ZFC) at 2 K exceeds 
+-1, indicating that the shielding volume fraction at 2 K is almost 100 %. Namely, 
+Bi4O4S3 is a bulk superconductor. Figure 1b shows the temperature dependence of 
+resistivity from 300 to 2 K for Bi4O4S3. Resistivity linearly decreases with cooling and 
+begins to drop below ~8.6 K. An enlarged graph is displayed in the inset of fig. 1b. As 
+indicated by an arrow in the inset, below 8.6 K, a decrease of resistivity, corresponding 
+to the onset of superconducting transition, is clearly observed and resistivity reaches 
+zero below 4.5 K. Temperature dependence of resistivity for Bi4O4S3 under magnetic 
+fields up to 5 T is displayed in fig. 1c. The superconducting states are destroyed by 
+applying high magnetic fields. The increase of resistivity with applying magnetic fields 
+would be due to the magnet resistance of impurity phase of Bi. To investigate the 
+temperature - magnetic field phase diagram for superconductivity of Bi4O4S3, we 
+plotted Tc
+onset and Tc
+zero with the respective applied magnetic fields in fig. 1d. The Tc
+onset 
+at high magnetic fields was estimated as indicated by an arrow in the inset of fig. 1d. 
+The Tc
+zero linearly decreases with increasing magnetic field. By a linear extrapolation, 
+the irreversible field 0Hirr(0) is estimated to be ~1 T. The upper critical field 0Hc2(0) 
+was estimated to be ~21 T using the WHH theory,18 which gives 0Hc2(0) = 
+-0.69Tc(d0Hc2 / dT)|Tc, with a sloop of Tc
+onset for H ≥ 1.5 T. To summarize the physical 
+properties of Bi4O4S3, the Tc
+onset and Tc
+zero are 8.6 K and 4.5 K at 0 T, respectively. The 
+broadness of the transition is probably caused by an inhomogeneity of the local 
+structure and/or career doping level. 
+Next, we show the crystal structure obtained by Rietveld refinement of the 
+powder x-ray diffraction (XRD) pattern and density functional theory (DFT) 
+calculations. At first, by indexing the observed peaks except for small peaks of impurity 
+phases of Bi2S3 and Bi, we obtained the I-centered tetragonal lattice with lattice 
+parameters of a = 3.9592(1) and c = 41.241(1) Å. The extinction rule suggested that the 
+I4/mmm and I-42m space groups were the candidates. By fitting the XRD pattern with 
+only Bi atoms at the Bi1, Bi2 and Bi3 sites in Table 1, the reliability factor of Rwp = 
+26.5 % was obtained. Furthermore, by adding S atoms at the S1, S2 and S3 sites in 
+Table 1 to the refinement, Rwp = 16.0 % was achieved. Since both models for these 
+space groups are completely identical, we selected higher-symmetric I4/mmm. Because 
+it is difficult to determine the O sites using only XRD data, we performed structural 
+optimization using DFT calculations. Additionally, we have confirmed the structural 
+
+
+5 
+ 
+stability using molecular dynamics simulation. The atomic positions of Bi and S, 
+determined by the XRD pattern, were only stable when the SO4 ions occupied z = 0 and 
+0.5. By using the structural model, we performed Rietveld refinement. Figure 2a shows 
+the XRD pattern of this sample and the result of Rietveld refinement (Rwp = 14.41 %). 
+The obtained atomic parameters and the site occupancy are summarized in Table 1. As 
+shown in Fig. 2b, the XRD pattern is well-fitted at high angle region. A schematic 
+image of the final crystal structure is shown in Fig. 2c. The layered structure is 
+composed of Bi2S4 layers, Bi2O2 layers and SO4. The fluorite-type Bi2O2 layer is one of 
+the well-known layers in the I4/mmm or P4/nmm tetragonal layered structures. In fact, 
+Bi2O2SO4 is a known compound. The rock-salt-type Bi2S4 layer structure has been 
+found only in ReOBiS2 (Re = Ce, Gd and Dy) with the P4/nmm space group.19 Figure 
+2d is a schematic image of the Bi2S4 layer projected along the c axis. The Bi and S 
+atoms form square lattices. When all the sites are fully occupied, the atomic 
+composition should be Bi6O8S5, namely Bi6O4S4(SO4). If the occupancy of the SO4 site 
+is 50 %, the composition is Bi4O4S3. Therefore, we speculate that there are defects at the 
+SO4 site in our Bi4O4S3 superconducting sample, because defects of molecules or ions at 
+the interlayer site are often observed in layered compounds.  
+Finally, we discuss the band structure of the present material. It is found that 
+Bi4O4S3 (x = 0.5) is metallic while Bi6O8S5 (x = 0) is band insulator with Bi3+. Figure 3 
+shows the band structure for x = 0.5 (Bi4O4S3) obtained using the Wien2k package 
+adopting the lattice structure obtained as above.20 The Fermi level lies within the bands 
+which mainly originate from the Bi 6p orbitals. In particular, the Fermi level is just on 
+the peak position of the partial density of states of the Bi 6p orbital within the BiS2 layer. 
+Focusing on the contribution from the BiS2 layer, it is found that the band structure near 
+the Fermi level consists of px and py orbital contributions, which in itself have 
+quasi-one-dimensional nature, but mixes around the R point to result in a two 
+dimensional band structure. The width of these Bi p bands is about 3eV, which is 
+comparable to the width of the 3d bands of the high-Tc cuprates or the iron-based 
+superconductors, and this, along with the low dimensional nature of the band structure 
+suggests that electron correlation effects may be playing some role in the occurrence of 
+superconductivity. 
+As reported here, superconductivity in the new layered superconductor Bi4O4S3 
+is realized within the BiS2 layers upon electron doping. By changing the spacer layers, 
+we will be able to obtain various BiS2-based new superconductors. We believe that the 
+BiS2-based family will open a new field in physics and chemistry for low-dimensional 
+superconductors as have cuprate and Fe-based superconductors. 
+
+
+6 
+ 
+ 
+Methods 
+Polycrystalline samples of Bi4O4S3 were prepared using a conventional solid 
+state reaction method. All the chemicals were purchased from Kojundo Chemical Lab. 
+At first, Bi2S3 was prepared by reacting Bi (99.99% grain) and S (99.9% grain) in an 
+evacuated quartz tube above 500 ºC. Starting materials of Bi2S3, Bi2O3 (99.9% powder) 
+and S were ground, pelletized, sealed into an evacuated quartz tube and heated at 510 ºC 
+for 10 h. The product was well-ground, pelletized and annealed at 510 ºC for 10 h in an 
+evacuated quartz tube again. In the case that the Bi4O4S3 sample was heated above 550 
+ºC, SO2 gas was produced. If you try to synthesize this material, please be careful not to 
+heat the sample sealed in an evacuated tube at high temperature to avoid explosion. 
+Temperature dependence of magnetic susceptibility from 10 to 2 K after both 
+zero-field cooling (ZFC) and fieled cooling (FC) was measured using a superconducting 
+quantum interference device (SQUID) magnetometer with an applied magnetic field of 
+9.3 Oe. Temperature dependence of resistivity from 300 to 2 K was measured using the 
+four terminals method. The Tc
+onset was defined to be a temperature where the resistivity 
+deviates from the linear-extrapolation of normal-state resistivity as shown in the inset of 
+fig. 1b. 
+X-ray diffraction (XRD) pattern was collected by RIGAKU x-ray 
+diffractometer with Cu-K radiation using the 2- method. The diffraction peaks were 
+indexed by the software X-Cell21 of Accelrys, Inc. The initial model of the crystal 
+structure was derived from the software TOPAS of Bruker AXS, Inc. The structure was 
+refined by the Rietveld-analysis program Materials Studio Reflex of Accelrys, Inc. 
+Geometry optimizations were carried out using the density functional theory (DFT) 
+methods with the program Materials Studio CASTEP22 of Accelrys, Inc. The GGA 
+(generalized gradient approximation)–PBEsol (Perdew-Burke-Ernzerhof for solids) 
+exchange-correlation functionals23 and ultrasoft pseudopotentials24 were employed. The 
+energy cutoff for the plane-wave basis set was 380.0 eV. The Monkhorst-Pack grid 
+separation25 was set to approximately 0.04 Å-1. The lattice parameters were set to the 
+experimental values, and the atomic positions were optimized to minimize the total 
+energy. The schematic images of the crystal structure were depicted using VESTA.26 
+Band structure of Bi4O4S3 shown in Fig.3 was calculated using the WIEN2k 
+package.20 GGA-PBEsol exchange-correlation functional was adopted.23 512 k-points 
+and RKmax = 7.0 were taken. The spin-orbit interaction was omitted. 
+
+
+7 
+ 
+ 
+References 
+1. 
+Bednorz, J. G. and Müller, K. A. Possible highTc superconductivity in the 
+Ba−La−Cu−O system. Z. Physik B Condensed Matter 64, 189-193 (1986). 
+2.  
+Wu, M. K. et al. Superconductivity at 93 K in a new mixed-phase Y-Ba-Cu-O 
+compound system at ambient pressure. Phys. Rev. Lett. 58, 908–910 (1987). 
+3.  
+Maeda, H. et al. A New High-Tc Oxide Superconductor without a Rare Earth 
+Element. Jpn. J. Appl. Phys. 27, L209-L210 (1988).   
+4.  
+Schilling, A. et al. Superconductivity above 130 K in the Hg-Ba-Ca-Cu-O 
+system. Nature 363, 56 - 58 (1993). 
+5.  
+Kamihara, Y. et al. Iron-Based Layered Superconductor La[O1-xFx]FeAs (x = 
+0.05−0.12) with Tc = 26 K. J. Am. Chem. Soc. 130, 3296–3297 (2008). 
+6.  
+Chen, X. H. et al. Superconductivity at 43 K in SmFeAsO1-xFx. Nature 453, 
+761-762 (2008). 
+7.  
+Ren, Z. A. et al. Superconductivity at 55 K in Iron-Based F-Doped Layered 
+Quaternary Compound Sm[O1-xFx] FeAs. Chinese Phys. Lett. 25, 2215 (2008). 
+8. 
+Rotter, M., Tegel, M. and Johrendt, D. Superconductivity at 38 K in the Iron 
+Arsenide (Ba1-xKx)Fe2As2. Phys. Rev. Lett. 101, 107006(1-4) (2008). 
+9.  
+Wang, X.C. et al. The superconductivity at 18 K in LiFeAs system. Solid State 
+Commun. 148, 538–540 (2008). 
+10.  
+Hsu, F. C. et al. Superconductivity in the PbO-type structure -FeSe. Proc. 
+Natl. Acad. Sci. U.S.A. 105, 14262–14264 (2008). 
+11.  
+Yeh, K. W. et al. Tellurium substitution effect on superconductivity of the 
+α-phase iron selenide, EPL 84, 37002(p1-4) (2008). 
+12.  
+Mizuguchi, Y. et al. Superconductivity in S-substituted FeTe. Appl. Phys. Lett. 
+94, 012503(1-3) (2009). 
+13.  
+Guo, J. et al. Superconductivity in the iron selenide KxFe2Se2 (0≤x≤1.0). Phys. 
+Rev. B 82, 180520(1-4) (2010). 
+14. 
+Nagamatsu, J. et al. Superconductivity at 39 K in magnesium diboride. Nature 
+410, 63-64 (2001). 
+15. 
+Yamanaka, S., Hotehama, K. and Kawaji, H. Superconductivity at 25.5 K in 
+electron-doped layered hafnium nitride. Nature 392, 580-582 (1998). 
+16. 
+Kawaji, H., Hotehama, K. and Yamanaka, S. Superconductivity of Alkali Metal 
+Intercalated β-Zirconium Nitride Chloride, AxZrNCl (A = Li, Na, K). Chem. Mater. 9, 
+2127–2130 (1997). 
+17. 
+Takada, K. et al. Superconductivity in two-dimensional CoO2 layers. Nature 
+
+
+8 
+ 
+422, 53-55 (2003) 
+18. 
+Werthamer, N. R., Helfand, E. and Hohemberg, P. C. Temperature and Purity 
+Dependence of the Superconducting Critical Field, Hc2. III. Electron Spin and 
+Spin-Orbit Effects. Phys. Rev. 147, 295-302 (1966). 
+19. 
+Tanryverdiev, V. S., Aliev, O. M. and Aliev, I. I. Synthesis and physicochemical 
+properties of LnBiOS2. Inorg. Mater. 31, 1497-1498 (1995). 
+20. 
+Blaha, P. et al. WIEN2K, An Augmented Plane Wave + Local orbitals program 
+for calculating crystal properties, Karlheinz Schwarz, Techn. Universitat, Wien, Austria, 
+2001, ISBN 3-9501031-1-2. 
+21.  
+Neumann, M. A. X-Cell: a novel indexing algorithm for routine tasks and 
+difficult cases. J. Appl. Cryst. 36, 356–365 (2003).  
+22. 
+Clark, S. J. et al. First principles methods using CASTEP. Z. Kristallogr. 220, 
+567–570 (2005).  
+23. 
+Perdew, J. P. et al. Restoring the Density-Gradient Expansion for Exchange in 
+Solids and Surfaces. Phys. Rev. Lett. 100, 136406(1-4) (2008). 
+24. 
+Vanderbilt, D. Soft self-consistent pseudopotentials in a generalized eigenvalue 
+formalism. Phys. Rev. B 41, 7892–7895 (1990).  
+25. 
+Monkhorst, H. J. and Pack, J. D. Special points for Brillouin-zone integrations. 
+Phys. Rev. B 13, 5188-5192 (1976).  
+26. 
+Momma, K. and Izumi, F. VESTA: a three-dimensional visualization system 
+for electronic and structural analysis. J. Appl. Cryst. 41, 653-658 (2008). 
+ 
+
+
+9 
+ 
+Acknowledgements 
+The authors would like to thank Dr. S. J. Denholme, Dr. T. Yamaguchi 
+(National Institute for Materials Science) and Dr. H. Takatsu (Tokyo Metropolitan 
+University) for their experimental helps and fruitful discussion. This work was partly 
+supported by Grant-in-Aid for Scientific Research (KAKENHI) and JST-EU-JAPAN 
+project on superconductivity. 
+ 
+ 
+Author Contributions 
+Y.M., H.I. and O.M. synthesized Bi4O4S3 superconducting samples, performed 
+XRD, and measured magnetic properties. H.F. and Y.G. performed crystal structure 
+analysis. Y.M., S.D. and Y.T. measured transport properties. K.S., H.U. and K.K. 
+performed band calculations. Y.M. prepared the manuscript with input from all authors. 
+ 
+ 
+Author Information 
+ 
+Correspondence and requests for materials should be addressed to Y.M. 
+(mizugu@tmu.ac.jp). 
+
+
+10 
+ 
+Table 1. Structural parameters of Bi6O4S4(SO4)1-x (x = 0) obtained by Rietveld 
+refinement. 
+ 
+site 
+x 
+y 
+z 
+occupancy
+Bi1 
+0 
+0 
+0.0576(1) 
+1 
+Bi2 
+0 
+0 
+0.2082(1) 
+1 
+Bi3 
+0 
+0 
+0.3810(1) 
+1 
+S1 
+0 
+0 
+0.1410(3) 
+1 
+S2 
+0 
+0 
+0.2868(4) 
+1 
+S3 
+0 
+0 
+0.5 
+1 
+O1 
+0 
+0.5 
+0.0884(fixed)
+1 
+O2 
+0 
+0.3053(fixed)
+0.4793(fixed)
+0.5 
+ 
+
+
+11 
+ 
+ 
+ 
+ 
+Fig. 1. Superconducting properties of Bi4O4S3.  a. Temperature dependence of 
+magnetic susceptibility for Bi4O4S3. The inset shows an enlargement of onset of the 
+superconducting (diamagnetic) signal.  b. Temperature dependence of resistivity for 
+Bi4O4S3. The inset is an enlargement of onset of the superconducting transition.  c. 
+Temperature dependence of resistivity for Bi4O4S3 under magnetic fields up to 5 T.  d. 
+Magnetic field-temperature phase diagram in which the onset and zero-resistivity 
+temperatures are plotted. The inset displays an enlarged superconducting transition of 
+the temperature dependence of resistivity at 5 T. 
+ 
+
+
+12 
+ 
+ 
+ 
+Fig. 2. Crystal structure analysis of new superconductor Bi4O4S3.  a. XRD pattern 
+with the result of the Rietveld refinement. The displayed numbers are the Miller indices.  
+b. XRD pattern at high angles.  c. Schematic image of the obtained crystal structure. 
+Purple, yellow and red circles indicate Bi, S and O atoms, respectively. The occupancy 
+of the O2 site (near z = 0 and 0.5) is 0.5. The chemical composition can be described as 
+Bi6O4S4(SO4)1-x when defects of SO4 ions exist. Bi4O4S3 corresponds to x = 0.5 where 
+the site occupancies of S3 and O2 in Table 1 are 0.5 and 0.25, respectively.  d. 
+Schematic image of the BiS2 square lattice (ab plane). 
+ 
+
+
+13 
+ 
+ 
+ 
+Fig. 3. Band structure and Brillouin zone of Bi4O4S3.  a. Left panel: the band 
+structure for x = 0.5. The radius of the circles represent the weight of the Bi 6p orbitals 
+within the BiS2 layer. The blue and red hatches indicate the bands having mainly px and 
+py characters, respectively. Right panel: the partial density of states of the Bi 6p orbital 
+within the BiS2 layer.  b. The Brillouin zone is shown. 
+
+

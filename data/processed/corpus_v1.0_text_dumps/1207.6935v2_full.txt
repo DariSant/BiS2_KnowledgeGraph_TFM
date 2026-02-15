@@ -1,0 +1,626 @@
+arXiv:1207.6935v2  [cond-mat.supr-con]  20 Aug 2012
+Journal of the Physical Society of Japan
+LETTERS
+Pressure Study of BiS2-Based Superconductors
+Bi4O4S3 and La(O,F)BiS2
+Hisashi Kotegawa1 ∗, Yusuke Tomita1, Hideki Tou1, Hiroki Izawa2, Yoshikazu Mizuguchi2,
+Osuke Miura2, Satoshi Demura3, Keita Deguchi3, and Yoshihiko Takano3
+1Department of Physics, Kobe University, Kobe 658-8530, Japan
+2Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, 1-1, Minami-osawa,
+Hachioji, 192-0397, Japan
+3National Institute for Materials Science, 1-2-1, Sengen, Tsukuba 305-0047, Japan
+We report the electrical resistivity measurements under pressure for the recently discovered BiS2-based
+layered superconductors Bi4O4S3 and La(O,F)BiS2. In Bi4O4S3, the transition temperature Tc decreases
+monotonically without a distinct change in the metallic behavior in the normal state. In La(O,F)BiS2,
+on the other hand, Tc initially increases with increasing pressure and then decreases above ∼1 GPa.
+The semiconducting behavior in the normal state is suppressed markedly and monotonically, whereas the
+evolution of Tc is nonlinear. The strong suppression of the semiconducting behavior without doping in
+La(O,F)BiS2 suggests that the Fermi surface is located in the vicinity of some instability. In the present
+study, we elucidate that the superconductivity in the BiS2 layer favors the Fermi surface at the boundary
+between the semiconducting and metallic behaviors.
+KEYWORDS: Bi4O4S3, La(O,F)BiS2, pressure
+The appearance of new superconductors with a BiS2
+layer has opened a new route in the ﬁeld of fascinat-
+ing layered superconductors.1 Soon after the ﬁrst dis-
+covery of superconductivity in Bi4O4S3, another system
+with the same BiS2 layer, La(O,F)BiS2, joined the family
+of this compound.2 The discovery of superconductivity
+in this system is signiﬁcant in many aspects, because it
+gives an opportunity for wide and thorough investiga-
+tions using a variety of related materials possessing the
+BiS2 layer along with the possible substitution of rare-
+earth ions as well as Fe-based superconductors. In fact,
+isostructural Nd(O,F)BiS2 has also shown superconduc-
+tivity.3 This derivative ﬁnding revealed that the super-
+conductivity occurring in the BiS2 layer is robust against
+magnetic elements. For either Bi4O4S3 and La(O,F)BiS2,
+superconductivity can be obtained by carrier (electron)
+doping into the band insulators Bi6O8S5 or LaOBiS2.
+The band calculation for the composition Bi4O4S3 sug-
+gests that the Fermi level is located at the peak of the
+density of states, which mainly originates from the Bi
+6p orbitals.1 LaOBiS2 also has a similar band structure,
+and the F-doping of x = 0.5 corresponds to the Fermi
+level with a high density of states in the rigid band pic-
+ture.4 An important suggestion by the band calculations
+is that the bands possess a quasi-one-dimensional char-
+acter, which originates from the diﬀerence in the con-
+tribution between the px and py orbitals, for both com-
+pounds. This gives a good nesting property, suggestive of
+the importance of electron correlations for superconduc-
+tivity.1, 4 Another notable point is that the Fermi level
+for the nominal composition is located in the vicinity of
+the topological change in the Fermi surface.4 If this su-
+perconductivity originates from the electric correlation,
+this suggests that the superconducting (SC) symmetry
+∗E-mail address: kotegawa@crystal.kobe-u.ac.jp
+can change depending on the doping level.4
+Among the three compounds discovered thus far, the
+maximum Tc is ∼10 K for La(O,F)BiS2. It is an in-
+triguing issue how a high Tc is possible in the BiS2 layer.
+The doping dependence of Tc has been investigated in
+Nd(O,F)BiS2, and the peak of Tc appears at x = 0.3
+although it is not so sensitive to the doping level.3 In
+addition to the change in the doping level, the struc-
+tural compression by applying pressure is also an eﬀec-
+tive method of exploring the optimized condition for su-
+perconductivity. The lattice constants at ambient pres-
+sure are diﬀerent among the compounds: a = 3.9592 ˚A
+for Bi4O4S3 and a = 4.0527 ˚A for La(O,F)BiS2.1, 2 Tc
+is twofold higher in La(O,F)BiS2 than in Bi4O4S3. This
+suggests that the lattice parameter is an important factor
+for superconductivity.
+A polycrystalline sample of Bi4O4S3 was prepared by
+the solid-state reaction method,1 while a polycrystalline
+sample of LaO0.5F0.5BiS2 was obtained by a two-step
+process including high-pressure annealing.2 The compo-
+sition expressed here is a nominal one for both com-
+pounds. Electrical resistivity (ρ) measurement at high
+pressures of up to ∼4 GPa was carried out using an
+indenter cell.5 It was measured by a four-probe method
+using silver paint for contact. We used Daphne 7474 as
+a pressure-transmitting medium.6 The applied pressure
+was estimated from the Tc of the lead manometer. The
+present sample of Bi4O4S3 contains Bi as an impurity,
+and it shows superconductivity above 2.55 GPa accom-
+panied by a structural phase transition. We applied pres-
+sure of above 2 GPa to Bi4O4S3, but it obstructs the
+evaluation of Tc intrinsic to Bi4O4S3; thus we omitted
+the data from this paper.
+Figures 1(a) and (b) show the temperature dependence
+of resistivity for Bi4O4S3 at pressures of up to 1.92 GPa.
+The metallic behavior with a gradual temperature varia-
+1
+
+
+J. Phys. Soc. Jpn.
+LETTERS
+0
+50
+100
+150
+200
+250
+300
+0.0
+0.5
+1.0
+1.5
+ 
+ 
+ 0 GPa
+ 0.43
+ 1.08
+ 1.92
+ (m
+cm)
+Tem perature (K)
+Bi
+4
+O
+4
+S
+3
+(a)
+0
+2
+4
+6
+8
+0.0
+0.5
+1.0
+1.5
+T
+ zero
+c
+Bi
+4
+O
+4
+S
+3
+ 
+ 
+ 0 GPa
+ 0.43
+ 1.08
+ 1.92
+ (m
+cm)
+Tem perature (K)
+(b)
+T
+ onset
+c
+Fig. 1.
+(color online) (a) Temperature dependence of resistivity
+for Bi4O4S3 under pressure. It shows the metallic behavior in the
+normal state, which is not sensitive to pressure. (b) Resistivity
+at low temperatures. Tc decreases monotonically with increasing
+pressure. We could not evaluate the intrinsic Tc above 2.5 GPa
+because of the superconductivity of the Bi impurity.
+tion is insensitive to pressure. This behavior in the resis-
+tivity might be aﬀected by the contribution of impurity
+phases; however, similar behavior is observed in the dif-
+ferent samples synthesized by other groups.7–9 On the
+other hand, the evolution of Tc is noteworthy. As shown
+in Fig. 1(b), it decreases sensitively under pressure. If
+we determine T onset
+c
+and T zero
+c
+as shown in the ﬁgure,
+T onset
+c
+∼4.6 K at ambient pressure decreases to 2.9 K
+at 1.92 GPa. The pressure dependences of T onset
+c
+and
+T zero
+c
+are shown in Fig. 2. It is clear that Tc decreases
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+0
+1
+2
+3
+4
+5
+T
+ zero
+c
+ 
+ 
+Bi
+4
+O
+4
+S
+3
+T (K)
+P (GPa)
+T
+ onset
+c
+Fig. 2.
+Pressure dependences of T onset
+c
+and T zero
+c
+. Supercon-
+ductivity for Bi4O4S3 is suppressed under pressure.
+monotonically. The initial slope is estimated to be −1.1
+K/GPa.
+0
+50
+100
+150
+200
+250
+300
+0
+2
+4
+6
+ 
+ 
+La(O
+0.5
+F
+0.5
+)BiS
+2
+ (m
+ cm)
+Tem perature (K)
+ 0 GPa
+ 0.20
+ 1.16
+ 1.86
+ 2.62
+ 3.40
+ 4.02
+(a)
+6
+7
+8
+9
+10
+11
+12
+13
+14
+0
+2
+4
+6
+8
+T
+ zero
+c
+ 
+ 
+La(O
+0.5
+F
+0.5
+)BiS
+2
+ (m
+ cm)
+Tem perature (K)
+ 0 GPa
+ 0.20
+ 1.16
+ 1.86
+ 2.62
+ 3.40
+ 4.02
+T
+ onset
+c
+(b)
+Fig. 3.
+(color online) (a) Temperature dependence of resis-
+tivity for LaO0.5F0.5BiS2 under pressure. Semiconducting be-
+havior is markedly suppressed with increasing pressure. Almost
+temperature-independent behavior is observed at ∼4 GPa. (b)
+Resistivity at low temperatures. Tc initially increases and then de-
+creases gradually above 1 GPa.
+Figure 3(a) shows the temperature dependence of re-
+sistivity for La(O,F)BiS2 below 300 K measured at sev-
+eral pressures of up to ∼4 GPa. It shows semiconduct-
+ing behavior at ambient pressure in contrast to that
+for Bi4O4S3. This semiconducting behavior is extremely
+sensitive to pressure and is suppressed under pressure.
+We cannot see the obvious semiconducting behavior at
+∼4 GPa, at which resistivity is almost temperature-
+independent, which seems to be produced by the compa-
+rable contributions of phonon scattering and the semi-
+conducting behavior. Figure 3(b) shows the data near Tc
+at low temperatures. Tc evidently increases by applying
+pressure up to ∼1 GPa, however, it then decreases above
+∼1 GPa. Both T onset
+c
+and T zero
+c
+, which are determined
+as shown in the ﬁgure, have maxima at approximately 1
+GPa; T onset
+c
+= 10.5 K and T zero
+c
+= 10.0 K.
+We attempted to estimate the energy gap assum-
+ing that the semiconducting behavior in LaO0.5F0.5BiS2
+originates in the small gap in the band structure. Figure
+4 shows a semi-logarithmic plot for ρ vs 1/T up to 2.62
+GPa. The lines in the ﬁgure correspond to the simple
+activation-type relation ρ ∝exp(∆1,2/kBT ). As seen in
+the ﬁgure, the ﬁtting by a single gap is impossible in the
+2
+
+
+J. Phys. Soc. Jpn.
+LETTERS
+0.00
+0.05
+0.10
+0.15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2
+/k
+B
+ = 1.86 K
+1.86
+1.16
+0.20
+La(O
+0.5
+F
+0.5
+)BiS
+2
+ 
+ 
+ (m
+ cm)
+1/T (1/K)
+0 GPa
+1
+/k
+B
+ = 140 K
+Fig. 4.
+(color online) ρ vs 1/T up to 1.86 GPa. The solid lines
+give simple activation-type temperature dependences. The respec-
+tive gaps ∆1 and ∆2 are estimated at high and low temperatures.
+whole temperature range. ∆1 is estimated from the ﬁt-
+ting in the temperature range of 200 −300 K, while ∆2
+is obtained in the temperature range between ∼20 K
+and Tc. Here, we neglected the contribution of scattering
+by phonons, but it is comparable to the semiconducting
+behavior at higher pressures; thus, the estimation of ∆1,2
+above 2 GPa was not carried out. The gap sizes are es-
+timated to be ∆1/kB ∼140 K and ∆2/kB ∼1.86 K at
+ambient pressure. The slopes of both lines in the ﬁgure
+gradually decrease and the semiconducting behavior is
+suppressed with increasing pressure.
+Figure 5 shows the pressure dependences of T onset
+c
+and
+T zero
+c
+for La(O,F)BiS2, the pressure dependence of ρ at
+11 K just above Tc, and the tentatively estimated en-
+ergy gaps ∆1,2. The high resistivity at low temperatures
+induced by the semiconducting behavior is markedly sup-
+pressed by applying pressure, especially up to ∼1 GPa.
+The decrease in ∆1,2 is monotonic. Tc initially shows a
+steep increase; however, it gradually decreases above ∼1
+GPa. The slope above ∼1 GPa is ∼−0.4 GPa/K. The
+highest Tc obtained at 0.5−1 GPa is achieved just after a
+large suppression of the semiconducting behavior, and Tc
+monotonically decreases upon approaching the metallic
+region.
+We ﬁrst discuss the origin of the strong suppression of
+the semiconducting behavior in La(O,F)BiS2 under pres-
+sure. When we consider the present pressure eﬀect along
+with the calculated band structure,1, 4 we encounter a
+problem with the actual doping level of electrons. The
+band calculation based on the nominal composition has
+indicated that the Fermi energy is located at the peak
+position of the density of states in Bi4O4S3.1 A high
+density of states at the Fermi level is also expected in
+LaO0.5F0.5BiS2 for the nominal composition.4 Case 1 in
+Fig. 6 corresponds to the Fermi level close to the es-
+timation from the nominal composition. If the Fermi
+0
+1
+2
+3
+4
+5
+7
+8
+9
+10
+11
+0
+2
+4
+6
+8
+0
+1
+2
+3
+(c)
+(b)
+T
+ zero
+c
+ 
+ 
+T
+ onset
+c
+T (K)
+P (GPa)
+La(O
+0.5
+F
+0.5
+)BiS
+2
+(a)
+(11 K) (m
+ cm)
+ 
+2
+ 
+/k
+B
+ (K)
+1
+ / 50
+Fig. 5.
+(color online) (a) Pressure dependences of T onset
+c
+and
+T zero
+c
+for LaO0.5F0.5BiS2. Tc initially increases with a relatively
+large slope and decreases above ∼1 GPa. Pressure dependence
+of (b) tentatively estimated gaps and (c) ρ at 11 K just above
+Tc. The high resistivity induced by the semiconducting behavior is
+suppressed by applying pressure.
+level only crosses the lower band near (π, 0), and the
+upper band decreases relatively under pressure, then the
+change in the Fermi surface will give a large evolution
+of the resistivity. However this will be in contradiction
+to the semiconducting behavior in LaO0.5F0.5BiS2 be-
+cause the Fermi surface is well established for the dop-
+ing level of 0.5 electrons/unit cell. If the semiconducting
+behavior originates from the thermal change in carrier
+density, it is naturally conjectured that the carrier den-
+sity in LaO0.5F0.5BiS2 is much lower than that expected
+from the nominal composition, and that the Fermi level
+is most likely close to the edge of the conduction band.
+Here, we conjecture possible origin of the band gap or gap
+like behavior that explain the semiconducting behavior.
+The ﬁrst one is the original band gap between the con-
+duction band and the valence band. In the band structure
+of undoped LaOBiS2,4 the band gap is estimated to be
+∼0.4 eV, but this tends to be reduced owing to the struc-
+tural change by F doping, giving a semi metal-like band
+structure, as shown in Fig. 6.10 If the band gap is already
+small at ambient pressure, thermal excitation from the
+valence band, which is mainly formed by oxygen orbitals,
+into the conduction band is possible within the observed
+temperature range. Pressure may help to close the band
+gap. The second origin is the energy gap between the
+conduction band and the impurity level originating from
+the insuﬃcient doping, as shown in Fig. 6 (Case 2). The
+third origin is the thermal hopping in the impurity level,
+3
+
+
+J. Phys. Soc. Jpn.
+LETTERS
+(0,0)
+(π,π)
+(π,0)
+E
+EF
+Case 1
+impurity level
+(0,0)
+(π,π)
+(π,0)
+EF
+Case 2
+P
+E
+Fig. 6.
+(color online) Schematic band structures based on cal-
+culation for LaOBiS2.4 In Case 1, the Fermi level is located near
+the position estimated from the nominal composition. The marked
+change in the resistivity under pressure might be explained by the
+topological change in the Fermi surface, but it is diﬃcult to ex-
+plain the semiconducting behavior. In Case 2, conduction is mainly
+governed by the impurity level or band. Pressure promotes the for-
+mation of the impurity band or the overlap of the impurity and
+conduction bands.
+which gives gap like behavior. The semiconducting be-
+havior is robust against magnetic ﬁeld up to 5 T;2 thus,
+the tentatively estimated small gap ∆2 might not orig-
+inate from a pure band-gap but be attributed in such
+thermal hopping in Case 2 scenario. Quantitative discus-
+sion is diﬃcult at present; however, the semiconducting
+behavior in LaOBiS2 seems to suggest the presence of an
+impurity level. In such a case, it can be conjectured that
+applying pressure promotes the formation of the impu-
+rity band or the overlap of the impurity and conduction
+bands, resulting in a decrease in the gaps.
+Next, we discuss superconductivity in the BiS2-based
+systems. The present pressure experiments suggest that
+a high Tc is obtained at the boundary between the semi-
+conducting and metallic behaviors: Tc in semiconduct-
+ing LaO0.5F0.5BiS2 is twofold higher than that in metal-
+lic Bi4O4S3, and once metallic behavior appears, Tc de-
+creases monotonically as seen in LaO0.5F0.5BiS2 above
+∼1 GPa and in Bi4O4S3 from ambient pressure. Simi-
+larly, in the isostructural NdO1−xFxBiS2, Tc is not sen-
+sitive to the doping level but its maximum is obtained
+at x = 0.3 at which slight semiconducting behavior is
+observed.3 These suggest that a high density of states is
+not important for a high Tc in these systems. The situ-
+ation for achieving a high Tc is reminiscent of the dop-
+ing dependence of LixZrNCl, whose electronic speciﬁc
+heat coeﬃcient is γ ∼1 mJ/molK2.11 Tc in LixZrNCl
+increases signiﬁcantly upon approaching the band insu-
+lator.12 The highest Tc in LixZrNCl is achieved when re-
+sistivity shows almost temperature-independent behav-
+ior. The evolution of Tc against the doping level cannot
+be explained by the framework of phonon-mediated su-
+perconductivity,13 and can be interpreted by the nest-
+ing scenario.14 If the Fermi surface is well established by
+suﬃcient doping in the BiS2-based system, the nesting
+scenario is a good candidate;4 if not, other mechanisms
+might be required.
+In summary, we have measured the electrical resis-
+tivity under pressure for the BiS2 based layered super-
+conductors Bi4O4S3 and LaO0.5F0.5BiS2. Tc in metallic
+Bi4O4S3 decreases monotonically with increasing pres-
+sure, whereas Tc in semiconducting LaO0.5F0.5BiS2 ini-
+tially increases and then decreases upon approaching the
+metallic region. The strong suppression of the semicon-
+ducting behavior in LaO0.5F0.5BiS2 suggests that the
+Fermi surface is in the vicinity of some instability. It is
+plausible that the Fermi level is located near the edge of
+the conduction band. This indicates that superconduc-
+tivity is realized in the complex Fermi surface includ-
+ing the impurity band with a low carrier density and a
+low density of states, and it rather provides beneﬁt for
+achieving a higher Tc.
+Acknowledgement
+The authors thank Yuki Shimizu for experimental sup-
+port, and Kazuhiko Kuroki and Hisatomo Harima for
+helpful discussions. This work has been partially sup-
+ported by Grants-in-Aid for Scientiﬁc Research (Nos.
+22340102, 20102005, and 24340085 from the Ministry
+of Education, Culture, Sports, Science and Technology
+(MEXT) of Japan.
+1) Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui,
+K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O Miura:
+arXiv:1207.3145 (2012).
+2) Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa,
+Y. Gotoh, H. Izawa, and O. Miura: arXiv:1207.3558. (2012).
+3) S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T.
+Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa,
+Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano:
+arXiv:1207.5248 (2012).
+4) H. Usui, K. Suzuki, and K. Kuroki: arXiv:1207.3888 (2012).
+5) T. C. Kobayashi, H. Hidaka, H. Kotegawa, K. Fujiwara, and
+M. I. Eremets: Rev. Sci. Instrum. 78 (2007) 023909.
+6) K. Murata, K. Yokogawa, H. Yoshino, S. Klotz, P. Munsch,
+A. Irizawa, M. Nishiyama, K. Iizuka, T. Nanba, T. Okada, Y.
+Shiraga, and S. Aoyama: Rev. Sci. Instrum. 79 (2008) 085101.
+7) S.Li, H.Yang, J.Tao, X.Ding, and H.-H Wen: arXiv:1207.4955
+(2012).
+8) S. G. Tan, L. J. Li, Y. Liu, P. Tong, B. C. Zhao, W. J. Lu, and
+Y. P. Sun: arXiv:1207.5395 (2012).
+9) S. K. Singh, A. Kumar, B. Gahtori, Shruti, G. Sharma, S.
+Patnaik, and V. P. S. Awana: arXiv:1207.5428 (2012).
+10) K. Kuroki: private communication.
+11) Y. Taguchi, M. Hisakabe, and Y. Iwasa: Phys. Rev. Lett. 94
+(2005) 217002.
+12) Y. Taguchi, A. Kitora, and Y. Iwasa: Phys. Rev. Lett. 97 (2006)
+107001.
+13) R. Akashi,
+K. Nakamura,
+R. Arita,
+and
+M. Imada:
+arXiv:1203.6487 (2012).
+14) K. Kuroki: Phys. Rev. B 81 (2010) 104502.
+4
+
+

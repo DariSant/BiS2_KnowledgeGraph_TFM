@@ -1,0 +1,549 @@
+## GEMMA 2 9B IT V1 INFERENCE
+
+--- 🔴 START GENERATION FOR: 1508.04820v1_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "The text describes a theoretical study of BiS2 superconductivity. It mentions the importance of the Sulfur s-orbital and the use of a 1D model. It discusses different pairing types (s- and pb, pa- and pb) and the impact of hopping parameters (tsp and tpp) on superconductivity. No specific experimental data is provided.",
+  "source_meta": { "source_id": "1508.04820v1_v3_ext.txt", "primary_material_family": "BiS2" },
+  "extracted_samples": [],
+  "general_conclusions": []
+}
+```
+
+--- 🟢 END GENERATION FOR: 1508.04820v1_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 1210.1305v1_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "The text is a review and does not contain specific synthesis or measurement data for BiS2-based superconductors. It discusses general properties and trends in chalcogenide superconductors, focusing on Fe-based and BiS2-based systems. The text highlights the importance of the BiS2 layer for superconductivity, comparing it to CuO2 planes in cuprates and FeAn layers in Fe-based superconductors.",
+  "source_meta": {
+    "source_id": "1210.1305v1_v3_ext.txt",
+    "primary_material_family": "BiS2-based Superconductors"
+  },
+  "extracted_samples": [],
+  "general_conclusions": [
+      "The BiS2 layer is likely to play an important role in the superconductivity of BiS2-based materials, similar to the roles of CuO2 planes in cuprates and FeAn layers in Fe-based superconductors.",
+      "Unidentified exotic chalcogenide superconductors are expected to be discovered in the future."
+    ]
+}
+```
+
+--- 🟢 END GENERATION FOR: 1210.1305v1_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 1409.2189v2_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "Found LaOBiS2-xSex system.  Thermal conductivity is almost independent of temperature and Se concentration.  ZT increases with temperature, peaking at 0.17 for LaOBiS1.2Se0.8 at 470C.  The text suggests tuning carrier concentration and/or local structure for further improvement.",
+  "source_meta": { "source_id": "1409.2189v2_v3_ext.txt", "primary_material_family": "LaOBiS2-xSex" },
+  "extracted_samples": [
+    {
+      "formula": "LaOBiS2",
+      "synthesis_profile": { "method": "Unknown" },
+      "superconducting_status": "Unknown",
+      "measurements": [
+        {
+          "measurement_type": "Thermal Conductivity",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "generic_value": { "property_name": "Thermal Conductivity", "value": 2, "unit": "W/m·K" }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "LaOBiSSe",
+      "synthesis_profile": { "method": "Unknown" },
+      "superconducting_status": "Unknown",
+      "measurements": [
+        {
+          "measurement_type": "Thermal Conductivity",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "generic_value": { "property_name": "Thermal Conductivity", "value": 2, "unit": "W/m·K" }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "LaOBiS1.2Se0.8",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": { "single_value": 0.8 }
+        }
+      ],
+      "synthesis_profile": { "method": "Unknown" },
+      "superconducting_status": "Unknown",
+      "measurements": [
+        {
+          "measurement_type": "Thermoelectric",
+          "conditions": { "temperature_K": 743 },
+          "data": {
+            "generic_value": { "property_name": "ZT", "value": 0.17, "unit": "" }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "Partial substitution of S by Se enhances metallic conductivity in LaOBiS2-xSex.",
+    "The power factor increases with increasing Se concentration.",
+    "Thermal conductivity is independent of temperature and Se concentration.",
+    "The highest ZT is 0.17 for x = 0.8 (LaOBiS1.2Se0.8) at 470 ºC.",
+    "Tuning of carrier concentration and/or local structure is needed to further enhance thermoelectric performance."
+  ]
+}
+```
+
+--- 🟢 END GENERATION FOR: 1409.2189v2_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 2001.07928v1_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "Found material CeOBiS2-xSex. Synthesis method is solid-state reaction.  Tc=3K for x=0.6.  XRD and Rietveld analysis show in-plane chemical pressure is enhanced and in-plane disorder is suppressed by Se substitution. BVS calculation shows Ce valence decreases with Se substitution.  Electrical resistivity measurements show zero resistivity for x=0.2-0.8, with highest Tc at x=0.6.",
+  "source_meta": { "source_id": "2001.07928v1_v3_ext.txt", "primary_material_family": "CeOBiS2-xSex" },
+  "extracted_samples": [
+    {
+      "formula": "CeOBiS2-xSex",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": { "variable_name": "x", "min_value": 0.0, "max_value": 1.0 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction" },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "superconducting_transition": { "tc_onset": 3 }
+          }
+        },
+        {
+          "measurement_type": "Electrical Resistivity",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "generic_value": { "property_name": "Resistivity", "value": 0, "unit": "Ohm" }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "In-plane chemical pressure is enhanced and in-plane disorder is suppressed by Se substitution.",
+    "The valence of Ce ions decreases by Se substitution.",
+    "CeOBiS1.4Se0.6 superconductor has less disorder in the CeO blocking layer and should be useful for experiments to probe mechanisms of superconductivity in BiCh2-based compounds."
+  ]
+}
+```
+
+
+--- 🟢 END GENERATION FOR: 2001.07928v1_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 1701.07575v1_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "Found material Eu0.5La0.5FBiS2-xSex.  The text describes a new BiS2-based superconductor induced by Se substitution.  The text mentions four structural tendencies: (1) Se occupancy at Ch1 site, (2) correlation between Bi-Ch bond distances and lattice constants, (3) enhancement of in-plane chemical pressure, and (4) suppression of in-plane disorder by Se substitution.",
+  "source_meta": { "source_id": "1701.07575v1_v3_ext.txt", "primary_material_family": "BiS2" },
+  "extracted_samples": [
+    {
+      "formula": "Eu0.5La0.5FBiS2-xSex",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "Bi",
+          "concentration": { "variable_name": "x" }
+        }
+      ],
+      "synthesis_profile": { "method": "Unknown" },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Crystallography",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "lattice_parameters": { "phase_symmetry": "Unknown" }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "The obtained structural parameters suggest four structural tendencies: (1) the selective occupancy of Se at the in-plane Ch1 site, (2) the direct correlation between Bi-Ch bond distances and the lattice constants, (3) the enhancement of the in-plane chemical pressure, and (4) the suppression of the in-plane disorder by Se substitution.",
+    "These results will be useful for understanding the relationship between superconductivity and crystal structure in the BiCh2-based superconductor family."
+  ]
+}
+```
+
+--- 🟢 END GENERATION FOR: 1701.07575v1_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 1712.06815v1_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "Found REO0.5F0.5BiS2 with RE = La, Ce, Pr, Nd.  Bulk superconductivity is induced by smaller RE radius. Lattice constant 'a' and Bi-S1 distance decrease with smaller RE. In-plane S1 disorder decreases with smaller RE.  Tc correlated with S1 vibration along c-axis.",
+  "source_meta": { "source_id": "1712.06815v1_v3_ext.txt", "primary_material_family": "REO0.5F0.5BiS2" },
+  "extracted_samples": [
+    {
+      "formula": "REO0.5F0.5BiS2",
+      "composition_variables": [
+        {
+          "element": "RE",
+          "substituted_element": null,
+          "concentration": { "single_value": null }
+        }
+      ],
+      "synthesis_profile": { "method": "Unknown" },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Crystallography",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "lattice_parameters": {
+              "phase_symmetry": "Unknown",
+              "axis_a_angstrom": null,
+              "axis_c_angstrom": null,
+              "ratio_c_over_a": null
+            }
+          }
+        },
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "superconducting_transition": { "tc_onset": null, "tc_zero": null, "tc_midpoint": null, "tc_peak": null }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "Bulk superconductivity is induced by substitutions with a smaller-radius RE, such as Pr or Nd.",
+    "With the decrease of the RE3+ ionic radius, the lattice constant a and in-plane Bi-S1 distance monotonically decreased, which generated the in-plane chemical pressure effect.",
+    "With the decrease of the RE3+ radius, the in-plane disorder of the S1 sites significantly decreased.",
+    "The analyses of the displacement parameters along the c-axis indicated that the amplitude of the one-dimensional vibration of S1 (or Ch1) along the c-axis was correlated with Tc in the BiCh2-based superconductors.",
+    "The emergence of bulk superconductivity upon the suppression of the in-plane disorder at the Ch1 sites seems to be a universal scenario for the BiCh2-based superconductors."
+  ]
+}
+```
+
+--- 🟢 END GENERATION FOR: 1712.06815v1_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 1404.6359v2_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "Found material NdO0.5F0.5BiS2.  Synthesized using solid state reaction.  Two types of substitutions: S with Se (x=0, 0.1, 0.2) and Bi with Sb (y=0, 0.1, 0.2).  Se substitution: a axis increases, Tc and shielding volume fraction decrease. Sb substitution: c axis decreases, metal-insulator transition observed.",
+  "source_meta": { "source_id": "1404.6359v2_v3_ext.txt", "primary_material_family": "NdO1-xFxBiS2" },
+  "extracted_samples": [
+    {
+      "formula": "NdO0.5F0.5BiS2",
+      "composition_variables": [
+        {
+          "element": "S",
+          "substituted_element": "Se",
+          "concentration": { "min_value": 0, "max_value": 0.2, "variable_name": "x" }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction" },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Structural",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "lattice_parameters": { "phase_symmetry": "Unknown", "axis_a_angstrom": "Unknown", "axis_c_angstrom": "Unknown", "ratio_c_over_a": "Unknown" }
+          }
+        },
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "superconducting_transition": { "tc_onset": "Unknown", "tc_zero": "Unknown", "tc_midpoint": "Unknown", "tc_peak": "Unknown" }
+          }
+        },
+        {
+          "measurement_type": "Transport",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "generic_value": { "property_name": "Shielding volume fraction", "value": "Decreased", "unit": "Unknown" }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "NdO0.5F0.5Bi1-ySbyS2",
+      "composition_variables": [
+        {
+          "element": "Bi",
+          "substituted_element": "Sb",
+          "concentration": { "min_value": 0, "max_value": 0.2, "variable_name": "y" }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction" },
+      "superconducting_status": "Unknown",
+      "measurements": [
+        {
+          "measurement_type": "Structural",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "lattice_parameters": { "phase_symmetry": "Unknown", "axis_a_angstrom": "Unknown", "axis_c_angstrom": "Decreased", "ratio_c_over_a": "Unknown" }
+          }
+        },
+        {
+          "measurement_type": "Transport",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "generic_value": { "property_name": "Metal-insulator transition", "value": "Observed", "unit": "Unknown" }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": ["Element substitution within the superconducting layer degrades superconductivity in the NdO1-xFxBiS2 system."]
+}
+```
+
+--- 🟢 END GENERATION FOR: 1404.6359v2_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 1508.01656v1_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "Found Bi2(O,F)S2, Tc ~5.5K at a ~3.98 Å in (Nd0.2Sm0.8)(O0.7F0.3)BiS2.  In Bi2(O,F)S2, Tc ~5.1K at a ~3.97 Å and c ~13.73 Å. HP resistivity measurement shows Tc decrease with increasing pressure. HP annealing at 2 GPa and 470°C increases Tc in undoped and underdoped samples.  ",
+  "source_meta": { "source_id": "1508.01656v1_v3_ext.txt", "primary_material_family": "BiS2-based Superconductors" },
+  "extracted_samples": [
+    {
+      "formula": "Bi2(O,F)S2",
+      "composition_variables": [
+        {
+          "element": "F",
+          "substituted_element": "O",
+          "concentration": { "single_value": "Unknown" }
+        }
+      ],
+      "synthesis_profile": { "method": "Unknown" },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "superconducting_transition": { "tc_onset": 5.1 }
+          }
+        },
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": { "applied_pressure_GPa": "Unknown" },
+          "data": {
+            "superconducting_transition": { "tc_onset": "Unknown" }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "(Nd0.2Sm0.8)(O0.7F0.3)BiS2",
+      "composition_variables": [
+        { "element": "F", "substituted_element": "O", "concentration": { "single_value": 0.3 } },
+        { "element": "Nd", "substituted_element": "Unknown", "concentration": { "single_value": 0.2 } },
+        { "element": "Sm", "substituted_element": "Unknown", "concentration": { "single_value": 0.8 } }
+      ],
+      "synthesis_profile": { "method": "Unknown" },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": { "applied_pressure_GPa": 0.0 },
+          "data": {
+            "superconducting_transition": { "tc_onset": 5.5 }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "High pressure (HP) resistivity measurement and HP annealing were performed for a BiS2-based superconductor Bi2(O, F)S2, which caused different variation of Tc. In HP resistivity measurement, Tc linearly decreased at the rate of -1.2 K GPa-1. In contrast, by HP annealing at 2 GPa and 470°C, Tc increased in undoped and underdoped samples, and maintained at 5.1 K in optimally-doped sample. In HP resistivity measurement high pressure is applied in-situ at low temperatures, while HP annealing quenches the high pressure and high temperature phase to ambient pressure. Although in both cases hydrostatic high pressure is applied to the sample by a cubic-anvil-type apparatus, the difference between the two methods should be considered carefully. HP annealing technique have been mainly developed on BiS2-based superconductors, but this method can cause unique effects on physical properties of various layered compounds.",
+    "The expansion of a-axis may lead to flatter Bi-S plane. In LaOBiS2, F-doping not only increases the carrier concentration but also flattens the buckling of the Bi-S plane and this structural transformation is also related to the appearance of superconductivity. Similar phenomena would happen in the undoped and underdoped Bi2(O, F)S2 by HP annealing, which resulted in the increases of Tcs in these samples."
+  ]
+}
+```
+
+--- 🟢 END GENERATION FOR: 1508.01656v1_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 1306.3346v2_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "Found material LaO0.5F0.5BiS2. Synthesis method is polycrystalline. Annealing conditions up to 3 steps. HP annealing generates uniaxial strain along c-axis.  Tc and shielding fraction are highest in HP annealed sample.  Superconducting properties degrade with reduced strain.  Conclusion: HP annealing enhances superconductivity via uniaxial strain.",
+  "source_meta": { "source_id": "1306.3346v2_v3_ext.txt", "primary_material_family": "LaO1-xFxBiS2" },
+  "extracted_samples": [
+    {
+      "formula": "LaO0.5F0.5BiS2",
+      "composition_variables": [
+        {
+          "element": "F",
+          "substituted_element": "O",
+          "concentration": { "single_value": 0.5 }
+        }
+      ],
+      "synthesis_profile": {
+        "method": "Polycrystalline",
+        "synthesis_pressure_GPa": null,
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": { "applied_pressure_GPa": null },
+          "data": {
+            "superconducting_transition": { "tc_onset": null, "tc_zero": null, "tc_midpoint": null, "tc_peak": null }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "Enhancement of superconducting properties in LaO1-xFxBiS2 by applying post-annealing under high pressure is caused by the generation of the uniaxial strain along the c axis."
+  ]
+}
+```
+
+--- 🟢 END GENERATION FOR: 1306.3346v2_v3_ext.txt ---
+
+
+--- 🔴 START GENERATION FOR: 1810.08404v3_v3_ext.txt ---
+```json
+{
+  "extraction_scratchpad": "Found multiple samples: La2O2Bi3Ag1-xSnxS6 with x=0, 0.1, 0.2, 0.3, 0.4, 0.5.  Also found La2O2Bi3Ag0.6Sn0.4S5.7Se0.3.  No Tc values for x=0.  Tc increases with Sn doping up to x=0.4.  Lattice parameters not significantly affected by Sn doping.  Se substitution in La2O2Bi3Ag0.6Sn0.4S6-zSez with z=0.3 and 0.6 induced bulk superconductivity.  Se substitution likely at the S1 site.  Se substitution reduced in-plane disorder and induced superconductivity.  No evidence for CDW states in La2O2Bi3Ag1-xSnxS6.",
+  "source_meta": { "source_id": "1810.08404v3_v3_ext.txt", "primary_material_family": "La2O2Bi3Ag1-xSnxS6" },
+  "extracted_samples": [
+    {
+      "formula": "La2O2Bi3Ag1-xSnxS6",
+      "composition_variables": [
+        {
+          "element": "Sn",
+          "substituted_element": null,
+          "concentration": { "single_value": 0 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction", "synthesis_pressure_GPa": null, "synthesis_temperature_C": 725 },
+      "superconducting_status": "Unknown",
+      "measurements": []
+    },
+    {
+      "formula": "La2O2Bi3Ag1-xSnxS6",
+      "composition_variables": [
+        {
+          "element": "Sn",
+          "substituted_element": null,
+          "concentration": { "single_value": 0.1 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction", "synthesis_pressure_GPa": null, "synthesis_temperature_C": 725 },
+      "superconducting_status": "Unknown",
+      "measurements": []
+    },
+    {
+      "formula": "La2O2Bi3Ag1-xSnxS6",
+      "composition_variables": [
+        {
+          "element": "Sn",
+          "substituted_element": null,
+          "concentration": { "single_value": 0.2 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction", "synthesis_pressure_GPa": null, "synthesis_temperature_C": 725 },
+      "superconducting_status": "Unknown",
+      "measurements": []
+    },
+    {
+      "formula": "La2O2Bi3Ag1-xSnxS6",
+      "composition_variables": [
+        {
+          "element": "Sn",
+          "substituted_element": null,
+          "concentration": { "single_value": 0.3 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction", "synthesis_pressure_GPa": null, "synthesis_temperature_C": 725 },
+      "superconducting_status": "Unknown",
+      "measurements": []
+    },
+    {
+      "formula": "La2O2Bi3Ag1-xSnxS6",
+      "composition_variables": [
+        {
+          "element": "Sn",
+          "substituted_element": null,
+          "concentration": { "single_value": 0.4 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction", "synthesis_pressure_GPa": null, "synthesis_temperature_C": 725 },
+      "superconducting_status": "Unknown",
+      "measurements": []
+    },
+    {
+      "formula": "La2O2Bi3Ag1-xSnxS6",
+      "composition_variables": [
+        {
+          "element": "Sn",
+          "substituted_element": null,
+          "concentration": { "single_value": 0.5 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction", "synthesis_pressure_GPa": null, "synthesis_temperature_C": 725 },
+      "superconducting_status": "Unknown",
+      "measurements": []
+    },
+    {
+      "formula": "La2O2Bi3Ag0.6Sn0.4S5.7Se0.3",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": { "single_value": 0.3 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction", "synthesis_pressure_GPa": null, "synthesis_temperature_C": 725 },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": []
+    },
+    {
+      "formula": "La2O2Bi3Ag0.6Sn0.4S5.7Se0.3",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": { "single_value": 0.6 }
+        }
+      ],
+      "synthesis_profile": { "method": "Solid State Reaction", "synthesis_pressure_GPa": null, "synthesis_temperature_C": 725 },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": []
+    }
+  ],
+  "general_conclusions": [
+    "The in-plane chemical pressure effect is not the origin for the increase in Tc by the Sn substitution.",
+    "The absolute value of the Seebeck coefficient slightly decreases by Sn substitution for x = 0.1-0.4, which can be corresponding to the slight increase in electron carriers by Sn substitution.",
+    "The origin of the hump in the resistivity was proposed as a CDW transition.",
+    "The suppression of the CDW ordering is the origin for the increased Tc in La2O2Bi3Ag1-xSnxS6.",
+    "Se substitution reduced the in-plane disorder at the S1 site and induced bulk superconductivity.",
+    "The bulk nature of superconductivity was induced by local structural optimization but not due to changes in carrier concentration.",
+    "We can expect material development in related fourlayer-type oxychalcogenide superconductors."
+  ]
+}
+```
+
+--- 🟢 END GENERATION FOR: 1810.08404v3_v3_ext.txt ---
+
+✅ Extraction Complete!

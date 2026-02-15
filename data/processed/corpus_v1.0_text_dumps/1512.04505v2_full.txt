@@ -1,0 +1,636 @@
+ 
+1 
+Polytypism in LaOBiS2-type compounds based on different three-
+dimensional stacking sequences of two-dimensional BiS2 layers 
+ 
+Qihang Liu, Xiuwen Zhang, Alex Zunger 
+University of Colorado, Boulder, Colorado 80309, USA 
+ 
+Abstract  
+LaOBiS2-type materials have drawn much attention recently because of various 
+interesting physical properties, such as low-temperature superconductivity, hidden spin 
+polarization, and electrically tunable Dirac cones. However, it was generally assumed 
+that each LaOBiS2-type compound has a unique and specific crystallographic structure 
+(with a space group P4/nmm) separated from other phases. Using first-principles total 
+energy and stability calculations we confirm that the previous assignment of the 
+centrosymetric P4/nmm structure to LaOBiS2 is incorrect as a phonon instability renders 
+this structure impossible. Furthermore, we find that the unstable structure is replaced by a 
+family of energetically closely spaced modifications (polytypes) differing by the layer 
+sequences and orientations. We find that the local Bi-S distortion leads to three polytypes 
+of LaOBiS2 with different stacking patterns of the distorted BiS2 layers. The energy 
+difference between the polytypes of LaOBiS2 is merely ~1 meV/u.c., indicating the 
+possible coexistence of all polytypes in the real sample and that the particular distribution 
+of polytypes may be growth-induced. The in-plane distortion can be suppressed by 
+pressure, leading to a phase transition from polytypes to the high-symmetry P4/nmm 
+structure with a pressure larger than 2.5 GPa. In addition, different choices of the 
+intermediate atoms (replacing La) or active atoms (BiS2) could also manifest different 
+ground state structures. One can thus tune the distortion and the ground state by pressure 
+or substituting covalence atoms in LaOBiS2-family. 
+ 
+ 
+
+
+ 
+2 
+I. Introduction 
+    LaOBiS2 represents a group of materials consisting of BiS2 layers whose states 
+dominate the low-energy spectrum, separated by electronically passive La2O2 buffer 
+layers. LaOBiS2-type materials have drawn attention because of the measured 
+superconductivity1-14 (up to Tc = 10.6 K) and because the BiS2 layer is spin-orbit active 
+and thus leads to many interesting spin-related properties, including hidden spin 
+polarization15, spin field effect transistor16 and electrically tunable Dirac cones17. The 
+general crystal structure consists of a stack of layers (BiS2)-/(La2O2)2+/(BiS2)- made of 
+two BiS2 rocksalt-like layers and an intermediate fluorite-like La2O2 buffer layer 
+separating them18. Many materials described by this structural scheme have recently been 
+synthesized1, 2, 4, 5, 7, 9, 10, 14, and even more members not listed in inorganic compound 
+data bases (ICSD) can be conceived17, 19. As with many other compounds, here too it was 
+generally assumed that each compound has a unique and specific crystallographic 
+structure separated from other phases. Using first-principles calculations we find that 
+contrary to this view1, 6, 8, 11, 12, 18 the three-dimensional (3D) structure of this important 
+family of compounds represents instead a family of energetically closely spaced 
+modifications differing by the layer sequences and orientations. Such polytypes are 
+“natural superlattices”, familiar from other areas in condensed matter such as SiC20, 21, 
+ZnX (X = S, Se, Te)22-24, and ATiO3 (A = Sr and Ba) perovskites25, 26. Polytypes hold a 
+special place as structural phases in that they have very similar (within meV) total 
+energies, yet are distinguished by those physical properties that are sensitive to 
+orientation and stacking such as polarization of light emission and sometimes the 
+magnitude of the zone-folded band gap (for example, the optical band gap of cubic vs 
+wurtzite polytype of SiC differ by nearly 1 eV29). What makes LaOBiS2 polytypes 
+discovered here particularly interesting is that (i) the characteristic local structural 
+distortions in the electronically active BiS2 layers could lead to charge fluctuations which 
+may related to the electron-phonon coupling and the mechanism of superconductivity1, 30; 
+and (ii) different polytypes are either centrosymmetric or noncentrosymetric, a distinction 
+that carries with it different physical properties related to presence or absence of 
+inversion symmetry, such as band splitting, second harmonic generation and (hidden) 
+spin polarization15. 
+
+
+ 
+3 
+    In this article we use first-principles total energy calculations to assess the structure 
+and stability of various polytypes in the LaOBiS2-family of compounds. We find that the 
+local Bi-S distortion leads to three polytypes of LaOBiS2 according to the different 
+stacking pattern of distorted BiS2 layers, rather than the previously assumed P4/nmm 
+structure. The in-plane distortion is mainly induced by the interaction between the 
+intermediate LaO and the BiS2 layers, and the electron hybridization in the BiS2 layer. 
+We performed structural optimization in steps starting from the most restricted degrees of 
+freedom to show how a small distortion can transform the assumed unstable structure to 
+its three polytypes. Since the energy difference between the polytypes of LaOBiS2 is 
+merely ~1 meV/u.c., the real 3D material constructed by stacking up such three types of 
+building blocks could manifest various sequences of polytypes depending sensitively on 
+the growth condition. Furthermore, the in-plane distortion can be suppressed by pressure, 
+leading to a phase transition from polytypes to the high-symmetry P4/nmm structure with 
+a pressure larger than 2.5 GPa. In addition, different choices of the buffer atoms 
+(replacing La) or active atoms (BiS2) manifest different ground state polytypes.  
+ 
+II. The in-plane structure of the 2D BiS2-like layer and the emergence of possible 
+stacking sequences 
+LaOBiS218 has been generally accepted to have the ZrCuSiAs-type structure, with a 
+centrosymmetric P4/nmm space group. X ray diffraction data was refined1, 6 by fitting the 
+measured intensities to this structure type (named T0 hereafter). In T0 the BiS2 layers in 
+the (BiS2)-/(La2O2)2+/(BiS2)- stacks have four equal Bi-S bonds, as shown in Fig. 1. 
+However, recent phonon calculations using density functional theory (DFT) found that 
+the T0 structure with assumed equal Bi-S bond lengths of 2.89 Å has soft phonons at the 
+Brillouin zone center Γ point, which indicates dynamic instability and the theoretical 
+impossibility of this T0 structure11 being stable. Yildirim showed that by shifting the S 
+atoms along the diagonal of the 2D square (x or y direction in Fig. 1b), forming a 
+ferroelectric-like distortion with two different in-plane Bi-S bonds (bond lengths 2.80 Å 
+and 2.98 Å, see Fig. 1c) one can remove the dynamic instability. In this calculation a 
+deformation parameter Q, which is defined by the normal modes having the unstable 
+phonon was introduced to represent the in-plane displacement of S atoms. The total 
+
+
+ 
+4 
+energy was minimized with respect to Q, with the remaining structural degrees of 
+freedom other than Q (such as lattice parameter and atomic positions) kept frozen at their 
+Q = 0 value (corresponding to the T0 structure). A subsequent neutron powder diffraction 
+experiment by Athauda et al.31 confirmed this predicted local distortion within a single 
+BiS2 layer by observing indeed two different Bi-S bonds (with lengths of 2.68 Å and 3.11 
+Å). We note that the powder diffraction also suggested another antiferroelectric-like 
+distortion31, but such a mode is predicted to induce an instability at M point that is present 
+in F-doped LaOBiS2 but absent in the parent compound, and is thus excluded by single 
+crystal diffraction very recently32. 
+However, the in-plane local distortions predicted11 and observed31 do not define as yet 
+a 3D structure in LaOBiS2: there are two BiS2 layers in a unit cell, and one needs to 
+construct a 3D model of how the various 2D layers are stacked so as to minimize the 
+energy. Yildirim11 suggested a 3D structure that consists of two BiS2 layers having the 
+same direction of  distortion (illustrated by the blue arrow shown in Fig. 1c) as a 
+replacement of the unstable T0 structure. This ferroelectric-like structure removes the 
+phonon instability and thus lowers the energy, turning the 3D structure into non-
+centrosymmetric T1 (space group P21mn) from centrosymmetric T0 (P4/nmm)11. 
+Interestingly, there are additional 3D stacking sequences of the 2D layers possible that 
+were not previously examined in pristine LaOBiS2 (without doping) by aligning the in-
+plane distortion in different directions. There are three possible stacking types that fulfill 
+the local Bi-S1 distortion11, 31. In T1 type, the local distortions of two BiS2 layers are 
+along x direction, in T2 they occur along x and –x direction, while in T3 are x and y 
+direction. These distortions lower the system’s symmetry from P4/nmm (T0) to P21mn 
+(T1), or P21m (T2) or C2 (T3). Among T1, T2, and T3, only T2 is centrosymmetric, whereas 
+T1 and T3 are non-centrosymmetric. We next inquire as to the energetic order of stability 
+of the different polytypes in LaOBiS2 as well as in other compounds from the same 
+general family. 
+  
+III. Methods of calculation 
+    The geometrical and electronic structures are calculated by the projector-augmented 
+wave (PAW) pseudopotential33 and the generalized gradient approximation of Perdew, 
+
+
+ 
+5 
+Burke and Ernzerhof (PBE)34 to the exchange-correlation functional as implemented in 
+the Vienna ab initio package (VASP)35. The plane wave energy cutoff is set to 550 eV. 
+Electronic energy minimization was performed with a tolerance of 10−6 eV, and all 
+atomic positions were relaxed with a tolerance of 10−3 eV/Å.  
+    We note that PBE functional does not take the long-range van der Waals interaction 
+into account, and thus usually overestimate the interlayer space. To overcome this, we 
+also use PBE-D2 exchange-correlation functional, with the implementation of van der 
+Waals (VDW) correction, to optimize the distorted structures (see Sec. VI). 
+     
+IV. Three levels of approximation for predicting bond relaxation and symmetry 
+breaking   
+    The three polytypes differ in the stacking direction of electronic-active BiS2 layers 
+along the [001] direction. To gain insight into the various degrees of freedom we perform 
+structural optimization in steps starting from the simplest and most restricted:  
+    Approach (a): If one allows the T0 structure to relax but without imposing initially any 
+symmetry breaking, only the a, c lattice vectors and four independent cell-internal atomic 
+coordinate parameters (atomic positions of La, Bi, S1 and S2 sites along the c axis) can 
+relax. This restricted relaxation is an artifact of the method of calculation, namely of 
+assuming initially a high symmetry structure. It reflects the fact that the other degrees of 
+freedom in T0 that could relax are not permitted to do so because a high symmetry (zero 
+force on atoms) is artificially imposed. As a result, the final structure in this relaxation 
+method still has the same space group P4/nmm as the initial starting point, denoted by the 
+T0 point in Fig. 2. Although this is the only optimization treatment in most structure 
+determination step in the DFT community, the result is incorrect because of the artificial 
+restriction to high symmetry. 
+    Approach (b): Next, we allow in-plane relaxation by initially lowering the symmetry 
+but freeze all other degrees of freedom, while seeking the energy minimum under this 
+constrain. To do so we start form T0 but shift S1 atom of each BiS2 layer along x or y 
+direction, (depending on the T1-T3 type) and artificially keep all other structural degrees 
+of freedom frozen. Such frozen Bi-S1 “bond length mismatch” distortion has been used 
+by Ref. 11 for T1 and is defined by the S1 displacement Δ. This is not the most general 
+
+
+ 
+6 
+procedure, and is used here to observe what its physical consequence is. This simplified 
+procedure of allowing just one mode to drive distortion is common in simple models of 
+phase transitions. The results of this simplified model are the three curves in Fig. 2. They 
+show that if one scans the energy as a function of Δ, each of these structures has different 
+energy minima shown as solid dots in T1-T3 curves. This is clear evidence that in 
+LaOBiS2 T0 structure is a saddle point and thus not able to exist stably.  
+    Approach (c) – Most general: The in-plane Bi-S1 distortion can enable additional 
+degrees of freedom, including the lattice parameters and atomic positions. For example, 
+T1-type distortion will elongate the axis, while T2-type distortion will twist the 
+rectangular x-z plane of the unit cell into a parallelogram. Therefore, in the most general 
+approach (c) we further relax all degrees of freedom starting from the energy-minimum 
+structures of T1-T3, and get three final structures that are several meV/unit cell (u.c.) 
+lower in energy, T1
+*, T2
+* and T3
+* indicated in Fig. 2 by diamond shapes. Unlike the T0 
+structure, the T1
+*, T2
+* and T3
+* structures are thermodynamically stable. We also 
+considered full relaxation starting from a generic symmetry breaking of the T0 structure 
+by randomly adding small distortions on both lattice vectors and atomic positions. We 
+find from a few such starting points that the relaxed structures all become T1
+*, T2
+* or T3
+* 
+structure, indicating that T1
+*-T3
+* structure are the only three local minima around T0 
+phase. 
+    Comparision between different fully relaxed polytypes: Table I shows the total 
+energy, space group, lattice parameter and Bi-S bond length of T0, T1
+*-T3
+* structure as 
+well as the experimental refinement using T0 structure. Several observations are found: 
+(i) Although T0 structure has a good agreement and a reasonable fit6 (R factor < 0.1) with 
+experiment regarding the in-plane lattice constant, there is only one kind of Bi-S bond, 
+which is inconsistent with the results by neutron diffraction31. On the other hand, all of 
+T1
+* to T3
+* suggests two kinds of in-plane Bi-S1 bonds, with the bond lengths 2.76-2.77 
+and 3.03-3.04 Å, respectively. These bond lengths agree with the experiments well31. (ii) 
+With the presence of the in-plane distortion for T1
+*-T3
+* structures relative to T0, the 
+buckling nature of the Bi-S1 plane is nearly unchanged. The calculated S1-Bi-S1 angle 
+varies from 165° for T0 to 164° for all T1
+*-T3
+* structures, including one type of S1-Bi-S1 
+angle in T1
+* and T2
+*, and two types in T3
+*.  (iii) The T2
+* structure is centrosymmetric and 
+
+
+ 
+7 
+has the lowest energy, but only 1-2 meV/u.c. lower than the non-centrosymmetric T1
+* and 
+T3
+*. Such a small energy difference originates from the weak van der Waals interaction 
+between adjacent BiS2 layers. The total energies of the polytypes are so close that 
+theoretical stability could be significantly affected by the temperature or crystal growing 
+conditions. On the other hand, T0 structure has the highest energy, about 10 meV/u.c. 
+higher than T2
+*.  
+In order to visualize the transformation path from the saddle point T0 to the stable 
+structures (e.g., T1
+* or T2
+*) in LaOBiS2, we show in Fig. 3 the feasibility of converting 
+LaOBiS2 from T1
+* to T2
+* structure with T0 structure as an intermediate state. In T0 -> T1
+* 
+and T0 -> T2
+* path we start from T0 structure and impose a tiny T1- or T2-type distortion 
+on T0. Then we record each step of DFT relaxation process from T0 to T1
+* (T2
+*) as the 
+reaction coordinate, i.e., the geometric parameter that changes during the conversion 
+between T1
+* and T2
+*, by gradually changing the cell and the atomic position using 
+conjugate gradient method. We find that T0 structure stays at a saddle point, so it is 
+unstable and will spontaneously relax to a distorted structure T1
+* or T2
+* (also probably 
+T3
+*). On the other hand, the potential barrier between the transition of T1
+* and T2
+* 
+structures is about 10 meV, which is not large enough to make T2
+* as a unique structure. 
+Instead, all T1
+* to T3
+* structures or their mixed phases are possible to happen in room 
+temperature. 
+ 
+V. Pressure-induced phase transition and polytypes in other LaOBiS2-type compounds  
+    In order to unveil the physical origin of the polytypism, we investigated the ground-
+state structure of LaOBiS2 under hydrostatic pressure. Figure 4(a) shows the in-plane 
+distortion of T1-T3 structures presented by the Bi-S1 bond difference as a function of 
+hydrostatic pressure. Zero pressure P = 0 corresponds to T1
+*-T3
+* structures with PBE-
+calculated equilibrium lattice constant. We find that the pressure indeed suppresses the 
+in-plane distortion for all T1-T3 structures. Above P = 2.5 GPa (corresponding an in-plane 
+lattice constant a = b = 4.02 Å) the high-symmetry T0 structure becomes the ground state 
+of LaOBiS2. 
+    Following LaOBiS2, many compounds having similar structure are reported for the 
+purpose of exploring the BiS2-based superconductivity7, 10. Therefore, it is interesting to 
+
+
+ 
+8 
+ask if the other compounds in this family also have such polytypes or not, and what 
+determines T0 structure or distorted structures as a ground state. We substitute La (with 
+Y), Bi (with Sb, As) or S (with Se, Te) site at one time and fix the other 3 sites the same 
+as LaOBiS2. Figure 4(b) shows the relative energy of the polytypes of these materials. 
+We found that when substituting La with lighter elements or substituting S with heavier 
+elements, the undistorted T0 structures are the ground states, which means there is no 
+polytypes in these materials. On the other hand, when substituting Bi with lighter 
+elements Sb and As, T0 structures are no longer dynamic stable (dash lines), while 
+distorted T1
+*-T3
+* are local minima. Among them T2
+* is the ground state, with the total 
+energy 10-15 meV lower than that of T1
+*. The energy differences between T2
+* and T0 for 
+LaOSbS2 and LaOAsS2 are 167 and 718 meV, respectively, which is much larger than the 
+counterpart of LaOBiS2. Moreover, the in-plane M-S1 bonds (M: Bi, Sb or As) also 
+reveals that LaOSbS2 and LaOAsS2 suffer larger distortion. The two As-S1 bond lengths 
+in LaOAsS2 are 2.43 Å and 3.31 Å. As a result, such large distortion breaks the 2D As-S 
+square and forms individual zigzag As-S chains, as shown in the inset of Fig. 4(b).  
+    From the study of pressure and various LaOBiS2-type compounds we conclude that the 
+polytypism in LaOBiS2-family is mainly attributed to two reasons: the “substrate” effect 
+of the intermediate layer (e.g., LaO) and hybridization effect of the active layer (e.g., 
+BiS2).  In LaOMS2 compounds (M: Bi, Sb, As), the mismatch between the optimum 
+lattice constants of LaO (larger) and MS2 (smaller) layers tends to stretch the M-S square 
+and thus cause distortion. When the lattice of MS2 layers becomes smaller without 
+changing LaO layer, the stretching effect becomes stronger. Interestingly, although this 
+effect originates from the interaction between LaO and MS2 layers, the distortion in LaO 
+layer is insignificant. It is because the bond energy of La-O is large so that the LaO 
+network remains stable when suffering distortions. On the other hand, enlarging the 
+lattice parameter of the side layer or reducing the lattice parameter of the intermediate 
+layer induce better lattice match between side and intermediate layer so that the distortion 
+is unlikely to happen, as the case in LaOBiSe2, LaOBiTe2 and YOBiS2. For LaOBiS2 
+under pressure, the BiS2 and LaO layers are simultaneously compressed, in which case 
+the enhanced Bi-S1 bond strength could stabilize the T0 structure and prevent distortion.  
+
+
+ 
+9 
+The other factor that can lead to distortion is within the local structure of the side layer. 
+For the trend from Bi to As, the group-V cations behave more covalent character while 
+less ionic character. As a result, they are inclined to form sp3 hybridization with 3 S 
+atoms and the other bond is the lone-pair electron. The lone-pair bond usually has larger 
+repulsive force than the other bonds, and thus breaks two M-S1 bonds to from zigzag 
+chains.   
+ 
+VI. The results of VDW correction 
+    VDW interactions represent the interaction of an induced moment (dipole, 
+quadropole, etc) with itself. This is strictly zero in mean field Hartree -Fock or DFT. 
+From Table I we find that DFT without VDW gives the length of c axis (T0 and T1
+*-T3
+*) 
+as 14.25 Å, much larger than the observed 13.83 Å. This is because the PBE functional 
+didn’t take the long-range van der Waals interaction into account, and thus usually 
+overestimate the interlayer space.  
+   To overcome this, we also use PBE-D2 exchange-correlation functional that includes a 
+rough VDW term to optimize the distorted structures. We find that the a and c axis of T0 
+structure are 3.99 Å and 13.62 Å, respectively. Although PBE-D2 gives a better 
+agreement with experiments on c axis (13.83 Å), it underestimate the a axis by 1.5% than 
+that of experiments or PBE results (4.05 Å). More importantly, because of the biaxial 
+strain effect within x-y plane under PBE-D2 method, the undistorted structure T0 
+becomes the ground state. We performed the relaxation starting from the PBE relaxed 
+T1
+*-T3
+* structure and find that the final configuration is the T0 structure. Phonon 
+calculations of LaOBiS2 for smaller in-plane lattice parameters also suggested that the 
+undistorted structure T0 is dynamic stable11. Since the accuracy of a axis is more 
+important to investigate the in-plane distortion, we used PBE functional for the base of 
+calculation and analysis.  
+ 
+VII. Summary  
+By using first-principles total energy and stability calculations, we predict that the 
+local Bi-S distortion leads to three polytypes of LaOBiS2-type materials according to the 
+different stacking pattern of BiS2-like layers. The in-plane distortion, mainly induced by 
+
+
+ 
+10 
+the interaction between the intermediate and the side layers and the electron hybridization 
+in the side layer, can lower the total energy comparing with the conventional accepted 
+P4/nmm structure. In LaOBiS2, the energy difference between the polytypes is small, 
+indicating the possible coexistence of all polytypes in the real sample. While we cannot 
+determine if the superposition is dynamic in nature (time-dependent doping, we note that 
+such a superstructure with the combination of T1, T2 and T3 polytypes will effectively 
+lower the symmetry to the P1 space group. Such a superstructure symmetry has been 
+recently suggested by a single-crystal neutron-diffraction experiment of Athauda et al.32 
+Finally, external pressure and different choices of the intermediate atoms (replacing La) 
+or active atoms (BiS2) manifest different ground state polytypes. One can thus tune the 
+distortion and the ground state by both physical and chemical means. Our findings 
+provide a clear picture on the complexity of the crystal structure of LaOBiS2-type 
+materials, which might be relevant to the mechanism of the recently found BiS2-based 
+superconductivity. 
+ 
+Acknowledgements 
+    We are grateful for the helpful discussions with Prof. Daniel Dessau from University 
+of Colorado Boulder and Prof. Despina Louca from University of Virginia. This work 
+was supported by NSF Grant titled “Theory-Guided Experimental Search of Designed 
+Topological Insulators and Band-Inverted Insulators” (No. DMREF-13-34170). This 
+work used the Extreme Science and Engineering Discovery Environment (XSEDE), 
+which is supported by National Science Foundation grant number ACI-1053575. 
+ 
+References 
+(1) 
+Mizuguchi, Y.; Demura, S.; Deguchi, K.; Takano, Y.; Fujihisa, H.; Gotoh, Y.; 
+Izawa, H.; Miura, O. Journal of the Physical Society of Japan 2012, 81, 114725. 
+(2) 
+Singh, S. K.; Kumar, A.; Gahtori, B.; Shruti; Sharma, G.; Patnaik, S.; Awana, V. P. 
+S. Journal of the American Chemical Society 2012, 134, 16504-16507. 
+(3) 
+Usui, H.; Suzuki, K.; Kuroki, K. Phys. Rev. B 2012, 86, 220501. 
+(4) 
+Xing, J.; Li, S.; Ding, X.; Yang, H.; Wen, H.-H. Physical Review B 2012, 86, 
+214518. 
+(5) 
+Demura, S.; Mizuguchi, Y.; Deguchi, K.; Okazaki, H.; Hara, H.; Watanabe, T.; 
+James Denholme, S.; Fujioka, M.; Ozaki, T.; Fujihisa, H.; Gotoh, Y.; Miura, O.; 
+
+
+ 
+11 
+Yamaguchi, T.; Takeya, H.; Takano, Y. Journal of the Physical Society of Japan 2013, 
+82, 033708. 
+(6) 
+Lee, J.; Stone, M. B.; Huq, A.; Yildirim, T.; Ehlers, G.; Mizuguchi, Y.; Miura, O.; 
+Takano, Y.; Deguchi, K.; Demura, S.; Lee, S. H. Physical Review B 2013, 87, 205134. 
+(7) 
+Lei, H.; Wang, K.; Abeykoon, M.; Bozin, E. S.; Petrovic, C. Inorganic Chemistry 
+2013, 52, 10685-10689. 
+(8) 
+Li, B.; Xing, Z. W.; Huang, G. Q. Euro Phys. Letts. 2013, 101, 47002. 
+(9) 
+Lin, X.; Ni, X.; Chen, B.; Xu, X.; Yang, X.; Dai, J.; Li, Y.; Yang, X.; Luo, Y.; Tao, Q.; 
+Cao, G.; Xu, Z. Physical Review B 2013, 87, 020504. 
+(10) 
+Phelan, W. A.; Wallace, D. C.; Arpino, K. E.; Neilson, J. R.; Livi, K. J.; Seabourne, 
+C. R.; Scott, A. J.; McQueen, T. M. Journal of the American Chemical Society 2013, 135, 
+5372-5374. 
+(11) 
+Yildirim, T. Physical Review B 2013, 87, 020506. 
+(12) 
+Athauda, A.; Yang, J.; Li, B.; Mizuguchi, Y.; Lee, S.; Louca, D. J Supercond Nov 
+Magn 2014, 1-5. 
+(13) 
+Terashima, K.; Sonoyama, J.; Wakita, T.; Sunagawa, M.; Ono, K.; Kumigashira, 
+H.; Muro, T.; Nagao, M.; Watauchi, S.; Tanaka, I.; Okazaki, H.; Takano, Y.; Miura, O.; 
+Mizuguchi, Y.; Usui, H.; Suzuki, K.; Kuroki, K.; Muraoka, Y.; Yokoya, T. Physical Review 
+B 2014, 90, 220512. 
+(14) 
+Zhai, H.-F.; Zhang, P.; Wu, S.-Q.; He, C.-Y.; Tang, Z.-T.; Jiang, H.; Sun, Y.-L.; Bao, 
+J.-K.; Nowik, I.; Felner, I.; Zeng, Y.-W.; Li, Y.-K.; Xu, X.-F.; Tao, Q.; Xu, Z.-A.; Cao, G.-H. 
+Journal of the American Chemical Society 2014, 136, 15386-15393. 
+(15) 
+Zhang, X.; Liu, Q.; Luo, J.-W.; Freeman, A. J.; Zunger, A. Nat. Phys. 2014, 10, 
+387-393. 
+(16) 
+Liu, Q.; Guo, Y.; Freeman, A. J. Nano Letters 2013, 13, 5264-5270. 
+(17) 
+Xiao-Yu Dong, J.-F. W., Rui-Xing Zhang, Wen-Hui Duan, Bang-Fen Zhu, Jorge 
+Sofo, Chao-Xing Liu. Nat. Commun. 2015, 6, 8517. 
+(18) 
+Tanryverdiev, V. S.; Aliev, O. M.; Aliev, I. I. Inorganic Materials 1995, 31, 
+1361-1363. 
+(19) 
+Liu, Q.; Zhang, X.; Jin, H.; Lam, K.; Im, J.; Freeman, A. J.; Zunger, A. Phys. Rev. B 
+2015, 91, 235204. 
+(20) 
+Cheng, C.; Needs, R. J.; Heine, V. Journal of Physics C: Solid State Physics 1988, 
+21, 1049. 
+(21) 
+Qteish, A.; Heine, V.; Needs, R. J. Physical Review B 1992, 45, 6534-6542. 
+(22) 
+Hao, Y.; Meng, G.; Wang, Z. L.; Ye, C.; Zhang, L. Nano Letters 2006, 6, 1650-
+1655. 
+(23) 
+Utama, M. I. B.; de la Mata, M.; Magen, C.; Arbiol, J.; Xiong, Q. Advanced 
+Functional Materials 2013, 23, 1636-1646. 
+(24) 
+Boutaiba, F.; Belabbes, A.; Ferhat, M.; Bechstedt, F. Physical Review B 2014, 
+89, 245308. 
+(25) 
+Zhong, W.; Vanderbilt, D. Physical Review Letters 1995, 74, 2587-2590. 
+(26) 
+Zhong, W.; Vanderbilt, D. Physical Review B 1996, 53, 5047-5050. 
+(27) 
+Peng, Z. A.; Peng, X. Journal of the American Chemical Society 2002, 124, 
+3343-3353. 
+(28) 
+Manna, L.; Milliron, D. J.; Meisel, A.; Scher, E. C.; Alivisatos, A. P. Nat Mater 
+2003, 2, 382-385. 
+
+
+ 
+12 
+(29) 
+Yeh, C.-Y.; Wei, S.-H.; Zunger, A. Physical Review B 1994, 50, 2715-2718. 
+(30) 
+Wan, X.; Ding, H.-C.; Savrasov, S. Y.; Duan, C.-G. Physical Review B 2013, 87, 
+115124. 
+(31) 
+Anushika Athauda, J. Y., Seunghun Lee, Yoshikazu Mizuguchi, Keita Deguchi, 
+Yoshihiko Takano, Osuke Miura, Despina Louca. Phys. Rev. B 2015, 91, 144112. 
+(32) 
+A. Athauda, C. H., Y. Ren, S. Aswartham, J. Terzic, G. Cao, X. Zhu, D. Louca. 
+arXiv:1601.07517 2016. 
+(33) 
+Kresse, G.; Joubert, D. Phys. Rev. B 1999, 59, 1758-1775. 
+(34) 
+Perdew, J. P.; Burke, K.; Ernzerhof, M. Phys. Rev. Lett. 1996, 77, 3865-3868. 
+(35) 
+Kresse, G.; Furthmüller, J. Comp. Mater. Sci. 1996, 6, 15-50. 
+(36) 
+Błoński, P.; Hafner, J. Physical Review B 2009, 79, 224418. 
+(37) 
+Vermeer, M. J. D.; Zhang, X.; Trimarchi, G.; Donakowski, M. D.; Chupas, P. J.; 
+Poeppelmeier, K. R.; Zunger, A. Journal of the American Chemical Society 2015, 137, 
+11383-11390. 
+
+
+ 
+13 
+ 
+Fig. 1: (a) P4/nmm T0 structure of LaOBiS2. (b) Top view of Bi-S1 2D square consisting 
+of Bi and S1 atoms in T0 structure. (c) Top view of Bi-S1 2D square with distortion. The 
+blue arrow along x direction indicates the displacement of S1 and the spontaneous 
+polarization. The black frame indicates the unit cell. 
+ 
+ 
+
+
+ 
+14 
+ 
+Fig. 2: Total energy as a function of S1 displacement in T1-T3 stacking types of LaOBiS2. 
+T1
+*-T3
+* indicate the complete relaxed structures of T1-T3 type (approach c), respectively. 
+
+
+ 
+15 
+ 
+Fig. 3: Total energy change during the transformation from T1
+* to T2
+* structure with T0 
+structure as an intermediate state. The reaction coordinate in x-axis is presented by the 
+DFT relaxation steps from T0 to T1
+* and T2
+*. The red and blue lines denote the transition 
+from T0 to T1
+* and T2
+*, respectively. The red arrows in the crystal structure denote the 
+direction of the BiS2 in-plane distortion. 
+ 
+ 
+ 
+
+
+ 
+16 
+ 
+Fig. 4: (a) The difference of bond length within Bi-S1 plane of distorted T1-T3 structures 
+as a function of hydrostatic pressure. The black arrow corresponds to 2.5 GPa where the 
+Bi-S1 bond length become isotropic, indicating a phase transition from a distorted 
+structure to high-symmetry T0 structure. Since the difference between a distorted T1-T3 
+and T0 structure is just a stretched Bi-S1 plane (but no bond breaking), different pressure 
+will lead to a structure with either larger or smaller in-plane distortion. If the distortion 
+vanishes under pressure, then a phase transition will ensue from T1-T3 to T0. (b) 
+Schematic illustration of the relative energy of different polytypes in LaOBiS2-family. 
+The dashed horizontal lines denote structures that are dynamic unstable. Dashed box: top 
+view of AsS2 layer in LaOAsS2, in which the unit cell is denoted by the solid frame. The 
+strong distortion separates the layer into individual zigzag chains. 
+ 
+ 
+
+
+ 
+17 
+ 
+Table I: The stacking configurations of in-plane distortion, space group, inversion 
+symmetry, total energy per u.c., Bi-S bond lengths and lattice parameters of LaOBiS2, 
+including experimental results and DFT calculations T0 and T1
+*-T3
+* on PBE level. The 
+total energy of T0 structure is set to zero as a reference. 
+ 
+Expt.31 
+T0 
+T1
+* 
+T2
+* 
+T3
+* 
+Stacking of 
+distortion 
+--- 
+No distortion 
+(x, x) 
+(x, -x) 
+(x, y) 
+Space group 
+P4/nmm 
+P4/nmm 
+P21mn 
+P21m 
+C2 
+Inversion 
+symmetry 
+Unknown 
+Yes 
+No 
+Yes 
+No 
+Energy (meV) 
+--- 
+0 
+-8.4 
+-9.7 
+-8.2 
+Bi-S bond (Å) 
+2.68/ 3.11 
+2.89/ 2.89 
+2.77/ 3.03 
+2.76/ 3.04 
+2.77/ 3.03 
+a (Å) 
+4.054 
+4.050 
+4.071 
+4.073 
+4.060 
+b (Å) 
+4.054 
+4.050 
+4.051 
+4.051 
+4.060 
+c (Å) 
+13.825 
+14.250 
+14.266 
+14.273 
+14.266 
+ 
+
+

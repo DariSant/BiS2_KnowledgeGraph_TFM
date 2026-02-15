@@ -1,0 +1,601 @@
+Site Selectivity on Chalcogen Atoms in  
+Superconducting La(O,F)BiSSe  
+ 
+Masashi TANAKA1,a), Takuma YAMAKI1,2, Yoshitaka MATSUSHITA1, Masaya FUJIOKA1,  
+Saleem J. DENHOLME1, Takahide YAMAGUCHI1, Hiroyuki TAKEYA1,  
+and Yoshihiko TAKANO1,2 
+ 
+1National Institute for Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan 
+2University of Tsukuba, 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577, Japan 
+ 
+ 
+a)Corresponding author: Masashi Tanaka 
+E-mail: Tanaka.Masashi@nims.go.jp 
+Postal address: National Institute for Materials Science 
+1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan 
+Tel.: (+81)29-851-3354 ext. 2976 
+ 
+ 
+
+
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+Abstract 
+Single crystals of La(O,F)BiSSe were grown by using a CsCl flux method. Single crystal X-ray 
+structural analysis reveals that the crystal structure is isostructural to the BiS2- or BiSe2-based 
+compounds crystallizing with space group P4/nmm (lattice parameters a = 4.1110(2) Å, c = 13.6010(7) 
+Å). However, the S atoms are selectively occupied at the apical site of the Bi-SSe pyramids in the 
+superconducting layer. The single crystals show a superconducting transition at around 4.2 K in the 
+magnetic susceptibility and resistivity measurements. The superconducting anisotropic parameter is 
+determined to be 34-35 from its upper critical magnetic field. The anisotropy is in the same range with 
+that of other members of the La(O,F)BiCh2 (Ch = S, Se) family under ambient pressure.  
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+After the discovery of superconductivity in Bi4O4S3,1 various kinds of BiS2-based superconductors have 
+been developed, such as the Ln(O,F)BiS2 (Ln = La, Ce, Pr, Nd, Yb),2-7 (La,M)OBiS2 (M = Th, Hf, Zr, 
+Ti),8 (Sr,La)FBiS2 families.9 They crystallize with a layered structure which is composed of 
+superconducting BiS2 layers and charge reservoir blocking layers similar to which is found for the 
+cuprate or Fe-based superconductors.  
+ 
+La(O,F)BiS2 is a typical BiS2-based superconductor and comprises of the blocking layer 
+La(O,F) as shown in Figure 1. The same blocking layer is also present for the Fe-based superconductor 
+La(O,F)FeAs.10 Recently, the modification of the superconducting layer has been explored in an attempt 
+to design a new type of superconductor. The superconducting layer can be modified by changing the S 
+atoms to Se. Polycrystalline samples of La(O,F)BiSSe (Tc ~3.8 K)11 and La(O,F)BiSe2 (Tc ~2.6 K)12 
+have been reported. Among the Se-substituted system of La(O0.5F0.5)Bi(S,Se)2, the materials start to 
+exhibit metallic behavior and Tc shows its highest value at a ratio of S:Se = 1:1.13 It is interesting to 
+know why Tc shows the highest value at the stoichiometric ideal of La(O,F)BiSSe. Single crystals of the 
+end members La(O,F)BiS2 and La(O,F)BiSe2 have been prepared and the crystal structures were 
+carefully determined using single crystal X-ray structural analysis.14, 15 It is important to compare the 
+single crystal structure of La(O,F)BiSSe to that of the end members so as to help design a new 
+compound with a higher Tc. 
+
+
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+In this study, we have prepared single crystals of La(O,F)BiSSe by a CsCl flux method and 
+carried out various characteristic measurements including single crystal X-ray diffraction. Here, we 
+discuss the bonding nature and superconducting properties of this compound.  
+ 
+ 
+ 
+Fig. 1. Schematic illustration of the crystal structure of BiCh2-based (Ch = S, Se) superconductors. 
+ 
+ 
+
+
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+Single crystals of La(O,F)BiSSe were prepared by an alkali metal chloride flux method similar 
+to that of La(O,F)BiSe2.15 The synthesis details are described in the Supplementary Information.16 Single 
+crystal X-ray structural analysis was carried out using a Rigaku AFC11 Saturn CCD diffractometer with 
+a VariMax confocal X-ray optical system for Mo K radiation ( = 0.71073 Å). Prior to the diffraction 
+experiment, the crystals were cooled to 113 K in a cold N2 gas flow, in order to suppress the thermal 
+displacement factors. Cell refinement and data reduction were carried out by the program d*trek 
+package in CrystalClear software suite.17 The structure was solved by the direct method using 
+SHELXS,18 and was refined with the program SHELXL18 in the WinGX software package.19 
+Energy-dispersive X-ray (EDX) spectra were observed using a scanning electron microscope (JEOL, 
+JSM-6010LA). The temperature dependence of magnetic susceptibility was measured using a SQUID 
+magnetometer (MPMS, Quantum Design) down to 1.8 K under a field of 10 Oe, and the field was 
+applied parallel to the c-axis. The temperature dependence of electrical resistivity was measured down to 
+2.0 K, with a Physical Property Measurement System (PPMS, Quantum Design) using a standard 
+four-probe method with constant current mode. The electrodes were attached in the ab-plane with silver 
+paste.  
+ 
+Both the spot and overall EDX analysis measurements on the sample surface showed almost 
+the same composition. The averaged compositional ratio of elements is estimated to be La : Bi : S : Se : 
+
+
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+O : F = 1 : 0.95(8) : 0.92(13) : 0.9(2) : 0.32(4) : 0.19(2), in which the ratio was based on La = 1. The 
+atomic ratio except for O and F elements is in good agreement with the nominal composition 
+(LaO0.5F0.5BiSSe), suggesting that the single crystal has the composition La(O,F)BiSSe.  
+ 
+The obtained crystals are highly oriented along the c-axis (Fig.S1).16 The X-ray single crystal 
+refinement converged to the R1 values of 3.66 % and 4.37 % for I ≥ 2(I) and all data, respectively, for 
+16 variables including anisotropic parameters. The atomic coordinates and displacement parameters are 
+given in TABLE I. The compound crystallizes with space group P4/nmm (lattice parameters a = 
+4.1102(2) Å, c = 13.6010(7) Å, and Z = 1). The crystal has an alternate stacking of BiSSe pyramids and 
+La2(O/F)2 layers; the basic structure of this crystal is isostructural with La(O,F)BiS2 and La(O,F)BiSe2.14, 
+15 All atoms were located at special positions and their anisotropic displacement factors were all positive 
+and within similar ranges, all of which appeared to be physically reasonable. Since the occupancy 
+refinement in O and F under constrain of Occ.(O) + Occ.(F) = 1 did not converge in the refinement, the 
+occupancies were fixed to the nominal composition, O:F = 0.5:0.5.  
+ 
+ 
+
+
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+TABLE I. Atomic coordinates, atomic displacement parameters (Å2), and bond valence sum (BVS) for 
+the La(O,F)BiSSe.  
+Atom 
+Wyck. 
+S.O.F 
+x/a 
+y/b 
+z/c 
+U11
+a 
+U22
+a 
+U33
+a 
+Ueq
+a 
+BVSb 
+La 
+2c 
+1.0 
+3/4 
+3/4 
+-0.09501(5) 
+0.0079(2) 
+0.0079(2) 
+0.0111(3) 
+0.0090(2) 
++2.62 
+Bi 
+2c 
+1.0 
+3/4 
+3/4 
+0.37196(3) 
+0.00740(14) 
+0.00740(14) 
+0.0116(2) 
+0.00879(12) +3.36 
+S/Se(Ch1) 
+2c 
+S: 0.903(13) 
+3/4 
+3/4 
+0.1858(2) 
+0.0066(7) 
+0.0066(7) 
+0.0080(10) 
+0.0070(6) 
+-1.90 
+Se: 0.097(13) 
+-0.16 
+Se(Ch2) 
+2c 
+1.0 
+1/4 
+1/4 
+0.37860(11) 
+0.0081(3) 
+0.0081(3) 
+0.0174(6) 
+0.0112(2) 
+-2.21 
+O/F 
+2a 
+0.5/0.5(Fix) 
+3/4 
+1/4 
+0 
+0.007(2) 
+0.007(2) 
+0.010(3) 
+0.0083(12) -1.72 
+aU12, U13, and U23 are 0, and Ueq is defined as one third of the trace of the orthogonalized U tensor.  
+bThe BVS parameters r0 and B of are listed in supplemental material.16  
+ 
+ 
+Interestingly, the apical Ch1 site of the Bi-SSe pyramid is selectively occupied by S. It is 
+reasonable to presume that a small amount of Se in Ch1 site is attributed to a migration of excess Se 
+caused by the non-stoichiometry of the crystal. Namely, S and Se atoms are separately ordered in 
+different sites in an ideal stoichiometric crystal as shown in Figure 2(a). This site selectivity suggests the 
+possibility for designing a new superconducting layer by replacing the Ch1 and Ch2 atoms selectively.  
+ 
+Some selected bond distances and angles are given in Fig. 2(b) as the ORTEP representation 
+and Table II in comparison with those of other structural analysis results on La(O,F)BiCh2.14,15 Six 
+coordinated Bi atoms are bonded with S and/or Se atoms in three kinds such as Bi-Ch1, in-plane Bi-Ch2, 
+and inter-plane Bi-Ch2 bondings. Focusing on the Bi-Ch1 bond, we can see a remarkable feature 
+reflecting the site selectivity. As can be seen from TABLE II, for the two different samples with 
+determined F-content, La(O0.77F0.23)BiS2 and La(O0.54F0.46)BiS2, respectively,14 the Bi-Ch1 bonding 
+
+
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+length is almost the same value (with a 0.8 % difference in value). The distance also does not change so 
+much when varying the chalcogen atoms from La(O,F)BiS2 to La(O,F)BiSSe. However, it jumps up to 
+more than 6 % when moving from La(O,F)BiSSe to La(O,F)BiSe2. The difference of ~0.14 Å is 
+identical to the difference between the ionic radii S2- (1.84 Å) and Se2- (1.98 Å).20 This fact indicates that 
+the in-plane Ch2 sites are selectively replaced by Se atoms rather than at the apical Ch1 sites. This 
+tendency is reflected when the change in the c-lattice constant is plotted against increasing Se-content in 
+the polycrystalline sample.13 At a ratio of S:Se = 1:1 and beyond, there is a clear increase in the gradient 
+of the slope. An observation that is not present in the case of a-axis.  
+ 
+Bond valence sum (BVS) was estimated from the observed bond distances and the BVS 
+parameters (r0 and B values) of nominal valence La3+, Bi3+, S2-, Se2-, O2-, F- provided by Brown.21 The 
+BVS values are also listed in TABLE I. The BVS of Bi was estimated to be +3.36, indicating a 
+difference of +0.36 from nominal valence. This result suggests the charge neutrality of this compound 
+should be kept by modification of valence state of Bi as has been shown for the X-ray photoemission 
+spectroscopy results for the BiS2-based compound.22  
+ 
+
+
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+Fig. 2. (a) A schematic illustration of the local structure of the Bi-SSe pyramids in La(O,F)BiSSe. The 
+chalcogen sites of Ch1 (apical) and Ch2 (in-plane) are selectively occupied by S and Se, respectively. 
+(b) ORTEP representation of La(O,F)BiSSe with the selected bonding distances and angles. 
+Displacement ellipsoids are drawn at an 80 % probability level. 
+ 
+TABLE II. Selected bond lengths (Å) and angles (°) of the La(O,F)BiSSe single crystal, compare to those of La(O,F)BiS2 and 
+La(O,F)BiSe2.14, 15 Ch1 and Ch2 denote the apical and in-plane sites on BiCh2 pyramids, respectively.  
+Material 
+La(O0.77F0.23)BiS2 
+(Ref. 14) 
+La(O0.54F0.46)BiS2 
+(Ref. 14) 
+La(O,F)BiSSe 
+(This study) 
+La(O,F)BiSe2 
+(Ref. 15) 
+Distance (Å) 
+La-O/F × 4 
+2.4117(16) 
+2.4338(13) 
+2.4279(4) 
+2.4327(2) 
+La-Ch1 × 4 
+3.130(3) 
+3.102(2) 
+3.1584(10) 
+3.2314(4) 
+Bi-Ch1 (apical) 
+ 2.514(7) 
+2.534(6) 
+2.532(3) 
+2.6752(8) 
+Bi-Ch2 (inter-plane) 
+3.331(11) 
+3.276(9) 
+3.393(2) 
+3.3245(9) 
+Bi-Ch2 (in-plane) × 4 
+2.870(2) 
+2.8730(14) 
+2.9083(1) 
+2.9317(1) 
+Angle (º) 
+  
+  
+  
+  
+La-O/F-La 
+114.51(9) 
+113.17(8) 
+115.687(1) 
+116.660(8) 
+La-Ch1-La 
+80.79(9) 
+81.82(8) 
+81.205(1) 
+79.690(11) 
+Ch1-Bi-Ch2 
+ 91.38(19) 
+89.59(16) 
+91.779(8) 
+ 92.869(14) 
+Ch2-Bi-Ch2 (in-plane) 
+177.2(4) 
+180.8(3) 
+176.441(1) 
+174.262(15) 
+
+
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+Figure 3 shows the temperature dependence of the magnetic susceptibility for a single crystal 
+of La(O,F)BiSSe. The diamagnetic signal corresponds to superconductivity which appears below 4.1 K. 
+The shielding and Meissner volume fraction at 1.8 K were estimated to be ~130 % and ~62 %, 
+respectively. Since the magnetic field was applied parallel to c-axis in the plate-like shaped sample, the 
+superconducting fraction includes overestimation due to its demagnetization effect.   
+ 
+Figure 4 shows the temperature dependence of the resistivity along the ab-plane in the single 
+crystal. The resistivity shows metallic behavior above 7 K, and it deviates from the linear extrapolation 
+of the normal part at around 5.0 K. Then it shows a sharp drop at around 4.2 K, and zero resistivity at 
+around 3.7 K (Tc
+zero), corresponding to the superconducting transition temperature Tc found in the 
+magnetic susceptibility measurement as shown in the inset. The onset temperature of superconductivity 
+(Tc
+onset) was determined to the temperature at 95 % of resistivity in its normal conduction state. The Tc is 
+clearly higher than that of the polycrystalline sample (Tc ~ 3.8 K). This tendency is also observed in 
+La(O,F)BiSe2.15 It is likely that the high crystallinity is a factor in the observed Tc for Bi-Ch2 based 
+superconductors, although the reason why is unclear.  
+
+
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+Fig. 3. Temperature dependence of magnetic susceptibility of the single crystal of La(O,F)BiSSe in 
+zero-field cooling (ZFC) and field cooling (FC) mode. The magnetic field was applied parallel to c-axis. 
+ 
+ 
+Fig. 4. Temperature dependence of resistivity of La(O,F)BiSSe. The inset shows an enlargement scale of 
+the superconducting transition. 
+ 
+0
+2
+4
+6
+8
+−1.5
+−1.0
+−0.5
+0.0
+ /10−2 emu g−1
+Temperature / K
+~ 4.1 K
+ZFC
+FC
+H // c
+0
+100
+200
+300
+0.0
+0.5
+1.0
+2
+4
+6
+8
+0
+0.5
+Resistivity / m  cm
+Temperature / K
+Resistivity / m  cm
+Temperature / K
+La(O,F)BiSSe
+Tc
+onset
+Tc
+zero
+
+
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+The resistivity was measured under various magnetic fields along the ab-plane (H//ab) and the 
+c-axis (H//c) as shown in Figure 5(a) and (b), respectively. The superconductivity is significantly 
+suppressed with increasing field parallel to c-axis in comparison to that in the case of ab-plane. Figure 6 
+shows the temperature dependence of the upper critical field (Hc2(T)), which was plotted from the values 
+of Tc
+onset in Fig. 5. The Hc2(0) in H//ab and H//c were estimated to be Hc2
+//ab(0) = 24.3 and Hc2
+//c(0) = 0.7 
+T, respectively, from the Werthamer-Helfand-Hohenberg (WHH) approximation for the Type II 
+superconductor in a dirty limit. The linear extrapolation of Tc
+onset lead to Hc2
+//ab(0) = 37.4 T and Hc2
+//c(0) 
+= 1.1 T. From these results, the superconducting anisotropic parameter  = Hc2
+//ab(0) / Hc2
+//c(0) is 
+determined to be 34-35. The  of La(O,F)BiS2 varies from 35 to 45 depending on its fluorine content.23 
+In case of La(O,F)BiSe2, the  value was reported to 20-49.24, 25  = 34-35 determined in this study is 
+almost the same value with those of the other La(O,F)BiCh2 superconductors.  
+
+
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+Fig. 5. Temperature dependence of resistivity of La(O,F)BiSSe under various magnetic field in (a) H//ab 
+and (b) H//c.  
+ 
+ 
+Fig. 6. Temperature dependence of upper critical field Hc2(T) of the single crystal of La(O,F)BiSSe. The 
+dotted line shows WHH approximation to estimate Hc2(0). 
+2
+4
+6
+8
+0
+0.2
+0.4
+0.6
+0.8
+0
+0.2
+0.4
+0.6
+0.8
+Resistivity / m  cm
+Temperature / K
+H = 0 T
+0.1 T
+0.2 T
+0.3 T
+0.4 T
+0.5 T
+1−7 T
+H // c
+Resistivity / m  cm
+H // ab
+H = 0−7 T
+(b)
+(a)
+0
+2
+4
+0.0
+10.0
+20.0
+30.0
+Hc2(T) / T
+Temperature / K
+24.3 T
+0.7 T
+H // ab
+H // c
+
+
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+ 
+Note that the Tc is clearly higher than that of La(O,F)BiS2 (Tc = 2.6 K)2, 14 and La(O,F)BiSe2 
+(Tc = 3.6 K).12, 15 The relatively higher Tc is attributed to the arrangement of apical S and in-plane Se for 
+the Bi-SSe pyramids, which may enhance the density of states at the Fermi level. Theoretical studies are 
+required to know the reason for the enhancement in Tc. And further to this, there is a possibility to 
+achieve a higher Tc by applying high pressure to La(O,F)BiSSe in a fashion analogous to that which has 
+already been applied to other BiSe2- or BiS2-based materials.25-27 This also should be investigated in 
+future works.  
+ 
+In conclusion, single crystals of La(O,F)BiSSe have been prepared using the CsCl flux method. 
+La(O,F)BiSSe crystalized with space group P4/nmm (lattice parameters a = 4.1110(2) Å, c = 13.6010(7) 
+Å). The single crystal X-ray structural analysis revealed that the apical site of the Bi-SSe pyramid in the 
+superconducting layer is selectively occupied by S atoms. The magnetic susceptibility and resistivity 
+measurements showed a clear superconducting transition at around 4.2 K. The superconducting 
+anisotropic parameter was determined to be 34-35 from its upper critical magnetic field.  
+ 
+Acknowledgment 
+This work was partially supported by Japan Science and Technology Agency through Strategic 
+International Collaborative Research Program (SICORP-EU-Japan) and Advanced Low Carbon 
+Technology R&D Program (ALCA) of the Japan Science and Technology Agency.  
+ 
+
+
+ 
+ 
+ 
+15 
+ 
+ 
+ 
+References 
+1Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, 
+O. Miura, Phys. Rev. B 86, 220510 (2012). 
+2Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa and O. Miura, J. 
+Phys. Soc. Jpn. 81, 114725 (2012). 
+3K. Deguchi, Y. Takano, Y. Mizuguchi, Sci. Technol. Adv. Mater. 13, 054303 (2012). 
+4J. Xing, S. Li, X. Ding, H. Yang and H.-H. Wen, Phys. Rev. B 86, 214518 (2012). 
+5R. Jha, A. Kumar, S. K. Singh, V. P. S. Awana, J. Supercond. Nov. Magn. 26,499 (2013). 
+6S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, 
+T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya and Y. Takano, J. Phys. Soc. Jpn. 
+82, 033708 (2012). 
+7D. Yazici, K. Huang, B.D. White, A.H. Chang, A.J. Friedman and M.B. Maple, Phil. Mag. 93, 673 
+(2013). 
+8D. Yazici, K. Huang, B. White, I. Jeon, V. Burnett, A. Friedman, I. Lum, I. Nallaiyan, S. Spagna, M. 
+Maple, Phys. Rev. B. 87, 174512 (2013). 
+9X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao and Z. Xu, 
+Physical Review B 87, 020504 (2013). 
+10Y. Kamihara, T. Watanabe, M. Hirano, H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+11X-C. Wang, D-Y. Chen, Q. Guo, J. Yu, B-B. Ruan, Q-G. Mu, G-Fu. Chen, Z-A. Ren, arXiv:1404.7562. 
+12A. Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V. Pomjakushin, R. Khasanov, H. Luetkens, P.K. 
+Biswas, A. Amato, H. Keller, K. Conder, J. Phys.:Condens. Matter 26, 215702 (2014). 
+13T. Hiroi, J. Kajitani, A. Omachi, O. Miura, Y. Mizuguchi, J. Phys. Soc. Jpn. Article in press.  
+
+
+ 
+ 
+ 
+16 
+ 
+ 
+ 
+14A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka, N. Kumada: J. Solid State Chem. 212, 213 
+(2014). 
+15M. Tanaka, M. Nagao, Y. Matsushita, M. Fujioka, S. J. Denholme, T. Yamaguchi, H. Takeya, Y. Takano, 
+J. Solid State Chem. 219, 168 (2014).  
+16See supplemental material at [URL will be inserted by AIP] for crystallographic, synthesis details and 
+BVS parameters. 
+17CrystalClear, Rigaku Corporation, Tokyo, Japan (2005). 
+18G. M. Sheldrick: Acta Cryst. A 64, 112 (2008). 
+19L. J. Farrugia, WinGX, J. Appl. Cryst. 45, 849 (2012). 
+20R. D. Shannon, Acta Cryst. A 32, 751 (1976).   
+21I. D. Brown (2013) http://www.iucr.org/resources/data/data-sets/bond-valence-parameters 
+22S. Nagira, J. Sonoyama, T. Wakita, M. Sunagawa, Y. Izumi, T. Muro, H. Kumigashira, M. Oshima, K. 
+Deguchi, H. Okazaki, Y. Takano, O. Miura, Y. Mizuguchi, K. Suzuki, H. Usui, K. Kuroki, K. Okada, 
+Y. Muraoka, T. Yokoya, J. Phys. Soc. Jpn. 83, 033703 (2014). 
+23M. Nagao, A. Miura, S. Demura, K. Deguchi, S. Watauchi, T. Takei, Y. Takano, N. Kumada, I. Tanaka: 
+Solid State Commun. 178, 33 (2014). 
+24M. Nagao, M. Tanaka, S. Watauchi, I. Tanaka, Y. Takano, J. Phys. Soc. Jpn. 83, 114709 (2014). 
+25M. Fujioka, M. Tanaka, S. J. Denholme, T. Yamaki, H. Takeya, T. Yamaguchi, Y. Takano, Europhys. 
+Lett. 108, 47007 (2014). 
+26M. Fujioka, M. Nagao, S. J. Denholme, M. Tanaka, H. Takeya, T. Yamaguchi, Y. Takano, Appl. Phys. 
+Lett. 105, 052601 (2014).  
+27Y. Mizuguchi, J. Phys. Chem. Solids, Article in press.  
+
+

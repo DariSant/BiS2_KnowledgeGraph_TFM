@@ -1,0 +1,444 @@
+# PROMPT 2.2 CLAIM + ENTITY
+
+# Complete Extraction Prompt for BiS₂-Based Superconductor Literature
+
+## ROLE AND CONTEXT
+You are an expert system trained to extract structured scientific claims from BiS₂-based superconductor research papers. Your task is to analyze text excerpts (100-1000 words from abstracts and paper sections) and identify epistemological claims that reveal experimental findings about materials, their properties, and the relationships between experimental variables.
+
+## INPUT FORMAT
+You will receive text excerpts from scientific papers discussing BiS₂-based layered superconductors. These texts describe:
+- Material synthesis and processing methods
+- Structural characterization results
+- Superconducting property measurements
+- Relationships between composition, structure, and physical properties
+- Mechanistic explanations for observed phenomena
+
+## EXTRACTION TASK
+
+### STEP 1: Identify Valid Claims
+Extract ONLY statements that meet ALL of these criteria:
+1. **Empirical content**: The statement reports an observation, measurement, or experimental finding
+2. **Material-specific**: The statement refers to a specific compound, family, or composition range
+3. **Relational information**: The statement describes how variables interact (e.g., "X causes Y", "X correlates with Y", "increasing X leads to Y")
+4. **Completeness**: The statement contains sufficient context to understand what was studied and what was found
+
+### STEP 2: Structure Each Claim with Attributes
+
+For each extracted claim, identify these attributes (omit if not present in text):
+
+#### **{SUBJECT}** [REQUIRED]
+The specific material system, compound, or chemical family being studied.
+- Examples: `LaO₀.₅F₀.₅BiS₂`, `NdO₁₋ₓFₓBiS₂`, `BiS₂-based superconductors`, `Eu₀.₅La₀.₅FBiS₂₋ₓSeₓ`
+
+#### **{DRIVER}** [REQUIRED when causal/parametric relationship exists]
+The independent variable, experimental intervention, or condition that was changed.
+- Examples: `High Pressure Annealing`, `Se substitution`, `Fluorine doping concentration (x)`, `External pressure`, `Rare-earth ionic radius`, `Sn substitution at Ag site`
+
+#### **{EFFECT}** [REQUIRED when causal/parametric relationship exists]
+The dependent variable or observed outcome that changed in response to the Driver.
+- Examples: `Tc enhancement`, `c-axis lattice contraction`, `Metal-insulator transition`, `Suppression of in-plane disorder`, `Shielding volume fraction increase`, `Resistivity anomaly suppression`
+
+#### **{TREND}** [When quantifiable relationship described]
+The directionality, magnitude, or functional form of the Driver-Effect relationship.
+- Examples: `Monotonically increases`, `Linearly decreases at -1.2 K/GPa`, `Dome-shaped with maximum at x=0.6`, `Remains constant for x=0-0.6`, `Degraded with increasing substitution`
+
+#### **{MECHANISM}** [CRITICAL - Extract whenever provided]
+The physical, structural, or theoretical explanation for WHY the Effect occurred.
+- Examples: `Due to in-plane chemical pressure`, `Suppression of antiferromagnetism`, `Reduction of in-plane disorder at Ch1 sites`, `Flattening of Bi-S plane`, `Enhanced orbital overlap between Bi and Se`, `Destabilization of CDW ordering`
+
+#### **{SCOPE}** [When limitations or constraints mentioned]
+The boundaries of validity for the claim (sample types, composition ranges, universal vs. specific).
+- Examples: `Universal mechanism for BiCh₂-based superconductors`, `Specific to polycrystalline samples`, `Optimally doped region only`, `Valid for x=0.4-0.6`, `Observed in HP-annealed samples`
+
+#### **{CONDITIONS}** [When specific experimental conditions matter]
+Measurement or synthesis conditions under which the claim holds.
+- Examples: `Measured at ambient pressure`, `Under 2 GPa hydrostatic pressure`, `At 470°C annealing temperature`, `Room temperature measurement`, `Low temperature (<2K)`
+
+### STEP 3: Extract Entities from Each Claim
+
+After defining the claim attributes, identify all entities mentioned and their attributes:
+
+#### **{ENTITY}** Types and Required Attributes:
+
+**TYPE 1: Material/Compound**
+- `Formula`: Chemical formula (e.g., `LaO₀.₅F₀.₅BiS₂`)
+- `Type`: Sample form (e.g., `Polycrystalline`, `Single crystal`)
+- `Synthesis Method`: (e.g., `Solid-state reaction`, `High-pressure annealing`)
+- `Synthesis Pressure`: (e.g., `2 GPa`, `Ambient pressure`)
+- `Synthesis Temperature`: (e.g., `700°C`, `470°C`)
+- `Composition Variables`: (e.g., `x=0.5 (F doping)`, `x=0.6 (Se substitution)`)
+- `Superconducting Status`: (e.g., `Bulk superconductor`, `Non-superconducting`, `Filamentary`)
+
+**TYPE 2: Structural Parameter**
+- `Parameter Name`: (e.g., `Lattice constant a`, `c-axis`, `In-plane Bi-Ch1 distance`)
+- `Value`: Numerical value with units (e.g., `13.2 Å`, `3.97 Å`)
+- `Condition`: State when measured (e.g., `Post-HP annealing`, `As-grown`, `x=0.6`)
+- `Trend`: How it changes (e.g., `Monotonically increases with x`, `Decreases`)
+
+**TYPE 3: Physical Property**
+- `Property Type`: (e.g., `Superconducting Transition (Tc)`, `Resistivity`, `Thermal conductivity`)
+- `Value`: Measurement result (e.g., `10 K`, `4.5 K zero-resistance`)
+- `Measurement Type`: (e.g., `Tc onset`, `Tc zero`, `Shielding volume fraction`)
+- `Condition`: When measured (e.g., `At optimum doping`, `Under 2 GPa pressure`)
+
+**TYPE 4: Disorder/Structural Feature**
+- `Feature Name`: (e.g., `In-plane disorder`, `Ch1-Bi-Ch1 bond angle`, `Bi-S plane buckling`)
+- `Behavior`: (e.g., `Suppressed by Se substitution`, `Decreases with x`)
+- `Site`: Crystallographic location (e.g., `Ch1 site`, `S1 site`, `Bi-S plane`)
+
+**TYPE 5: Electronic/Magnetic Property**
+- `Property`: (e.g., `Carrier concentration`, `Seebeck coefficient`, `Valence state`)
+- `Value/Trend`: (e.g., `Electron-doped`, `-25 μV/K`, `Decreases from Ce³⁺`)
+
+## OUTPUT FORMAT
+
+Use this exact markdown structure for each claim:
+
+```markdown
+- {CLAIM}: [Complete sentence describing the finding]
+  - {CLAIM ATTRIBUTES}:
+    - Subject: [Material system]
+    - Driver: [Independent variable] (if applicable)
+    - Effect: [Observed outcome] (if applicable)
+    - Trend: [Relationship pattern] (if applicable)
+    - Mechanism: [Physical explanation] (if applicable)
+    - Scope: [Validity constraints] (if applicable)
+    - Conditions: [Experimental conditions] (if applicable)
+  - {ENTITIES}:
+    - {ENTITY 1}: [Entity name/type]
+      - {ENT. 1 ATTRIBUTES}:
+        - [Attribute]: [Value]
+        - [Attribute]: [Value]
+    - {ENTITY 2}: [Entity name/type]
+      - {ENT. 2 ATTRIBUTES}:
+        - [Attribute]: [Value]
+```
+
+## CRITICAL EXTRACTION RULES
+
+1. **One claim per relationship**: If a sentence describes multiple independent findings, create separate claims
+2. **Preserve quantitative information**: Always include numerical values, units, and error bars when present
+3. **Link mechanism to structure**: When text connects structural changes (e.g., bond angles, lattice parameters) to property changes (e.g., Tc), ALWAYS extract the {MECHANISM}
+4. **Distinguish correlation from causation**: Use precise language—"correlates with" vs. "causes" vs. "leads to"
+5. **Capture negative results**: Include claims about what did NOT change or what degraded
+6. **Avoid interpretation**: Extract only what the text explicitly states; do not infer unstated mechanisms
+7. **Maintain chemical precision**: Preserve exact formulas, subscripts, site labels (Ch1 vs. Ch2), and crystallographic notation
+
+## DOMAIN-SPECIFIC VOCABULARY GUIDE
+
+**Key compound families:**
+- REO₁₋ₓFₓBiS₂ (RE = La, Ce, Pr, Nd, Sm, Eu)
+- LaOBiS₂₋ₓSeₓ
+- Bi₄O₄S₃, Bi₂O₂S₂
+- La₂O₂M₄S₆-type systems
+
+**Critical structural sites:**
+- Ch1: In-plane chalcogen (superconducting layer)
+- Ch2: Out-of-plane/interlayer chalcogen
+- Blocking layer: REO or BiO layer
+- Conducting layer: BiS₂ or BiCh₂ plane
+
+**Key experimental signatures:**
+- Tc onset, Tc zero (superconducting transition temperatures)
+- Shielding volume fraction (bulk vs. filamentary superconductivity)
+- Zero-resistance state
+- Metal-insulator transition
+- Resistivity anomaly (potential CDW)
+- In-plane chemical pressure
+- Uniaxial strain
+
+**Mechanistic concepts:**
+- Suppression of in-plane disorder
+- Flattening of Bi-Ch plane (reducing buckling)
+- Enhanced orbital overlap
+- Carrier doping vs. structural optimization
+- CDW suppression
+- Antiferromagnetic ordering
+
+## EXAMPLES OF INVALID CLAIMS (DO NOT EXTRACT)
+
+❌ "BiS₂-based superconductors are interesting materials" (No specific finding)
+❌ "Further research is needed" (No empirical content)
+❌ "The sample was synthesized at 700°C" (Method description, not a finding about material behavior)
+❌ "Figure 3 shows the data" (Meta-statement about paper structure)
+
+## EXAMPLES OF VALID CLAIMS (EXTRACT THESE)
+
+✅ "High pressure annealing generates uniaxial strain along the c-axis in LaO₀.₅F₀.₅BiS₂"
+✅ "Se substitution at the Ch1 site suppresses in-plane disorder and enhances Tc to 3.0 K at x=0.6"
+✅ "Tc monotonically increases with decreasing RE³⁺ ionic radius in REO₀.₅F₀.₅BiS₂"
+✅ "The correlation between Tc and a-axis shows a dome-like tendency with maximum at a≈3.98 Å"
+
+## EXECUTION PROTOCOL
+
+1. Read the entire text excerpt once to understand context
+2. Identify each distinct empirical finding
+3. For each finding, construct one {CLAIM} with complete attributes
+4. Extract all entities mentioned in that claim with their attributes
+5. Verify that {MECHANISM} is captured whenever structural-property relationships are explained
+6. Output in the exact markdown format specified above
+
+Your output should contain ONLY the extracted claims in markdown format—no preamble, no explanations, no meta-commentary.
+
+# OUTPUT
+
+Here are the claims extracted from the provided text, formatted as instructed:
+
+```markdown
+- {CLAIM}: Annealing LaO0.5F0.5BiS2 under high pressure (HP) induces uniaxial strain along the c-axis. 
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: HP annealing
+    - Effect: Uniaxial strain along the c-axis
+    - Trend: Induced
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO0.5F0.5BiS2
+      - Type: Material
+      - Key Attributes: BiS2-based layered superconductor
+    - {ENTITY 2}: HP annealing
+      - Type: Experimental Treatment 
+
+
+- {CLAIM}:  The uniaxial strain along the c-axis increases superconducting properties (Tc and shielding fraction) in LaO0.5F0.5BiS2.
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2 
+    - Driver: Uniaxial strain along the c-axis
+    - Effect: Increased superconducting properties (Tc and shielding fraction)
+    - Trend: Positive Correlation
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO0.5F0.5BiS2
+      - Type: Material
+      - Key Attributes: BiS2-based layered superconductor
+    - {ENTITY 2}: Uniaxial strain along the c-axis
+      - Type: Structural Parameter
+
+
+
+
+- {CLAIM}: Removing uniaxial strain by annealing in an evacuated quartz tube at 700 ºC degrades superconducting properties in LaO0.5F0.5BiS2.  
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2 
+    - Driver: Annealing at 700 °C in evacuated quartz tube (reverses strain)
+    - Effect: Decreased superconducting properties 
+    - Trend: Negative Correlation
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO0.5F0.5BiS2
+      - Type: Material
+      - Key Attributes: BiS2-based layered superconductor
+    - {ENTITY 2}: Annealing at 700 °C in evacuated quartz tube
+      - Type: Experimental Treatment
+
+
+
+
+```
+
+# REPORT
+
+Excellent — this output is **very close**, but it still reveals a few **systematic deviations from Prompt v2.2** that are worth fixing now, because they will otherwise propagate downstream into JSON and graph construction.
+
+I’ll go point by point, grounded strictly in v2.2 rules.
+
+---
+
+## Overall assessment (high-level)
+
+* ✅ Claims are **explicit and text-faithful**
+* ✅ Entity cardinality is now **stable**
+* ✅ No hallucinated mechanisms
+* ❌ **Two recurring violations remain**:
+
+  1. **Forbidden enrichment inside entities**
+  2. **Attribute leakage / normalization drift**
+
+These are subtle but important.
+
+---
+
+## Issue 1 — Forbidden entity enrichment (CRITICAL)
+
+### Problem
+
+You are still adding **non-textual descriptive attributes** inside entities, e.g.:
+
+```markdown
+Key Attributes: BiS2-based layered superconductor
+```
+
+This violates **Section 5: Forbidden Entity Content**:
+
+> Do NOT add inferred properties
+> Do NOT add evaluative descriptors
+
+Even though this is *true*, it is **not explicitly asserted** in the sentence-level claim being extracted.
+
+### Why this matters
+
+* It introduces **latent ontology assumptions** into stage 1
+* It creates **duplicate semantic encoding** (material family leaks early)
+* It makes entity equality ambiguous in the graph (same material, different descriptors)
+
+### Fix (MANDATORY)
+
+For **stage 1**, entities must be **nearly atomic**.
+
+#### Correct version
+
+```markdown
+- {ENTITY 1}: LaO0.5F0.5BiS2
+  - Type: Material
+```
+
+That’s it.
+
+Everything else belongs in:
+
+* stage 2 enrichment
+* ontology alignment
+* or material normalization
+
+---
+
+## Issue 2 — “Trend” overuse (SUBTLE but important)
+
+### Problem
+
+You are still filling `Trend` with:
+
+* `Induced`
+* `Positive Correlation`
+* `Negative Correlation`
+
+But **v2.2 allows Trend ONLY if explicitly stated as a trend**.
+
+Let’s check each case.
+
+---
+
+### Claim 1
+
+> “induces uniaxial strain”
+
+Is this a *trend*?
+
+No — it is a **causal action**, already encoded in `Driver → Effect`.
+
+#### ❌ Incorrect
+
+```markdown
+Trend: Induced
+```
+
+#### ✅ Correct
+
+Omit `Trend` entirely.
+
+---
+
+### Claim 2
+
+> “increases superconducting properties”
+
+This **is acceptable** as a trend, because “increases” is explicit.
+
+However, normalize carefully.
+
+#### ✅ Acceptable
+
+```markdown
+Trend: Increases
+```
+
+Avoid abstract labels like “Positive Correlation” unless the paper explicitly says “correlated”.
+
+---
+
+### Claim 3
+
+> “degrades superconducting properties”
+
+Again, this is explicit directionality.
+
+#### ✅ Acceptable
+
+```markdown
+Trend: Decreases
+```
+
+---
+
+## Issue 3 — Driver normalization drift (IMPORTANT)
+
+### Problem
+
+In Claim 3:
+
+```markdown
+Driver: Annealing at 700 °C in evacuated quartz tube (reverses strain)
+```
+
+The parenthetical **“(reverses strain)”** is an **interpretive gloss**, not raw text.
+
+This violates:
+
+> Do NOT add causal language not present in the text.
+
+Even if the paper implies this, stage 1 must not encode it.
+
+### Fix
+
+Split **process description** from **interpretation**.
+
+#### ✅ Correct
+
+```markdown
+Driver: Annealing at 700 °C in evacuated quartz tube
+```
+
+The effect already captures degradation — no need to explain why.
+
+---
+
+## Issue 4 — Entity completeness in Claim 2 (OPTIONAL improvement)
+
+Claim 2 discusses:
+
+> “superconducting properties (Tc and shielding fraction)”
+
+But neither appears as an entity.
+
+This is **not strictly wrong** under v2.2, because:
+
+* At least one entity is present
+* The claim is graph-representable
+
+However, for **graph usefulness**, you may want to extract:
+
+```markdown
+- {ENTITY 3}: Superconducting properties
+  - Type: Physical Property
+```
+
+⚠️ Do **not** split into Tc + shielding fraction unless values or measurements are explicitly given.
+
+This is optional, not required.
+
+---
+
+## What the *corrected* v2.2 output would look like (one example)
+
+### Claim 1 — corrected
+
+```markdown
+- {CLAIM}: Annealing LaO0.5F0.5BiS2 under high pressure induces uniaxial strain along the c-axis.
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: High-pressure annealing
+    - Effect: Uniaxial strain along the c-axis
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO0.5F0.5BiS2
+      - Type: Material
+    - {ENTITY 2}: Uniaxial strain along the c-axis
+      - Type: Structural Property
+```
+

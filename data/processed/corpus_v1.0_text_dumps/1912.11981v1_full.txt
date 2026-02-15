@@ -1,0 +1,421 @@
+1 
+ 
+Superconductivity in Se-doped La2O2Bi2Pb2S6-xSex with a Bi2Pb2Ch4-type thick conducting layer  
+ 
+Rajveer Jha1, Yosuke Goto1, Tatsuma D. Matsuda1, Yuji Aoki1, and Yoshikazu Mizuguchi1 
+ 
+1Department of Physics, Tokyo Metropolitan University, 1-1 Minami-Osawa, Hachioji, Tokyo 192-0397, Japan. 
+Abstract 
+La2O2Bi2Pb2S6 is a layered Bi-based oxychalcogenide with a thick four-layer-type 
+conducting layer. Although La2O2Bi2Pb2S6 is a structural analogue of La2O2Bi3AgS6, 
+which is a superconductor, insulating behavior has been observed in La2O2Bi2Pb2S6 at 
+low temperatures, and no superconductivity has been reported. Herein, we demonstrate 
+superconductivity in La2O2Bi2Pb2S6-xSex via partial substitution of Se in the S sites. 
+Owing to the Se doping, the normal state electrical resistivity of La2O2Bi2Pb2S6-xSex at 
+low temperatures was dramatically suppressed, and superconductivity was observed at a 
+transition temperature (Tc) of 1.15 K for x = 0.5. Tc increased with increasing Se 
+concentration: Tc = 1.9 K for x = 1.0. The emergence of metallicity and superconductivity 
+was explained via in-plane chemical pressure effects that can suppress local disorder and 
+carrier localization, which are commonly observed in two-layer-type BiS2-based systems.  
+ 
+Keywords: BiCh2-based superconductors; layered superconductor; electrical resistivity; substitution effect. 
+ 
+ 
+ 
+ 
+ 
+ Corresponding author: mizugu@tmu.ac.jp  
+  
+
+
+2 
+ 
+I. 
+INTRODUCTION 
+Layered compounds have been widely studied in the search for new superconductors since the discovery of (high-
+transition-temperature) high-Tc cuprates [1]. After the cuprates, Fe-based and BiCh2-based superconductors (Ch: S 
+and Se) have been discovered, and many others have been synthesized [2-5]. In those layered superconductors, the 
+important structure is a superconducting layer commonly contained in the layer stacking: a CuO2 layer in cuprates 
+and an FeAs or FeSe layer in Fe-based superconductors [6-8]. In BiCh2-based superconductors, a BiCh2 layer is the 
+basic superconducting layer [3-5].  
+Since the discovery of BiS2-based superconductors, namely, Bi4O4S3 and La(O,F)BiS2, in 2012 [3,4], many related 
+superconductors with BiS2[9-18], BiSe2 [19,20], or Bi(S,Se)2 superconducting layers [21-24] have been synthesized. 
+The crystal structure of BiCh2-based compounds has an interesting feature, that is, the presence of a van der Waals 
+gap between two BiCh2 layers. The space in this gap could be used to create new BiCh2-type compounds with a thick 
+conducting layer [25-27].  
+As studied in cuprates, stacking many conducting planes along the c-axis could be a promising way to achieve a 
+higher Tc in a layered system [6,28,29]. Hence, layered oxychalcogenides, such as La2O2M4S6 (M: metals like Bi, Pb, 
+Sn, and Ag), with a thicker four-layer-type conducting layer of M4S6 have been synthesized with the expectation of 
+demonstrating a higher Tc than that observed in two-layer-type BiCh2-based superconductors [25-27]. The four-layer-
+type La2O2M4S6 compounds typically have a tetragonal structure with a space group of P4/nmm. The structure can be 
+regarded as a stacking of La2O2, BiS2, M2S2, and BiS2 layers in sequence [26]; a crystal structure image for M = Pb 
+is displayed in Fig. 1(d). A  rock-salt-type M2S2 layer is inserted between two BiS2 layers where a van der Waals gap 
+would exist in a two-layer-type LaOBiS2 (described as La2O2Bi2S4 for one unit cell). In fact, the outer layers are 
+basically BiS2 layers, and the inner rock-salt layer is occupied by M and S ions. From a structural viewpoint, the 
+composition can be described as La2O2Bi2M2S6.  
+Recently, we observed superconductivity with a Tc of 0.5 K in La2O2Bi3AgS6 (M = Bi0.5Ag0.5) [30].  Furthermore, 
+we have studied the effects of doping on the superconductivity of the La2O2Bi3AgS6 system. Partial substitution of 
+Ag by Sn increased Tc up to 2.5 K in La2O2Bi3Ag0.6Sn0.4S6 [31]. Additionally, partial Se substitution for S resulted in 
+bulk superconductivity at 3.5 K in La2O2Bi3Ag0.6Sn0.4S5.7Se0.3 [31]. Tc further increased up to 4.0 K with RE-site 
+substitution in La2-xRExO2Bi3Ag0.6Sn0.4S6 (RE = Eu, Nd, and Pr) compounds [32,33]. Based on these recent 
+developments with regard to new four-layer-type Bi-based superconductors, we found that the chemical pressure 
+effect was useful for inducing bulk superconductivity in La2O2Bi2M2S6 systems. The chemical pressure effect has 
+been proposed as one of the essential parameters for the emergence of bulk superconductivity in typical BiCh2-based 
+compounds [14,21-24,34]. In the RE(O,F)BiCh2 system, in-plane chemical pressure, which was tuned by RE-site 
+and/or Ch-site substitutions, suppresses in-plane local disorder, which is unfavorable for the emergence of bulk 
+superconductivity [35-39]. As mentioned previously, four-layer-type La2O2Bi2M2S6 compounds are also sensitive to 
+chemical pressure effects. Therefore, the chemical pressure could be useful for further exploration of new four-layer-
+type superconductors.  
+In this study, we have investigated the effects of substituting Se in the S sites in La2O2Bi2Pb2S6, which was the 
+first four-layer-type compound synthesized by Sun et al. and proposed as a promising thermoelectric material [25]. 
+Although theoretical calculations suggested that La2O2Bi2Pb2S6 is a metal [26], the obtained samples showed 
+insulating behavior at low temperatures [25]. We have investigated the effects of partial substitutions of the Pb sites 
+by Ag, Cd, In, Sn, and Sb, but all of the examined samples showed insulating characteristics at low temperatures. 
+Therefore, in this study, we have investigated the effects of substituting Se in the S sites in La2O2Bi2Pb2S6-xSex. Owing 
+to the Se substitution, the insulating behavior was suppressed, and electrical resistivity that was apparently lower than 
+that of pure La2O2Bi2Pb2S6 was observed even at the lowest temperature of our system (T = 0.4 K). We observed 
+superconductivity at Tc = 1.15 K for x = 0.5 and Tc = 1.9 K for x = 1.0.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+3 
+ 
+II. 
+EXPERIMENTAL DETAILS 
+Polycrystalline samples of La2O2Bi2Pb2S6-xSex (x = 0, 0.5, and 1.0) were prepared by a solid-state reaction method. 
+Powders of La2S3 (99.99%), Bi2O3 (99.9%), Pb (99.99%), and grains of Bi (99.999%), S (99.99%), and Bi2Se3 (pre-
+synthesized from Bi and Se) with a nominal composition of La2O2Bi2Pb2S6-xSex (x = 0, 0.5, and 1.0) were mixed using 
+a pestle and a mortar, pelletized, sealed in an evacuated quartz tube, and heated at 690 °C for 15 h. The heated samples 
+were reground, pelletized, and heated at 740 °C for 35 h. The optimal annealing conditions and the phase purity of 
+the prepared samples were examined using laboratory X-ray diffraction (XRD) with a Cu-Kα radiation by a 
+conventional -2 method. To discuss the lattice structure, Rietveld analyses were performed with RIETAN-FP [40]. 
+We assumed perfect site selectivity of Bi and Pb based on the previous structural analyses for La2O2Bi2Pb2S6 [26]. 
+As the obtained XRD intensity and profile were not sufficient for the determination of displacement parameters, we 
+have performed refinements with fixed isotropic displacement parameters. A schematic image of the crystal structure 
+was drawn using VESTA [41]. The actual composition of the synthesized samples was investigated by energy 
+dispersive X-ray spectroscopy (EDX) on a scanning electron microscope SEM [TM-3030 (Hitachi)]. The electrical 
+resistivity down to T = 0.5 K was measured by a four-probe method using a 3He probe platform on the Physical 
+Property measurement system (PPMS: Quantum Design). The Seebeck coefficient was measured by a four-probe 
+method at room temperature on ZEM-3 (advance RIKO). The temperature dependence of the Hall coefficient was 
+measured with a standard five-prove configuration on PPMS. 
+ 
+ 
+ 
+ 
+III. 
+RESULTS AND DISCUSSION 
+Figure 1(a) shows room temperature powder XRD patterns for La2O2Bi2Pb2S6-xSex (x = 0, 0.5, and 1.0) compounds. 
+The obtained samples are crystalized in a tetragonal crystal structure with a space group of P4/nmm. For all the 
+samples, the main phase was La2O2Bi2Pb2S6-xSex. As indicated by the symbol, a La2O2S impurity phase was observed. 
+The impurity phase did not disappear when heat treatment conditions were changed. We performed two-phase 
+Rietveld analyses to determine lattice constants for all the obtained samples. The results of the Rietveld refinement 
+are summarized in Table I. The lattice constants a and c increase with Se substitution for x = 0.5, but the lattice 
+constants for x = 1.0 were comparable to those for x = 0.5. Those shifts in lattice constants are consistent with the 
+observed peak shifts, as shown in Fig. 1(b,c). Based on such facts, we consider the solubility limit of Se in S to be 
+less than x = 1.0. We have analyzed the actual compositions of elements at the conducting layer in La2O2Bi2Pb2S6-
+xSex (x = 0, 0.5 and 1.0) by EDX analysis at five analysis points (Table I). The obtained compositions for the sample 
+are almost the same as the initial nominal compositions, but the Se concentration for x = 1.0 is slightly lower than the 
+nominal value. However, the Se concentrations were different for the samples with x = 0.5 and 1.0, and the 
+superconducting property was also different. Therefore, for clarity to the readers, we labelled the samples according 
+to the initial nominal compositions in this paper.  
+Figure 1(e) shows the result of Rietveld refinement for x = 0.5. To refine the XRD pattern for an Se-doped sample,  
+we needed to determine the S site where Se is doped. The inset of Fig. 1(e) shows the reliability factor Rwp obtained 
+for the cases with no Se and those with Se-doped S1, S2, and S3 sites [see Fig. 1(d) for the label of S sites]. Rwp 
+decreases with incorporation of Se at the S sites and becomes the lowest when Se substitution at the in-plane S1 site 
+was assumed. Although we need further detailed structural parameters to draw firm conclusions regarding the Se-
+doping site, herein, we consider that Se was selectively substituted at the S1 site. This assumption is consistent with 
+the emergence of metallic conductivity and superconductivity in Se-doped samples, which can be explained by the 
+concept of in-plane chemical pressure via Se substitution at the S1 sites of BiS2 layers [21-24,34]. 
+ 
+ 
+ 
+ 
+
+
+4 
+ 
+ 
+ 
+TABLE I. Rietveld analysis results, lattice constants, reliability factor Rwp, and mass fraction of the major phase to 
+the impurity phase in La2O2Bi2Pb2S6-xSex (x = 0, 0.5, and 1.0). 
+Sample label 
+La2O2Bi2Pb2S6 
+(x = 0) 
+La2O2Bi2Pb2S5.5Se0.5 
+(x = 0.5) 
+La2O2Bi2Pb2S5.0Se1.0 
+(x = 1.0 ) 
+a (Å) 
+4.0920(4) 
+4.1039 (3) 
+4.1038 (4) 
+c (Å) 
+19.680(2) 
+19.7642 (14) 
+19.777 (2) 
+Rwp 
+12.8% 
+10.5% 
+11.7% 
+Mass fraction of the main 
+phase 
+95% 
+95% 
+82% 
+Actual composition 
+(EDX) 
+Bi1.98(3)Pb2.09(8)S6.04(9) 
+Bi2.01(3)Pb1.89(5)S5.52(8)Se0.46(3) 
+Bi2.04(1)Pb1.95(2)S5.18(5)Se0.81(10) 
+ 
+ 
+ 
+
+
+5 
+ 
+ 
+ 
+FIG. 1. (color online) (a) Powder XRD patterns for all the samples of La2O2Bi2Pb2S6-xSex. The peak of the 
+La2O2S impurity phase was indicated by an asterisk symbol. The numbers in the figures are Miller indices of 
+typical peaks. (b) Zoomed profiles of 006 peaks. (c) Zoomed profiles of 110 peaks. (d) Schematic image of 
+La2O2Bi2Pb2S5.5Se0.5 crystal structure drawn with parameters obtained from the Rietveld analysis. (e) Powder 
+XRD pattern and the Rietveld fitting for the La2O2Bi2Pb2S5.5Se0.5 sample. The Rietveld analysis was performed 
+by two-phase refinement with a La2O2S impurity phase as a second phase.  
+ 
+ 
+     Figure 2 shows the temperature dependence of the electrical resistivity [ρ(T)] from 300 to 2 K for La2O2Bi2Pb2S6. 
+The electrical resistivity largely increases with decreasing temperature, which in agreement with the typical behavior 
+of semiconductors. The result is consistent with a previous report by Sun et al. [25]. However, the band calculation 
+has suggested a metallic band structure for La2O2Bi2Pb2S6 [26]. The inconsistency may imply that the semiconducting-
+like behavior of electrical resistivity is caused by anomalous carrier localization, not from characteristics of a band 
+insulator. 
+Figure 3(a) shows the temperature dependence of electrical resistivity [ρ(T)] from 300 to 0.5 K for the Se-doped 
+La2O2Bi2Pb2S6-xSex (x = 0.5 and 1.0) samples. At 300 K, the electrical resistivity is clearly lower than that of 
+La2O2Bi2Pb2S6. Furthermore, the semiconducting-like behavior was dramatically suppressed by Se substitution. The 
+normal-state resistivity of Se-doped compounds still shows a slight increase with decreasing temperature, which may 
+be due to weak carrier localization, which is typically observed in BiS2-based systems. The weak carrier localization 
+seems to be suppressed with increasing Se concentration from x = 0.5 to x = 1.0. The changes in resistivity caused by 
+Se substitution can be understood by the effects of in-plane chemical pressure, which was introduced previously. For 
+two-layer-type BiCh2-based compounds, it has been extensively demonstrated that in-plane chemical pressure effects 
+successfully suppressed the in-plane local disorder of the conducting layer [14,21-24,34]. Thus, we consider that the 
+semiconducting-like behavior observed for x = 0 and the weak localization behavior observed for Se-doped samples 
+are both related to the presence of local disorders in the BiS2 layers in La2O2Bi2Pb2S6-xSex. We observed 
+superconductivity in both the Se-doped samples, as shown in Fig. 3(b), which is the zoomed view of Fig. 3(a) near 
+
+
+6 
+ 
+the superconducting transition region. Tc increases with increasing Se concentration in La2O2Bi2Pb2S6-xSex. The zero-
+resistivity Tc (Tczero) is 1.15 K for x = 0.5 and 1.90 K for x = 1.0. Thus far, superconductivity in La2O2Bi2M2S6 has 
+been observed for La2O2Bi3AgS6-based compounds [30-33]. La2O2Bi3AgS6 exhibits metallic conductivity without Se 
+substitution but shows a CDW-like (charge density wave-like) anomaly in ρ(T). Although the origin of the anomaly 
+has not been clarified, it could be related to the anomalous insulating behavior observed in La2O2Bi2Pb2S6. The 
+emergence of metallic conductivity and superconductivity via Se substitution in La2O2Bi2Pb2S6-xSex could provide us 
+with important information for the further development of four-layer-type Bi-based superconductors. 
+Figures 4(a) and 4(b) show the temperature dependence of electrical resistivity under various magnetic fields 
+[ρ(T,B)] for La2O2Bi2Pb2S6-xSex (x = 0.5 and 1.0). Tc shifts towards a lower temperature with an increase in the 
+magnetic field. We observed an onset drop in the resistivity due to the superconductivity even at B = 2 T for x = 1.0. 
+The Tc onset shifts gradually with an increasing magnetic field as opposed to the shift in Tczero, which is the 
+characteristic behavior of layered superconductivity against the magnetic field. The magnetic field-temperature phase 
+diagrams are plotted in Fig. 4(c). The upper critical fields are estimated based on the temperature where resistivity 
+becomes 90% of the normal-state resistivity near Tc. The upper critical field Bc2(T) at absolute zero temperature, Bc2(0), 
+is analyzed using the conventional one-band Werthamer–Helfand–Hohenberg (WHH) equation [42], which gives 
+Bc2(0) =-0.693Tc(dBc2/dT)T=Tc. Bc2(0) is 0.76 and 1.15 T for x = 0.5 and 1.0, respectively.  
+To investigate the changes in carrier concentration, Seebeck coefficient (S) and Hall coefficient were measured 
+for La2O2Bi2Pb2S6-xSex. As shown in Fig. 5, the Seebeck coefficient is negative, which indicates that the dominant 
+carriers are electrons. The absolute value of S decreases from x = 0 to x = 0.5. Seebeck coefficient for x = 0.5 and 1.0 
+is almost the same. From the results, we can roughly estimate that the carrier concentration slightly increased by Se 
+substitution. Fig. 6(a) shows the temperature dependence of Hall coefficient (-RH) from 2 K to 300 K under the fixed 
+magnetic field of 9 T for La2O2Bi2Pb2S6-xSex (x = 0 and 0.5). Hall coefficients are all negative, which is consistent 
+with the results of Seebeck coefficient, but -RH for x = 0.5 is largely suppressed as compared to that for x = 0. To 
+investigate the carrier density we have used the simple  single band modle n = |1/eRH| , where n is the charge carrier 
+density and e is the electron charge, as demonstrated for other layered Bi-based compounds [25,43,44]. Figure 6 (b) 
+shows the temperature dependences of electron carrier density for La2O2Bi2Pb2S6-xSex (x = 0 and 0.5), which suggests 
+that  the carriers density increases by Se substitution. Having considered the valence state of S and Se, which is 
+considered as -2 for both, we do not expect a huge change in carrier concentration. Thus, the huge increase in carrier 
+density may be related to the in-plane chemical pressure effects. As a fact, metalicity has been induced by Se 
+substitution. From those facts, we consider that the huge change in carrier concentration estimated here is related to 
+the increase in the concentration of mobile carrier. With this assumption, low carrier density for x = 0 can be 
+considered as resulting from carrier localization due to the local disorder in the BiS2 layers.  
+ 
+0
+50
+100 150 200 250 300
+10
+2
+10
+3
+10
+4
+10
+5
+La2O2Bi2Pb2S6
+ 
+ 
+ (m-cm)
+T (K)
+ 
+FIG. 2. Temperature (T) dependence of electrical resistivity [ρ(T)] from 300 K to 2 K for La2O2Bi2Pb2S6. 
+ 
+
+
+7 
+ 
+ 
+FIG. 3. (color online) (a) Temperature dependence of electrical resistivity from 300 to 0.5 K for La2O2Bi2Pb2S6-
+xSex (x = 0.5 and 1.0). (b) ρ(T ) curve in the temperature range of 3.0-0.5 K. 
+ 
+ 
+ 
+ 
+FIG. 4. (color online) (a, b) Temperature dependence of electrical resistivity from 3.0 to 0.5 K for 
+La2O2Bi2Pb2S6-xSex (x = 0.5 and 1.0) under magnetic fields. (c) Temperature dependence of Bc2(T) for 
+La2O2Bi2Pb2S6-xSex (x = 0.5, and 1.0). The points with different symbols represent experimental data and the 
+dotted lines represent fitting curves as per the WHH theory. 
+ 
+
+
+8 
+ 
+0.0
+0.5
+1.0
+-40
+-30
+-20
+-10
+0
+La2O2Bi2Pb2S6-xSex
+ 
+ 
+S (V/K)
+x in La2O2Bi2Pb2S6-xSex
+ 
+FIG. 5.  The x dependence of Seebeck coefficient for La2O2Bi2Pb2S6-xSex at room temperature. 
+ 
+ 
+ 
+ 
+FIG 6.  (a) Temperature dependence of Hall coefficient (RH) for La2O2Bi2Pb2S6-xSex (x = 0 and 0.5) under the 
+magnetic field of 9 T. (b) Temperature dependence of estimated carrier concentration for La2O2Bi2Pb2S6-xSex 
+(x = 0 and 0.5). 
+ 
+ 
+ 
+IV. 
+SUMMARY 
+La2O2Bi2Pb2S6 is a four-layer-type Bi-based compound that shows insulating transport properties at low 
+temperatures. Hence, in this study, we have investigated the effects of Se substitution on the structural, transport, and 
+superconducting properties of La2O2Bi2Pb2S6-xSex. Owing to Se doping, the normal state electrical resistivity at low 
+temperatures was drastically suppressed, and superconductivity at a transition temperature (Tc) of 1.15 K was 
+observed for x = 0.5. Tc increased with increasing Se concentration: Tc = 1.9 K for x = 1.0. According to XRD analyses, 
+we proposed that Se was substituted for the in-plane S1 site in the BiS2 layers. Both the Seebeck coefficient and the 
+
+
+9 
+ 
+Hall coefficient suggested that electrons were the dominant carriers. From the Hall coefficient, carrier concentration 
+was estimated. Owing to Se substitution, the concentration of mobile carriers increased considerably; this could be 
+related to the suppression of carrier localization caused by Se substitution. On the basis of the obtained results and 
+the discussion based on the analogy of two-layer-type systems, the emergence of metallicity and superconductivity 
+was explained by the in-plane chemical pressure effects. The estimated Bc2(0) was 0.76 and 1.15 T for x = 0.5 and 1.0, 
+respectively. The demonstration of metallicity and superconductivity in La2O2Bi2Pb2S6-based compounds can be 
+useful for further development of four-layer-type Bi-based superconductors. 
+ 
+ACKNOWLEDGMENTS 
+This work was partly supported by grants in Aid for Scientific Research (KAKENHI) (Grant Nos. 15H05886, 
+15H05884, 16H04493, 18KK0076, and 15H03693) and the Advanced Research Program under the Human Resources 
+Funds of Tokyo (Grant Number: H31-1). 
+ 
+ 
+References: 
+1. J. G. Bednorz and K. A. Muller, Z. Phys. B 64, 189 (1986). 
+2. Y. Kamihara, T. Watanabe, M. Hirano and H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+3. Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. 
+Miura, Phys. Rev. B 86, 220510(R) (2012). 
+4. Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. 
+Jpn. 81, 114725 (2012). 
+5. Y. Mizuguchi, J. Phys. Soc. Jpn. 88, 041001 (2019). 
+6. N. Barišić, M. K. Chan, Y. Li, G. Yu, X. Zhao, M. Dressel, A. Smontara, M. Greven, Proc. Natl. Acad. Sci. 
+USA 110, 12235 (2013). 
+7. K. Ishida, Y. Nakai, and H. Hosono, J. Phys. Soc. Jpn. 78, 062001 (2009). 
+8. Y. Mizuguchi and Y. Takano, J. Phys. Soc. Jpn. 79, 102001 (2010). 
+9. S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. 
+Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya,Y.  Takano, J. Phys. Soc. Jpn. 82, 033708 
+(2013). 
+10. R. Jha, A. Kumar, S. K. Singh, V. P. S. Awana, J. Supercond. Nov. Magn. 26, 499 (2013)  
+11. J. Xing, S. Li, X. Ding, H. Yang, H.H. Wen, Phys. Rev. B 86, 214518 (2012). 
+12. D.  Yazici, K. Huang, B. D. White, A. H Chang, A. J. Friedman, M. B. Maple, Philos. Mag. 93, 673 (2012).  
+13. D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, M. Nallaiyan, S. Spagna, 
+and M. B. Maple, Phys. Rev. B 87, 174512 (2013). 
+14. J. Kajitani, K. Deguchi, T. Hiroi, A. Omachi, S. Demura, Y. Takano, O. Miura, and Y. Mizuguchi, J. Phys. Soc. 
+Jpn. 83, 065002 (2014). 
+
+
+10 
+ 
+15. X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J.  Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, Z. Xu, Phys. Rev. B 
+87, 020504(R) (2013). 
+16. .H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J. K. Bao, Y. L. Sun, W. H. Jiao, I. Nowik, I. 
+Felner, Y. K. Li, X. F. Xu, Q. Tao, C. M. Feng, Z. A. Xu, and G. H. Cao, Phys. Rev. B 90, 064518 (2014). 
+17. .H. F. Zhai, P. Zhang, S. Q. Wu, C. Y. He, Z. T. Tang, H. Jiang, Y. L. Sun, J. K. Bao, I. Nowik, I. Felner, Y. 
+W. Zeng, Y. K. Li, X. F. Xu, Q. Tao, Z. A. Xu, and G. H. Cao, J. Am. Chem. Soc. 136, 15386 (2014). 
+18. R. Jha, B. Tiwari, and V. P. S. Awana, J. Phys. Soc. Jpn. 83, 063707 (2014). 
+19. A. Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V. Pomjakushin, R. Khasanov, H. Luetkens, P. Biswas, A. 
+Amato, H. Keller, K. Conder, J. Phys.: Condens. Matter 26, 215702 (2014). 
+20. L. Li, Y. Xiang, Y. Chen, W. Jiao, C. Zhang, L. Zhang, J. Dai, and Y. Li, Supercond. Sci. Technol. 29, 04LT03, 
+(2016). 
+21. X. C. Wang, D. Y. Chen, Q. Guo, J. Yu, B. B. Ruan, Q. G. Mu, G. F. Chen, and Z. A. Ren, arXiv:1404.7562. 
+22. G. Jinno, R. Jha, A. Yamada, R. Higashinaka, T. D. Matsuda, Y. Aoki, M. Nagao, O. Miura, and Y. Mizuguchi, 
+J. Phys. Soc. Jpn. 85, 124708 (2016). 
+23. Y. Goto, R. Sogabe, and Y. Mizuguchi, J. Phys. Soc. Jpn. 86, 104712 (2017). 
+24. R. Sogabe, Y. Goto, A. Nishida, T. Katase, and Y. Mizuguchi, EPL 122, 17004 (2018). 
+25. Y.-L. Sun, A. Ablimit, H.-F. Zhai, J.-K. Bao, Z.-T. Tang, X.-B. Wang, N.-L. Wang, C.-M. Feng, and G.-H. 
+Cao, Inorg. Chem. 53, 11125 (2014). 
+26. Y. Mizuguchi, Y. Hijikata, T. Abe, C. Moriyoshi, Y. Kuroiwa, Y. Goto, A. Miura, S. Lee, S. Torii, T. 
+Kamiyama, C. H. Lee, M. Ochi, K. Kuroki, EPL 119 26002 (2017). 
+27. Y. Hijikata, T. Abe, C. Moriyoshi, Y. Kuroiwa, Y. Goto, A. Miura, K. Tadanaga, Y. Wang, O. Miura, and Y. 
+Mizuguchi, J. Phys. Soc. Jpn. 86, 124802 (2017). 
+28. M. K. Wu, J. R. Ashburn, C. J. Torng, P. H. Hor, R. L. Meng, L. Gao, Z. J. Huang, Y. Q. Wang, and C. W. 
+Chu, Phys. Rev. Lett. 58, 908 (1987). 
+29. H. Maeda, Y. Tanaka, M. Fukutomi, and T. Asano, Jpn. J. Appl. Phys. 27, L209 (1988). 
+30. R. Jha, Y. Goto, R. Higashinaka, T. D. Matsuda, Y. Aoki, and Y. Mizuguchi, J. Phys. Soc. Jpn. 87, 083704 
+(2018). 
+31. R. Jha, Y. Goto, T. D. Matsuda,  Y. Aoki, M. Nagao, I. Tanaka, and Y. Mizuguchi, Sci. Rep. 9, 13346 (2019). 
+32. R. Jha, Y. Goto, R. Higashinaka, A. Miura, C. Moriyoshi, Y. Kuroiwa, Y. Mizuguchi, arXiv:1908.09311. 
+33. G. C. Kim, M. Cheon, W. Choi, D. Ahmad, Y. S. Kwon, R. Ko, Y. C. Kim, J. Supercond. Nov. Magn. (2019). 
+https://doi.org/10.1007/s10948-019-05218-1 
+34. Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, E. Magome, C. Moriyoshi, 
+Y. Kuroiwa, Sci. Rep. 5, 14968 (2015). 
+
+
+11 
+ 
+35. E. Paris, B. Joseph, A. Iadecola, T. Sugimoto, L. Olivi, S. Demura, Y. Mizuguchi, Y. Takano, T. Mizokawa, 
+and N. L. Saini, J. Phys.: Condens. Matter 26, 435701 (2014). 
+36. Y. Mizuguchi, E. Paris, T. Sugimoto, A. Iadecola, J. Kajitani, O. Miura, T. Mizokawa, and N. L. Saini, Phys. 
+Chem. Chem. Phys. 17, 22090 (2015).  
+37. A. Athauda, J. Yang, S. Lee, Y. Mizuguchi, K. Deguchi, Y. Takano, O. Miura, and D. Louca, Phys. Rev. B 91, 
+144112 (2015).  
+38. K. Nagasaka, A. Nishida, R. Jha, J. Kajitani, O. Miura, R. Higashinaka, T. D. Matsuda, Y. Aoki, A. Miura, C. 
+Moriyoshi, Y. Kuroiwa, H. Usui, K. Kuroki, and Y. Mizuguchi, J. Phys. Soc. Jpn. 86, 074701 (2017).  
+39. Y. Mizuguchi, K. Hoshi, Y. Goto, A. Miura, K. Tadanaga, C. Moriyoshi, and Y. Kuroiwa, J. Phys. Soc. Jpn. 
+87, 023704 (2018). 
+40. F. Izumi and K. Momma, Solid State Phenom. 130, 15 (2007). 
+41. K. Momma and F. Izumi, J. Appl. Crystallogr. 41, 653 (2008). 
+42. N. R. Werthamer, E. Helfand, P. C. Hohenberg, Phys. Rev.  147, 295 (1966). 
+43. I. Pallecchi, G. Lamura, M. Putti, J. Kajitani, Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, Y. Takano, 
+Phys. Rev. B 89, 214513 (2014). 
+44. A. Nishida, H. Nishiate, C. H. Lee, O. Miura, Y. Mizuguchi, J. Phys. Soc. Jpn. 85, 074702 (2016). 
+ 
+ 
+ 
+
+

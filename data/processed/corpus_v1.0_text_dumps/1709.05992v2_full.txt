@@ -1,0 +1,743 @@
+arXiv:1709.05992v2  [cond-mat.supr-con]  10 Jan 2018
+Superconducting gap symmetry of the BiS2-based superconductor LaO0.5F0.5BiSSe
+elucidated through speciﬁc heat measurement
+Naoki Kase1,∗Yusuke Terui1, Tomohito Nakano1, and Naoya Takeda2
+1Graduate School of Science and Technology, Niigata University, Niigata 950-2181, Japan
+2Department of Materials Science, Niigata University, Niigata 950-2181, Japan
+(Dated: August 17, 2021)
+In this study, the superconducting gap symmetry of LaO0.5F0.5BiSSe is elucidated through speciﬁc
+heat measurements with one single crystal of LaO0.5F0.5BiSSe. A clear jump is observed at 3.95 K
+in LaO0.5F0.5BiSSe, suggesting bulk superconductivity. From speciﬁc heat measurements, ∆Ce/γTc
+and 2∆(0)/kBTc are obtained as 2.31 and 4.5. These values indicate strong electron–phonon coupling
+superconductivity. The temperature (T ) and magnetic-ﬁeld (H) dependence of the electronic speciﬁc
+heat Ce(T, H) suggests that superconductivity is fully gapped. Our handmade system successfully
+elucidates superconducting gap symmetry of the BiS2-based compound with a small single crystal.
+I.
+INTRODUCTION
+Superconductivity of the BiS2-based layered com-
+pounds Bi4O3S4 and LaO0.5F0.5BiS2 has attracted much
+attention[1–6].
+Their crystal structure consists of the
+LaO-blocking and BiS2-conducting layers, and is very
+similar to FeAs-based high-Tc superconductor. By anal-
+ogy with the FeAs-based superconductor and the BiS2-
+based superconductor, it is highly possible that the origin
+of the superconducting (SC) transition mechanism is un-
+conventional.
+The band structure calculation suggests the existence
+of a strong nesting of the Fermi surface at wave vec-
+tor k = (π, π)[7–10].
+The importance of the nesting
+is experimentally pointed out and shows the possibility
+that electronic correlations play an important role in the
+emergence of superconductivity of these systems. How-
+ever, it was argued that eﬀect of the electron correlation
+is a trivial factor in this system. The conduction band
+in the 2D layer of BiS2-based compounds is mainly con-
+tributed from 6px and 6py orbits of Bi[10]. Because of the
+widely spread 6p orbitals, the electron correlation eﬀects
+appear to be unimportant.
+A strong electron correla-
+tion is signiﬁcant for unconventional superconductivity.
+Thus, it is central issue to elucidate whether interactions
+that mediate the Cooper pair of superconductivity is un-
+conventional.
+Extensive theoretical studies have proposed the SC
+gap structures, which are intimately related to the
+paring interaction[7–13].
+Experimentally, unconven-
+tional superconductivity can be expected to be gener-
+ated because an extremely large ratio of 2∆/kBTc ∼
+17, which is about ﬁve times larger than the BCS the-
+ory is found in scanning-tunneling microscopy (STM)
+measurements[14].
+To determine SC gap symmetry, µSR measurements
+of polycrystalline Bi4O4S3 and LaO0.5F0.5BiS2 are per-
+formed, and suggest that superconductivity is fully
+∗Present address: Department of Applied Physics, Tokyo Univer-
+sity of Science, Tokyo 125-8585, Japan; n-kase@rs.tus.ac.jp
+gapped[15].
+Furthermore, several measurements of a
+single crystal of Nd(O, F)BiS2 imply fully gapped su-
+perconductivity.
+Raman scattering suggests a possi-
+ble phonon-mediated superconductivity[16]. Penetration
+depth and thermal conductivity measurements have been
+reported for a fully gapped superconductor[17, 18]. How-
+ever, recent angle-resolved photoemission spectroscopy
+(ARPES) measurement suggests that NdO0.71F0.29BiS2
+is an unconventional superconductor that has compet-
+itive or cooperative multiple pairing interactions[19].
+Thus, SC symmetry of the BiS2-based compounds is con-
+troversial.
+Speciﬁc heat is one of the most signiﬁcant tool for un-
+derstanding SC state and to conﬁrm bulk nature of super-
+conductivity thermodynamically. However, speciﬁc heat
+measurements have not been performed to clarify SC gap
+symmetry in BiS2-superconductors, even though conﬁr-
+mation about bulk nature of superconductivity has been
+reported[20–22]. The diﬃculty in measuring the speciﬁc
+heat of BiS2-compounds at low temperatures is due to the
+need of treating a small single crystal with a small Som-
+merfeld coeﬃcient. To overcome the present situation,
+we constructed a hand-made sensitive calorimeter, which
+allows us to implement high precision measurements, and
+is a powerful tool to determine SC symmetry.
+In this article,
+we report temperature and mag-
+netic ﬁeld dependences of speciﬁc heat C(T, H) of
+LaO0.5F0.5BiSSe by using the sensitive calorimeter with
+one piece of single crystal (less than 1 mg).
+The
+Se-substituted compounds LaO0.5F0.5Bi(S1−xSex)2 are
+known to emergence bulk superconductivity with the op-
+timum Se content x of 0.5[23, 24]. Through our measure-
+ments, we have succeeded to elucidate the SC-gap sym-
+metry of the BiS2-based compound by using one piece of
+single crystal.
+II.
+EXPERIMENTAL DETAILS AND RESULTS
+Single crystals of LaO0.5F0.5BiS2 and LaO0.5F0.5BiSSe
+were grown by using a CsCl/NaCl-ﬂux method[25, 26].
+As shown in Fig. 1(b), the typical size of the single crys-
+
+
+2
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 0
+ 100
+ 200
+ 300
+ρ (mΩcm)
+T (K)
+LaO0.5F0.5BiS2
+LaO0.5F0.5BiSSe
+(a)
+(c)
+(b)
+(d)
+FIG. 1.
+(Color Online) (a) Crystal structure of the BiS2-
+based compounds. (b) Single crystal of the LaO0.5F0.5BiSSe
+(0.42 mg). (c) T -dependence of the electrical resistivity ρ(T )
+of LaO0.5F0.5BiS2 and LaO0.5F0.5BiSSe down to 0.5 K. (d)
+Setup for speciﬁc heat measurements using our hand-made
+calorimeter.
+tals is approximately 1 × 1 mm2. The crystal structure
+of the synthesized sigle-crystalline sample was examined
+through powder X-ray diﬀraction (XRD) implemented
+using a conventional X-ray spectrometer equipped with
+Cu-Kα radiation and a graphite monochromator (RAD-
+2X, Rigaku). The lattice constants of LaO0.5F0.5BiSSe
+were estimated to be 0.41074 and 1.3486 nm, and of
+LaO0.5F0.5BiS2 were 0.40512 and 1.3410 nm.
+These
+values are almost consistent with those of the previous
+reports[23, 24].
+Superconductivity was conﬁrmed by the T -dependence
+of the electrical resistivity ρ(T ) measurements, which
+were performed using a conventional four-probe method
+with a current source (Model 6221, Keithley) and a nano
+voltmeter (Model 2182A, Keithley), down to 0.5 K in zero
+and various applied magnetic ﬁelds. Gold wires were at-
+tached to the sample surface by Ag paste. Figure 1(c)
+shows ρ(T ) of LaO0.5F0.5BiS2 and LaO0.5F0.5BiSSe up to
+room temperature. ρ(T ) of LaO0.5F0.5BiS2 shows semi-
+metallic behavior with a residual resistivity ρ0 of approx-
+imately 5.8 mΩcm:
+whereas ρ(T ) of LaO0.5F0.5BiSSe
+behaves as almost T -linear dependent with ρ0 = 0.47
+mΩcm. Both compounds show superconductivity. Tc in
+ρ(T ) is deﬁned as a 50% drop from ρ0, and the supercon-
+ducting transition width ∆T is taken as the temperature
+interval between 10% and 90% of ρ0. Tc is determined to
+be 2.2 and 3.95 K with ∆T = 0.7 and 0.02 K, respectively.
+Only one piece of specimen is suﬃcient to perform spe-
+ciﬁc heat measurements, because the background value is
+ 0
+ 10
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+C/T (mJ/mol K2)
+T (K)
+(e)
+ 0
+ 20
+ 40
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+T (K)
+(f)
+ 0
+ 5
+ 10
+ρ (mΩcm)
+(c)
+ 0
+ 0.5
+ 1
+(d)
+ 0
+ 5
+ 10
+ 15
+ 0
+ 1
+ 2
+Sample + BG
+BG
+(b) LaO0.5F0.5BiSSe
+ 0
+ 5
+ 10
+ 15
+ 0
+ 1
+ 2
+C/T (nJ/K2)
+Sample + BG
+BG
+(a) LaO0.5F0.5BiS2
+FIG. 2.
+(Color Online) T -dependence of the speciﬁc heat
+C(T ) divided by T of background and raw data includ-
+ing sample and background of (a) LaO0.5F0.5BiS2 and (b)
+LaO0.5F0.5BiSSe in zero magnetic ﬁeld.
+T -dependence of
+the electrical resistivity ρ(T ) of (c) LaO0.5F0.5BiS2 and (d)
+LaO0.5F0.5BiSSe in zero magnetic ﬁeld. T -dependence of the
+speciﬁc heat C(T ) divided by T of (e) LaO0.5F0.5BiS2 and (f)
+LaO0.5F0.5BiSSe in zero magnetic ﬁeld.
+comparative to the raw data of the sample even at 0.5 K.
+Speciﬁc heat measurements were performed through a
+relaxation method down to 0.4 K by using a commer-
+cial 3He refrigerator (Heliox-VL, Oxford Instruments)
+equipped with a superconducting magnet (Oxford in-
+struments). Our hand-made system consists of a heater
+and thermometer (RuO2 chip resistor) without a sample
+stage. The sample was sandwiched between the heater
+and thermometer, which were hung by using NbTi SC
+wires attached using an Ag paste on the surfaces of the
+RuO2 chip resistor to form an electrode. As the bottom
+of the chip resistor consists of an Al2O3 insulator, the
+sample cannot be electrically contacted with the heater
+and thermometer. Figure 1(d) presents the setup for the
+measurement of C(T ). A single crystal of LaO0.5F0.5BiS2
+(1.40 mg) and LaO0.5F0.5BiSSe (0.42 mg) ﬁxed using N
+grease between the heater and thermometer was used for
+the measurements.
+Figures 2(a) and (b) show the T -
+dependence of the speciﬁc heat C(T ) divided by T of
+raw data (sample + background) and background down
+to 0.4 K. The contribution of the background is relatively
+smaller than that of one specimen. The background value
+is comparable to that of the sample even at 0.4 K. Thus,
+we determined the validity that our hand-made system
+
+
+3
+ 0
+ 20
+ 40
+ 60
+C/T (mJ/mol K2)
+LaO0.5F0.5BiSSe
+(a)
+0 T
+0.2 T
+1 T
+ 0
+ 5
+ 10
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+Ce/T (mJ/mol K2)
+T (K)
+(b)
+0 T
+0.2 T
+1 T
+γ0
+ 5
+ 10
+ 0
+ 2
+ 4
+T2 (K2)
+1 T
+ 0
+ 2
+ 4
+ 6
+ 0
+ 0.5
+ 1
+µ0H (T)
+T = 0.5 K
+Hc2 // c
+FIG. 3. (Color online) (a) T -dependence of the speciﬁc heat
+C(T ) divided by T of LaO0.5F0.5BiSSe in magnetic ﬁelds of
+0, 0.2, and 1 T. The dotted line is the ﬁtting result of C/T
+= γ + βT 2 + δT 4.
+The inset shows the T 2 dependence of
+C(T )/T at the low temperature region. (b) Electronic speciﬁc
+heat Ce(T ) divided by T . The solid line shows the theoretical
+calculation of the α model. The dotted lines represent the
+calculated BCS curve assuming a weak coupling limit. The
+inset shows the H-dependence of the electronic speciﬁc heat
+Ce(H) divided by T at 0.5 K.
+enables to measure the accurate values of small single
+crystals of LaO0.5F0.5BiSSe.
+Figure 2(e) and (f) show C(T )/T of LaO0.5F0.5BiS2
+and LaO0.5F0.5BiSSe in zero magnetic ﬁeld. The bulk
+nature of the superconductivity can be conﬁrmed because
+of the clear jump at Tc = 3.95 K, which is consistent with
+Tc determined by ρ(T ). The transition is very sharp with
+a transition width of 0.2 K, indicating good sample qual-
+ity. However, no jump was observed in LaO0.5F0.5BiS2,
+although the slope seems to change at the temperature
+in which ρ(T ) shows zero resistivity. This result suggests
+that superconductivity of LaO0.5F0.5BiS2 is not of bulk
+nature. These results correspond to those of magnetic
+susceptibility measurements.
+Figure 3(a) shows C(T )/T of LaO0.5F0.5BiSSe in mag-
+netic ﬁelds of 0 and 1 T. To describe the speciﬁc heat data
+at µ0H = 1.0 T, which exceeds Hc2(0), we use the follow-
+ing expression: C(T )/T = γ + βT 2 + δT 4, where γ is the
+electronic speciﬁc heat coeﬃcient (Sommerfeld constant),
+and βT 2 + δT 4 (= Cph) is the lattice vibration contribu-
+tion. We obtained parameters γ = 4.19 mJ/(mol·K2), β
+= 1.34 mJ/(mol·K4), and δ = 0.0198 mJ/(mol·K6). In
+a simple Debye model of the phonon contribution, the
+β coeﬃcient is related to the Debye temperature ΘD =
+( 12π4
+5β nR)1/3, where R = 8.314 J/(mol·K) is the gas con-
+stant and n = 5 is the number of atoms per formula unit.
+From this relationship, ΘD is estimated to be 194 K.
+Next, we discuss the detailed T -dependence of the elec-
+tronic speciﬁc heat Ce(T ) of LaO0.5F0.5BiSSe.
+Figure
+3(b) shows Ce(T ) divided by T of the Se-doped sam-
+ple. Ce(T )/T was ﬁtted to the theoretical curve assuming
+an isotropically gapped SC state, based on the following
+equations [27]:
+S
+γnTc
+= −6
+π2
+∆(0)
+kBTc
+Z ∞
+0
+[f ln f + (1 −f) ln(1 −f)] dy,
+(1)
+C
+γnTc
+= td(S/γnTc)
+dt
+,
+(2)
+where f = [exp(βE) + 1]−1 and β = (kBTc)−1. The en-
+ergy of quasiparticles is given by E =
+
+ε2 + ∆2(t)
+1/2,
+where ε is the energy of the normal electrons relative to
+the Fermi energy. In addition, the T -dependence of an
+energy gap varies as ∆(t) = ∆(0)δ(t), where δ(t) is the
+normalized BCS gap, as calculated by Muhlschlegel[28].
+The result reproduces the experimental data quite well
+in a wide temperature range just below Tc down to 0.5
+K. The entropy balance is satisﬁed, and we obtained Tc
+= 3.95 K and ∆(0)/kBTc = 2.25, where ∆(0) is the am-
+plitude of the SC gap at T →0 K (solid line).
+The
+value is clearly smaller than 2∆/kBTc ∼17 obtained from
+STM[14]. For comparison, we also plot the BCS curve for
+the weak electron–phonon coupling limit (dotted line).
+As shown in Fig. 3(b), a clear residual linear term γ0 =
+0.60 mJ/(mol·K2) is observed in the T →0 K limit from
+C(T )/T . This may have originated from a small fraction
+of the non–SC phases. After subtracting the impurity
+concentration γ0, we found the Sommerfeld coeﬃcient to
+be γn = γ – γ0 = 3.59 mJ/(mol·K2). The normalized
+speciﬁc heat jump was estimated to be ∆Ce/γTc = 2.31,
+which is larger than 1.43 in the weak-coupling limit. Our
+results strongly suggest a strong electron–phonon cou-
+pling.
+Next,
+we discuss the H-dependence of the low-
+temperature part of the electronic speciﬁc heat Ce(H),
+which is known to be very sensitive to the SC struc-
+ture.
+The inset of Fig.
+3(b) shows Ce(H) divided by
+T at 0.5 K in magnetic ﬁeld applied perpendicular to
+the ab-plane (H||c). Ce(H)/T shows a H-linear depen-
+dence in a wide magnetic-ﬁeld range. Rapid increase de-
+tected from the H-dependence of the thermal conductiv-
+ity κ(H) of NdO0.71F0.29BiS2 is not seen in Ce(H). We
+note a small upturn of Ce(T )/T at approximately 0.5 K
+in zero magnetic ﬁeld. The origin is likely to be a nu-
+clear speciﬁc heat but the upturn is suppressed in higher
+magnetic ﬁled. We consider that the upturn is ascribed
+to the background contribution, which is insuﬃciently
+
+
+4
+ 0
+ 10
+ 20
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+µ0Hc (mT)
+T (K)
+(c)
+ 0
+ 10
+ 20
+ 0  1  2  3  4  5
+µ0Hc2 (T)
+(a)
+H || ab
+ 0
+ 1
+ 0  1  2  3  4  5
+(b)
+H || c
+ 0
+ 10
+ 20
+ 0  0.5  1
+t2
+ 0
+ 1
+ 0  2  4
+ 0
+ 1
+ 0  2  4
+FIG. 4. (Color Online) T -dependence of the upper critical
+ﬁeld Hc2(T ) of LaO0.5F0.5BiSSe for H || ab (a) and H || c (b).
+The inset shows the T -dependence of the electrical resistivity
+ρ(T ) normalized at ρ0 just above Tc in several magnetic ﬁelds.
+The dotted line is the WHH theory with the dirty limit (h∗=
+0.69). (c) T -dependence of the thermodynamic critical ﬁeld
+Hc(T ). The inset shows Hc vs t2, t = T/Tc.
+subtracted from raw data[29]. The increase is about 0.18
+and 0.015 mJ/(mol·K2) in magnetic ﬁelds of 0 and 0.2 T.
+The eﬀect of the upturn on Ce(H) is vanishingly small
+enough to discuss the SC gap even in 0.5 K. Thus, Ce(H)
+also provides supporting evidence for a fully gapped SC
+state.
+The upper critical ﬁeld µ0Hc2(T ) was obtained from
+the ρ(T ) measurements in several magnetic ﬁelds, as
+shown in Fig.
+4(a) and (b).
+The µ0Hc2(T ) curves
+show clear enhancement from the Wertharmer–Helfand–
+Hohenberg (WHH) theory[30, 31] in the dirty limit (dot-
+ted line) and upper curvature around Tc. The features
+are usually understood as a multi-gap SC, but are also
+originated from spin-orbit and/or strong electron-phonon
+coupling[31, 32]. Because our measurements suggest sin-
+gle SC gap, it is inadequate to employ the multi-gap
+ﬁt. The Hc2(0) was estimated from the ﬁtting formula
+Hc2(T ) = Hc2(0)
+
+1 −(T/Tc)3/23/2 for superconductors
+with upper curvature[33]. The µ0Hc2(0) was evaluated
+to be approximately 18.5 T for H || ab and 0.572 T for
+H || c. This value is consistent with that of the previous
+report[25]. The anisotropic parameter Γ was determined
+using the anisotropic Ginzburg–Landau (GL) formula.
+Γ = mc
+mab
+= H||ab
+c2
+H||c
+c2
+= ξab
+ξc
+(3)
+where mi (i = ab, c) are the eﬀective mass and ξi (i = ab,
+c) are GL-coherence length. We calculate the ξi by us-
+ing H||ab
+c2
+= Φ0/(2πξabξc) and H||c
+c2 = Φ0/(2πξ2
+ab), where
+Φ0 is the quantum ﬂux. The ξab and ξc were estimated
+to be 24.0 and 0.742 nm.
+The Γ was obtained to be
+approximately 32.3, suggesting that the superconductor
+has remarkably high anisotropy.
+As shown in Fig. 4(c), the thermodynamic critical ﬁeld
+µ0Hc(T ), which is directly related to the condensation
+energy of the superconductor through ∆F = H2
+c /8π, was
+estimated by using the relationship,
+∆F(T ) = Fn −Fs =
+Z T
+Tc
+dT ′
+Z T ′
+Tc
+(Cn/T ′′ −Cs/T ′′) dT ′′.
+(4)
+Inset of Fig. 4(c) shows that Hc(T ) follows the parabolic
+form Hc(T ) = Hc(0)(1 −t2), where t = T/Tc, at low tem-
+peratures. µ0Hc(0) is determined unambiguously from
+an extrapolation to T = 0, and the obtained value is
+µ0Hc(0) = 18.5 mT.
+We calculated the SC parameters for LaO0.5F0.5BiSSe
+on
+the
+basis
+of
+the
+µ0Hc2(0)
+and
+µ0Hc(0)
+val-
+ues.
+According to the GL theory, the GL-coherence
+length
+ξ(0)
+and
+GL
+parameter
+κ(0)
+=
+λ(0)/ξ(0)
+can
+be
+obtained
+from
+µ0Hc2(0),
+µ0Hc1(0),
+and
+µ0Hc(0) :
+µ0Hc(0) = µ0Hc2(0)/
+√
+2κ(0), µ0Hc1(0) =
+µ0Hc(0)2/Hc2(0)[ln κ(0) + 0.08],
+and
+µ0Hc1(0)
+=
+Φ0/πλ(0)2, where Φ0 is the ﬂux quantum. On the basis
+of the relationship, κ(0) was estimated as approximately
+707 and 21.9.
+µ0Hc1(0) was estimated to be approxi-
+mately 0.123 and 1.89 mT and λ(0) was calculated to be
+2320 and 590 nm.
+III.
+DISCUSSION
+Lastly,
+we
+discuss
+the
+SC
+gap
+symmetry
+of
+LaO0.5F0.5BiSSe.
+Our measurements of Ce(T, H) sug-
+gest that a single SC gap is fully opened. µSR measure-
+ments of LaO0.5F0.5BiS2 show multiple SC gap. Speciﬁc
+heat measurement is insensitive to light bands, because
+Ce(T )/T at low temperatures is proportional to N(E).
+It is likely that contribution from minor bands, which
+is not detected from speciﬁc heat can be seen in µSR
+measurements. Theoretically, the candidates of SC gap
+symmetry are proposed as follows: the conventional s-
+wave, spin triplet p, and d-wave symmetries. Although
+speciﬁc heat measurements imply that the superconduc-
+tivity is fully gapped, d-wave symmetry can be realized
+in the disconnect Fermi surfaces. The Fermi surface of
+the Se-doped compound is not elucidated at this stage.
+Assuming that the Fermi surface of LaO0.5F0.5BiSSe con-
+tains disconnected small electron pockets at the Brillouin
+Zone boundary, such as the under doped Nd(O, F)BiS2,
+dxy symmetry is ruled out and dx2−y2 symmetry can be
+realized. In addition, in the case of an increase in the Se-
+doped value, which changes into the Fermi surface with
+hole pockets around the Γ point, s± symmetry can be re-
+alized. However, the emergence of unconventional super-
+conductivity with sign reversal change is unlikely. Mean
+free path ℓab is calculated from ℓab = µ0vab
+F λ2
+ab(0)/ρ0.
+Fermi velocity vF is estimated to be 0.11 × 106 m/s by
+
+
+5
+using the relationship ξab = 0.18(ℏvab
+F /kBTc).
+We ob-
+tain ℓab ∼10 nm, which is clearly shorter than ξab. The
+result suggests that superconductivity is in dirty limit.
+As superconductivity with sign-reversal change is very
+sensitive to impurity scattering, it is likely that nodal
+d-wave state cannot be realized in the Se-doped com-
+pound.
+In the case of s±-wave state seen in Fe-based
+superconductors, the robustness against the impurities
+should be proved in a more complete way, because sim-
+ple substitution eﬀect could be insuﬃcient to reveal sign-
+reversal change in SC gap. Since distinct multi-gap fea-
+ture can be detected from speciﬁc heat measurements of
+the Fe-based superconductors[34, 35], the eﬀective mass
+of minor bands is signiﬁcantly large.
+However, single-
+gap structure detected in the Ce(T, H) measurements of
+LaO0.5F0.5BiSSe indicates that the mass of the minor
+bands is negligible.
+Therefore, we suggest that the s-
+wave structure can be the best candidate for the SC-gap
+symmetry of LaO0.5F0.5BiSSe.
+IV.
+CONCLUSIONS
+In conclusion, to conﬁrm bulk superconductivity and
+reveal the SC-gap symmetry of LaO0.5F0.5BiSSe, speciﬁc
+heat measurements were performed using a hand-made
+sensitive calorimeter. Speciﬁc heat measurement shows
+that superconductivity of LaO0.5F0.5BiSSe is of bulk na-
+ture.
+A large speciﬁc heat jump (∆Ce/γTc = 2.31)
+shows strong electron–phonon coupling. 2∆(0)/kBTc ob-
+tained from the T -dependence of the electronic speciﬁc
+heat Ce(T ) below Tc is 4.5, and suggests strong electron–
+phonon coupling. The value is much smaller than that
+obtained from STM measurements (2∆/kBTc ∼17)[14].
+T - and H-dependences of the speciﬁc heat measurements
+imply that superconductivity of LaO0.5F0.5BiSSe is fully
+gapped.
+These results are consistent with the s-wave
+symmetry proposed for the SC state of BiS2-based su-
+perconductors.
+ACKNOWLEDGMENTS
+We thank S. Kittaka for useful discussions about spe-
+ciﬁc heat measurements.
+This work was supported in
+part by the Grant for Promotion of Niigata University
+Research Projects (No.
+524501), the Grant-in-Aid for
+Young Scientists (B) (No. 26800183), the Sasakawa Sci-
+entiﬁc Research Grant (26-207) from the Japan Science
+Society, the Uchida Energy Science Promotion Foun-
+dation (26-1-22), and Sasaki Environment Technology
+Foundation.
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui,
+K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O.
+Miura, Phys. Rev. B, 86, 220510(R) (2012).
+[2] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H.
+Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys.
+Soc. Jpn., 81, 114725 (2012).
+[3] J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen, Phys.
+Rev. B, 86, 214518 (2012).
+[4] D. Yazici, K. Huang, B. D. White, A. H. Chang, A.
+J. Friedman, and M. B. Maple, Philos. Mag., 93, 673
+(2013).
+[5] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H.
+Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T.
+Ozaki, H. Fujihisa, J. Phys. Soc. Jpn., 82, 033708 (2013).
+[6] R. Jha, A. Kumar, S. Kumar Singh, and V. P. S. Awana,
+J. Supercond. Nov. Magn., 26, 499 (2013).
+[7] X. Wan, H.-C. Ding, S. Y. Savrasov and C.-G. Duan,
+Phys. Rev. B 87, 115124 (2013).
+[8] T. Agatsuma and T. Hotta, J. Magn. Magn. Matter.,
+400, 73 (2016).
+[9] T. Yildirim, Phys. Rev. B 87, 020506 (2013).
+[10] H. Usui, K. Suzuki and K. Kuroki, Phys. Rev. B 86,
+220501 (2012).
+[11] Y. Yang, W.-S. Wang, Y.-Y. Xiang, Z.-Z. Li and Q.-H.
+Wang, Phys. Rev. B 88, 094519 (2013).
+[12] G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B
+87, 081102(R) (2013).
+[13] Y. Liang, X. Wu, W.-F. Tsai and J. Hu, Front. Phys. 9,
+194 (2014).
+[14] J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, S. Li, X. Zhu,
+H. Yang and H. -H. Wen, Europhys. Lett., 106, 67002
+(2014).
+[15] G. Lamura, T. Shiroka, P. Bonfa, S. Sanna, R. De Renzi,
+C. Baines, H. Luetkens, J. Kajitani, Y. Mizuguchi, O.
+Miura, K. Deguchi, S. Demura, Y. Takano, and M. Putti,
+Phys. Rev. B, 88, 180509(R) (2013).
+[16] S. F. Wu, P. Richard, X. B. Wang, C. S. Lian, S. M. Nie,
+J. T. Wang, N. L. Wang, and H. Ding, Phys. Rev. B, 90,
+054519 (2014).
+[17] L. Jiao, Z. Weng, J. Liu, J. Zhang, G. Pang, C. Guo,
+F. Gao, X. Zhu, H.-H. Wen, and H. Q. Yuan, J. Phys.:
+Condens. Matter, 27, 225701 (2015).
+[18] T. Yamashita, Y. Tokiwa, D. Terazawa, M. Watauchi, I.
+Tanaka, T. Terashima, and Y. Matsuda, J. Phys. Soc.
+Jpn., 85, 073707 (2016).
+[19] Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S.
+Watanabe, C. Chen, M. Nagao, S. Watauchi, I. Tanaka,
+Y. Takano, and S. Shin, Phys. Rev. Lett., 118, 167002
+(2017).
+[20] H. Takatsu, Y. Mizuguchi, H. Izawa, O. Miura, and H.
+Kadowaki, J. Phys. Soc. Jpn., 81, 125002 (2012).
+[21] J. Shao, Z. Liu, X. Yao, L. Zhang, L. Pi, S. Tan, C.
+Zhang, and Y. Zhang, Eur. Lett., 107, 37006 (2014).
+[22] H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wak-
+isaka, M. Mizumaki, K. Nitta, Y. Tokura, and S. Ishi-
+wata, J. Phys. Soc. Jpn., 83, 014709 (2014).
+[23] Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura,
+K. Tadanaga, N. Kumada, E. Magome, C. Moriyoshi,
+and Y. Kuroiwa, Sci. Rep., 5, 14968 (2015).
+[24] T. Hiroi, J. Kajitani, A. Omachi, O. Miura, and Y.
+Mizuguchi, J. Phys. Soc. Jpn., 84, 024723 (2015).
+
+
+6
+[25] M. Tanaka, T. Yamaki, Y. Matsushita, M. Fujioka, S.
+J. Denholme, T. Yamaguchi, H. Takeya, and Y. Takano,
+Appl. Phys. Lett., 106, 112601 (2015).
+[26] M. Tanaka, M. Nagao, Y. Matsushita, M. Fujioka, S. J.
+Denholme, T. Yamaguchi, H. Takeya, and Y. Takano, J.
+Solid State Chem., 219, 168-172 (2014).
+[27] H. Padamsee, J. E. Neighbor, and C. A. Shiﬀman, Low.
+Temp. Phys., 12, 387 (1973).
+[28] B. Muhlschlegel, Z. Phys., 155, 313 (1959).
+[29] In the case of the sample with more than 1 mg (ex.
+LaO0.5F0.5Bi(S0.7Se0.3)2), no upturn is seen at low tem-
+peratures in zero magnetic ﬁeld.
+[30] K. Maki, Phys. Rev., 148, 362 (1966).
+[31] E. Helfand and N. R. Werthamer, Phys. Rev., 147, 288
+(1966).
+[32] L. N. Bulaevskii, O. V. Dolgov, and M. O. Ptitsyn, Phys.
+Rev. B, 38, 11290 (1988).
+[33] R. Micnas, J. Ranninger, and S. Robaszkiewicz, Rev.
+Mod. Phys., 62, 113 (1990).
+[34] M. Abdel-Haﬁez, S. Aswartham, S. Wurmehl, V. Gri-
+nenko, C. Hess, S.-L. Drechsler, S. Johnston, A. U. B.
+Wolter, B. Buchner, H. Rosner, and L. Boeri, Phys. Rev.
+B, 85, 134533 (2012).
+[35] M. Abdel-Haﬁez, Y. Zhang, Z. He, J. Zhao, C. Bergmann,
+C. Krellner, C.-G. Duan, X. Lu, H. Luo, P. Dai, and X.
+J. Chen, Phys. Rev. B, 91, 024510 (2015).
+
+

@@ -1,0 +1,1411 @@
+1 
+ 
+Synthesis and properties of SmO0.5F0.5BiS2 and enhancement in Tc in  
+La1-ySmyO0.5F0.5BiS2 
+Gohil Singh Thakur§, Ganesan Kalai Selvan¶, Zeba Haque§, Laxmi Chand Gupta§†, Saroj Lochan 
+Samal‡, Sonachalam Arumugam¶ and Ashok Kumar Ganguli§*. 
+ 
+§Solid State and Nano Research Laboratory, Department of Chemistry, Indian Institute of Technology 
+New Delhi 110016, India. 
+¶Centre for High Pressure Research, School of Physics, Bharathidasan University, Tiruchirapalli 620024, 
+India 
+‡Department of Chemistry, National Institute of Technology, Rourkela, Odisha, 769008, India 
+ 
+Abstract 
+Crystal structure and properties of a new member of oxy-bismuth-sulfide family SmO0.5F0.5BiS2 
+are reported here. The compounds SmO1-xFxBiS2 (x = 0.0 and 0.5) are isostructural with LaOBiS2 
+and crystallize in the CeOBiS2 type structure (P4/nmm). Sm substitution in LaO0.5F0.5BiS2, (La1-
+ySmyO0.5F0.5BiS2), leads to a gradual decrease in a-lattice constant however the c-lattice constant 
+does not show such a gradual trend. Enhancement in Tc is achieved upon partially substituting La 
+by smaller Sm ion. Maximum Tc ~ 4.6 K was observed for composition with y = 0.8. Disobeying 
+this trend Tc disappears unexpectedly in composition SmO0.5F0.5BiS2 (y = 1.0). Both the undoped 
+and F-doped (x = 0.0 and 0.5) compounds are paramagnetic exhibiting semiconducting behavior 
+down to 2 K.  
+ 
+ 
+
+
+2 
+ 
+Introduction 
+Research in inorganic materials throws up unprecedented structures with unusual properties. The 
+persistence of scientists carrying out exploratory research is challenging amidst dwindling 
+recognition to this genre of scientists. Compounds like Gd2Cl3,1 NaMo4O6,2 YBa2Cu3O7,3 
+K3C60,4 TlCaBa2Cu2O8,5 CaCu3Ti4O12,
+6 are compositions which rarely can be designed, but were 
+synthesized by the unparalleled intuition (read ingenuity) and labour of solid state scientists 
+which occasionally rewarded them with footprints for unusual material properties, like high 
+temperature superconductivity, colossal magnetoresistance, unusually high dielectric constant, 
+negative index of refraction, etc. This article follows from our work related to a recent class of 
+superconductors, Bi4O4S3 and LnOBiS2 which have some structural similarity to the important 
+LnOFeAs class of superconductors.7-10 For example both these systems crystallize in the same 
+space group (P4/nmm), they have layered structure with a charge reservoir layer (LnO) and a 
+superconducting layer (BiS2, Fe-As), their parent phases are semiconducting or poorly 
+conducting and, most importantly, they become superconducting upon electron-doping (doping 
+F- for O2- or a tetravalent ion for Ln).9-17 Superconductivity by fluorine - doping in LaO1-xFxBiS2 
+was first reported by Mizuguchi et al (Tc ~ 2.5 K)9 ( Tc ~10 K could be achieved by high pressure 
+synthesis).9 Superconductivity in LnO1-xFxBiS2 with Ln = Ce, Pr, Nd and Yb also followed 
+soon.10-16 Tc is enhanced by chemical pressure18-20 or external applied pressure22-27 as observed 
+for LnOFeAs28 for example in LnO1-xFxBiS2, a slight enhancement in Tc has been reported by 
+substituting Se at the S sites or by inter-mixing rare earth ions.18-21 Hole doping via alkali earth- 
+metal-substitution at Ln–site did not yield superconductivity.22, 29 This is in contrast to what is 
+observed in LnOFeAs where hole doping also induces superconductivity.30-32 Electronic structure 
+
+
+3 
+ 
+of these chalcogenides is comparable to that of pnictides and is greatly influenced by doping.33-34 
+Their bands near the Fermi level consist of states predominantly arising from Bi (6p) and S (3p) 
+states and therefore the Bi–S layers are responsible for superconductivity in these materials, 
+while the LnO layer serves as the charge reservoir layer.33-34 In this article we report: (1) the 
+single crystal synthesis, structure and properties of a new member SmO1-xFxBiS2. It has been 
+found to be non-superconducting down to 2 K. (2) we have systematically investigated the effect 
+of doping smaller Sm ions at La sites in La1-ySmyO0.5F0.5BiS2 and observed an enhancement in Tc 
+with Sm substitution. 
+Experimental 
+Polycrystalline samples of La1-ySmyO0.5F0.5BiS2 (y = 0.0 – 1.0) were synthesized by solid state 
+method. Ln2S3, preheated Ln2O3, LnF3, Bi2S3, Bi and S were ground well and pelletized in the 
+form of circular disks. These disks were then sealed in evacuated silica tubes and heated at 
+800oC for 24 hours. The product was again ground, pelletized and heated at 800oC for 24 h for 
+better homogeneity. The samples were stable in air but preserved in an Ar filled glove box to 
+avoid any unnecessary contamination. 
+Single crystals of SmO1-xFxBiS2 were grown using KCl-CsCl flux method. Polycrystalline SmO1-
+xFxBiS2 was used as charge. Approximately 0.5g of compound was mixed with 2.5 g of KCl-
+CsCl (1:1). The properly mixed powder was sealed in an evacuated silica tube. The tube was 
+heated at 800oC for 24 h and cooled to 600oC at a rate of 2oC/hour. Then the furnace was shut off 
+and allowed to cool naturally. The tube was opened in ambient atmosphere and the flux was 
+dissolved in distilled water. The product was washed several times with distilled water and 
+
+
+4 
+ 
+finally rinsed with acetone. Many plate like micron sized (100-500 μm) crystals were obtained as 
+observed under microscope. All the chemical manipulations except for vacuum sealing and 
+washing of crystals were performed in an Ar filled glove box (H2O and O2< 0.1 ppm).  
+The phase purity of all the samples was checked by powder X-ray diffraction technique using 
+Cu-Kα radiation in a Bruker D8 advance diffractometer. Single-crystal diffraction data sets were 
+collected at room temperature over a 2θ range of ~4° to ~60° with 0.5° scans in ω and 10 s per 
+frame exposures with the aid of a Bruker SMART CCD diffractometer equipped with Mo Kα 
+radiation (λ = 0.71073 Å). The data showed a primitive tetragonal lattice and the intensity 
+statistics indicated a centrosymmetric space group. The reflection intensities were integrated with 
+the APEX II program in the SMART software package.35 Empirical absorption corrections were 
+employed using the SADABS program.36 The space group P4/nmm (No. 129) of the structures 
+was determined with the help of XPREP and SHELXTL 6.1.37 The structure was solved by 
+direct methods and subsequently refined on |F2| with combinations of least squares refinements 
+and difference Fourier maps. The refinements of SmO0.5F0.5BiS2 converged to R1 = 0.0662, RW = 
+0.1203 for all data with goodness of fit 1.17 and maximum residuals of 3.9 and −2.9 e/Å3 that 
+were 0.8 and 1.1 Å from Bi sites, respectively.  Rietveld refinement analysis was carried out on 
+all the samples using Topas software package.38 
+Magnetization measurements in the temperature range of 2 – 300 K on single crystals were 
+performed by using a Quantum Design Superconducting Quantum Interference Device (SQUID) 
+and on the polycrystalline samples by a vibrating sample magnetometer using a Physical 
+Property Measurement System (PPMS). The resistivity studies in the temperature range of 2 – 
+
+
+5 
+ 
+300 K on polycrystalline samples were carried out by conventional four probe method using a 
+Quantum Design PPMS.  
+Results and discussion  
+1. SmO1-xFxBiS2 (x = 0.0, 0.5) 
+The Rietveld refined powder X-ray diffraction pattern of polycrystalline SmO0.5F0.5BiS2 is 
+shown in figure 1. Most of the peaks could be easily indexed on the basis of a tetragonal system 
+with CeOBiS2 structure in P4/nmm space group. Presence of small amount (< 10 %) of Bi2S3 
+secondary phase was also detected which commonly occurs in these types of samples. The 
+refined lattice parameters were found to be a = 4.0122(5) Å, c = 13.5949(2) Å for x = 0.0 and 
+4.0180(1) Å and 13.5291(4) Å for x = 0.5. Crystallographic data obtained from single crystal 
+analysis for SmO0.5F0.5BiS2 is given in Table 1. The corresponding atomic positions and 
+isothermal displacement parameters are listed in Table 2. The CIF file and anisotropic 
+displacement parameters are provided in the Supporting Information.  It may be noted that due to 
+similar scattering factors of O and F, their occupancies were not refined and were fixed to 
+nominal values during refinement. SmO1-xFxBiS2 is isostructural to LaOBiS2 consisting of 
+tetrahedral Sm2(O,F)2 and fluorite type BiS2 layers (inset fig 1). The average stoichiometry of the 
+F-doped single crystal sample was confirmed by EDAX analysis, results of which are given in 
+Supporting Information. The relative ratio of Sm:F:Bi:S was found to be 1:0.39:0.96:2.1. The 
+value of in-plane or equatorial Bi–S bond length (Bi–Seq) was calculated to be 2.8423(2) Å and 
+the S–Bi–S bond angle was 176.69 (4)o. A comparison of these bond lengths and bond angles of 
+Sm(O,F)BiS2 with other F- doped LnOBiS2 including Bi4O4S3 is shown in figure 2. It is to be 
+
+
+6 
+ 
+noted that the value of ‘x’ in each LnO1-xFxBiS2 is the one which gives the maximum Tc. The 
+values for Ln = La,39 (x = 0.46) and Nd14 (x = 0.3) were obtained from the single crystal data 
+reported elsewhere and for SmO0.5F0.5BiS2 data from present studies were used. For Ce,10 (x = 
+0.5), Pr11 (x = 0.5) and Bi4O4S3
+7 the values were obtained from the data reported on 
+polycrystalline samples. Since for Yb sample no structural refinement data has been reported, 
+bond lengths and bond angles could not be calculated. An expected gradual decrease in both in–
+plane Bi–S bond distance and S–Bi–S bond angle is seen with decreasing size of the rare earth 
+ion from La to Nd. For Sm system the Bi–S bond length is anomalously higher than Nd and 
+which is a matter of further investigation. Chen, et al,29 studied the effect of local distortion in 
+Bi–S plane on the superconducting properties of La1-xMx(O,F)BiS2 (where M = Mg and Ca). 
+They find that a distortion in Bi–S plane is necessary to enhance superconductivity in LnOBiS2. 
+This seems to be true as on decreasing the size of rare earth ion, thereby increasing the distortion 
+in Bi–S plane, Tc is found to increase (from Tc = 2.5 K in La to 5 K in Nd) in LnO1-xFxBiS2. 
+Similar enhancement in Tc is also observed when two different rare earth ions are partially 
+substituted for example in Ce1-xNdx(O,F)BiS2 and Nd1-xSmx(O,F)BiS2. Tc increases with increase 
+in substitution of smaller ion upto a certain value.20-21 
+Magnetization measurements in an applied field of 30 Oe carried out on a collection of large 
+number of tiny single crystals (size ~ 100μm) of composition x = 0.0 and 0.5 exhibit a 
+paramagnetic behavior down to 2 K (Fig. 3). These measurements clearly indicate absence of 
+superconductivity at T > 2 K. The small hump at around 50 K is seen due to freezing of oxygen 
+which might be present in the sample holder or due to slightly poor vacuum in the sample 
+chamber. For the purpose of clarity, results of the variable temperature susceptibility (and its 
+inverse) of the polycrystalline sample with x = 0.5 are shown in the low temperature range (T < 
+
+
+7 
+ 
+100 K) in figure 4. Curie constant ‘C’ obtained from the Curie-Weiss fit to the χ-1 vs T plot is C 
+= 0.47 emu*K*mol-1 and θp is –3.6 K. The Sm paramagnetic moment (as there is no other 
+moment carrying species in the material) calculated using this value of C is 0.61 μB. The 
+deviation from the magnetic moment expected for free Sm3+ ion (0.84 μB) is possibly due to the 
+crystal field effects. This magnetic moment is consistent with +3 ionic state of samarium. Field 
+dependence of the magnetization is linear down to 5 K as shown in inset of Fig. 3, suggesting no 
+magnetic ordering down to 5 K. 
+Resistivity measured for x = 0.5 on a sintered polycrystalline pellet show a semiconductor like 
+behavior similar to the undoped compound (x = 0) (fig. 5). The resistivity value though 
+decreased upon fluorine doping. We have not seen superconductivity down to 2 K in 
+SmO0.5F0.5BiS2 (see discussion in the next section). It may be pointed out that other members of 
+this series are known to be superconducting (La, Ce, Nd, Pr and Yb) with Tc ~ 2.5 K – 5 K.15 
+La1-ySmyO0.5F0.5BiS2 
+Compositions corresponding to La1-ySmyO0.5F0.5BiS2 were synthesized to investigate the 
+possibility of superconductivity by doping La in non-superconducting SmO0.5F0.5BiS2 and also 
+study the effect of chemical pressure on Tc.. Powder X-ray diffraction patterns of La1-
+ySmyO0.5F0.5BiS2 are presented in figure 6. Majority of the peaks correspond to the parent 
+LaOBiS2 phase along with some peaks for impurity phases like Bi2S3, Bi2O3, BiF3 and/or LaF3. 
+Rietveld refinement on all the compositions was performed to study the crystal structure. The 
+occupancies of La and Sm were refined constraining their sum to be unity. The occupancies of O 
+and F were fixed to the nominal value. Results of Rietveld refinement and important structural 
+parameters are provided in the Supporting Information. The variation of a and c lattice parameter 
+
+
+8 
+ 
+with Sm doping (y) is presented in figure 7. There is a gradual decrease in the a-lattice parameter 
+as we infer from the shift of the (200) peak towards higher angle (see figure S5 in supporting 
+information). This is expected as Sm has a smaller ionic radius than that of La. The (004) peak 
+does not show a gradual trend as a function of Sm-content (see figure S5 in supporting 
+information).  The inferred c-lattice parameter also, thus, does not show a gradual (smooth) 
+variation as a function of Sm–content. This type of structural anisotropy is common in layered 
+structures like Ln(O,F)BiS2.20-21  In contrast to the observation of Kajitani et al,21 we do not find 
+a solubility limit of Sm ions at La sites and hence, La was completely replaced by Sm and the 
+sample with y = 1.0 i.e. SmO0.5F0.5BiS2 could be obtained. 
+Superconductivity is observed in all the samples La1-ySmyO0.5F0.5BiS2 (y = 0.0, 0.2, 0.4 and 0.8). 
+Figure 8a shows the diamagnetic response in all these materials. Tc shows an enhancement with 
+increase in value of y. Maximum Tc of 4.4 K is observed for y = 0.8. This enhancement in Tc can 
+be attributed to unit cell contraction and local structure distortion as studied by Chen et al.29 
+Resistivity measurements, figure 8b, reconfirm the superconducting behavior in these materials. 
+We should point out that in all the resistivity plots, a ‘semiconductor’–like increase in resistivity 
+is observed just before the beginning of the superconducting drop (Inset of Fig. 8b).  This is 
+commonly observed in high-Tc cuprates and in F-doped LnOBiS2 materials. In the upper panel of 
+figure 9, we show the value of Tc in these materials as measured magnetically and by resistivity. 
+As already discussed above the pure Sm sample (y = 1) is non-superconducting till 2K (the limit 
+of our measurement) which means that there may be a critical Sm concentration (0.8 < y < 1) 
+which gives a maximum Tc and further addition of Sm would suppress the superconducting state. 
+Similar type of study has been very recently reported by Kajitani et al,21 where Sm has been 
+
+
+9 
+ 
+substituted for Nd in NdO0.5F0.5OBiS2 and a maximum Tc is achieved with Sm = 0.6, beyond 
+which the Tc suddenly diminishes. Kajitani et al,21 also mentioned that there is a solubility limit 
+for Sm in Nd1-xSmxO0.5F0.5BiS2 (x = 0.8) but in our study La and Sm were completely soluble.  
+Structure-property relationship 
+Band structure calculations have revealed that the DOS near the Fermi level for these Bi-S 
+superconductors is mainly due to Bi–6p states with only a small contribution from S–3p states.33-
+34 The in-plane Bi–6p orbitals are mainly involved in the overlap with S–3p orbitals and thus, the 
+in-plane (ab–plane) Bi–S bond lengths and the S–Bi–S bond angle seems to be important in 
+inducing and enhancing superconductivity. Therefore the local structure in the Bi–S layers is an 
+important parameter for superconductivity in LnOBiS2 vis-à-vis FeAs layers in LnOFeAs 
+superconductors. In order to get an insight, the effect of Sm substitution on local structure of Bi–
+S layers was investigated. The in-plane Bi–Seq distances and the in-plane S–Bi–S bond angle 
+were calculated from structural data obtained after Rietveld analysis. The in–plane Bi–S bond 
+lengths largely depend on the a-lattice parameter. In case of Sm doping at La sites the a–lattice 
+parameter decrease gradually which leads to a decrease in the Bi–S distances as evident in lower 
+panel of figure 9. Due to the decrease in the Bi–S distance a better overlap is expected which 
+seems to enhance Tc. This trend is followed by all the Sm doped compositions. The in plane S–
+Bi–S angle is also expected to play a significant role in superconductivity. The flatter the bond 
+(~180o) the better would be the overlap between the Bi–6p and S–3p orbitals. But as observed by 
+Chen, et al,29 a little distortion in the Bi–S layer could enhance Tc. A similar trend seems to 
+follow in La1-ySmyO0.5F0.5BiS2. In case of y = 1.0 i.e. SmO0.5F0.5BiS2 composition the Bi–S bond 
+length is slightly larger than other Sm–doped compositions which seems to overshadow the 
+
+
+10 
+ 
+favorable effect of distortion in S–Bi–S bond angle. This may possibly be the reason for absence 
+of superconductivity in SmO0.5F0.5BiS2 but it needs to be further investigated.  
+Conclusions 
+We have successfully synthesized SmO1-xFxBiS2 which is a new member of the F–doped 
+LnOBiS2 family. This material is non superconducting and paramagnetic down to 2 K. We have 
+investigated the structure and properties of the Sm substituted materials La1-ySmyO0.5F0.5BiS2 (y 
+= 0.0 – 1.0) with Sm3+ ions smaller in size as compared with La3+-ions and thus simulating 
+chemical pressure as one effect of the substitution. Structural distortion in the Bi–S plane was 
+analyzed. We find that the Bi–S bond lengths decrease with the increase in the doping level of 
+the smaller Sm ion at the La site. We have observed superconductivity in La1-y SmyO0.5F0.5BiS2 
+(y = 0.0 – 0.8) and we find that Tc is gradually enhanced upon doping Sm at the La site as y→ 
+0.8. Absence of superconductivity in SmO0.5F0.5BiS2 is anomalous and deserves to be 
+investigated. We also think that a tuning between these parameters via suitable doping or applied 
+pressure could lead to superconductivity in SmO1-xFxBiS2. 
+ASSOCIATED CONTENT 
+Supporting Information: 
+Crystallographic Information File (CIF), powder X-ray diffraction patterns, results of Rietveld 
+refinement and EDAX spectra are given in the supporting information. This material is available 
+free of charge via the Internet at http://pubs.acs.org. 
+AUTHOR INFORMATION 
+
+
+11 
+ 
+* Corresponding author 
+Ashok Kumar Ganguli 
+Professor, Department of Chemistry 
+Indian Institute of Technology 
+New Delhi, 110016, India 
+Office Ph: 011 2659 1511 
+Email: ashok@chemistry.iitd.ac.in 
+ 
+Present address: 
+Ashok Kumar Ganguli 
+Director, Institute for Nano Science and Technology 
+Habitat Center, Phase X, sector 64 
+Mohali, Punjab – 160062 
+Notes 
+†Visiting scientist at Solid State and Nanomaterials Research Laboratory, Department of 
+Chemistry, IIT Delhi, India.  
+The authors declare no competing financial interest. 
+Acknowledgments 
+AKG acknowledges DST for financial support. GST and ZH acknowledge CSIR and UGC 
+respectively for a fellowship. GKS and SA acknowledge the Department of Science and 
+Technology (SERB & TSDP), CEFIPRA – New Delhi, UGC (BSR-Meritorious fellowship, 
+SAP, MRP), for their financial support. Authors thank to Prof. A. Thamizhavel, TIFR (Mumbai) 
+for provided the PPMS-VSM system for the magnetic measurements. Authors at IIT Delhi thank 
+DST for providing the SQUID facility. 
+ 
+ 
+
+
+12 
+ 
+FIGURES AND TABLES 
+Figure 
+1. 
+Rietveld 
+refinement 
+studies 
+of 
+powder 
+X-ray 
+diffraction 
+pattern 
+for 
+SmO0.5F0.5BiS2. Pink and green vertical bars mark the allowed Bragg reflections for 
+SmO0.5F0.5BiS2 and Bi2S3 phases respectively. Inset shows the crystal structure of Sm(O,F)BiS2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. Variation of in-plane Bi–S bond length (Bi–Seq) and S–Bi–S angle in known F–doped 
+LnOBiS2 and Bi4O4S3. 
+ 
+ 
+ 
+ 
+ 
+ 
+O/F
+S
+S
+B
+c
+      a 
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+ 
+SmO0.5F0.5BiS2
+Rwp = 4.62%
+χ
+2 = 1.41
+ Iobs
+ Icalc
+ Iobs- Icalc
+ SmOBiS2
+ Bi2S3 (10%)
+ 
+ 
+Intensity (A.U.)
+2θ
+La
+Ce
+Pr
+Nd
+Sm
+2.80
+2.82
+2.84
+2.86
+2.88
+2.90
+ Bi-S
+eq bond length
+ S-Bi-S angle
+ 
+ 
+Bi-Seq(Å)
+Bi4O4S3
+LnO1-xFxBiS2
+This work
+170
+172
+174
+176
+178
+180
+182
+ S-Bi-S angle (o)
+
+
+13 
+ 
+0
+50
+100
+150
+200
+250
+300
+0
+3
+6
+9
+12
+15
+18
+ x = 0.5
+ x = 0.0
+ 
+ 
+χ ∗ 10
+−2 (emu/mol)
+T (K)
+SmO1-xFxBiS2
+-10000
+-5000
+0
+5000
+10000
+-1
+0
+1
+ 
+ 
+M (emu/g)
+H (Oe)
+ 5 K
+ 50 K
+ 150 K
+ 300 K
+x = 0.5
+ 
+Figure 3. Variable temperature susceptibility data for SmO1-xFxBiS2 (the sample comprises a 
+collection of tiny single crystals) measured in a field of 30 Oe (main panel). Inset shows the 
+isothermal magnetization data at different temperatures (5, 50, 150 and 300 K). The small hump 
+at ~50 K is due to the presence of traces of frozen oxygen impurity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4. Variable temperature susceptibility and inverse susceptibility plot for SmO0.5F0.5BiS2 
+(polycrystalline) in the low temperature region. Red line shows the Curie-Weiss fit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+0
+2
+4
+6
+8
+10
+ 
+T(K)
+χ∗10
+−2 (emu/mol)
+0
+30
+60
+90
+120
+150
+ χ
+−1 (mol/emu)
+
+
+14 
+ 
+10
+20
+30
+40
+50
+60
+70
+80
+#
+y = 0.8
+y = 0.4
+y = 0.2
+y = 0.0
+*
+*
+*
+*
+*
+ 
+ 
+2θ
+(007)
+(016)
+(020)
+(015)
+(113)
+(014)
+(005)
+(111)
+(110)
+(106)
+(011)
+(003)
+(002)
+(008)
+(130)
+(125)
+(127)
+(118)
+(018)
+(119)
+(122)
+(117)
+(126)
+(224)
+(019)
+(032)
+(009)
+(114)
+(004)
+(012)
+*
+* - Bi2S3
+# - LaF3 
+Figure 5. Resistivity versus temperature plots at different magnetic fields for SmO0.5F0.5BiS2 
+(main panel) and for undoped SmOBiS2 (inset). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6. Powder X-ray diffraction patterns for La1-ySmyO0.5F0.5BiS2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+50
+100
+150
+200
+250
+300
+0.6
+0.8
+1.0
+1.2
+1.4
+0
+50
+100
+150
+200
+250
+300
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+ 
+ 
+ρ (Ω − cm)
+T (K)
+x = 0.0
+ 
+ 
+ 
+ρ (Ω − cm)
+T (K)
+ 0.0 T   
+ 5 T
+ 0.5 T   
+ 7 T
+ 1 T      
+ 9 T
+ 3 T
+x = 0.5 polycrystalline
+
+
+15 
+ 
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+3.99
+4.00
+4.01
+4.02
+4.03
+4.04
+4.05
+4.06
+4.07
+ 
+y (Sm content)
+a (Å)
+13.30
+13.35
+13.40
+13.45
+13.50
+13.55
+ c (Å)
+Figure 7. Variation of lattice parameter a and c with Sm content (y) for La1-ySmyO0.5F0.5BiS2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8. Variable temperature (a) magnetization and (b) resistivity curves for La1-
+ySmyO0.5F0.5BiS2. The magnetization was measured in ZFC condition in a field of 10 Oe. Inset of 
+(b) show resistivity curves upto 300K. 
+1
+2
+3
+4
+5
+6
+-0.035
+-0.030
+-0.025
+-0.020
+-0.015
+-0.010
+-0.005
+0.000
+0.005
+0.010
+ 
+ 
+M (emu/g)
+T (K)
+ y = 0.0
+ y = 0.2
+ y = 0.4
+ y = 0.8
+(a)
+2
+4
+6
+8
+10
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0
+50
+100
+150
+200
+250
+300
+0
+1
+2
+3
+4
+5
+6
+7
+8
+ 
+ 
+R/R300K
+T (K)
+(b)
+ y = 0.0
+ y = 0.2
+ y = 0.4
+ y = 0.8
+ 
+ 
+ρ/ρ10K
+T (K)
+
+
+16 
+ 
+Figure 9. Plot of variation of Tc obtained from magnetization and resistivity measurements 
+(upper panel) and variation of Bi–Seq bond length and S–Bi–S angle with y (lower panel) for La1-
+ySmyO0.5F0.5BiS2. The sample SmO0.5F0.5BiS2 (y = 1) does not exhibit superconductivity down to 
+2 K, the lowest temperature of our measurements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+176
+177
+178
+179
+180
+181
+ 
+y
+S−Bi−S angle (
+0)
+2.84
+2.85
+2.86
+2.87
+2.88
+2.89
+ Bi−S
+ab(Å)
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+ T
+magnetic
+c
+ T
+resistive
+c
+ 
+ 
+Tc (K)
+
+
+17 
+ 
+Table 1. Some crystal data and structural refinement parameters for SmO0.5F0.5BiS2. 
+Empirical formula  
+SmO0.5F0.5BiS2 
+Formula weight (g) 
+440.95 
+Space group, Z 
+P4/nmm 
+Unit cell dimensions (Å) 
+a  = 4.018(1), c = 13.534(3) 
+Volume (Å3)  
+218.50(1) 
+Density (g cm-3)  
+6.70 
+Absorption coefficient ( mm-1) 
+54.28 
+Theta range (degree) 
+1.5 – 28.8 
+Index ranges 
+−5 ≤ h ≤ 3; −5 ≤ k ≤ 5; −18 ≤ l 
+≤ 18 
+Reflections collected  
+1096 
+Indep. reflections  
+213 
+Data / parameters  
+213/15 
+Goodness-of-fit on F2 
+1.17 
+Final R indices [I>2σ(I)]  
+R1 = 0.0530; wR2 = 0.1143 
+R indices (all data)  
+R1 = 0.0662; wR2 = 0.1203 
+Largest diff. peak and hole (eÅ-3) 
+3.94 and −2.93 
+ 
+ 
+
+
+18 
+ 
+Table 2. Atomic coordinates, Wyckoff positions, and isotropic equivalent displacement 
+parameters for SmO0.5F0.5BiS2 single crystal. 
+ 
+ 
+aUeq is defined as one-third of the trace of the orthogonalized Uij tensor. 
+Numbers in the parentheses indicate standard deviation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Atom  
+Wyckoff  
+Occupancy 
+x  
+y  
+z  
+Ueq (Å2)a 
+Sm 
+2c 
+1 
+0.25 
+0.25 
+0.0949(2) 
+0.0196(3) 
+Bi 
+2c 
+1 
+0.25 
+0.25 
+0.6262(1) 
+ 0.0205(3) 
+S1 
+2c 
+1 
+0.25 
+0.25 
+0.3799(4) 
+0.022(4) 
+S2 
+2c 
+1 
+0.25 
+0.25 
+0.8121(4) 
+0.015(3) 
+O 
+2a  
+0.5 
+0.75 
+0.25 
+0 
+0.014(3) 
+F 
+2a 
+0.5 
+0.75 
+0.25 
+0 
+0.014(3) 
+Bi-S bond length Å 
+Equatorial (In-plane)[x4] = 2.8423(2)  
+Axial [x1] = 2.5181(2) 
+In-plane S-Bi-S bond angle (x2) 
+176.69(4)o 
+
+
+19 
+ 
+REFERENCES 
+(1) Lokken, D. A.; Corbett, J. D. Inorg. Chem. 1973, 12, 556-559. 
+(2) Torardi, C.C.; McCarley, R.E. J. Am. Chem. Soc. 1979, 101, 3963-3964. 
+(3) Wu, M. K.; Ashburn, J. R.; Torng, C. J.; Hor, P. H.; Meng, R. L.; Gao, L. Huang, Z. J.; 
+Wang, Y. Q.; Chu C. W. Phys. Rev. Lett. 1987, 58, 908-910.    
+(4) Hebard, A. F.; Rosseinsky, M. J.; Haddon, R. C.; Murphy, D. W.; Glarum, S. H.; 
+TPalstra, . T. M.; Ramirez, A. P.; Kortan, A. R. Nature 1991, 350, 600-601. 
+(5) Sheng Z. Z.; Hermann, A. M. Nature 1988, 332, 138-139. 
+(6) Bochu, B.; Deschizeaux, M.N.; Joubert, J. C.; Collomb, A.; Chenavas, J.; Marezio, M. 
+J. Solid State Chem. 1979, 29, 291-298. 
+(7) Mizuguchi, Y.; Fujihisa, H.; Gotoh, Y.; Suzuki,K.; Usui, H.; Kuroki, K.; Demura, S.; 
+Takano, Y.;Izawa, H.; Miurao. Phy. Rev. B 2012, 86, 220510(R). 
+(8) Singh, S. K.; Kumar, A.; Gahtori, B.; Shruti, Sharma, G.; Patnaik, S.; Awana, V. P. S. J. 
+Am. Chem. Soc. 2012, 134, 16504-16507. 
+(9) Mizuguchi, Y.; Demura, S.; Deguchi, K.; Takano, Y.; Fujihisa, S.; Gotoh, H.; Izawa, Y.; 
+Miura O, H. J. Phys. Soc. Jpn. 2012, 81, 114725. 
+(10) Xing, J.; Li, S.; Ding, X.; Yang, H.; Wen, H. H. Phys. Rev. B 2012, 86, 214518. 
+(11) Jha, R.; Awana, V.P.S. J. Supercond. Nov. Magn. 2014, 27, 1-4. 
+(12) Jha, R.; Kumar, A.; Singh, S. K.; Awana, V.P.S. J. Supercond. Nov. Magn. 2013, 26, 
+499-502. 
+(13) Demura, S.; Mizuguchi, Y.; Deguchi, K.; Okazaki, H.; Hara, H.; Watanabe, T.; 
+Denholme, S. J.; Fujioka, M.; Ozaki, T.; Fujihisa, H.; Gotoh, Y.; Miura, O.; Yamaguchi, 
+T.; Takeya, H.; Takano Y. J. Phys. Soc. Jpn. 2013, 82, 033708. 
+(14) Nagao, M.; Demura, S.; Deguchi, K.; Miura, O.; Watauchi, S.;  Takei, T.; Takano, Y.; 
+Kumada, N.; Tanaka, I. J. Phys. Soc. Jpn. 2013, 82, 113701. 
+(15) Yazici, D.; Huang, K.; White, B. D.; Chang, A. H.; Friedman, A. J.; Maple, M. B.; Phil. 
+Mag. 2013, 93, 673-680. 
+(16) Awana, V.P.S.; Kumar,A.; Jha, R.; Singh, S. K.; Pal, A.; Shruti, Saha J.; Patnaik  S.; 
+Solid State Commun. 2013, 157, 21-23. 
+
+
+20 
+ 
+(17) Yazici, D.; Huang, K.; White, B. D.; Jeon, I.; Burnett, V. W.; Friedman, A. J.; Lum, I. 
+K.; Nallaiyan, M.; Spagna, S.; Maple, M. B. Phys. Rev. B 2013, 87, 174512. 
+(18) Wang, X. C.; Chen, D, Y.; Guo, Q.; Yu, J.; Ruan, B. B.; Mu, Q. G.; Chen,  G. F.; Ren, 
+Z. 
+A. 
+Enhanced 
+superconductivity 
+in 
+F-doped 
+LaO1-xFxBiSSe. 
+http://arxiv.org/abs/1404.7562.  
+(19) Shao, J.; Liu, Z.; Yao, X.; Zhang, L.; Pi, L.; Tan, S.; Zhang, C.; Zhang, Y. Europhysics 
+Letter 2014, 107, 37006. 
+(20) Kajitani, J.; Omachi, A.; Hiroi, T.; Miura, O.; Mizuguchi, Y.; Physica C 2014, 504, 33-
+35. 
+(21) Kajitani, J.; Omachi, A.; Hiroi, T.; Miura, O.; Mizuguchi, Y. Chemical pressure effect 
+on superconductivity of BiS2-based Ce1-xNdxO1-yFyBiS2 and Nd1-zSmzO1-yFyBiS2 
+http://arxiv.org/abs/1408.2625. 
+(22) Jeon, I.; Yazici, D.; White, B. D.; Friedman, A. J.; Maple, M. B. Phys. Rev. B 2014, 90, 
+054510. 
+(23) Kotegawa, H.; Tomita, Y.; Tou, H.; Izawa,  Mizuguchi, H.; Miura, O.; Demura, S.; 
+Deguchi, K.; Takano, Y. J. Phys. Soc. Jpn. 2012, 81, 103702. 
+(24) Wolowiec, C. T.; Yazici, D.; White, B. D.; Huang, K.; Maple, M. B. Phys. Rev. B 2013, 
+88, 064503. 
+(25) Kajitani, J.; Deguchi, K.; Hiroi, T.; Omachi, A.;  Demura, S.; Takano, Y. Miura, 
+O.; Mizuguchi, Y. J. Phys. Soc. Jpn. 2014, 83, 065002.  
+(26) Selvan, G. K.; Kanagaraj, M.;  Muthu, S. E.;  Jha, R.; Awana, V. P. S.; Arumugam, S. 
+Phys. Status Solidi RRL 2013, 7, 510-513. 
+(27) Fujioka, M.; Nagao, M.; Denholme, S. J.; Tanaka,  M.; Takeya, H.; Yamaguchi, T.; 
+Takano, Y. Appl. Phys. Lett., 2014, 105, 052601. 
+(28) Takahashi, H.; Igawa, K.; Arii, K.; Kamihara, Y.; Hirano M.; Hosono, H. Nature 
+2008, 453, 376-378. 
+(29) Chen, H.; Zhang, G.; Hu, T.; Mu, G.; Li, W.; Huang, F.; Xie, X.; Jiang M. Inorg. Chem. 
+53, 2014, 9-11. 
+(30) Wen, H. H.; Mu, G.; Fang, L.; Yang, H.; Zhu, X. Europhys. Lett. 2008, 82, 17009. 
+(31) Wu, G.; Chen, H.; Xie, Y. L.; Yan, Y. J.; Wu, T.; Liu, R. H.; Wang, X. F.; Fang, D. F.; 
+Ying, J. J.; Chen, X. H. Phys. Rev. B 2008, 78, 092503. 
+
+
+21 
+ 
+(32) Kasperkiewicz, K.; Bos, J. W. G.; Fitch, A. N.; Prassides, K.; Margadonna, S. Chem. 
+Commun. 2009, 707–709. 
+(33) Shein, I. R.; Ivanovskii, A. L. J. Expt. Theor. Phys. Lett. 2012, 96, 859. 
+(34) Morice, C.; Artacho, E.; Dutton, S. E.; Molnar, D.; Kim, H. J.; Saxena, S. S. Electronic 
+and magnetic properties of superconducting LnO1−xFxBiS2 (Ln = La, Ce, Pr, and Nd) 
+from first principles. http://arxiv.org/abs/1312.2615. 
+(35) SMART, Bruker AXS, Inc.: Madison, WI, 1996. 
+(36) Blessing, R. H. Acta Crystallogr. 1995, A51, 33. 
+(37) SHELXTL, Bruker AXS, Inc.: Madison, WI, 2000. 
+(38) TOPAS, version 4.2; Bruker AXS: Karlsruhe, Germany 2009. 
+(39) Miura. A.; Nagao, M.; Takei, T.; Watauchi, S.; Tanaka, I.; Kumada, N. J. Solid State 
+Chem. 2014, 212, 213-17.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+22 
+ 
+Supporting Information 
+Synthesis and properties of SmO0.5F0.5BiS2 and enhancement in Tc in  
+La1-ySmyO0.5F0.5BiS2 
+Gohil Singh Thakur§, Ganesan Kalai selvan¶, Zeba haque§, Laxmi Chand Gupta§†, Saroj Lochan 
+Samal‡, Sonachalam Arumugam¶ and Ashok Kumar Ganguli§*. 
+§Solid State and Nano Research Laboratory, Department of Chemistry, Indian Institute of Technology 
+New Delhi 110016, India. 
+¶Centre for High Pressure Research, School of Physics, Bharathidasan University, Tiruchirapalli 620024, 
+India 
+‡Department of Chemistry, National Institute of Technology, Rourkela, Odisha, 769008, India 
+ 
+ 
+ 
+CONTENTS: 
+Powder X-ray diffraction data for SmO1-xFxBiS2. 
+Results of Rietveld analysis on powder diffraction data for SmO0.5F0.5BiS2. 
+SEM and EDAX analysis for SmO1-xFxBiS2 crystals. 
+Results of Rietveld refinement to the powder X-ray diffraction data for La1-ySmyO0.5F0.5BiS2 (y = 
+0.0, 0.2, 0.4 and 0.8). 
+Magnified X-ray diffraction (XRD) patterns of La1-ySmyO0.5F0.5BiS2 in the region around (004) 
+and (200) peaks. 
+ 
+ 
+ 
+ 
+
+
+23 
+ 
+Table S1. Anisotropic displacement parameters of SmO0.5F0.5BiS2 obtained from single 
+crystal refinement.  
+Atom 
+U11 
+U22 
+U33 
+U23 
+U13 
+U12 
+Sm 
+0.0170(8) 
+0.0170(8) 
+0.025(1) 
+0.0 
+0.0 
+0.0 
+Bi 
+0.0203(6) 
+0.0203(6) 
+0.0210(9) 
+0.0 
+0.0 
+0.0 
+S1 
+0.021(4) 
+0.021(4) 
+0.035(5) 
+0.0 
+0.0 
+0.0 
+S2 
+0.012(3) 
+0.012(3) 
+0.021(4) 
+0.0 
+0.0 
+0.0 
+F/O 
+0.005(1) 
+0.005(1) 
+0.034(9) 
+0.0 
+0.0 
+0.0 
+ 
+Table S2. Atomic coordinates and Wyckoff positions for SmO0.5F0.5BiS2 obtained after 
+Rietveld analysis of powder diffraction data.  
+The occupancies for all the atoms were refined initially but were found to be above 97% and 
+hence were then fixed to unity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Space group: P4/nmm 
+a = 4.0180(1) Å and c = 13.5291(4) Å 
+Atom 
+Wyckoff 
+Occ. 
+x 
+y 
+z 
+Biso 
+Sm 
+2c 
+1 
+0.25 
+0.25 
+0.0949(1) 
+0.51(3) 
+Bi 
+2c 
+1 
+0.25 
+0.25 
+0.6226(7) 
+0.43(1) 
+S1 
+2c 
+1 
+0.25 
+0.25 
+0.3856(3) 
+0.86(2) 
+S2 
+2c 
+1 
+0.25 
+0.25 
+0.8081(3) 
+1.5(1) 
+O/F 
+2a 
+0.5/0.5
+0.75 
+0.25 
+0 
+1.9(3) 
+In-plane S-Bi-S angle = 175.5o 
+In-plane Bi-S bond length ( x 4) = 2.843(4) Å 
+Rwp (%) = 4.62;  χ2  = 1.41 
+
+
+24 
+ 
+10
+20
+30
+40
+50
+60
+70
+x= 0.5
+*
+*
+*
+ 
+ 
+ 
+2θ
+(002)
+(003)
+(012)
+(004)
+(011)
+(110)
+(005)
+(113)
+(111)
+(015)
+(114)
+(020)
+(016)
+(007)
+(023)
+(212)
+(122)
+(024)
+(117)
+(206)
+(109)
+(220)
+* Bi2S3
+*
+SmO1-xFxBiS2
+x= 0.0
+*
+ 
+ 
+ 
+x= 0.5
+*
+*
+*
+ 
+(002)
+(003)
+(012)
+(004)
+(011)
+(110)
+(005)
+(113)
+(111)
+(015)
+(114)
+(020)
+(016)
+(007)
+(023)
+(212)
+(122)
+(024)
+(117)
+(206)
+(109)
+(220)
+*
+SmO1-xFxBiS2 
+(polycrystalline)
+x= 0.0
+Powdered 
+crystals 
+Figure S1. Powder X-ray diffraction data for SmO1-xFxBiS2 polycrystalline and crushed single 
+crystal samples. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+25 
+ 
+Figure S2. Electron micrograph of a typical SmO0.5F0.5BiS2 crystal with dimension (220 μm x 120 
+μm x 20 μm).  
+Many crystals of different sizes with one of the 
+longest dimension ranging from 20 – 300 μm 
+were obtained. The crystals were not big enough 
+to be fit for Resistivity and magnetization 
+measurements and hence for resistivity a sintered 
+pellet of polycrystalline sample was used. For 
+magnetization measurements a mixture of many 
+tiny crystals of different sizes was used. 
+ 
+ 
+ 
+ 
+Figure S3. Results of SEM-EDAX analysis on a selected SmO0.5F0.5BiS2 single crystal.  
+ 
+ 
+ 
+Presence of all the constituent elements is evident from the EDAX graph. The table denotes the 
+percentage composition of each element in the sample. EDAX data was collected on many such crystals 
+and the final stoichiometry was deduced by averaging the data obtained from each point. The average 
+approximate stoichiometry was calculated to be SmBi0.96S2.1F0.39. 
+Element 
+F 
+S 
+Sm 
+Bi 
+Atom % 
+8.1 
+42.95 
+20.81 
+19.96
+
+
+26 
+ 
+Figure S4. Results of Rietveld refinement of the powder X-ray diffraction data for La1-
+ySmyO0.5F0.5BiS2 (y = 0.0, 0.2, 0.4 and 0.8). A small amount of impurities of LaF3, BiF3, 
+Bi2O3 and/or Bi2S3 were observed for all the compositions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+y = 0.0 
+a = 4.0637(4) Å 
+c = 13.3367(4) Å 
+Site      x           y           z         Atom    Occ         Beq  
+2c      0.25     0.25     0.1005(2)     La       1        0.55(2) 
+2c      0.25     0.25     0.6212(1)     Bi        1        0.35(2) 
+2c      0.25     0.25     0.3937(3)     S         1        0.90(4) 
+2c      0.25     0.25     0.8046(2)     S         1        1.20(7) 
+2a      0.75     0.25     0.0              O/F    0.5/0.5   1.9(3) 
+In-plane S-Bi-S angle = 180.8 o 
+In-plane Bi-S bond length (x 4) = 2.872 Å 
+
+
+27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+y = 0.2 
+a = 4.0417(2) Å 
+c = 13.3839(3) Å 
+Site      x           y           z            Atom    Occ           Biso  
+2c      0.25     0.25     0.0959(8)     Sm   0.222(3)   0.61(1)  
+2c       0.25     0.25    0.0959(8)     La    0.778(3)   0.61(2)  
+2c       0.25     0.25    0.6155(6)     Bi        1            0.35(2) 
+2c       0.25     0.25    0.3861(3)     S1       1            0.52(6) 
+2c       0.25     0.25    0.8125(3)     S2       1            1.52(5) 
+2a       0.75     0.25    0.0               O/F   0.5/0.5     1.4(3)  
+In-plane S-Bi-S angle = 178.5 o 
+In-plane Bi-S bond length (x 4) = 2.860 Å 
+
+
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+y = 0.4 
+a = 4.0235(2) Å 
+c = 13.5261(1) Å 
+Site      x           y           z              Atom     Occ         Biso  
+2c      0.25     0.25     0.0938(2)    Sm      0.385(1)  0.43(7) 
+2c      0.25     0.25    0.0938(2)     La       0.615(1)  0.43(7) 
+2c      0.25     0.25    0.6245(1)     Bi         1            0.38(2) 
+2c      0.25     0.25    0.3790(1)     S1         1            0.67(6) 
+2c      0.25     0.25    0.8050(3)     S2         1            1.3(5) 
+2a      0.75     0.25    0.0               O/F     0.5/0.5      1.9(2)  
+In-plane S-Bi-S angle = 178.1 o 
+In-plane Bi-S bond length (x 4) = 2.844 Å 
+
+
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+y = 0.8 
+a = 4.0008(2) Å 
+c = 13.4410(1) Å 
+Site      x            y            z              Atom     Occ         Biso 
+2c        0.25     0.25     0.1094(1)     Sm     0.823(4)   0.69(2) 
+2c        0.25     0.25    0.1094(1)      La      0.177(4)   0.69(2) 
+2c        0.25     0.25    0.6224(5)      Bi         1            0.53(3) 
+2c        0.25     0.25    0.3786(1)      S1         1           0.83(5) 
+2c        0.25     0.25    0.8125(4)      S2         1           0.90(5) 
+2a        0.75     0.25    0.0                O/F    0.5/0.5     1.21(3)  
+In-plane S-Bi-S angle = 177.2 o 
+In-plane Bi-S bond length (x 4) = 2.836 Å 
+
+
+30 
+ 
+ Figure S5. Magnified X-ray diffraction (XRD) patterns of La1-ySmyO0.5F0.5BiS2 in the region around 
+(004) and (200) peaks. 
+The regular shift of (200) peaks towards higher angle with increase in Sm doping indicates a-axis 
+contraction. The (004) peaks do not show such regularity which indicates that the change in c-axis is not 
+linear to the change in the Sm contraction. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

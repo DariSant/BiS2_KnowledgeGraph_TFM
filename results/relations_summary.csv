@@ -1,0 +1,1988 @@
+source,target,relation,effect,claim_id
+LaO0.5F0.5Bi1-xPbxS2,resistivity,HAS_PROPERTY,,N/A
+LaO0.5F0.5Bi1-xPbxS2,thermal expansion,HAS_PROPERTY,,N/A
+LaO0.5F0.5Bi1-xPbxS2,specific heat,HAS_PROPERTY,,N/A
+LaO0.5F0.5Bi1-xPbxS2,Seebeck coefficient,HAS_PROPERTY,,N/A
+LaO0.5F0.5Bi1-xPbxS2,anomalies,EXHIBITS_STATE,,N/A
+LaO0.5F0.5Bi1-xPbxS2,thermal expansion anomalies,EXHIBITS_STATE,,N/A
+LaO0.5F0.5Bi1-xPbxS2,specific heat anomalies,EXHIBITS_STATE,,N/A
+LaO0.5F0.5Bi1-xPbxS2,hystereses,EXHIBITS_STATE,,N/A
+LaO0.5F0.5Bi1-xPbxS2,first-order structural phase transition,EXHIBITS_STATE,,N/A
+LaO0.5F0.5Bi1-xPbxS2,T*,HAS_PROPERTY,,N/A
+LaO0.5F0.5Bi1-xPbxS2,Superconductivity,EXHIBITS_STATE,,N/A
+LaO0.5F0.5Bi1-xPbxS2,lattice structure,HAS_PROPERTY,,N/A
+resistivity,T*,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,low-temperature regions,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,La2O2Bi3AgS6,HAS_PROPERTY,,N/A
+resistivity,T *≈180 K,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,Sr0.5La0.5FBiS2,HAS_PROPERTY,,N/A
+resistivity,high magnetic field,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,pressure,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,local minimum,HAS_PROPERTY_VALUE,,N/A
+resistivity,LaOBiSSe,HAS_PROPERTY,,N/A
+resistivity,orientation,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,RO1-aFaBiS2,HAS_PROPERTY,,N/A
+resistivity,zero,HAS_PROPERTY_VALUE,,N/A
+resistivity,NdO0.5F0.5Bi(S1-xSex)2,HAS_PROPERTY,,N/A
+resistivity,x ≤ 0.2,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,LaO0.5F0.5BiS2,HAS_PROPERTY,,N/A
+resistivity,metallic behavior,HAS_PROPERTY_VALUE,,N/A
+resistivity,applied pressure,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,SrFBiS2,HAS_PROPERTY,,N/A
+resistivity,Hydrostatic pressure,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,superconducting transition,MEASURES,,N/A
+resistivity,semiconducting behavior,EXHIBITS_STATE,,N/A
+resistivity,LaOBiS2,HAS_PROPERTY,,N/A
+resistivity,doped,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,Tc0,MEASURES,,N/A
+resistivity,Hc2(0),DESCRIBES,,N/A
+resistivity,Bi4-xAgxO4S3,HAS_PROPERTY,,N/A
+resistivity,Bi4O4S3,HAS_PROPERTY,,N/A
+resistivity,semiconducting,EXHIBITS_STATE,,N/A
+resistivity,0.13 K,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,PrOBiS2,HAS_PROPERTY,,N/A
+resistivity,Superconductivity,MEASURES,,N/A
+resistivity,upper critical field,MEASURES,,N/A
+resistivity,temperature dependence,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,Bi4O4S2,HAS_PROPERTY,,N/A
+resistivity,4 K,PROPERTY_UNDER_CONDITION,,N/A
+resistivity,Hc2(T),HAS_PROPERTY,,N/A
+resistivity,decreasing temperature,PROPERTY_UNDER_CONDITION,,N/A
+thermal expansion,T*,PROPERTY_UNDER_CONDITION,,N/A
+specific heat,T*,PROPERTY_UNDER_CONDITION,,N/A
+Seebeck coefficient,T*,PROPERTY_UNDER_CONDITION,,N/A
+Seebeck coefficient,La2O2Bi3Ag0.6Sn0.4S6,HAS_PROPERTY,,N/A
+Seebeck coefficient,low temperature,PROPERTY_UNDER_CONDITION,,N/A
+Seebeck coefficient,S = -25 μV/K,HAS_PROPERTY_VALUE,,N/A
+Seebeck coefficient,electronic states,MEASURES,,N/A
+Seebeck coefficient,LaOBiSSe,HAS_PROPERTY,,N/A
+Seebeck coefficient,orientation,PROPERTY_UNDER_CONDITION,,N/A
+Seebeck coefficient,semimetal,DESCRIBES,,N/A
+Seebeck coefficient,LaO0.5F0.5BiS2,HAS_PROPERTY,,N/A
+Seebeck coefficient,-20 microV/K,HAS_PROPERTY_VALUE,,N/A
+Seebeck coefficient,ambient pressure,PROPERTY_UNDER_CONDITION,,N/A
+Seebeck coefficient,high-pressure-annealed,PROPERTY_UNDER_CONDITION,,N/A
+Seebeck coefficient,negative in sign,HAS_PROPERTY_VALUE,,N/A
+Seebeck coefficient,slightly smaller in magnitude,HAS_PROPERTY_VALUE,,N/A
+Seebeck coefficient,Thermoelectric effects,HAS_PROPERTY,,N/A
+Seebeck coefficient,Bi4-xAgxO4S3,HAS_PROPERTY,,N/A
+Seebeck coefficient,SrFBiS2,HAS_PROPERTY,,N/A
+Seebeck coefficient,large,HAS_PROPERTY_VALUE,,N/A
+Seebeck coefficient,Thermal transport measurement,MEASURES,,N/A
+Seebeck coefficient,LaO1-xFxBiS2,HAS_PROPERTY,,N/A
+Seebeck coefficient,F concentration,PROPERTY_UNDER_CONDITION,,N/A
+anomalies,x≥0.08,STATE_UNDER_CONDITION,,N/A
+x≥0.08,T*,HAS_CONDITION_VALUE,,N/A
+x≥0.08,x≥0.08,HAS_CONDITION_VALUE,,N/A
+x≥0.08,Superconductivity,STATE_UNDER_CONDITION,,N/A
+x≥0.08,0.08,HAS_CONDITION_VALUE,,N/A
+x≥0.08,structural phase boundary,STATE_UNDER_CONDITION,,N/A
+specific heat anomalies,specific heat experiments,MEASURES,,N/A
+specific heat anomalies,Bi4O4S3,EXHIBITS_STATE,,N/A
+hystereses,RO1-aFaBiS2,EXHIBITS_STATE,,N/A
+hystereses,current-voltage curve,MEASURES,,N/A
+hystereses,pressure,STATE_UNDER_CONDITION,,N/A
+first-order structural phase transition,Sr0.5La0.5FBiS2,EXHIBITS_STATE,,N/A
+first-order structural phase transition,1.3 GPa,STATE_UNDER_CONDITION,,N/A
+T*,lattice system,STATE_UNDER_CONDITION,,N/A
+T*,electronic system,STATE_UNDER_CONDITION,,N/A
+T*,\laofh,HAS_PROPERTY,,N/A
+T*,0.16 eV,HAS_PROPERTY_VALUE,,N/A
+T*,Superconductivity,PROPERTY_UNDER_CONDITION,,N/A
+Superconductivity,2 K,PROPERTY_UNDER_CONDITION,,N/A
+Superconductivity,structural phase boundary,STATE_UNDER_CONDITION,,N/A
+Superconductivity,Bi4O4S3,EXHIBITS_STATE,,N/A
+Superconductivity,LaO0.5F0.5BiS2,EXHIBITS_STATE,,N/A
+Superconductivity,F substitution,STATE_UNDER_CONDITION,,N/A
+Superconductivity,lattice anharmonicity,PROPERTY_UNDER_CONDITION,,N/A
+Superconductivity,"R(O,F)BiS2",EXHIBITS_STATE,,N/A
+Superconductivity,5 K,STATE_UNDER_CONDITION,,N/A
+Superconductivity,powder X-ray diffraction,DESCRIBES,,N/A
+Superconductivity,NdO0.63F0.37BiS2,EXHIBITS_STATE,,N/A
+Superconductivity,CDW satellites,STATE_UNDER_CONDITION,,N/A
+Superconductivity,CeOBiS1.7Se0.3,EXHIBITS_STATE,,N/A
+Superconductivity,diamagnetic transition temperature,STATE_UNDER_CONDITION,,N/A
+Superconductivity,electrical resistivity,MEASURES,,N/A
+Superconductivity,magnetization,MEASURES,,N/A
+Superconductivity,Sr1-xLaxFBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,ambient pressure,STATE_UNDER_CONDITION,,N/A
+Superconductivity,CeOBiS2-xSex,EXHIBITS_STATE,,N/A
+Superconductivity,La2O2Bi2Pb2S6,EXHIBITS_STATE,,N/A
+Superconductivity,La2O2Bi3Ag0.6Sn0.4S6,EXHIBITS_STATE,,N/A
+Superconductivity,LaO1-xFxBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,High-pressure,EXPERIMENT_CONDITIONS,,N/A
+Superconductivity,REO1-xFxBiCh2,EXHIBITS_STATE,,N/A
+Superconductivity,BiS2-based systems,EXHIBITS_STATE,,N/A
+Superconductivity,increase in DSmix,STATE_UNDER_CONDITION,,N/A
+Superconductivity,La2O2Bi3AgS6,EXHIBITS_STATE,,N/A
+Superconductivity,0.5 K,STATE_UNDER_CONDITION,,N/A
+Superconductivity,BiS2-based superconductors,EXHIBITS_STATE,,N/A
+Superconductivity,"LaO0.6F0.4Bi(S,Se)2",EXHIBITS_STATE,,N/A
+Superconductivity,BiCh2,EXHIBITS_STATE,,N/A
+Superconductivity,Eu0.5Ce0.5FBiS2-xSex,EXHIBITS_STATE,,N/A
+Superconductivity,"La(O,F)BiSe2",EXHIBITS_STATE,,N/A
+Superconductivity,F-doping,STATE_UNDER_CONDITION,,N/A
+Superconductivity,electron doping,STATE_UNDER_CONDITION,,N/A
+Superconductivity,BiCh2-based compound,EXHIBITS_STATE,,N/A
+Superconductivity,monoclinic,STATE_UNDER_CONDITION,,N/A
+Superconductivity,tetragonal,STATE_UNDER_CONDITION,,N/A
+Superconductivity,Eu0.5La0.5FBiS2-xSex,EXHIBITS_STATE,,N/A
+Superconductivity,chemical pressure,STATE_UNDER_CONDITION,,N/A
+Superconductivity,decrease in in-plane disorder,STATE_UNDER_CONDITION,,N/A
+Superconductivity,EuFBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,0.13 K,STATE_UNDER_CONDITION,,N/A
+Superconductivity,substituting 50 at.% Ce for Eu,STATE_UNDER_CONDITION,,N/A
+Superconductivity,Sr0.5La0.5FBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,Mott physics,EXHIBITS_STATE,,N/A
+Superconductivity,Superconductivity,EXHIBITS_STATE,,N/A
+Superconductivity,"R(O,F)BiS2 (R: La, Ce, Pr, Nd) single crystals",EXHIBITS_STATE,,N/A
+Superconductivity,3.5 K,STATE_UNDER_CONDITION,,N/A
+Superconductivity,"Ce(O,F)BiS2",EXHIBITS_STATE,,N/A
+Superconductivity,3 K,HAS_PROPERTY_VALUE,,N/A
+Superconductivity,Bi2OS2,EXHIBITS_STATE,,N/A
+Superconductivity,NdO0.5F0.5Bi(S1-xSex)2,EXHIBITS_STATE,,N/A
+Superconductivity,4.5 K,STATE_UNDER_CONDITION,,N/A
+Superconductivity,Ce1-xNdxO1-yFyBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,Nd1-zSmzO1-yFyBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,z = 0 - 0.8,STATE_UNDER_CONDITION,,N/A
+Superconductivity,y = 0.3,STATE_UNDER_CONDITION,,N/A
+Superconductivity,y = 0.5,STATE_UNDER_CONDITION,,N/A
+Superconductivity,REO1-yFyBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,SrFBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,pressure,STATE_UNDER_CONDITION,,N/A
+Superconductivity,Hydrostatic pressure,STATE_UNDER_CONDITION,,N/A
+Superconductivity,PrO0.3F0.7BiS2,EXHIBITS_STATE,,N/A
+Superconductivity,As-grown,STATE_UNDER_CONDITION,,N/A
+Superconductivity,high-pressure-annealed,STATE_UNDER_CONDITION,,N/A
+Superconductivity,anisotropy,PROPERTY_UNDER_CONDITION,,N/A
+Superconductivity,NdO1-xFxBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,DC magnetic susceptibility,MEASURES,,N/A
+Superconductivity,Electric transport measurement,DESCRIBES,,N/A
+Superconductivity,PrO1-xFxBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,4 K,STATE_UNDER_CONDITION,,N/A
+Superconductivity,transport,MEASURES,,N/A
+Superconductivity,x > 0.3,STATE_UNDER_CONDITION,,N/A
+Superconductivity,CeO1-xFxBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,muSR,EXPERIMENT_CONDITIONS,,N/A
+Superconductivity,resistive and magnetic measurements,MEASURES,,N/A
+Superconductivity,normal state,STATE_UNDER_CONDITION,,N/A
+Superconductivity,lower pressures,STATE_UNDER_CONDITION,,N/A
+Superconductivity,strain,STATE_UNDER_CONDITION,,N/A
+Superconductivity,chalcogenides,EXHIBITS_STATE,,N/A
+Superconductivity,intercalations/deintercalations,STATE_UNDER_CONDITION,,N/A
+Superconductivity,Fe,EXHIBITS_STATE,,N/A
+Superconductivity,BiS2,EXHIBITS_STATE,,N/A
+Superconductivity,4K,STATE_UNDER_CONDITION,,N/A
+Superconductivity,magnetic and transport measurements,MEASURES,,N/A
+Superconductivity,Bi4O4S2,EXHIBITS_STATE,,N/A
+Superconductivity,CeOBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,CSe,STATE_UNDER_CONDITION,,N/A
+Superconductivity,measurement temperatures,PROPERTY_UNDER_CONDITION,,N/A
+Superconductivity,"CeO(Bi, Sb)S2",EXHIBITS_STATE,,N/A
+Superconductivity,Ce4+ ion concentrations,STATE_UNDER_CONDITION,,N/A
+Superconductivity,Nd1-xCexOBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,PrOBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,valence fluctuation,STATE_UNDER_CONDITION,,N/A
+Superconductivity,F-substituted LaOBiS2,EXHIBITS_STATE,,N/A
+Superconductivity,2.5K,STATE_UNDER_CONDITION,,N/A
+Superconductivity,Bi4O4S3-xSex,EXHIBITS_STATE,,N/A
+Superconductivity,"x = 0, 0.03, 0.09 and 0.15",STATE_UNDER_CONDITION,,N/A
+Superconductivity,S site Se substitution,STATE_UNDER_CONDITION,,N/A
+Superconductivity,high magnetic field,STATE_UNDER_CONDITION,,N/A
+Superconductivity,"C_e(T, H)",MEASURES,,N/A
+Superconductivity,H,PROPERTY_UNDER_CONDITION,,N/A
+Superconductivity,specific heat measurements,MEASURES,,N/A
+Superconductivity,fully gapped,HAS_PROPERTY,,N/A
+Superconductivity,La1-xCexOBiSSe,EXHIBITS_STATE,,N/A
+Superconductivity,x = 0.2-0.6,STATE_UNDER_CONDITION,,N/A
+Superconductivity,layered bismuth-chalcogenides,EXHIBITS_STATE,,N/A
+2 K,2 K,HAS_CONDITION_VALUE,,N/A
+2 K,temperature range,HAS_CONDITION_VALUE,,N/A
+2 K,High-pressure,HAS_CONDITION_VALUE,,N/A
+2 K,semiconducting behavior,STATE_UNDER_CONDITION,,N/A
+Bi4O4S3,Tc0,HAS_PROPERTY,,N/A
+Bi4O4S3,unconventional isotope effects,EXHIBITS_STATE,,N/A
+Bi4O4S3,32S,SYNTHESIZES,,N/A
+Bi4O4S3,34S,SYNTHESIZES,,N/A
+Bi4O4S3,aS,HAS_PROPERTY,,N/A
+Bi4O4S3,semimetallic or narrow band gap behavior,EXHIBITS_STATE,,N/A
+Bi4O4S3,superfluid density,HAS_PROPERTY,,N/A
+Bi4O4S3,magnetic penetration depth,HAS_PROPERTY,,N/A
+Bi4O4S3,two s-wave type energy gaps,EXHIBITS_STATE,,N/A
+Bi4O4S3,upper critical field,HAS_PROPERTY,,N/A
+Bi4O4S3,multi-gap superconductivity,EXHIBITS_STATE,,N/A
+Bi4O4S3,Hc2(0),HAS_PROPERTY,,N/A
+Bi4O4S3,Hc2(T),HAS_PROPERTY,,N/A
+Bi4O4S3,superconducting ground state,EXHIBITS_STATE,,N/A
+Bi4O4S3,λ-2,HAS_PROPERTY,,N/A
+Bi4O4S3,two-gap s-wave model,EXHIBITS_STATE,,N/A
+Bi4O4S3,Bi2-S2-Bi2 bond,HAS_PROPERTY,,N/A
+Bi4O4S3,bending,EXHIBITS_STATE,,N/A
+Bi4O4S3,platelet-like morphology,EXHIBITS_STATE,,N/A
+Bi4O4S3,layered structure,EXHIBITS_STATE,,N/A
+Bi4O4S3,electrical resistivity,HAS_PROPERTY,,N/A
+Bi4O4S3,Hc2,HAS_PROPERTY,,N/A
+Bi4O4S3,ξGL(0),HAS_PROPERTY,,N/A
+Bi4O4S3,Hc2(ρonset),EXHIBITS_STATE,,N/A
+Bi4O4S3,NaCl-type BiS2 layer,EXHIBITS_STATE,,N/A
+Bi4O4S3,High-pressure synthesis,SYNTHESIZES,,N/A
+Bi4O4S3,lattice parameters,HAS_PROPERTY,,N/A
+Bi4O4S3,superconducting impurities,EXHIBITS_STATE,,N/A
+Bi4O4S3,superconducting shielding fraction,EXHIBITS_STATE,,N/A
+Bi4O4S3,stacking of Bi4O4(SO4)1-x and Bi2S4 layers,EXHIBITS_STATE,,N/A
+Bi4O4S3,metallic,EXHIBITS_STATE,,N/A
+Bi4O4S3,Fermi level,HAS_PROPERTY,,N/A
+Bi4O4S3,Tc onset,HAS_PROPERTY,,N/A
+Bi4O4S3,Tc zero,HAS_PROPERTY,,N/A
+Bi4O4S3,superconducting transition,EXHIBITS_STATE,,N/A
+Bi4O4S3,flux flow activation energies,HAS_PROPERTY,,N/A
+Bi4O4S3,superconductor,EXHIBITS_STATE,,N/A
+Bi4O4S3,s-wave,HAS_PROPERTY,,N/A
+Bi4O4S3,fully developed gap,EXHIBITS_STATE,,N/A
+Bi4O4S3,Δ0,HAS_PROPERTY,,N/A
+Bi4O4S3,2Δ0/kBTc,HAS_PROPERTY,,N/A
+Bi4O4S3,superconducting layer,EXHIBITS_STATE,,N/A
+Bi4O4S3,T λ,HAS_PROPERTY,,N/A
+Bi4O4S3,λ Δ,HAS_PROPERTY,,N/A
+Bi4O4S3,single gap s-wave equation,EXHIBITS_STATE,,N/A
+Bi4O4S3,weak insulating behavior,EXHIBITS_STATE,,N/A
+Bi4O4S3,2Δ/(kB*Tc),HAS_PROPERTY,,N/A
+Bi4O4S3,strong coupling superconductivity,EXHIBITS_STATE,,N/A
+Bi4O4S3,gapped feature,EXHIBITS_STATE,,N/A
+Bi4O4S3,Hc1,HAS_PROPERTY,,N/A
+Bi4O4S3,resistive broadening,EXHIBITS_STATE,,N/A
+Bi4O4S3,Ginzburg-Landau coherence length,HAS_PROPERTY,,N/A
+Bi4O4S3,solid-state reaction,SYNTHESIZES,,N/A
+Bi4O4S3,Tconset,HAS_PROPERTY,,N/A
+Bi4O4S3,Hall effect,MEASURES,,N/A
+Bi4O4S3,magnetization,DESCRIBES,,N/A
+Bi4O4S3,multiband feature,EXHIBITED_BY,,N/A
+Bi4O4S3,Magnetoresistance,HAS_PROPERTY,,N/A
+Bi4O4S3,Cooper pairs,EXHIBITS_STATE,,N/A
+Bi4O4S3,transport,DESCRIBES,,N/A
+Tc0,degradation,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,0.5 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,LaO0.5F0.5BiS2,HAS_PROPERTY,,N/A
+Tc0,High-pressure synthesis,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,High-pressure,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,HEA-type REO0.5F0.5BiS2,HAS_PROPERTY,,N/A
+Tc0,pressure,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,F concentration,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,Se-poor,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,PrO1-xFxBiS2,HAS_PROPERTY,,N/A
+Tc0,γG,CORRELATES_WITH,,N/A
+Tc0,large γG,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,NaCl-type chalcogenides,HAS_PROPERTY,,N/A
+Tc0,HEA-type site,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,TrZr2,HAS_PROPERTY,,N/A
+Tc0,"(Sr, La)FBiS2",HAS_PROPERTY,,N/A
+Tc0,isotope mass,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,Sr1-xLaxFBiS2,HAS_PROPERTY,,N/A
+Tc0,2.1-2.7 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,2.5-2.8 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,10.0-10.8 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,high-P phase,HAS_PROPERTY,,N/A
+Tc0,ionic radius,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,RE ionic radius,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,Sr0.5La0.5FBiS2,HAS_PROPERTY,,N/A
+Tc0,c lattice constant,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,CeOBiS2-xSex,HAS_PROPERTY,,N/A
+Tc0,3.0 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,electrical resistivity,MEASURES,,N/A
+Tc0,magnetization,MEASURES,,N/A
+Tc0,La2O2Bi2Pb2S6,HAS_PROPERTY,,N/A
+Tc0,11.5 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,1.9 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,superconducting transition temperature,HAS_PROPERTY_VALUE,,N/A
+Tc0,Sn substitution for the Ag site,HAS_CONDITION_VALUE,,N/A
+Tc0,La2O2Bi3Ag0.6Sn0.4S6,HAS_PROPERTY,,N/A
+Tc0,2.3 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,S1 (or Ch1),HAS_PROPERTY,,N/A
+Tc0,one-dimensional vibration,MEASURES,,N/A
+Tc0,"LaO0.6F0.4Bi(S,Se)2",HAS_PROPERTY,,N/A
+Tc0,76Se,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,80Se,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,no change,HAS_PROPERTY_VALUE,,N/A
+Tc0,Eu0.5Ce0.5FBiS2-xSex,HAS_PROPERTY,,N/A
+Tc0,x ≥ 0.6,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,3.5 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,F-doping,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,LaO1-xFxBiS2,HAS_PROPERTY,,N/A
+Tc0,2.2 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,substituting 50 at.% Ce for Eu,EXPERIMENT_CONDITIONS,,N/A
+Tc0,Eu0.5La0.5FBiS2-xSex,HAS_PROPERTY,,N/A
+Tc0,3.8 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,x = 0.8,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,diamagnetic signal,STATE_UNDER_CONDITION,,N/A
+Tc0,metallic behavior,STATE_UNDER_CONDITION,,N/A
+Tc0,Tc0,HAS_PROPERTY_VALUE,,N/A
+Tc0,\laofx,HAS_PROPERTY,,N/A
+Tc0,~ 11 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,high,HAS_PROPERTY_VALUE,,N/A
+Tc0,bis2 families,HAS_PROPERTY,,N/A
+Tc0,NdO0.71F0.29BiS2,HAS_PROPERTY,,N/A
+Tc0,κ/T,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,5.6 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,uniaxial lattice contraction,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,BiS2-based superconductors,HAS_PROPERTY,,N/A
+Tc0,Hydrostatic pressure,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,maximum Tc,HAS_PROPERTY_VALUE,,N/A
+Tc0,magnitude of the hoppings,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,"Bi2(O,F)S2",HAS_PROPERTY,,N/A
+Tc0,High pressure resistivity measurement,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,-1.2 K GPa-1,HAS_PROPERTY_VALUE,,N/A
+Tc0,5.1 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,F content,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,REO1-yFyBiS2,HAS_PROPERTY,,N/A
+Tc0,2.4-4.6 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,EuFBiS2,HAS_PROPERTY,,N/A
+Tc0,applied pressure,EXPERIMENT_CONDITIONS,,N/A
+Tc0,8.6 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,chemical pressure,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,NdO0.5F0.5Bi(S1-xSex)2,HAS_PROPERTY,,N/A
+Tc0,LaOBiS2,HAS_PROPERTY,,N/A
+Tc0,REO0.5F0.5BiS2-type series,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,Raman scattering measurements,MEASURES,,N/A
+Tc0,4.5 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,4.8 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,Ce1-xNdxO1-yFyBiS2,HAS_PROPERTY,,N/A
+Tc0,Nd1-zSmzO1-yFyBiS2,HAS_PROPERTY,,N/A
+Tc0,c/a ratio,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,2.44 GPa,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,6.7 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,"La(O,F)BiSe2",HAS_PROPERTY,,N/A
+Tc0,PrO0.3F0.7BiS2,HAS_PROPERTY,,N/A
+Tc0,High pressure annealing,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,3.7 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,anisotropy,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,low annealing temperature,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,5.5 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,5.25K,HAS_PROPERTY_VALUE,,N/A
+Tc0,PrO0.7BiS2,HAS_PROPERTY,,N/A
+Tc0,x = 1.0,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,external pressure,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,2.6K,HAS_PROPERTY_VALUE,,N/A
+Tc0,muon spin rotation (muSR),MEASURES,,N/A
+Tc0,upper critical field,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,Hc2(T),PROPERTY_UNDER_CONDITION,,N/A
+Tc0,lower pressures,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,3.9 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,3.7 to 4.7K,HAS_PROPERTY_VALUE,,N/A
+Tc0,3.3 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,atmospheric pressure,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,critical pressure,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,4.3 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,Hydrostatic pressure application,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,4.6 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,5 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,4.7 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,pressure coefficient,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,~5.3 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,Bi6O4S4(SO4)_1-x,HAS_PROPERTY,,N/A
+Tc0,dopant concentration,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,9.1 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,3.7K,HAS_PROPERTY_VALUE,,N/A
+Tc0,3.1K,HAS_PROPERTY_VALUE,,N/A
+Tc0,Electrical transport measurements,MEASURES,,N/A
+Tc0,Bi4-xAgxO4S3,HAS_PROPERTY,,N/A
+Tc0,x>0.10,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,specific heat experiments,EXPERIMENT_CONDITIONS,,N/A
+Tc0,4.4 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,specific heat measurements,MEASURES,,N/A
+Tc0,increasing pressure,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,Resistivity measurements,MEASURES,,N/A
+Tc0,semiconducting LaO0.5F0.5BiS2,HAS_PROPERTY,,N/A
+Tc0,2.7K,HAS_PROPERTY_VALUE,,N/A
+Tc0,high magnetic field,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,Nd0.8Ce0.2OBiS2,HAS_PROPERTY,,N/A
+Tc0,partially substituting La by the smaller Sm ion,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,La1-ySmyO0.5F0.5BiS2,EXHIBITS_STATE,,N/A
+Tc0,y = 1.0,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,NdOBiS2,HAS_PROPERTY,,N/A
+Tc0,pressures exceeding 1.68GPa,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,onset Tc above 5K,HAS_PROPERTY_VALUE,,N/A
+Tc0,λ Δ,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,0.5Tc,HAS_PROPERTY_VALUE,,N/A
+Tc0,4.4K,HAS_PROPERTY_VALUE,,N/A
+Tc0,increasing magnetic field,PROPERTY_UNDER_CONDITION,,N/A
+Tc0,"R(T, H)",MEASURES,,N/A
+Tc0,4.07 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,2.8 K,HAS_PROPERTY_VALUE,,N/A
+Tc0,La1-xCexOBiSSe,HAS_PROPERTY,,N/A
+Tc0,3.1 K,HAS_PROPERTY_VALUE,,N/A
+0.5 K,0.5 K,HAS_CONDITION_VALUE,,N/A
+High-pressure synthesis,LaO0.5F0.5BiS2,SYNTHESIZES,,N/A
+High-pressure synthesis,700°C,EXPERIMENT_CONDITIONS,,N/A
+High-pressure synthesis,2 GPa,EXPERIMENT_CONDITIONS,,N/A
+High-pressure synthesis,High-pressure,EXPERIMENT_CONDITIONS,,N/A
+LaO0.5F0.5BiS2,High-pressure strain,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,aging effects,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,superconducting properties,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,tetragonal-monoclinic transition,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,WAL,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Weak antilocalization,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Grüneisen parameter (γG),HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,lattice anharmonicity,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,γG,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,CDW satellites,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,High-entropy alloying,SYNTHESIZES,,N/A
+LaO0.5F0.5BiS2,superconducting layer,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Magnetoresistance,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,tetragonal,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,MR,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,four-fold-symmetric anisotropy,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,in-plane anisotropy of magnetoresistance,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,electron doping concentration,PROPERTY_UNDER_CONDITION,,N/A
+LaO0.5F0.5BiS2,superconducting-superconducting transition,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Pc,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,tetragonal structure,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,two-fold symmetry,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,tetragonal square plane,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,DSmix,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,Bi-S bond lengths,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,bond angles,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,in-plane disorder,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,metallic phase,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,c lattice constant,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,in-plane Bi-S1 distance,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,superconductor,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Cooper pair Wigner crystal,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,insulator,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,superconducting transition temperature,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,F substitution,EXPERIMENT_CONDITIONS,,N/A
+LaO0.5F0.5BiS2,lattice shrinkage,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,uniaxial lattice contraction,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,one-dimensional character,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,superconductivity,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,asymmetrical phonon mode,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,electron-phonon coupling constant,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,temperature-dependent hump,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,phase transition,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,low-Tc phase,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,higher Tc phase,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,anisotropy,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,metallic behavior,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,normal conducting state,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,electrical resistivity,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,Tconset,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,energy gap,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,High pressure annealing,SYNTHESIZES,,N/A
+LaO0.5F0.5BiS2,room temperature resistivity,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,thermal conductivity,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,Hall resistance,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,RH,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,S,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,10 times larger,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,upper critical field,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,upper critical fields,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,HC2min,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,HC2max,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,HC2mid,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,anisotropy of superconducting states,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,anisotropy parameter,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,polycrystalline,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,anisotropy parameter of upper critical fields,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,single crystals,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,conventional solid-state reaction,SYNTHESIZES,,N/A
+LaO0.5F0.5BiS2,lattice constants a and c,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,semiconducting characteristics,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,a axis,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,c axis,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,superconducting volume fraction,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,superconducting shielding fraction,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,layered superconductor,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,unit cell volume,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,c-parameter,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,low Tc superconducting phase,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,transition pressure,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,Pt,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,semiconductor-metal transition,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,pressure coefficient,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,carrier interaction,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,atmospheric pressure,EXPERIMENT_CONDITIONS,,N/A
+LaO0.5F0.5BiS2,superconducting critical temperature,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,superconducting transition,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,semiconducting behavior,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Annealing,SYNTHESIZES,,N/A
+LaO0.5F0.5BiS2,uniaxial strain,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,superconducting impurities,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,strain,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,ZrCuSiAs type structure,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,tetragonal P4/nmm,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Schottky-type anomaly,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,normal state,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,type II,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Hc1,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,type II-superconductor,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Fermi level,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,solid-state route,SYNTHESIZES,,N/A
+LaO0.5F0.5BiS2,vacuum encapsulation,SYNTHESIZES,,N/A
+LaO0.5F0.5BiS2,flux pinning,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,irreversible behavior,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,resistive broadening,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,mu0Hc2(0),HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,Gamma,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,chemical pressure,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,ferromagnetic signal,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,Tc onset,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,Tc (ρ = 0),HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,Hc2(0),HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,Fermi surface,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,space group P4/nmm,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,lattice parameters,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,residual resistivity value,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,ΔC_e/γT_c,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,2Δ(0)/k_B T_c,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,strong electron-phonon coupling superconductivity,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,SC gaps,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,light bands,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,disconnected Fermi surfaces,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,dxy symmetry,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,dx2-y2 symmetry,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,hole-pockets,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,s± symmetry,EXHIBITS_STATE,,N/A
+LaO0.5F0.5BiS2,mean free path,HAS_PROPERTY,,N/A
+LaO0.5F0.5BiS2,coherence length,HAS_PROPERTY,,N/A
+High-pressure strain,aging,STATE_UNDER_CONDITION,,N/A
+aging effects,10-years-old,STATE_UNDER_CONDITION,,N/A
+superconducting properties,REBa2Cu3O7-d cuprates,HAS_PROPERTY,,N/A
+tetragonal-monoclinic transition,pressure range,STATE_UNDER_CONDITION,,N/A
+tetragonal-monoclinic transition,pressure,STATE_UNDER_CONDITION,,N/A
+High-pressure,RE-site configurational entropy,PROPERTY_UNDER_CONDITION,,N/A
+High-pressure,isotope shifts,STATE_UNDER_CONDITION,,N/A
+High-pressure,metallic to semi-metallic state,STATE_UNDER_CONDITION,,N/A
+High-pressure,ab initio calculations,EXPERIMENT_CONDITIONS,,N/A
+High-pressure,P-dependent structural data,EXPERIMENT_CONDITIONS,,N/A
+High-pressure,superconducting transition,PROPERTY_UNDER_CONDITION,,N/A
+High-pressure,HP,HAS_CONDITION_VALUE,,N/A
+High-pressure,superconducting transition temperature,PROPERTY_UNDER_CONDITION,,N/A
+High-pressure,monoclinic structure,STATE_UNDER_CONDITION,,N/A
+High-pressure,superconductor,STATE_UNDER_CONDITION,,N/A
+High-pressure,conventional solid-state reaction,EXPERIMENT_CONDITIONS,,N/A
+High-pressure,High-pressure,HAS_CONDITION_VALUE,,N/A
+High-pressure,uniaxial strain,STATE_UNDER_CONDITION,,N/A
+High-pressure,50 GPa,HAS_CONDITION_VALUE,,N/A
+HEA-type REO0.5F0.5BiS2,monoclinic phase,EXHIBITS_STATE,,N/A
+pressure,high-P phase,STATE_UNDER_CONDITION,,N/A
+pressure,ionic radius,PROPERTY_UNDER_CONDITION,,N/A
+pressure,low-P phase,STATE_UNDER_CONDITION,,N/A
+pressure,"RE: La, Ce, Pr, Nd, and Sm",HAS_CONDITION_VALUE,,N/A
+pressure,c lattice constant,PROPERTY_UNDER_CONDITION,,N/A
+pressure,powder X-ray diffraction,EXPERIMENT_CONDITIONS,,N/A
+pressure,in-plane size,PROPERTY_UNDER_CONDITION,,N/A
+pressure,two-dimensionality,STATE_UNDER_CONDITION,,N/A
+pressure,superconducting performance,STATE_UNDER_CONDITION,,N/A
+pressure,superconducting transition temperature,PROPERTY_UNDER_CONDITION,,N/A
+pressure,1.31 GPa,HAS_CONDITION_VALUE,,N/A
+pressure,Resistivity measurements,EXPERIMENT_CONDITIONS,,N/A
+pressure,electrical resistivity,PROPERTY_UNDER_CONDITION,,N/A
+pressure,3 GPa,HAS_CONDITION_VALUE,,N/A
+pressure,metallic phase,STATE_UNDER_CONDITION,,N/A
+pressure,T_c,PROPERTY_UNDER_CONDITION,,N/A
+pressure,crossover from metallic to insulating behavior,STATE_UNDER_CONDITION,,N/A
+pressure,Increasing pressure,HAS_CONDITION_VALUE,,N/A
+pressure,2.5GPa,HAS_CONDITION_VALUE,,N/A
+pressure,in-plane distortion,PROPERTY_UNDER_CONDITION,,N/A
+pressure,phase transition,STATE_UNDER_CONDITION,,N/A
+pressure,pressure,HAS_CONDITION_VALUE,,N/A
+pressure,2.44 GPa,HAS_CONDITION_VALUE,,N/A
+pressure,thermal activation energy,PROPERTY_UNDER_CONDITION,,N/A
+pressure,applied pressure,EXPERIMENT_CONDITIONS,,N/A
+pressure,Tconset,PROPERTY_UNDER_CONDITION,,N/A
+pressure,0-1.97 GPa,HAS_CONDITION_VALUE,,N/A
+pressure,energy gap,PROPERTY_UNDER_CONDITION,,N/A
+pressure,low Tc superconducting phase,STATE_UNDER_CONDITION,,N/A
+pressure,semiconducting behavior,EXPERIMENT_CONDITIONS,,N/A
+pressure,transition pressure,PROPERTY_UNDER_CONDITION,,N/A
+pressure,dTc/dP=0.45/GPa,HAS_CONDITION_VALUE,,N/A
+pressure,pressure coefficient,PROPERTY_UNDER_CONDITION,,N/A
+pressure,Electrical resistivity measurements,EXPERIMENT_CONDITIONS,,N/A
+pressure,superconducting critical temperature,PROPERTY_UNDER_CONDITION,,N/A
+pressure,maximum value,HAS_CONDITION_VALUE,,N/A
+pressure,superconducting transition,STATE_UNDER_CONDITION,,N/A
+pressure,transition width,PROPERTY_UNDER_CONDITION,,N/A
+pressure,delta Tc,PROPERTY_UNDER_CONDITION,,N/A
+pressure,pressure-induced,HAS_CONDITION_VALUE,,N/A
+pressure,maximum value of Tc,PROPERTY_UNDER_CONDITION,,N/A
+pressure,hysteretic suppression,PROPERTY_UNDER_CONDITION,,N/A
+pressure,2.0 GPa,HAS_CONDITION_VALUE,,N/A
+pressure,log(ρ) vs. P,PROPERTY_UNDER_CONDITION,,N/A
+pressure,increasing pressure,HAS_CONDITION_VALUE,,N/A
+monoclinic phase,"(Sr, La)FBiS2",EXHIBITS_STATE,,N/A
+Se-poor LaO1-xFxBiS2-ySey,electrical resistivity,HAS_PROPERTY,,N/A
+Se-poor LaO1-xFxBiS2-ySey,Hall coefficients,HAS_PROPERTY,,N/A
+electrical resistivity,low temperature,PROPERTY_UNDER_CONDITION,,N/A
+electrical resistivity,LaO1-xFxBiS2,HAS_PROPERTY,,N/A
+electrical resistivity,F concentration,PROPERTY_UNDER_CONDITION,,N/A
+electrical resistivity,La2O2Bi2Pb2S6,HAS_PROPERTY,,N/A
+electrical resistivity,La0.80Ti0.20OBiS_2,HAS_PROPERTY,,N/A
+electrical resistivity,La0.85Th0.15OBiS_2,HAS_PROPERTY,,N/A
+electrical resistivity,electronic states,MEASURES,,N/A
+electrical resistivity,80Se,EXPERIMENT_CONDITIONS,,N/A
+electrical resistivity,Eu0.5La0.5FBiS2-xSex,HAS_PROPERTY,,N/A
+electrical resistivity,EuFBiS2,HAS_PROPERTY,,N/A
+electrical resistivity,ambient pressure,PROPERTY_UNDER_CONDITION,,N/A
+electrical resistivity,230 K,HAS_PROPERTY_VALUE,,N/A
+electrical resistivity,Hydrostatic pressure,EXPERIMENT_CONDITIONS,,N/A
+electrical resistivity,temperature,PROPERTY_UNDER_CONDITION,,N/A
+electrical resistivity,Electrical resistivity measurements,MEASURES,,N/A
+electrical resistivity,T^2 dependence,EXHIBITS_STATE,,N/A
+electrical resistivity,PrOBiS2,HAS_PROPERTY,,N/A
+electrical resistivity,250 K,PROPERTY_UNDER_CONDITION,,N/A
+electrical resistivity,LaOBiS2,HAS_PROPERTY,,N/A
+electrical resistivity,below 270 K,PROPERTY_UNDER_CONDITION,,N/A
+electrical resistivity,F substitution,PROPERTY_UNDER_CONDITION,,N/A
+Hall coefficients,low temperature,PROPERTY_UNDER_CONDITION,,N/A
+Hall coefficients,LaO1-xFxBiS2,HAS_PROPERTY,,N/A
+Hall coefficients,F concentration,PROPERTY_UNDER_CONDITION,,N/A
+Hall coefficients,x ≤ 0.2,PROPERTY_UNDER_CONDITION,,N/A
+low temperature,insulating transport properties,STATE_UNDER_CONDITION,,N/A
+low temperature,F substitution,EXPERIMENT_CONDITIONS,,N/A
+low temperature,High pressure annealing,EXPERIMENT_CONDITIONS,,N/A
+low temperature,thermal conductivity,PROPERTY_UNDER_CONDITION,,N/A
+low temperature,broad hump,STATE_UNDER_CONDITION,,N/A
+low temperature,Increasing temperature,HAS_CONDITION_VALUE,,N/A
+low temperature,dispersive branch,STATE_UNDER_CONDITION,,N/A
+low temperature,metallic,STATE_UNDER_CONDITION,,N/A
+low temperature,superconducting layer,STATE_UNDER_CONDITION,,N/A
+low temperature,F-doping,EXPERIMENT_CONDITIONS,,N/A
+low temperature,T λ,PROPERTY_UNDER_CONDITION,,N/A
+LaO1-xFxBiS2,charge-density-wave (CDW),EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,Weak antilocalization,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,Se-substituted,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,WAL behavior,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,magnetoconductance (MC) behavior,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,ρab (T),HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,rho(T),HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,CDW,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,superconducting layer,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,structural transition,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,tetragonal,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,monoclinic,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,broadening of the diffraction peak,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,x = 1.0,EXPERIMENT_CONDITIONS,,N/A
+LaO1-xFxBiS2,metallic to semi-metallic state,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,superconducting transition,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,two-dimensionality,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,superconducting performance,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,superconducting transition temperature,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,monoclinic structure,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,in-plane disorder,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,atomic displacement parameters,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,metallic conductivity,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,tetragonal structure,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,anisotropy,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,strain,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,band insulator,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,band metal,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,F-doping,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,p-orbital states,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,electron transformation,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,High pressure annealing,SYNTHESIZES,,N/A
+LaO1-xFxBiS2,lattice change,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,conventional solid-state reaction,SYNTHESIZES,,N/A
+LaO1-xFxBiS2,Tc onset,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,dome-shaped dependence,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,phase diagram,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,stacking of BiS2 superconducting layers and spacer layers,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,BiS2 layers,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,shielding volume fraction,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,x = 0.5,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,shift to higher angles,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,c axis,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,F concentration,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,Fermi surface,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,volume of the Fermi surface,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,shape,EXHIBITS_STATE,,N/A
+LaO1-xFxBiS2,BZ,HAS_PROPERTY,,N/A
+LaO1-xFxBiS2,X-R,HAS_PROPERTY,,N/A
+F concentration,WAL behavior,STATE_UNDER_CONDITION,,N/A
+F concentration,x and y,HAS_CONDITION_VALUE,,N/A
+F concentration,increasing,HAS_CONDITION_VALUE,,N/A
+F concentration,Grüneisen parameter (γG),PROPERTY_UNDER_CONDITION,,N/A
+F concentration,greater than 0.4,HAS_CONDITION_VALUE,,N/A
+F concentration,γG,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,x,HAS_CONDITION_VALUE,,N/A
+F concentration,"R(O,F)BiS2",EXHIBITS_STATE,,N/A
+F concentration,nominal F contents,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,chemical pressure,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,carrier concentration,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,x = 0.2-0.5,HAS_CONDITION_VALUE,,N/A
+F concentration,in-plane chemical pressure,STATE_UNDER_CONDITION,,N/A
+F concentration,6%,HAS_CONDITION_VALUE,,N/A
+F concentration,RO1-aFaBiS2,HAS_PROPERTY,,N/A
+F concentration,a axis,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,c axis,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,c lattice constant,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,uniaxial lattice contraction,STATE_UNDER_CONDITION,,N/A
+F concentration,superconducting transition temperature,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,NdO0.5F0.5Bi(S1-xSex)2,EXPERIMENT_CONDITIONS,,N/A
+F concentration,metal-insulator transition,STATE_UNDER_CONDITION,,N/A
+F concentration,antiferromagnetism,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,7.5 K,HAS_CONDITION_VALUE,,N/A
+F concentration,x > 0.7,HAS_CONDITION_VALUE,,N/A
+F concentration,CeO1-xFxBiS2,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,x = 0.2 ~ 0.7,HAS_CONDITION_VALUE,,N/A
+F concentration,≥ 0.5,HAS_CONDITION_VALUE,,N/A
+F concentration,superconducting transition,STATE_UNDER_CONDITION,,N/A
+F concentration,High pressure annealing,PROPERTY_UNDER_CONDITION,,N/A
+F concentration,power factor,PROPERTY_UNDER_CONDITION,,N/A
+Se-substituted LaO1-xFxBiS2-ySey,metallic behavior,EXHIBITS_STATE,,N/A
+metallic behavior,high-temperature region,STATE_UNDER_CONDITION,,N/A
+metallic behavior,Sr0.5La0.5FBiS2,EXHIBITS_STATE,,N/A
+metallic behavior,Bi4-xAgxO4S3,EXHIBITS_STATE,,N/A
+metallic behavior,x<0.1,STATE_UNDER_CONDITION,,N/A
+metallic behavior,250 K,STATE_UNDER_CONDITION,,N/A
+metallic behavior,LaOBiS2,EXHIBITS_STATE,,N/A
+metallic behavior,temperature,STATE_UNDER_CONDITION,,N/A
+x ≤ 0.2,0.2,HAS_CONDITION_VALUE,,N/A
+charge-density-wave (CDW),powder X-ray diffraction,DESCRIBES,,N/A
+charge-density-wave (CDW),NdO0.63F0.37BiS2,EXHIBITS_STATE,,N/A
+Weak antilocalization,moderately F-doped,STATE_UNDER_CONDITION,,N/A
+Weak antilocalization,Se-free,STATE_UNDER_CONDITION,,N/A
+Se-substituted,single crystals,STATE_UNDER_CONDITION,,N/A
+WAL,moderately F-doped,STATE_UNDER_CONDITION,,N/A
+WAL,Se-free,STATE_UNDER_CONDITION,,N/A
+magnetoconductance (MC) behavior,F substitution,STATE_UNDER_CONDITION,,N/A
+F substitution,ρab (T),PROPERTY_UNDER_CONDITION,,N/A
+F substitution,rho(T),PROPERTY_UNDER_CONDITION,,N/A
+F substitution,structural transition,STATE_UNDER_CONDITION,,N/A
+F substitution,chemical pressure,STATE_UNDER_CONDITION,,N/A
+F substitution,in-plane disorder,STATE_UNDER_CONDITION,,N/A
+F substitution,concentration of mobile carriers,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,carrier localization,STATE_UNDER_CONDITION,,N/A
+F substitution,REO1-xFxBiCh2,EXPERIMENT_CONDITIONS,,N/A
+F substitution,c lattice constant,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,Eu0.5Ce0.5FBiS2-xSex,EXPERIMENT_CONDITIONS,,N/A
+F substitution,Metallic conductivity,STATE_UNDER_CONDITION,,N/A
+F substitution,Eu by La,EXPERIMENT_CONDITIONS,,N/A
+F substitution,Ch1 site,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,buckling of the Bi-Ch1 plane,STATE_UNDER_CONDITION,,N/A
+F substitution,metallic conductivity,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,thermoelectric power factor,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,power factor,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,superconducting transition temperature,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,lattice shrinkage,STATE_UNDER_CONDITION,,N/A
+F substitution,F substitution,HAS_CONDITION_VALUE,,N/A
+F substitution,x ≥ 0.3,HAS_CONDITION_VALUE,,N/A
+F substitution,uniaxial lattice contraction,STATE_UNDER_CONDITION,,N/A
+F substitution,a axis,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,uniaxial lattice expansion,STATE_UNDER_CONDITION,,N/A
+F substitution,x,HAS_CONDITION_VALUE,,N/A
+F substitution,Sb for Bi,HAS_CONDITION_VALUE,,N/A
+F substitution,antiferromagnetism,STATE_UNDER_CONDITION,,N/A
+F substitution,4.5 K,HAS_CONDITION_VALUE,,N/A
+F substitution,7.5 K,HAS_CONDITION_VALUE,,N/A
+F substitution,CeO1-xFxBiS2,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,NdO1-xFxBiS2,EXHIBITS_STATE,,N/A
+F substitution,more than approximately 4 atomic percent,HAS_CONDITION_VALUE,,N/A
+F substitution,approximately 4 atomic percent,HAS_CONDITION_VALUE,,N/A
+F substitution,lattice parameters,PROPERTY_UNDER_CONDITION,,N/A
+F substitution,electrical conductivity,EXPERIMENT_CONDITIONS,,N/A
+F substitution,Se atoms,EXPERIMENT_CONDITIONS,,N/A
+F substitution,single crystals,EXHIBITS_STATE,,N/A
+F substitution,F content,PROPERTY_UNDER_CONDITION,,N/A
+rho(T),Nd1-xCexOBiS2,HAS_PROPERTY,,N/A
+rho(T),zero resistivity,PROPERTY_UNDER_CONDITION,,N/A
+CDW,superconductor,STATE_UNDER_CONDITION,,N/A
+increasing,Se doped,HAS_CONDITION_VALUE,,N/A
+γG,Se-poor,PROPERTY_UNDER_CONDITION,,N/A
+γG,PrO1-xFxBiS2,HAS_PROPERTY,,N/A
+γG,high,HAS_PROPERTY_VALUE,,N/A
+γG,chemical pressure,PROPERTY_UNDER_CONDITION,,N/A
+γG,Nd,PROPERTY_UNDER_CONDITION,,N/A
+γG,large,PROPERTY_UNDER_CONDITION,,N/A
+PrO1-xFxBiS2,bulk modulus,HAS_PROPERTY,,N/A
+PrO1-xFxBiS2,chemical pressure,EXPERIMENT_CONDITIONS,,N/A
+PrO1-xFxBiS2,anharmonic vibration of Bi along the c-axis,HAS_PROPERTY,,N/A
+PrO1-xFxBiS2,anharmonicity,HAS_PROPERTY,,N/A
+PrO1-xFxBiS2,superconducting Tc,HAS_PROPERTY,,N/A
+PrO1-xFxBiS2,tetragonal P4/nmm,EXHIBITS_STATE,,N/A
+PrO1-xFxBiS2,Tc onset,HAS_PROPERTY,,N/A
+PrO1-xFxBiS2,Tc (R =0),HAS_PROPERTY,,N/A
+bulk modulus,chemical pressure,PROPERTY_UNDER_CONDITION,,N/A
+chemical pressure,CeOBiS2-xSex,HAS_PROPERTY,,N/A
+chemical pressure,local disorder,STATE_UNDER_CONDITION,,N/A
+chemical pressure,carrier localization,STATE_UNDER_CONDITION,,N/A
+chemical pressure,Eu0.5La0.5FBiS2-xSex,HAS_PROPERTY,,N/A
+chemical pressure,enhanced metallicity,STATE_UNDER_CONDITION,,N/A
+chemical pressure,1.011,HAS_PROPERTY_VALUE,,N/A
+chemical pressure,"La(O,F)BiSe2",EXPERIMENT_CONDITIONS,,N/A
+chemical pressure,corrugated Bi-Se layer,STATE_UNDER_CONDITION,,N/A
+chemical pressure,a axis,HAS_PROPERTY_VALUE,,N/A
+Nd,"R(O,F)BiS2",EXHIBITS_STATE,,N/A
+Nd,La,EXCHANGES_WITH,,N/A
+x,superconducting Tc,PROPERTY_UNDER_CONDITION,,N/A
+anharmonicity,superconducting Tc,PROPERTY_UNDER_CONDITION,,N/A
+KCl flux,"R(O,F)BiS2",SYNTHESIZES,,N/A
+KCl flux,PrOBiS2,SYNTHESIZES,,N/A
+"R(O,F)BiS2",single crystals,EXHIBITS_STATE,,N/A
+"R(O,F)BiS2",solid solution limit,HAS_PROPERTY,,N/A
+"R(O,F)BiS2",γ,PROPERTY_UNDER_CONDITION,,N/A
+"R(O,F)BiS2",flat-shaped,EXHIBITS_STATE,,N/A
+"R(O,F)BiS2",size,HAS_PROPERTY,,N/A
+"R(O,F)BiS2",a,HAS_PROPERTY,,N/A
+"R(O,F)BiS2",c,HAS_PROPERTY,,N/A
+"R(O,F)BiS2",F/(O + F) molar ratio,HAS_PROPERTY,,N/A
+"R(O,F)BiS2",superconducting transition temperature,HAS_PROPERTY,,N/A
+"R(O,F)BiS2",superconducting anisotropy,EXHIBITS_STATE,,N/A
+"R(O,F)BiS2",superconducting layer,EXHIBITS_STATE,,N/A
+"R(O,F)BiS2",CsCl/KCl flux,SYNTHESIZES,,N/A
+"R(O,F)BiS2",La,EXHIBITS_STATE,,N/A
+"R(O,F)BiS2",Ce,EXHIBITS_STATE,,N/A
+"R(O,F)BiS2",Pr,EXHIBITS_STATE,,N/A
+"R(O,F)BiS2",lock-in state,EXHIBITS_STATE,,N/A
+F content,0.3 to 0.8,HAS_CONDITION_VALUE,,N/A
+F content,zero resistivity,STATE_UNDER_CONDITION,,N/A
+F content,less than 20 at%,HAS_CONDITION_VALUE,,N/A
+F content,superconducting transition temperature,PROPERTY_UNDER_CONDITION,,N/A
+F content,Eu0.5Ce0.5FBiS2-xSex,PROPERTY_UNDER_CONDITION,,N/A
+F content,Eu0.5La0.5FBiS2-xSex,PROPERTY_UNDER_CONDITION,,N/A
+F content,a-axis length,PROPERTY_UNDER_CONDITION,,N/A
+F content,5.1 K,HAS_CONDITION_VALUE,,N/A
+F content,Tmin,PROPERTY_UNDER_CONDITION,,N/A
+F content,metallic to semiconducting crossover,STATE_UNDER_CONDITION,,N/A
+F content,single crystals,EXPERIMENT_CONDITIONS,,N/A
+single crystals,ambient pressure,STATE_UNDER_CONDITION,,N/A
+single crystals,"Sb- and Se-substituted CeOBiS2 [CeO(Bi, Sb)(S, Se)2]",EXHIBITS_STATE,,N/A
+solid solution limit,F substitution at O-site,PROPERTY_UNDER_CONDITION,,N/A
+F substitution at O-site,less than 20 at%,HAS_PROPERTY_VALUE,,N/A
+5 K,normal-state anisotropies,PROPERTY_UNDER_CONDITION,,N/A
+5 K,5 K,HAS_CONDITION_VALUE,,N/A
+5 K,superconducting transition,STATE_UNDER_CONDITION,,N/A
+"Sm(O,F)BiS2 single crystals",zero resistivity,EXHIBITS_STATE,,N/A
+zero resistivity,La(O0.54F0.46)(Bi0.92Cd0.08)S2,EXHIBITS_STATE,,N/A
+zero resistivity,Nd1-xCexOBiS2,EXHIBITS_STATE,,N/A
+zero resistivity,CeOBiS2,EXHIBITS_STATE,,N/A
+zero resistivity,1.2 K,STATE_UNDER_CONDITION,,N/A
+zero resistivity,La1-xCexOBiSSe,EXHIBITS_STATE,,N/A
+zero resistivity,x = 0.2-0.6,STATE_UNDER_CONDITION,,N/A
+superconducting transition temperature,unconventional pairing mechanism,EXHIBITS_STATE,,N/A
+superconducting transition temperature,Thermal diffuse scattering,PROPERTY_UNDER_CONDITION,,N/A
+superconducting transition temperature,superconducting layer,STATE_UNDER_CONDITION,,N/A
+superconducting transition temperature,4.8 K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,non-fluorinated La0.80Ti0.20OBiS_2,EXHIBITS_STATE,,N/A
+superconducting transition temperature,La0.85Th0.15OBiS_2,EXHIBITS_STATE,,N/A
+superconducting transition temperature,ambient pressure,PROPERTY_UNDER_CONDITION,,N/A
+superconducting transition temperature,2.9 K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,3.2-3.7 K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,Resistivity measurements,MEASURES,,N/A
+superconducting transition temperature,La(O0.54F0.46)(Bi0.92Cd0.08)S2,HAS_PROPERTY,,N/A
+superconducting transition temperature,2.3 K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,Sr0.5La0.5FBiS2,HAS_PROPERTY,,N/A
+superconducting transition temperature,3.8 K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,ionic radius,PROPERTY_UNDER_CONDITION,,N/A
+superconducting transition temperature,Bi3O2S3,HAS_PROPERTY,,N/A
+superconducting transition temperature,Hydrostatic pressure,PROPERTY_UNDER_CONDITION,,N/A
+superconducting transition temperature,3.3 K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,2.7K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,10.5K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,3.5,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,7.8K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,4.5K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,7.5K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition temperature,NdO0.5F0.5Bi(S1-xSex)2,HAS_PROPERTY,,N/A
+superconducting transition temperature,CeO1-xFxBiS2,HAS_PROPERTY,,N/A
+superconducting transition temperature,enhancement,PROPERTY_UNDER_CONDITION,,N/A
+superconducting transition temperature,hydrostatic external or internal chemical pressure,PROPERTY_UNDER_CONDITION,,N/A
+superconducting transition temperature,"Sb- and Se-substituted CeOBiS2 [CeO(Bi, Sb)(S, Se)2]",HAS_PROPERTY,,N/A
+superconducting transition temperature,Ce-substituted Nd1-xCexOBiS2,PROPERTY_UNDER_CONDITION,,N/A
+superconducting transition temperature,CeOBiS2,HAS_PROPERTY,,N/A
+superconducting transition temperature,applied current density,PROPERTY_UNDER_CONDITION,,N/A
+Sm,trivalent electronic configuration,EXHIBITS_STATE,,N/A
+powder X-ray diffraction,c lattice constant,MEASURES,,N/A
+powder X-ray diffraction,4 K,EXPERIMENT_CONDITIONS,,N/A
+powder X-ray diffraction,tetragonal structure,MEASURES,,N/A
+powder X-ray diffraction,weakly oriented,EXPERIMENT_CONDITIONS,,N/A
+powder X-ray diffraction,LaOBiSSe,DESCRIBES,,N/A
+powder X-ray diffraction,LaOBiS2,DESCRIBES,,N/A
+NdO0.63F0.37BiS2,CDW wavevector,HAS_PROPERTY,,N/A
+NdO0.63F0.37BiS2,CDW satellites,EXHIBITS_STATE,,N/A
+NdO0.63F0.37BiS2,Thermal diffuse scattering,EXHIBITS_STATE,,N/A
+CDW wavevector,"(0.17, 0.17, 0.5)",HAS_PROPERTY_VALUE,,N/A
+CDW wavevector,transverse atomic displacements,EXHIBITS_STATE,,N/A
+CDW wavevector,phonon softening,PROPERTY_UNDER_CONDITION,,N/A
+CDW wavevector,Fermi surface nesting,PROPERTY_UNDER_CONDITION,,N/A
+Fermi surface nesting,spin susceptibility,PROPERTY_UNDER_CONDITION,,N/A
+NaCl-type chalcogenides,Hc2,HAS_PROPERTY,,N/A
+NaCl-type chalcogenides,Jc,HAS_PROPERTY,,N/A
+HEA-type site,Hc2,PROPERTY_UNDER_CONDITION,,N/A
+HEA-type site,Jc,PROPERTY_UNDER_CONDITION,,N/A
+Hc2,~2.75 T,HAS_PROPERTY_VALUE,,N/A
+TrZr2,tetragonal (CuAl2-type),HAS_PROPERTY,,N/A
+REBa2Cu3O7-d cuprates,High-entropy alloying,SYNTHESIZES,,N/A
+X-ray structural analysis,CeOBiS1.7Se0.3,SYNTHESIZES,,N/A
+X-ray structural analysis,"La(O,F)BiSe2",SYNTHESIZES,,N/A
+X-ray structural analysis,a = 4.1408(2) Å,MEASURES,,N/A
+X-ray structural analysis,c = 14.1096(6) Å,MEASURES,,N/A
+X-ray structural analysis,space group P4/nmm,EXPERIMENT_CONDITIONS,,N/A
+CeOBiS1.7Se0.3,tetragonal structure,EXHIBITS_STATE,,N/A
+CeOBiS1.7Se0.3,Pr valence,HAS_PROPERTY,,N/A
+CeOBiS1.7Se0.3,mixed-valence state,EXHIBITS_STATE,,N/A
+CeOBiS1.7Se0.3,Bc2,HAS_PROPERTY,,N/A
+CeOBiS1.7Se0.3,superconducting layer,EXHIBITS_STATE,,N/A
+CeOBiS1.7Se0.3,Magnetoresistance,HAS_PROPERTY,,N/A
+tetragonal structure,P4/nmm,STATE_UNDER_CONDITION,,N/A
+tetragonal structure,4 K,STATE_UNDER_CONDITION,,N/A
+tetragonal structure,La2O2Bi3AgS6,EXHIBITS_STATE,,N/A
+P4/nmm,La2O2Bi3AgS6,HAS_PROPERTY,,N/A
+P4/nmm,LaOBiS2,HAS_PROPERTY,,N/A
+P4/nmm,polytypes,EXHIBITS_STATE,,N/A
+P4/nmm,SmO1-xFxBiS2,EXHIBITS_STATE,,N/A
+Pr valence,3.25,HAS_PROPERTY_VALUE,,N/A
+Pr valence,X-ray absorption fine structure spectroscopy,DESCRIBES,,N/A
+Pr valence,PrOBiS2,HAS_PROPERTY,,N/A
+Pr valence,trivalent,HAS_PROPERTY_VALUE,,N/A
+diamagnetic transition temperature,3.3 K,HAS_PROPERTY_VALUE,,N/A
+diamagnetic transition temperature,La2O2Bi3Ag1-xSnxS6,HAS_PROPERTY,,N/A
+diamagnetic transition temperature,Sn substitution for the Ag site,PROPERTY_UNDER_CONDITION,,N/A
+diamagnetic transition temperature,7.5 K,HAS_PROPERTY_VALUE,,N/A
+diamagnetic transition temperature,Bi4O4S2,HAS_PROPERTY,,N/A
+diamagnetic transition temperature,H=10 Oe,PROPERTY_UNDER_CONDITION,,N/A
+diamagnetic transition temperature,4.02 K,HAS_PROPERTY_VALUE,,N/A
+magnetization,76Se,EXPERIMENT_CONDITIONS,,N/A
+magnetization,anomalous Eu valence state,DESCRIBES,,N/A
+magnetization,flux pinning,MEASURES,,N/A
+magnetization,irreversible behavior,EXPERIMENT_CONDITIONS,,N/A
+Bc2,γ,HAS_PROPERTY,,N/A
+superconducting layer,Two-fold symmetric in-plane anisotropy of magnetoresistance,STATE_UNDER_CONDITION,,N/A
+superconducting layer,tetragonal,EXHIBITS_STATE,,N/A
+superconducting layer,MR,PROPERTY_UNDER_CONDITION,,N/A
+superconducting layer,two-fold symmetric in-plane anisotropy,EXHIBITS_STATE,,N/A
+superconducting layer,carrier concentration,STATE_UNDER_CONDITION,,N/A
+superconducting layer,in-plane symmetry breaking,EXHIBITS_STATE,,N/A
+superconducting layer,BiCh2-based compound,EXHIBITS_STATE,,N/A
+superconducting layer,dxy symmetry,EXHIBITS_STATE,,N/A
+superconducting layer,gap,EXHIBITS_STATE,,N/A
+superconducting layer,x = 0.5,STATE_UNDER_CONDITION,,N/A
+superconducting layer,decrease in disorder,STATE_UNDER_CONDITION,,N/A
+superconducting layer,One-dimensional three-orbital model,EXHIBITS_STATE,,N/A
+superconducting layer,H // c,STATE_UNDER_CONDITION,,N/A
+superconducting layer,H // ab,STATE_UNDER_CONDITION,,N/A
+superconducting layer,"Ln(O, F)BiS2",EXHIBITS_STATE,,N/A
+superconducting layer,CeO1-xFxBiS2,EXHIBITS_STATE,,N/A
+superconducting layer,first principles band structure calculations,DESCRIBES,,N/A
+superconducting layer,RPA analysis,DESCRIBES,,N/A
+superconducting layer,two-orbital model,DESCRIBES,,N/A
+superconducting layer,BiS2-based superconductors,EXHIBITS_STATE,,N/A
+superconducting layer,3.7K,STATE_UNDER_CONDITION,,N/A
+superconducting layer,LaOBiS2,EXHIBITS_STATE,,N/A
+superconducting layer,F-doping,STATE_UNDER_CONDITION,,N/A
+superconducting layer,BiS2,EXHIBITS_STATE,,N/A
+superconducting layer,LaOBiSSe,EXHIBITS_STATE,,N/A
+superconducting layer,3 meV,HAS_PROPERTY_VALUE,,N/A
+superconducting layer,tunneling spectra,MEASURES,,N/A
+superconducting layer,"La(O,F)BiSe2",EXHIBITS_STATE,,N/A
+Magnetoresistance,two-fold symmetric in-plane anisotropy,EXHIBITS_STATE,,N/A
+Magnetoresistance,ab-plane,PROPERTY_UNDER_CONDITION,,N/A
+Magnetoresistance,Hall effect,MEASURES,,N/A
+"(Sr, La)FBiS2",isotope shifts,EXHIBITS_STATE,,N/A
+"(Sr, La)FBiS2",isotope effects,EXHIBITS_STATE,,N/A
+"(Sr, La)FBiS2",a-axis length,HAS_PROPERTY,,N/A
+isotope effects,conventional-type,PROPERTY_UNDER_CONDITION,,N/A
+"La(O,F)BiSe2",unconventional isotope effects,EXHIBITS_STATE,,N/A
+"La(O,F)BiSe2",F-doping,EXHIBITS_STATE,,N/A
+"La(O,F)BiSe2",CsCl flux method,SYNTHESIZES,,N/A
+"La(O,F)BiSe2",single crystal X-ray diffraction,MEASURES,,N/A
+"La(O,F)BiSe2",electron probe microanalysis,MEASURES,,N/A
+"La(O,F)BiSe2",space group P4/nmm,HAS_PROPERTY,,N/A
+"La(O,F)BiSe2",superconducting transition,EXHIBITS_STATE,,N/A
+"La(O,F)BiSe2",corrugated Bi-Se layer,HAS_PROPERTY,,N/A
+"La(O,F)BiSe2",physical pressure,EXPERIMENT_CONDITIONS,,N/A
+"La(O,F)BiSe2",flatten,EXHIBITS_STATE,,N/A
+"La(O,F)BiSe2",superconductor,EXHIBITS_STATE,,N/A
+"La(O,F)BiSe2",crystal structure,EXHIBITS_STATE,,N/A
+"La(O,F)BiSe2",Bi-SSe pyramid,HAS_PROPERTY,,N/A
+"La(O,F)BiSe2",superconducting anisotropic parameter,HAS_PROPERTY,,N/A
+BiS2-based superconductors,Structural symmetry change,EXHIBITS_STATE,,N/A
+BiS2-based superconductors,pairing mechanisms,HAS_PROPERTY,,N/A
+BiS2-based superconductors,insulator,EXHIBITS_STATE,,N/A
+BiS2-based superconductors,band gap,HAS_PROPERTY,,N/A
+BiS2-based superconductors,EuFBiS2,EXHIBITS_STATE,,N/A
+BiS2-based superconductors,a-axis length,PROPERTY_UNDER_CONDITION,,N/A
+BiS2-based superconductors,c lattice constant,HAS_PROPERTY,,N/A
+BiS2-based superconductors,higher Tc phase,EXHIBITS_STATE,,N/A
+BiS2-based superconductors,n,HAS_PROPERTY,,N/A
+BiS2-based superconductors,spin fluctuations,EXHIBITS_STATE,,N/A
+BiS2-based superconductors,A1g,EXHIBITS_STATE,,N/A
+BiS2-based superconductors,B2g,EXHIBITS_STATE,,N/A
+BiS2-based superconductors,Fermi Surface,HAS_PROPERTY,,N/A
+BiS2-based superconductors,Fermi Surface segments,HAS_PROPERTY,,N/A
+BiS2-based superconductors,pairing properties,HAS_PROPERTY,,N/A
+Structural symmetry change,pressure effects,EXPERIMENT_CONDITIONS,,N/A
+aS,-0.1 < aS < 0.1,HAS_PROPERTY_VALUE,,N/A
+tetragonal,1.3 GPa,STATE_UNDER_CONDITION,,N/A
+tetragonal,"R(O,F)BiS2 (R: La, Ce, Pr, Nd) single crystals",EXHIBITS_STATE,,N/A
+MR,two-fold symmetric,HAS_PROPERTY,,N/A
+carrier concentration,in-plane symmetry breaking,STATE_UNDER_CONDITION,,N/A
+carrier concentration,CeOBiS2-xSex,HAS_PROPERTY,,N/A
+Sr1-xLaxFBiS2,superconducting volume fraction,EXHIBITS_STATE,,N/A
+Sr1-xLaxFBiS2,low-P phase,EXHIBITS_STATE,,N/A
+Sr1-xLaxFBiS2,semiconducting characteristics,EXHIBITS_STATE,,N/A
+Sr1-xLaxFBiS2,high-P phase,EXHIBITS_STATE,,N/A
+Sr1-xLaxFBiS2,superconductivity,EXHIBITS_STATE,,N/A
+Sr1-xLaxFBiS2,metallic to a semiconducting state,EXHIBITS_STATE,,N/A
+Sr1-xLaxFBiS2,Tmin,HAS_PROPERTY,,N/A
+Sr1-xLaxFBiS2,metallic to semiconducting crossover,EXHIBITS_STATE,,N/A
+ambient pressure,superconducting volume fraction,STATE_UNDER_CONDITION,,N/A
+ambient pressure,c lattice constant,PROPERTY_UNDER_CONDITION,,N/A
+ambient pressure,ambient pressure,HAS_CONDITION_VALUE,,N/A
+ambient pressure,Tconset,PROPERTY_UNDER_CONDITION,,N/A
+ambient pressure,Hall resistance,PROPERTY_UNDER_CONDITION,,N/A
+ambient pressure,anisotropy parameter of upper critical fields,PROPERTY_UNDER_CONDITION,,N/A
+ambient pressure,conventional solid-state reaction,EXPERIMENT_CONDITIONS,,N/A
+ambient pressure,solid-state reaction,EXPERIMENT_CONDITIONS,,N/A
+ambient pressure,F-doping,PROPERTY_UNDER_CONDITION,,N/A
+"RE: La, Ce, Pr, Nd, and Sm","RE: La, Ce, Pr, Nd, and Sm",HAS_CONDITION_VALUE,,N/A
+superconducting volume fraction,superconductor,STATE_UNDER_CONDITION,,N/A
+superconducting volume fraction,80%,HAS_PROPERTY_VALUE,,N/A
+superconducting volume fraction,magnetization (MH) measurements,MEASURES,,N/A
+low-P phase,Hydrostatic pressure,STATE_UNDER_CONDITION,,N/A
+low-P phase,Sr0.5La0.5FBiS2,EXHIBITS_STATE,,N/A
+Hydrostatic pressure,bulk superconducting phases,STATE_UNDER_CONDITION,,N/A
+Hydrostatic pressure,6 kbar,HAS_CONDITION_VALUE,,N/A
+Hydrostatic pressure,1.68GPa,HAS_CONDITION_VALUE,,N/A
+Hydrostatic pressure,0-1.97 GPa,HAS_CONDITION_VALUE,,N/A
+Hydrostatic pressure,2.19GPa,HAS_CONDITION_VALUE,,N/A
+Hydrostatic pressure,4.8 K,HAS_CONDITION_VALUE,,N/A
+semiconducting characteristics,high-P,STATE_UNDER_CONDITION,,N/A
+semiconducting characteristics,High pressure annealing,STATE_UNDER_CONDITION,,N/A
+high-P,higher pressures,HAS_CONDITION_VALUE,,N/A
+high-P phase,Sr0.5La0.5FBiS2,EXHIBITS_STATE,,N/A
+high-P phase,RE ionic radius,STATE_UNDER_CONDITION,,N/A
+high-P phase,REO0.0.5F0.5BiS2,EXHIBITS_STATE,,N/A
+ionic radius,BiS2,HAS_PROPERTY,,N/A
+ionic radius,R element,HAS_PROPERTY,,N/A
+Sr0.5La0.5FBiS2,superconducting-superconducting transition,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,bulk superconducting phases,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,low- and high-P phases,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,c lattice constant,HAS_PROPERTY,,N/A
+Sr0.5La0.5FBiS2,in-plane size,HAS_PROPERTY,,N/A
+Sr0.5La0.5FBiS2,peak broadening,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,(004) peak,HAS_PROPERTY,,N/A
+Sr0.5La0.5FBiS2,solid-state reaction,SYNTHESIZES,,N/A
+Sr0.5La0.5FBiS2,diamagnetic signal,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,semiconducting-like normal state,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,crossover from metallic to insulating behavior,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,superconductivity,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,superconducting transition,EXHIBITS_STATE,,N/A
+Sr0.5La0.5FBiS2,Hc2(0),HAS_PROPERTY,,N/A
+1.3 GPa,monoclinic,STATE_UNDER_CONDITION,,N/A
+1.3 GPa,1.3 GPa,HAS_CONDITION_VALUE,,N/A
+1.3 GPa,superconducting-superconducting transition,STATE_UNDER_CONDITION,,N/A
+1.3 GPa,peak broadening,STATE_UNDER_CONDITION,,N/A
+1.3 GPa,(004) peak,PROPERTY_UNDER_CONDITION,,N/A
+1.3 GPa,Pressure above 1.3 GPa,HAS_CONDITION_VALUE,,N/A
+RE ionic radius,Pc,PROPERTY_UNDER_CONDITION,,N/A
+RE ionic radius,10 K,HAS_CONDITION_VALUE,,N/A
+RE ionic radius,6 K,HAS_CONDITION_VALUE,,N/A
+10 K,Tc onset,HAS_PROPERTY_VALUE,,N/A
+BiS2 conducting layers,structural transition to monoclinic,EXHIBITS_STATE,,N/A
+BiS2 conducting layers,packing density,HAS_PROPERTY,,N/A
+BiS2,structural transition,EXHIBITS_STATE,,N/A
+BiS2,NaCl-like,HAS_PROPERTY,,N/A
+BiS2,superconductor,EXHIBITS_STATE,,N/A
+BiS2,electron-phonon coupling constant,HAS_PROPERTY,,N/A
+BiS2,lattice parameters,HAS_PROPERTY,,N/A
+structural transition,Synchrotron X-ray diffraction,EXPERIMENT_CONDITIONS,,N/A
+structural transition,x = 0,STATE_UNDER_CONDITION,,N/A
+structural transition,x = 1.0,STATE_UNDER_CONDITION,,N/A
+structural transition,Temperature decrease to 100 K,STATE_UNDER_CONDITION,,N/A
+c lattice constant,RE,PROPERTY_UNDER_CONDITION,,N/A
+c lattice constant,TEM,DESCRIBES,,N/A
+c lattice constant,La2O2Bi3AgS6,HAS_PROPERTY,,N/A
+c lattice constant,c,PROPERTY_UNDER_CONDITION,,N/A
+c lattice constant,Eu0.5Ce0.5FBiS2-xSex,HAS_PROPERTY,,N/A
+c lattice constant,a and c,HAS_PROPERTY_VALUE,,N/A
+c lattice constant,Eu0.5La0.5FBiS2-xSex,HAS_PROPERTY,,N/A
+c lattice constant,Ce1-xNdxO1-yFyBiS2,HAS_PROPERTY,,N/A
+c lattice constant,Nd1-zSmzO1-yFyBiS2,HAS_PROPERTY,,N/A
+c lattice constant,PrO0.3F0.7BiS2,HAS_PROPERTY,,N/A
+c lattice constant,High pressure annealing,EXPERIMENT_CONDITIONS,,N/A
+c lattice constant,a and c axes,HAS_PROPERTY_VALUE,,N/A
+c lattice constant,c/a ratio,PROPERTY_UNDER_CONDITION,,N/A
+c lattice constant,Nd1-xCexOBiS2,HAS_PROPERTY,,N/A
+c lattice constant,Ce content x,PROPERTY_UNDER_CONDITION,,N/A
+c lattice constant,La1-ySmyO0.5F0.5BiS2,HAS_PROPERTY,,N/A
+c lattice constant,Bi4O4S3-xSex,HAS_PROPERTY,,N/A
+c lattice constant,F-doping,PROPERTY_UNDER_CONDITION,,N/A
+(004) peak,PrO0.3F0.7BiS2,HAS_PROPERTY,,N/A
+(004) peak,high-pressure-annealed,PROPERTY_UNDER_CONDITION,,N/A
+XRD,critical pressure,MEASURES,,N/A
+XRD,Bi4O4S3-xSex,DESCRIBES,,N/A
+critical pressure,1.31 GPa,HAS_PROPERTY_VALUE,,N/A
+critical pressure,magnetization (MH) measurements,MEASURES,,N/A
+critical pressure,change in slope,STATE_UNDER_CONDITION,,N/A
+1.31 GPa,Hydrostatic pressure application,HAS_CONDITION_VALUE,,N/A
+1.31 GPa,pressure coefficient,HAS_PROPERTY_VALUE,,N/A
+magnetization (MH) measurements,shielding volume fraction,MEASURES,,N/A
+magnetization (MH) measurements,flux pinning,MEASURES,,N/A
+magnetization (MH) measurements,irreversible behavior,MEASURES,,N/A
+magnetization (MH) measurements,ferromagnetic signal,MEASURES,,N/A
+magnetization (MH) measurements,Hc1,MEASURES,,N/A
+magnetization (MH) measurements,2K,EXPERIMENT_CONDITIONS,,N/A
+Synchrotron X-ray diffraction,La2O2Bi3AgS6,SYNTHESIZES,,N/A
+Synchrotron X-ray diffraction,LaOBiPbS3,DESCRIBES,,N/A
+Synchrotron X-ray diffraction,in-plane disorder,DESCRIBES,,N/A
+x = 0,340 K,HAS_CONDITION_VALUE,,N/A
+x = 1.0,240 K,HAS_CONDITION_VALUE,,N/A
+x = 1.0,1.0,HAS_CONDITION_VALUE,,N/A
+4 K,4 K,HAS_CONDITION_VALUE,,N/A
+4 K,temperature dependence,HAS_PROPERTY_VALUE,,N/A
+4 K,temperature,HAS_CONDITION_VALUE,,N/A
+broadening of the diffraction peak,Temperature decrease to 100 K,STATE_UNDER_CONDITION,,N/A
+100 K,Temperature decrease to 100 K,HAS_CONDITION_VALUE,,N/A
+CeOBiS2-xSex,polycrystalline,EXHIBITS_STATE,,N/A
+CeOBiS2-xSex,superconducting transition,EXHIBITS_STATE,,N/A
+CeOBiS2-xSex,shielding volume fraction,HAS_PROPERTY,,N/A
+CeOBiS2-xSex,in-plane disorder,EXHIBITS_STATE,,N/A
+polycrystalline,x = 0-1.0,STATE_UNDER_CONDITION,,N/A
+polycrystalline,anisotropy parameter of upper critical fields,PROPERTY_UNDER_CONDITION,,N/A
+x = 0-1.0,0-1.0,HAS_CONDITION_VALUE,,N/A
+superconducting transition,magnetic susceptibility measurements,MEASURES,,N/A
+superconducting transition,La0.80Ti0.20OBiS_2,EXHIBITS_STATE,,N/A
+superconducting transition,La0.85Th0.15OBiS_2,EXHIBITS_STATE,,N/A
+superconducting transition,~1 GPa,STATE_UNDER_CONDITION,,N/A
+superconducting transition,Eu0.5La0.5FBiS2-xSex,EXHIBITS_STATE,,N/A
+superconducting transition,"x = 0.6, 0.8, and 1",STATE_UNDER_CONDITION,,N/A
+superconducting transition,DC magnetic susceptibility,MEASURES,,N/A
+superconducting transition,3.6 K,HAS_PROPERTY_VALUE,,N/A
+superconducting transition,NdO1-xFxBiS2,EXHIBITS_STATE,,N/A
+superconducting transition,resistive and magnetic measurements,MEASURES,,N/A
+superconducting transition,smaller gap,ASSOCIATED_WITH,,N/A
+superconducting transition,inhomogeneity,STATE_UNDER_CONDITION,,N/A
+superconducting transition,4.02 K,STATE_UNDER_CONDITION,,N/A
+shielding volume fraction,La2O2Bi3Ag1-xSnxS6,HAS_PROPERTY,,N/A
+shielding volume fraction,Sn substitution for the Ag site,PROPERTY_UNDER_CONDITION,,N/A
+shielding volume fraction,La2O2Bi3Ag0.6Sn0.4S6,EXHIBITS_STATE,,N/A
+shielding volume fraction,20,HAS_PROPERTY_VALUE,,N/A
+shielding volume fraction,13.4 %,HAS_PROPERTY_VALUE,,N/A
+magnetic susceptibility measurements,x = 0.0 and 0.5,EXPERIMENT_CONDITIONS,,N/A
+magnetic susceptibility measurements,Tconset,MEASURES,,N/A
+x = 0.0 and 0.5,0.4,HAS_CONDITION_VALUE,,N/A
+x = 0.0 and 0.5,0.6,HAS_CONDITION_VALUE,,N/A
+x = 0.0 and 0.5,0.0 and 0.5,HAS_CONDITION_VALUE,,N/A
+x = 0.0 and 0.5,doped,STATE_UNDER_CONDITION,,N/A
+0.6,x ≥ 0.6,HAS_CONDITION_VALUE,,N/A
+0.6,"x = 0.6, 0.8, and 1",HAS_CONDITION_VALUE,,N/A
+in-plane disorder,in-plane S1 site,STATE_UNDER_CONDITION,,N/A
+in-plane disorder,RE3+,PROPERTY_UNDER_CONDITION,,N/A
+in-plane disorder,S1 sites,HAS_PROPERTY,,N/A
+in-plane disorder,chalcogen sites,STATE_UNDER_CONDITION,,N/A
+in-plane disorder,Rietveld refinement,DESCRIBES,,N/A
+in-plane disorder,atomic displacement parameters,STATE_UNDER_CONDITION,,N/A
+La2O2Bi2Pb2S6,insulating transport properties,EXHIBITS_STATE,,N/A
+La2O2Bi2Pb2S6,concentration of mobile carriers,HAS_PROPERTY,,N/A
+La2O2Bi2Pb2S6,carrier localization,EXHIBITS_STATE,,N/A
+La2O2Bi2Pb2S6,local disorder,EXHIBITS_STATE,,N/A
+11.5 K,superconductor,STATE_UNDER_CONDITION,,N/A
+11.5 K,11.5 K,HAS_CONDITION_VALUE,,N/A
+11.5 K,Tconset,HAS_PROPERTY_VALUE,,N/A
+x = 0.5,0.5,HAS_CONDITION_VALUE,,N/A
+x = 0.5,0.55,HAS_CONDITION_VALUE,,N/A
+x = 0.5,Tc onset,PROPERTY_UNDER_CONDITION,,N/A
+x = 0.5,Fermi surface,STATE_UNDER_CONDITION,,N/A
+0.5,y = 0.5,HAS_CONDITION_VALUE,,N/A
+size,500 μm,HAS_PROPERTY_VALUE,,N/A
+size,PrOBiS2,HAS_PROPERTY,,N/A
+size,0.5-1.0 mm,HAS_PROPERTY_VALUE,,N/A
+a,3.9672(4) Å,HAS_PROPERTY_VALUE,,N/A
+a,a = 4.0644(1) Å,HAS_PROPERTY_VALUE,,N/A
+a,a = 4.0771(1) Å,HAS_PROPERTY_VALUE,,N/A
+a,4.015(5) Å,HAS_PROPERTY_VALUE,,N/A
+a,4.0703(5)Å,HAS_PROPERTY_VALUE,,N/A
+c,13.417(6) Å,HAS_PROPERTY_VALUE,,N/A
+c,c = 19.412(1) Å,HAS_PROPERTY_VALUE,,N/A
+c,20,HAS_PROPERTY_VALUE,,N/A
+c,c = 32.4330(6) Å,HAS_PROPERTY_VALUE,,N/A
+c,13.362(4) Å,HAS_PROPERTY_VALUE,,N/A
+c,13.3902(4)Å,HAS_PROPERTY_VALUE,,N/A
+F/(O + F) molar ratio,0.17,HAS_PROPERTY_VALUE,,N/A
+0.17,ZT,HAS_PROPERTY_VALUE,,N/A
+superconducting anisotropy,upper critical field,STATE_UNDER_CONDITION,,N/A
+superconducting anisotropy,effective mass model,DESCRIBES,,N/A
+superconducting anisotropy,"La(O,F)BiS2",EXHIBITS_STATE,,N/A
+superconducting anisotropy,F-doping,STATE_UNDER_CONDITION,,N/A
+superconducting anisotropy,30-60,HAS_PROPERTY_VALUE,,N/A
+superconducting anisotropy,RO1-aFaBiS2,EXHIBITS_STATE,,N/A
+superconducting anisotropy,40-50,HAS_PROPERTY_VALUE,,N/A
+superconducting anisotropy,F-substituted LaOBiS2,EXHIBITS_STATE,,N/A
+superconducting anisotropy,NdOBiS2,EXHIBITS_STATE,,N/A
+superconducting anisotropy,30-45,HAS_PROPERTY_VALUE,,N/A
+superconducting anisotropy,13-21,HAS_PROPERTY_VALUE,,N/A
+upper critical field,26,HAS_PROPERTY_VALUE,,N/A
+upper critical field,temperature dependence,PROPERTY_UNDER_CONDITION,,N/A
+upper critical field,8 T,HAS_PROPERTY_VALUE,,N/A
+upper critical field,high magnetic field,PROPERTY_UNDER_CONDITION,,N/A
+upper critical field,Se doped,STATE_UNDER_CONDITION,,N/A
+effective mass model,10,HAS_PROPERTY_VALUE,,N/A
+10,Gamma,PROPERTY_UNDER_CONDITION,,N/A
+metallic to semi-metallic state,ab initio calculations,DESCRIBES,,N/A
+metallic to semi-metallic state,P-dependent structural data,DESCRIBES,,N/A
+ab initio calculations,kinetic energy part,DESCRIBES,,N/A
+two-dimensionality,layered superconducting systems,EXHIBITS_STATE,,N/A
+superconducting performance,enhancement of two-dimensionality,PROPERTY_UNDER_CONDITION,,N/A
+two-fold symmetry,nematic states,STATE_UNDER_CONDITION,,N/A
+ab-plane,tetragonal square plane,STATE_UNDER_CONDITION,,N/A
+ab-plane,"R(O,F)BiS2 (R: La, Ce, Pr, Nd) single crystals",HAS_PROPERTY,,N/A
+ab-plane,high magnetic field,HAS_CONDITION_VALUE,,N/A
+ab-plane,c-axis transport measurements,EXPERIMENT_CONDITIONS,,N/A
+ab-plane,RO1-aFaBiS2,HAS_PROPERTY,,N/A
+ab-plane,plate-like shape,STATE_UNDER_CONDITION,,N/A
+ab-plane,PrOBiS2,HAS_PROPERTY,,N/A
+tetragonal square plane,four-fold symmetry,HAS_PROPERTY,,N/A
+La2O2Bi3Ag1-xSnxS6,resistivity anomaly,EXHIBITS_STATE,,N/A
+resistivity anomaly,Sn substitution for the Ag site,STATE_UNDER_CONDITION,,N/A
+Sn substitution for the Ag site,180 K,HAS_CONDITION_VALUE,,N/A
+180 K,T *≈180 K,HAS_CONDITION_VALUE,,N/A
+20,low-Tc phase,HAS_PROPERTY_VALUE,,N/A
+BiCh2-based compound,insulating,EXHIBITS_STATE,,N/A
+BiCh2-based compound,conduction band,HAS_PROPERTY,,N/A
+BiCh2-based compound,metallic characteristics,EXHIBITS_STATE,,N/A
+BiCh2-based compound,metallic transport,EXHIBITS_STATE,,N/A
+insulating,La,EXHIBITS_STATE,,N/A
+insulating,EuF,EXHIBITS_STATE,,N/A
+La,lattice parameters,HAS_PROPERTY,,N/A
+conduction band,p orbitals,HAS_PROPERTY,,N/A
+conduction band,one dimensional nature,EXHIBITS_STATE,,N/A
+conduction band,Fermi level,PROPERTY_UNDER_CONDITION,,N/A
+metallic characteristics,electron doping,STATE_UNDER_CONDITION,,N/A
+metallic characteristics,LaOBiS2-xSex,EXHIBITS_STATE,,N/A
+electron doping,metallic transport,STATE_UNDER_CONDITION,,N/A
+electron doping,one-dimensional charge density wave (CDW),STATE_UNDER_CONDITION,,N/A
+electron doping,mixed-valence Ce ions,EXPERIMENT_CONDITIONS,,N/A
+electron doping,Ce3+/Ce4+,HAS_PROPERTY,,N/A
+electron doping,superconductivity,EXPERIMENT_CONDITIONS,,N/A
+electron doping,mixed valence,PROPERTY_UNDER_CONDITION,,N/A
+electron doping,layered bismuth-chalcogenides,EXPERIMENT_CONDITIONS,,N/A
+DSmix,Increasing,PROPERTY_UNDER_CONDITION,,N/A
+DSmix,increase,PROPERTY_UNDER_CONDITION,,N/A
+Bi-S bond lengths,Increasing,PROPERTY_UNDER_CONDITION,,N/A
+Bi-S bond lengths,La1-ySmyO0.5F0.5BiS2,HAS_PROPERTY,,N/A
+Bi-S bond lengths,doping level,PROPERTY_UNDER_CONDITION,,N/A
+bond angles,Increasing,PROPERTY_UNDER_CONDITION,,N/A
+increase,Ce content x,HAS_CONDITION_VALUE,,N/A
+La2O2Bi3AgS6,space group P4/nmm,HAS_PROPERTY,,N/A
+La2O2Bi3AgS6,crystal structure,EXHIBITS_STATE,,N/A
+La2O2Bi3AgS6,Rietveld refinement,SYNTHESIZES,,N/A
+La2O2Bi3AgS6,electronic states,HAS_PROPERTY,,N/A
+space group P4/nmm,"R(O,F)BiS2 (R: La, Ce, Pr, Nd) single crystals",HAS_PROPERTY,,N/A
+space group P4/nmm,crystal structure,STATE_UNDER_CONDITION,,N/A
+space group P4/nmm,a = 4.1110(2) Å,HAS_PROPERTY_VALUE,,N/A
+space group P4/nmm,c = 13.6010(7) Å,HAS_PROPERTY_VALUE,,N/A
+crystal structure,LaOBiS2-type,STATE_UNDER_CONDITION,,N/A
+crystal structure,rock-salt-type,STATE_UNDER_CONDITION,,N/A
+crystal structure,orientation,PROPERTY_UNDER_CONDITION,,N/A
+T *≈180 K,CDW transition,STATE_UNDER_CONDITION,,N/A
+Resistivity measurements,Metallic conductivity,MEASURES,,N/A
+Resistivity measurements,x > 0.3,EXPERIMENT_CONDITIONS,,N/A
+Resistivity measurements,Tconset,MEASURES,,N/A
+Resistivity measurements,Tc onset,MEASURES,,N/A
+Resistivity measurements,Tc (ρ = 0),MEASURES,,N/A
+Resistivity measurements,applied magnetic field,EXPERIMENT_CONDITIONS,,N/A
+Resistivity measurements,semiconducting behavior,MEASURES,,N/A
+Resistivity measurements,increasing pressure,EXPERIMENT_CONDITIONS,,N/A
+La0.80Ti0.20OBiS_2,semiconductor-like behavior,EXHIBITS_STATE,,N/A
+~1 GPa,~1 GPa,HAS_CONDITION_VALUE,,N/A
+semiconductor-like behavior,Pressure above 1.3 GPa,STATE_UNDER_CONDITION,,N/A
+semiconductor-like behavior,Bi4-xAgxO4S3,EXHIBITS_STATE,,N/A
+semiconductor-like behavior,x>0.10,STATE_UNDER_CONDITION,,N/A
+in-plane Bi-S1 distance,RE,PROPERTY_UNDER_CONDITION,,N/A
+RE,"La, Ce, Pr, and Nd",HAS_CONDITION_VALUE,,N/A
+RE3+,Decrease of RE3+ ionic radius,HAS_CONDITION_VALUE,,N/A
+BiCh2-based superconductors,one-dimensional vibration,EXHIBITS_STATE,,N/A
+one-dimensional vibration,c axis,PROPERTY_UNDER_CONDITION,,N/A
+c axis,lattice shrinkage,PROPERTY_UNDER_CONDITION,,N/A
+c axis,uniaxial lattice contraction,STATE_UNDER_CONDITION,,N/A
+c axis,weak coupling,PROPERTY_UNDER_CONDITION,,N/A
+c axis,c axis,HAS_PROPERTY_VALUE,,N/A
+c axis,RO1-aFaBiS2,HAS_PROPERTY,,N/A
+c axis,current-voltage curve,EXPERIMENT_CONDITIONS,,N/A
+c axis,Eu3Bi2S4F4,HAS_PROPERTY,,N/A
+c axis,NdO0.5F0.5Bi(S1-xSex)2,HAS_PROPERTY,,N/A
+c axis,Ce1-xNdxO1-yFyBiS2,HAS_PROPERTY,,N/A
+c axis,uniaxial strain,PROPERTY_UNDER_CONDITION,,N/A
+c axis,strain,PROPERTY_UNDER_CONDITION,,N/A
+c axis,High pressure annealing,PROPERTY_UNDER_CONDITION,,N/A
+c axis,Nd1-xCexOBiS2,HAS_PROPERTY,,N/A
+c axis,mixed valency,PROPERTY_UNDER_CONDITION,,N/A
+c axis,F-doping,PROPERTY_UNDER_CONDITION,,N/A
+Rietveld refinement,NdO1-xFxBiS2,SYNTHESIZES,,N/A
+Rietveld refinement,F-doping,EXPERIMENT_CONDITIONS,,N/A
+Rietveld refinement,lattice parameters,MEASURES,,N/A
+electronic states,LaOBiS2,HAS_PROPERTY,,N/A
+electronic states,LaOBiPbS3,HAS_PROPERTY,,N/A
+electronic states,metallic,EXHIBITS_STATE,,N/A
+LaOBiS2,phonon instability,EXHIBITS_STATE,,N/A
+LaOBiS2,Bi-S distortion,EXHIBITS_STATE,,N/A
+LaOBiS2,energy difference between the polytypes,HAS_PROPERTY,,N/A
+LaOBiS2,in-plane distortion,EXHIBITS_STATE,,N/A
+LaOBiS2,phase transition,EXHIBITS_STATE,,N/A
+LaOBiS2,ground state structures,EXHIBITS_STATE,,N/A
+LaOBiS2,REO0.5F0.5BiS2-type series,PROPERTY_UNDER_CONDITION,,N/A
+LaOBiS2,S,HAS_PROPERTY,,N/A
+LaOBiS2,RH,HAS_PROPERTY,,N/A
+LaOBiS2,10 times larger,EXHIBITS_STATE,,N/A
+LaOBiS2,anharmonic ferroelectric soft phonons,EXHIBITS_STATE,,N/A
+LaOBiS2,polarization,HAS_PROPERTY,,N/A
+LaOBiS2,one-dimensional charge density wave (CDW),EXHIBITS_STATE,,N/A
+LaOBiS2,anharmonic ferroelectric mode,EXHIBITS_STATE,,N/A
+LaOBiS2,lattice parameters,HAS_PROPERTY,,N/A
+LaOBiS2,soft phonons,HAS_PROPERTY,,N/A
+LaOBiS2,ground state structure,HAS_PROPERTY,,N/A
+LaOBiS2,Changing spacer oxide,EXPERIMENT_CONDITIONS,,N/A
+LaOBiS2,First principle calculations,DESCRIBES,,N/A
+LaOBiS2,thermal conductivity,HAS_PROPERTY,,N/A
+LaOBiS2,semiconducting behavior,EXHIBITS_STATE,,N/A
+LaOBiS2,power factor,HAS_PROPERTY,,N/A
+LaOBiPbS3,Neutron diffraction,DESCRIBES,,N/A
+LaOBiPbS3,sulfur atoms,HAS_PROPERTY,,N/A
+LaOBiPbS3,Bi,HAS_PROPERTY,,N/A
+LaOBiPbS3,Pb,HAS_PROPERTY,,N/A
+LaOBiPbS3,Structural refinements,SYNTHESIZES,,N/A
+LaOBiPbS3,metal site,HAS_PROPERTY,,N/A
+LaOBiPbS3,site selectivity of Bi and Pb,EXHIBITS_STATE,,N/A
+LaOBiPbS3,rock-salt-type Pb-rich sulfide layers,HAS_PROPERTY,,N/A
+LaOBiPbS3,LaOBiS2-type Bi-rich layers,HAS_PROPERTY,,N/A
+metallic,Eu0.5La0.5FBiS2-xSex,EXHIBITS_STATE,,N/A
+metallic,LaOBiSSe,EXHIBITS_STATE,,N/A
+"LaO0.6F0.4Bi(S,Se)2",αSe,HAS_PROPERTY,,N/A
+"LaO0.6F0.4Bi(S,Se)2",Pairing,EXHIBITS_STATE,,N/A
+Pairing,phonons,PROPERTY_UNDER_CONDITION,,N/A
+BiCh2,LaOBiSSe,EXHIBITS_STATE,,N/A
+BiCh2,Uiso,HAS_PROPERTY_VALUE,,N/A
+Neutron diffraction,site selectivity of Bi and Pb,DESCRIBES,,N/A
+metal site,trivalent,PROPERTY_UNDER_CONDITION,,N/A
+metal site,divalent,PROPERTY_UNDER_CONDITION,,N/A
+trivalent,Ce ions,EXHIBITS_STATE,,N/A
+(LaOBiS2)(PbS) system,S bands,HAS_PROPERTY,,N/A
+(LaOBiS2)(PbS) system,Bi bands,HAS_PROPERTY,,N/A
+S bands,Fermi energy,PROPERTY_UNDER_CONDITION,,N/A
+Bi bands,Fermi energy,PROPERTY_UNDER_CONDITION,,N/A
+Band calculations,Hybridization of S bands and Bi bands at Fermi energy,DESCRIBES,,N/A
+rock-salt type sulfide (chalcogenide) layers,electronic structure,EXHIBITS_STATE,,N/A
+electronic structure,BiS2-based layered structures,EXHIBITS_STATE,,N/A
+Eu0.5Ce0.5FBiS2-xSex,Metallic conductivity,EXHIBITS_STATE,,N/A
+Eu0.5La0.5FBiS2-xSex,doping of electron carriers to the BiS2 layer,EXHIBITS_STATE,,N/A
+Eu0.5La0.5FBiS2-xSex,in-plane chemical pressure,EXHIBITS_STATE,,N/A
+Eu0.5La0.5FBiS2-xSex,semiconducting,EXHIBITS_STATE,,N/A
+Eu0.5La0.5FBiS2-xSex,enhanced metallicity,EXHIBITS_STATE,,N/A
+Metallic conductivity,Eu3Bi2S4F4,EXHIBITS_STATE,,N/A
+Metallic conductivity,NdO0.5F0.5Bi(S1-xSex)2,EXHIBITS_STATE,,N/A
+Metallic conductivity,x > 0.3,STATE_UNDER_CONDITION,,N/A
+Metallic conductivity,La1-xCexOBiSSe,EXHIBITS_STATE,,N/A
+Metallic conductivity,x>0.10,STATE_UNDER_CONDITION,,N/A
+3.5 K,jump,HAS_PROPERTY_VALUE,,N/A
+F-doping,mean valence,PROPERTY_UNDER_CONDITION,,N/A
+F-doping,superconductivity enhancement,STATE_UNDER_CONDITION,,N/A
+F-doping,Wigner crystal of Cooper pairs,STATE_UNDER_CONDITION,,N/A
+F-doping,x=0.5,HAS_CONDITION_VALUE,,N/A
+F-doping,quantum melts,STATE_UNDER_CONDITION,,N/A
+F-doping,resonating valence bond states,STATE_UNDER_CONDITION,,N/A
+F-doping,lattice parameters,PROPERTY_UNDER_CONDITION,,N/A
+F-doping,band insulator,STATE_UNDER_CONDITION,,N/A
+F-doping,band metal,STATE_UNDER_CONDITION,,N/A
+F-doping,LaO(F) redox layer,STATE_UNDER_CONDITION,,N/A
+F-doping,superconducting BiS2 layers,STATE_UNDER_CONDITION,,N/A
+F-doping,electron carriers,STATE_UNDER_CONDITION,,N/A
+F-doping,lattice shrinkage,STATE_UNDER_CONDITION,,N/A
+F-doping,Fermi surface,STATE_UNDER_CONDITION,,N/A
+F-doping,x=0.2,HAS_CONDITION_VALUE,,N/A
+F-doping,"x = 0, 0.03, 0.09 and 0.15",HAS_CONDITION_VALUE,,N/A
+CsCl flux method,Nd1-xCexOBiS2,SYNTHESIZES,,N/A
+atomic displacement parameters,LaOBiSSe,HAS_PROPERTY,,N/A
+atomic displacement parameters,Uiso,HAS_PROPERTY_VALUE,,N/A
+metallic conductivity,LaOBiS2-xSex,HAS_PROPERTY,,N/A
+x=0.5,x=0.5,HAS_CONDITION_VALUE,,N/A
+x=0.5,doping level,HAS_CONDITION_VALUE,,N/A
+x = 0.1,x = 0.1,HAS_CONDITION_VALUE,,N/A
+EuFBiS2,valence of Eu ions,HAS_PROPERTY,,N/A
+EuFBiS2,superconductivity enhancement,EXHIBITS_STATE,,N/A
+EuFBiS2,Bi-S1 distance,HAS_PROPERTY,,N/A
+EuFBiS2,in-plane Bi-S1 bond,HAS_PROPERTY,,N/A
+EuFBiS2,metal-insulator transition,EXHIBITS_STATE,,N/A
+EuFBiS2,pressure-induced superconductivity,EXHIBITS_STATE,,N/A
+EuFBiS2,semiconducting behavior,EXHIBITS_STATE,,N/A
+0.13 K,CSe,HAS_CONDITION_VALUE,,N/A
+0.13 K,measurement temperatures,HAS_CONDITION_VALUE,,N/A
+valence of Eu ions,+2.16(1),HAS_PROPERTY_VALUE,,N/A
+mean valence,+2.05(1),HAS_PROPERTY_VALUE,,N/A
+Ce ions,mixed valence,HAS_PROPERTY,,N/A
+Bi-S1 distance,configurational disorder,EXHIBITS_STATE,,N/A
+in-plane Bi-S1 bond,higher in-plane chemical pressure,PROPERTY_UNDER_CONDITION,,N/A
+"x = 0.6, 0.8, and 1",0.8,HAS_CONDITION_VALUE,,N/A
+"x = 0.6, 0.8, and 1",1,HAS_CONDITION_VALUE,,N/A
+0.8,x = 0.8,HAS_CONDITION_VALUE,,N/A
+0.8,z = 0.8,HAS_CONDITION_VALUE,,N/A
+0.8,electron-phonon coupling constant,HAS_PROPERTY_VALUE,,N/A
+0.8,y = 0.8,HAS_CONDITION_VALUE,,N/A
+3.8 K,superconducting critical temperature,HAS_PROPERTY_VALUE,,N/A
+semiconducting,normal state,STATE_UNDER_CONDITION,,N/A
+semiconducting,SrFBiS2,EXHIBITS_STATE,,N/A
+solid-state reaction,NdO1-xFxBiS2,SYNTHESIZES,,N/A
+solid-state reaction,LaOBiSSe,SYNTHESIZES,,N/A
+solid-state reaction,Bi4O4S3-xSex,SYNTHESIZES,,N/A
+diamagnetic signal,susceptibility ?(T) measurements,MEASURES,,N/A
+crossover from metallic to insulating behavior,high magnetic field,STATE_UNDER_CONDITION,,N/A
+high magnetic field,thermal conductivity,PROPERTY_UNDER_CONDITION,,N/A
+high magnetic field,lock-in state,STATE_UNDER_CONDITION,,N/A
+high magnetic field,c-axis transport measurements,EXPERIMENT_CONDITIONS,,N/A
+high magnetic field,ρ=0,HAS_CONDITION_VALUE,,N/A
+high magnetic field,"ρ(T,H)",EXPERIMENT_CONDITIONS,,N/A
+high magnetic field,2T (Tesla),HAS_CONDITION_VALUE,,N/A
+high magnetic field,1 T,HAS_CONDITION_VALUE,,N/A
+high magnetic field,weak insulating behavior,STATE_UNDER_CONDITION,,N/A
+2.5GPa,pressures exceeding 1.68GPa,HAS_CONDITION_VALUE,,N/A
+1112 systems,doped,EXHIBITS_STATE,,N/A
+1112 systems,Bi-Ch1 plane,HAS_PROPERTY,,N/A
+doped,fluorine substitution,PROPERTY_UNDER_CONDITION,,N/A
+doped,S,PROPERTY_UNDER_CONDITION,,N/A
+doped,RH,PROPERTY_UNDER_CONDITION,,N/A
+doped,semiconducting behavior,EXPERIMENT_CONDITIONS,,N/A
+Bi-Ch1 plane,p orbitals,EXHIBITS_STATE,,N/A
+Bi-Ch1 plane,atomic vibrations,EXHIBITS_STATE,,N/A
+fluorine substitution,oxygen,STATE_UNDER_CONDITION,,N/A
+fluorine substitution,electrons,PROPERTY_UNDER_CONDITION,,N/A
+one dimensional nature,Fermi surface,EXHIBITS_STATE,,N/A
+one dimensional nature,vertical directions,STATE_UNDER_CONDITION,,N/A
+one dimensional nature,spin susceptibility,PROPERTY_UNDER_CONDITION,,N/A
+Fermi surface,ARPES,DESCRIBES,,N/A
+Fermi surface,"Ln(O, F)BiS2",EXHIBITS_STATE,,N/A
+Fermi surface,"X (π, 0)",EXHIBITS_STATE,,N/A
+Fermi surface,2.4%,HAS_PROPERTY_VALUE,,N/A
+Fermi surface,1.1%,HAS_PROPERTY_VALUE,,N/A
+Fermi surface,Two-orbital model for BiS2-based superconductors,EXHIBITS_STATE,,N/A
+Fermi surface,electron densities,STATE_UNDER_CONDITION,,N/A
+Fermi surface,Fermi surface instability,PROPERTY_UNDER_CONDITION,,N/A
+Fermi surface,2D-like topology,EXHIBITS_STATE,,N/A
+Fermi surface,cylinders,EXHIBITS_STATE,,N/A
+Fermi surface,electron-like sheets,HAS_PROPERTY,,N/A
+Fermi surface,x ~ 0.4,STATE_UNDER_CONDITION,,N/A
+Fermi surface,Se doped,STATE_UNDER_CONDITION,,N/A
+tetragonal lattice structure,soft phonon modes,EXHIBITS_STATE,,N/A
+phonon dispersion,"(q, q, 0) line",PROPERTY_UNDER_CONDITION,,N/A
+ARPES,electron correlation,DESCRIBES,,N/A
+ARPES,one-dimensional character,DESCRIBES,,N/A
+LaOBiS2-xSex,Ch1 site,HAS_PROPERTY,,N/A
+LaOBiS2-xSex,buckling of the Bi-Ch1 plane,EXHIBITS_STATE,,N/A
+LaOBiS2-xSex,thermoelectric power factor,HAS_PROPERTY,,N/A
+LaOBiS2-xSex,power factor,HAS_PROPERTY,,N/A
+LaOBiS2-xSex,electrical conductivity,HAS_PROPERTY,,N/A
+LaOBiS2-xSex,thermal conductivity,HAS_PROPERTY,,N/A
+power factor,LaOBiSSe,HAS_PROPERTY,,N/A
+power factor,pressing direction (P1),PROPERTY_UNDER_CONDITION,,N/A
+power factor,higher,HAS_PROPERTY_VALUE,,N/A
+power factor,LaOBiS1.2Se0.8,HAS_PROPERTY,,N/A
+power factor,4.5 μW/cmK2,HAS_PROPERTY_VALUE,,N/A
+power factor,470 deg. C,PROPERTY_UNDER_CONDITION,,N/A
+power factor,1.9 µW/cmK2,HAS_PROPERTY_VALUE,,N/A
+power factor,480 ºC,PROPERTY_UNDER_CONDITION,,N/A
+LaOBiSSe,Uiso,HAS_PROPERTY,,N/A
+LaOBiSSe,atomic displacement,EXHIBITS_STATE,,N/A
+LaOBiSSe,Bi vibration,EXHIBITS_STATE,,N/A
+LaOBiSSe,low thermal conductivity,EXHIBITS_STATE,,N/A
+LaOBiSSe,weakly oriented,EXHIBITS_STATE,,N/A
+LaOBiSSe,thermal conductivity,HAS_PROPERTY,,N/A
+LaOBiSSe,k,HAS_PROPERTY,,N/A
+LaOBiSSe,ZT,HAS_PROPERTY,,N/A
+LaOBiSSe,lattice parameters,HAS_PROPERTY,,N/A
+LaOBiSSe,semiconducting behavior,EXHIBITS_STATE,,N/A
+LaOBiSSe,electron carriers,EXHIBITS_STATE,,N/A
+LaOBiSSe,lattice shrinkage,EXHIBITS_STATE,,N/A
+Uiso,temperature,PROPERTY_UNDER_CONDITION,,N/A
+temperature,atomic vibrations,STATE_UNDER_CONDITION,,N/A
+temperature,temperature-dependent hump,STATE_UNDER_CONDITION,,N/A
+temperature,temperature dependence,STATE_UNDER_CONDITION,,N/A
+temperature,1 K to 300 K,HAS_CONDITION_VALUE,,N/A
+temperature,Electrical resistivity measurements,EXPERIMENT_CONDITIONS,,N/A
+temperature,270 K,HAS_CONDITION_VALUE,,N/A
+temperature,ferromagnetic signal,STATE_UNDER_CONDITION,,N/A
+temperature,4K,HAS_CONDITION_VALUE,,N/A
+temperature,gapped feature,STATE_UNDER_CONDITION,,N/A
+atomic vibrations,BiS2 layers,EXHIBITS_STATE,,N/A
+atomic vibrations,rattling atoms in a cage structure,SIMILAR_TO,,N/A
+atomic displacement,300 K,STATE_UNDER_CONDITION,,N/A
+atomic displacement,c-axis direction,HAS_PROPERTY,,N/A
+atomic displacement,Bi atoms,EXHIBITS_STATE,,N/A
+300 K,temperature range,HAS_CONDITION_VALUE,,N/A
+c-axis direction,Bi vibration,STATE_UNDER_CONDITION,,N/A
+HfNCl,superconductor,EXHIBITS_STATE,,N/A
+superconductor,WO_3,EXHIBITS_STATE,,N/A
+superconductor,diamond,EXHIBITS_STATE,,N/A
+superconductor,Bi_2Se_3,EXHIBITS_STATE,,N/A
+superconductor,bis2 families,EXHIBITS_STATE,,N/A
+superconductor,STO/LAO interface,EXHIBITS_STATE,,N/A
+superconductor,gate doped SrTiO_3,EXHIBITS_STATE,,N/A
+superconductor,MoS_2,EXHIBITS_STATE,,N/A
+superconductor,high Tc,STATE_UNDER_CONDITION,,N/A
+superconductor,"Bi2(O, F)S2",EXHIBITS_STATE,,N/A
+superconductor,fluorine content,STATE_UNDER_CONDITION,,N/A
+superconductor,sharp transitions,STATE_UNDER_CONDITION,,N/A
+superconductor,Eu3Bi2S4F4,EXHIBITS_STATE,,N/A
+superconductor,ferroelectric,STATE_UNDER_CONDITION,,N/A
+bis2 families,RVB states,EXHIBITS_STATE,,N/A
+\laofh,V,HAS_PROPERTY,,N/A
+\laofh,t',HAS_PROPERTY,,N/A
+V,2.1 eV,HAS_PROPERTY_VALUE,,N/A
+2.1 eV,plasma frequency,HAS_PROPERTY_VALUE,,N/A
+t',0.88 eV,HAS_PROPERTY_VALUE,,N/A
+Wigner crystal of Cooper pairs,quantum melts,STATE_UNDER_CONDITION,,N/A
+manybody states,Coulomb forces,STATE_UNDER_CONDITION,,N/A
+Coulomb forces,competing orders,STATE_UNDER_CONDITION,,N/A
+2d Bose metal,vortex liquid normal state,EXHIBITS_STATE,,N/A
+vortex liquid normal state,charge -2e valence bonds,EXHIBITS_STATE,,N/A
+band insulator,dilute fermi sea,EXHIBITS_STATE,,N/A
+band insulator,Bi6O8S5,EXHIBITS_STATE,,N/A
+dilute fermi sea,diagonal valence bonds,EXHIBITS_STATE,,N/A
+dilute fermi sea,charge -2e Cooper pairs,EXHIBITS_STATE,,N/A
+2d Kosterlitz-Thouless superconductivity,isotropic,EXHIBITS_STATE,,N/A
+Wigner crystal,Topological defects,EXHIBITS_STATE,,N/A
+NdO0.71F0.29BiS2,κ,HAS_PROPERTY,,N/A
+NdO0.71F0.29BiS2,thermal conductivity,HAS_PROPERTY,,N/A
+NdO0.71F0.29BiS2,vortex state,EXHIBITS_STATE,,N/A
+NdO0.71F0.29BiS2,κ/T,HAS_PROPERTY,,N/A
+NdO0.71F0.29BiS2,electron correlation effect,HAS_PROPERTY,,N/A
+NdO0.71F0.29BiS2,Electron-phonon coupling,EXHIBITS_STATE,,N/A
+κ,T → 0,PROPERTY_UNDER_CONDITION,,N/A
+κ_{0}/T,small residual linear term,HAS_PROPERTY_VALUE,,N/A
+thermal conductivity,orientation,PROPERTY_UNDER_CONDITION,,N/A
+thermal conductivity,k,HAS_PROPERTY,,N/A
+thermal conductivity,1.5 W/Km,HAS_PROPERTY_VALUE,,N/A
+thermal conductivity,Thermoelectric effects,HAS_PROPERTY,,N/A
+thermal conductivity,SrFBiS2,HAS_PROPERTY,,N/A
+thermal conductivity,small,HAS_PROPERTY_VALUE,,N/A
+thermal conductivity,Thermal transport measurement,MEASURES,,N/A
+thermal conductivity,partial substitution of S by Se,PROPERTY_UNDER_CONDITION,,N/A
+thermal conductivity,increasing Se concentration,PROPERTY_UNDER_CONDITION,,N/A
+electron correlation effect,not strong,PROPERTY_UNDER_CONDITION,,N/A
+not strong,Electron-phonon coupling,PROPERTY_UNDER_CONDITION,,N/A
+polytypes,Bi-S distortion,STATE_UNDER_CONDITION,,N/A
+polytypes,stacking patterns,EXHIBITS_STATE,,N/A
+polytypes,phase transition,EXHIBITS_STATE,,N/A
+energy difference between the polytypes,~1 meV/u.c.,HAS_PROPERTY_VALUE,,N/A
+phase transition,high-symmetry P4/nmm structure,EXHIBITS_STATE,,N/A
+CsCl/KCl flux,RO1-aFaBiS2,SYNTHESIZES,,N/A
+CsCl/KCl flux,"CeO(Bi, Sb)(S, Se)2",SYNTHESIZES,,N/A
+CsCl/KCl flux,CeOBiS2,SYNTHESIZES,,N/A
+CsCl/KCl flux,F-substituted LaOBiS2,SYNTHESIZES,,N/A
+"R(O,F)BiS2 (R: La, Ce, Pr, Nd) single crystals",1-2 mm-sized,HAS_PROPERTY,,N/A
+"R(O,F)BiS2 (R: La, Ce, Pr, Nd) single crystals",plate-like shape,HAS_PROPERTY,,N/A
+plate-like shape,PrOBiS2,EXHIBITS_STATE,,N/A
+"Ce(O,F)BiS2",anisotropies,HAS_PROPERTY,,N/A
+"Ce(O,F)BiS2",magnetic order,EXHIBITS_STATE,,N/A
+anisotropies,13-21,HAS_PROPERTY_VALUE,,N/A
+lock-in state,c-axis transport measurements,MEASURES,,N/A
+lock-in state,Pr1.05O0.82F0.18Bi1.03S2.00,EXHIBITS_STATE,,N/A
+lock-in state,magnetic field parallel to the ab-plane,STATE_UNDER_CONDITION,,N/A
+magnetic order,5-7 K,STATE_UNDER_CONDITION,,N/A
+magnetic order,F-substituted LaOBiS2,EXHIBITS_STATE,,N/A
+magnetic order,7 K,STATE_UNDER_CONDITION,,N/A
+uniaxial lattice contraction,Ce1-xNdxO1-yFyBiS2,EXHIBITS_STATE,,N/A
+uniaxial lattice contraction,a axis,STATE_UNDER_CONDITION,,N/A
+uniaxial lattice contraction,NdO0.5F0.5Bi1-ySbyS2,EXHIBITS_STATE,,N/A
+uniaxial lattice contraction,High pressure annealing,STATE_UNDER_CONDITION,,N/A
+k,P1,PROPERTY_UNDER_CONDITION,,N/A
+k,P2,PROPERTY_UNDER_CONDITION,,N/A
+ZT,0.36,HAS_PROPERTY_VALUE,,N/A
+ZT,650 K,PROPERTY_UNDER_CONDITION,,N/A
+ZT,LaOBiS1.2Se0.8,HAS_PROPERTY,,N/A
+ZT,470 deg. C,PROPERTY_UNDER_CONDITION,,N/A
+650 K,650 K,HAS_CONDITION_VALUE,,N/A
+One-dimensional three-orbital model,chemical potential,HAS_PROPERTY,,N/A
+One-dimensional three-orbital model,multi-gap superconductivity,EXHIBITS_STATE,,N/A
+magnitude of the hoppings,increased,HAS_PROPERTY_VALUE,,N/A
+"Bi2(O,F)S2",High pressure annealing,SYNTHESIZES,,N/A
+"Bi2(O,F)S2",topotactic fluorination,SYNTHESIZES,,N/A
+"Bi2(O,F)S2",undoped Bi2OS2,EXHIBITS_STATE,,N/A
+"Bi2(O,F)S2",a-axis length,HAS_PROPERTY,,N/A
+"Bi2(O,F)S2",Topotactic reductive fluorination using XeF2 in the temperature range of 200 ~ 400°C,SYNTHESIZES,,N/A
+High pressure resistivity measurement,High pressure resistivity measurement,EXPERIMENT_CONDITIONS,,N/A
+High pressure annealing,2 GPa,EXPERIMENT_CONDITIONS,,N/A
+High pressure annealing,470°C,EXPERIMENT_CONDITIONS,,N/A
+High pressure annealing,Bi2OS2,SYNTHESIZES,,N/A
+High pressure annealing,room temperature,EXPERIMENT_CONDITIONS,,N/A
+High pressure annealing,2.7 K,HAS_CONDITION_VALUE,,N/A
+High pressure annealing,PrO0.3F0.7BiS2,SYNTHESIZES,,N/A
+High pressure annealing,3.6 K,HAS_CONDITION_VALUE,,N/A
+High pressure annealing,shift to higher angles,STATE_UNDER_CONDITION,,N/A
+topotactic fluorination,XeF2,DESCRIBES,,N/A
+XeF2,temperature range of 200 ~ 400°C,EXPERIMENT_CONDITIONS,,N/A
+temperature range of 200 ~ 400°C,200 ~ 400°C,HAS_CONDITION_VALUE,,N/A
+temperature range of 200 ~ 400°C,semiconducting behavior,STATE_UNDER_CONDITION,,N/A
+400°C,400°C,HAS_CONDITION_VALUE,,N/A
+400°C,reaction at 400°C during topotactic fluorination,EXPERIMENT_CONDITIONS,,N/A
+RO1-aFaBiS2,anisotropy,HAS_PROPERTY,,N/A
+RO1-aFaBiS2,Josephson junctions,EXHIBITS_STATE,,N/A
+RO1-aFaBiS2,critical current density,HAS_PROPERTY,,N/A
+RO1-aFaBiS2,lock-in,EXHIBITS_STATE,,N/A
+RO1-aFaBiS2,Josephson vortex flow,EXHIBITS_STATE,,N/A
+anisotropy,low-Tc phase,PROPERTY_UNDER_CONDITION,,N/A
+anisotropy,higher Tc phase,PROPERTY_UNDER_CONDITION,,N/A
+BiS2-PrO(F)-BiS2,weak coupling,HAS_PROPERTY,,N/A
+zero,2.7 K,HAS_PROPERTY_VALUE,,N/A
+critical current density,1.33*10^3 A/cm2,HAS_PROPERTY_VALUE,,N/A
+critical current density,2.0 K,PROPERTY_UNDER_CONDITION,,N/A
+2.0 K,2.0 K,HAS_CONDITION_VALUE,,N/A
+2.0 K,magnetic field parallel to the ab-plane,HAS_CONDITION_VALUE,,N/A
+REO1-yFyBiS2,γs,HAS_PROPERTY,,N/A
+γs,20-58,HAS_PROPERTY_VALUE,,N/A
+y = 0.05-0.28,0.05-0.28,HAS_CONDITION_VALUE,,N/A
+Pr1.05O0.82F0.18Bi1.03S2.00,normal-state anisotropies,HAS_PROPERTY,,N/A
+normal-state anisotropies,250 K,PROPERTY_UNDER_CONDITION,,N/A
+normal-state anisotropies,9.3,HAS_PROPERTY_VALUE,,N/A
+normal-state anisotropies,21.1,HAS_PROPERTY_VALUE,,N/A
+250 K,250 K,HAS_CONDITION_VALUE,,N/A
+250 K,semiconducting behavior,STATE_UNDER_CONDITION,,N/A
+9.3,higher Tc phase,HAS_PROPERTY_VALUE,,N/A
+metal-insulator transition,NdO0.5F0.5Bi1-ySbyS2,EXHIBITS_STATE,,N/A
+pressure-induced superconductivity,pressure > 0.7 GPa,STATE_UNDER_CONDITION,,N/A
+pressure > 0.7 GPa,0.7 GPa,HAS_CONDITION_VALUE,,N/A
+applied pressure,normal conducting state,STATE_UNDER_CONDITION,,N/A
+8.6 K,Tc onset,HAS_PROPERTY_VALUE,,N/A
+semiconducting behavior,normal state,EXHIBITS_STATE,,N/A
+semiconducting behavior,Fermi surface instability,STATE_UNDER_CONDITION,,N/A
+semiconducting behavior,PrOBiS2,EXHIBITS_STATE,,N/A
+semiconducting behavior,SmO1-xFxBiS2,EXHIBITS_STATE,,N/A
+NdO0.5F0.5Bi(S1-xSex)2,REO0.5F0.5BiS2-type series,PROPERTY_UNDER_CONDITION,,N/A
+NdO0.5F0.5Bi(S1-xSex)2,a axis,HAS_PROPERTY,,N/A
+NdO0.5F0.5Bi(S1-xSex)2,uniaxial lattice expansion,EXHIBITS_STATE,,N/A
+superconductivity,SrFBiS2,EXHIBITS_STATE,,N/A
+4.5 K,4.5 K,HAS_CONDITION_VALUE,,N/A
+4.5 K,Tc zero,HAS_PROPERTY_VALUE,,N/A
+4.5 K,"x = 0, 0.03, 0.09 and 0.15",HAS_CONDITION_VALUE,,N/A
+4.5 K,Tconset,HAS_PROPERTY_VALUE,,N/A
+asymmetrical phonon mode,118 cm-1,PROPERTY_UNDER_CONDITION,,N/A
+asymmetrical phonon mode,electron-phonon coupling constant,MEASURES,,N/A
+electron-phonon coupling constant,0.16,HAS_PROPERTY_VALUE,,N/A
+electron-phonon coupling constant,Density-functional perturbation theory with structural optimization,DESCRIBES,,N/A
+temperature-dependent hump,100 cm-1,HAS_PROPERTY_VALUE,,N/A
+temperature-dependent hump,Raman spectra,MEASURES,,N/A
+Bi3O2S3,Tconset,HAS_PROPERTY,,N/A
+Bi3O2S3,DOS,HAS_PROPERTY,,N/A
+Bi3O2S3,Hybridization (Bi-O-S),HAS_PROPERTY,,N/A
+Bi3O2S3,electron charge carrier concentration,HAS_PROPERTY,,N/A
+Bi3O2S3,semimetal,EXHIBITS_STATE,,N/A
+Tconset,5.5 K,HAS_PROPERTY_VALUE,,N/A
+Tconset,2.5 K,HAS_PROPERTY_VALUE,,N/A
+Tconset,8 K,HAS_PROPERTY_VALUE,,N/A
+Tconset,11.1 K,HAS_PROPERTY_VALUE,,N/A
+Tconset,2.5K,HAS_PROPERTY_VALUE,,N/A
+Tconset,Electrical transport measurement,MEASURES,,N/A
+DOS,N(EF),HAS_PROPERTY_VALUE,,N/A
+electron charge carrier concentration,1.5 x 10^19 cm-3,HAS_PROPERTY_VALUE,,N/A
+Eu3Bi2S4F4,tetragonal lattice,EXHIBITS_STATE,,N/A
+Eu3Bi2S4F4,I4/mmm,HAS_PROPERTY,,N/A
+Eu3Bi2S4F4,CaF2-type,HAS_PROPERTY,,N/A
+Eu3Bi2S4F4,Eu(1),EXHIBITS_STATE,,N/A
+Eu3Bi2S4F4,Eu(2),EXHIBITS_STATE,,N/A
+Eu3Bi2S4F4,anomalous Eu valence state,EXHIBITS_STATE,,N/A
+Z = 2,Z,HAS_PROPERTY_VALUE,,N/A
+CaF2-type,Eu3F4,HAS_PROPERTY,,N/A
+Eu(1),divalent valence state,EXHIBITS_STATE,,N/A
+Eu(2),divalent valence state,EXHIBITS_STATE,,N/A
+divalent valence state,+2.64(5),HAS_PROPERTY_VALUE,,N/A
+anomalous Eu valence state,Mossbauer,DESCRIBES,,N/A
+Eu3+,conduction bands,EXHIBITS_STATE,,N/A
+conduction bands,Bi-6px,EXHIBITS_STATE,,N/A
+conduction bands,Bi-6py,EXHIBITS_STATE,,N/A
+a axis,Ce1-xNdxO1-yFyBiS2,HAS_PROPERTY,,N/A
+a axis,uniaxial lattice expansion,PROPERTY_UNDER_CONDITION,,N/A
+a axis,x dependence,PROPERTY_UNDER_CONDITION,,N/A
+0.2,0<x<0.2,HAS_CONDITION_VALUE,,N/A
+y = 0.3,0.3,HAS_CONDITION_VALUE,,N/A
+0.3,x=0.3,HAS_CONDITION_VALUE,,N/A
+x = 0.5 - 1.0,0.5 - 1.0,HAS_CONDITION_VALUE,,N/A
+c/a ratio,c/a = 3.39,HAS_PROPERTY_VALUE,,N/A
+2.44 GPa,2.44 GPa,HAS_CONDITION_VALUE,,N/A
+higher Tc phase,2.16 GPa,STATE_UNDER_CONDITION,,N/A
+higher Tc phase,normal conducting state,EXHIBITS_STATE,,N/A
+higher Tc phase,lattice constants a and c,PROPERTY_UNDER_CONDITION,,N/A
+higher Tc phase,atmospheric pressure,STATE_UNDER_CONDITION,,N/A
+2.16 GPa,2.16 GPa,HAS_CONDITION_VALUE,,N/A
+6.7 K,superconducting critical temperature,HAS_PROPERTY_VALUE,,N/A
+SrFBiS2,thermal activation energy,HAS_PROPERTY,,N/A
+SrFBiS2,semiconducting-like ground state,EXHIBITS_STATE,,N/A
+SrFBiS2,semiconductor,EXHIBITS_STATE,,N/A
+SrFBiS2,First principle calculations,DESCRIBES,,N/A
+SrFBiS2,NaCl-type BiS2 layer,EXHIBITS_STATE,,N/A
+thermal activation energy,Eg,HAS_PROPERTY_VALUE,,N/A
+F-substituted NdOBiS<sub>2</sub>,metallic response,EXHIBITS_STATE,,N/A
+F-substituted NdOBiS<sub>2</sub>,screened plasma edge,EXHIBITS_STATE,,N/A
+metallic response,Optical spectroscopy,MEASURES,,N/A
+screened plasma edge,5000 cm<sup>-1</sup>,STATE_UNDER_CONDITION,,N/A
+screened plasma edge,Optical spectroscopy,EXPERIMENT_CONDITIONS,,N/A
+Optical spectroscopy,absence of correlation effects,DESCRIBES,,N/A
+F-substituted LaOBiS2,plasma frequency,HAS_PROPERTY,,N/A
+F-substituted LaOBiS2,interband transitions,HAS_PROPERTY,,N/A
+F-substituted LaOBiS2,absence of correlation effects,EXHIBITS_STATE,,N/A
+F-substituted LaOBiS2,CDW instability,EXHIBITS_STATE,,N/A
+F-substituted LaOBiS2,doping level,HAS_PROPERTY,,N/A
+plasma frequency,First-principles calculations,DESCRIBES,,N/A
+interband transitions,first-principles calculations,DESCRIBES,,N/A
+first-principles calculations,absence of correlation effects,DESCRIBES,,N/A
+CDW instability,doping level,PROPERTY_UNDER_CONDITION,,N/A
+doping level,Sm ion,HAS_CONDITION_VALUE,,N/A
+doping level,La site,HAS_CONDITION_VALUE,,N/A
+1.68GPa,pressures exceeding 1.68GPa,HAS_CONDITION_VALUE,,N/A
+4.5K,2Δ(0)/k_B T_c,HAS_PROPERTY_VALUE,,N/A
+corrugated Bi-Se layer,physical pressure,STATE_UNDER_CONDITION,,N/A
+room temperature resistivity,5 mohmcm,HAS_PROPERTY_VALUE,,N/A
+Hall resistance,high-pressure-annealed,PROPERTY_UNDER_CONDITION,,N/A
+Hall resistance,-10^-8 m3/C,HAS_PROPERTY_VALUE,,N/A
+Hall resistance,positive,HAS_PROPERTY_VALUE,,N/A
+Hall resistance,five times larger,HAS_PROPERTY_VALUE,,N/A
+high-pressure-annealed,negative,HAS_CONDITION_VALUE,,N/A
+high-pressure-annealed,RH,PROPERTY_UNDER_CONDITION,,N/A
+high-pressure-annealed,peak symmetry,PROPERTY_UNDER_CONDITION,,N/A
+high-pressure-annealed,high-pressure-annealed,HAS_CONDITION_VALUE,,N/A
+PrO0.3F0.7BiS2,peak symmetry,HAS_PROPERTY,,N/A
+PrO0.3F0.7BiS2,Hc2(0),HAS_PROPERTY,,N/A
+PrO0.3F0.7BiS2,U0,HAS_PROPERTY,,N/A
+temperature dependence,"Ln(O, F)BiS2",HAS_PROPERTY,,N/A
+temperature dependence,magnetic penetration depth,PROPERTY_UNDER_CONDITION,,N/A
+upper critical fields,HC2max,HAS_PROPERTY,,N/A
+upper critical fields,HC2mid,HAS_PROPERTY,,N/A
+upper critical fields,HC2min,HAS_PROPERTY,,N/A
+HC2min,H // c,HAS_PROPERTY_VALUE,,N/A
+H // ab,H // ab,HAS_PROPERTY_VALUE,,N/A
+anisotropy of superconducting states,Bi-S plane,STATE_UNDER_CONDITION,,N/A
+anisotropy parameter,high-pressure-synthesized,PROPERTY_UNDER_CONDITION,,N/A
+anisotropy parameter,30,HAS_PROPERTY_VALUE,,N/A
+anisotropy parameter,Nd0.8Ce0.2OBiS2,HAS_PROPERTY,,N/A
+anisotropy parameter,35,HAS_PROPERTY_VALUE,,N/A
+anisotropy parameter,45,HAS_PROPERTY_VALUE,,N/A
+high-pressure-synthesized,7.4,HAS_CONDITION_VALUE,,N/A
+Tc zero,8.5 K,HAS_PROPERTY_VALUE,,N/A
+Tcirr,9.4 K,HAS_PROPERTY_VALUE,,N/A
+low annealing temperature,conventional solid-state reaction,EXPERIMENT_CONDITIONS,,N/A
+X-ray diffraction analysis,lattice constants a and c,MEASURES,,N/A
+lattice constants a and c,c/a,HAS_PROPERTY_VALUE,,N/A
+"Ln(O, F)BiS2",low-energy spectrum,HAS_PROPERTY,,N/A
+"Ln(O, F)BiS2",broad hump,EXHIBITS_STATE,,N/A
+"Ln(O, F)BiS2",dispersive branch,EXHIBITS_STATE,,N/A
+"Ln(O, F)BiS2",NaCl-type BiS2 layer,EXHIBITS_STATE,,N/A
+low-energy spectrum,weakly-dispersing broad hump,EXHIBITS_STATE,,N/A
+low-energy spectrum,dispersive branch,EXHIBITS_STATE,,N/A
+dispersive branch,calculated band dispersion,ALIGNS_WITH,,N/A
+NdO1-xFxBiS2,vacuum encapsulation,SYNTHESIZES,,N/A
+NdO1-xFxBiS2,tetragonal P4/nmm,EXHIBITS_STATE,,N/A
+NdO1-xFxBiS2,tetragonal I4/mmm space group,EXHIBITS_STATE,,N/A
+NdO1-xFxBiS2,lattice parameters,HAS_PROPERTY,,N/A
+NdO1-xFxBiS2,superconducting fluctuations,EXHIBITS_STATE,,N/A
+NdO1-xFxBiS2,gap features,EXHIBITS_STATE,,N/A
+NdO1-xFxBiS2,smaller gap,HAS_PROPERTY,,N/A
+NdO1-xFxBiS2,2Δ_s/kBTc,HAS_PROPERTY,,N/A
+NdO1-xFxBiS2,normal state,EXHIBITS_STATE,,N/A
+NdO1-xFxBiS2,superconducting BiS2 layers,EXHIBITS_STATE,,N/A
+NdO1-xFxBiS2,NdO layers,EXHIBITS_STATE,,N/A
+vacuum encapsulation,solid-state route,DESCRIBES,,N/A
+vacuum encapsulation,Bi4O4S3-xSex,SYNTHESIZES,,N/A
+vacuum encapsulation,Bi4O4S2,SYNTHESIZES,,N/A
+vacuum encapsulation,5000C,EXPERIMENT_CONDITIONS,,N/A
+"x=0.1, 0.3, 0.5, 0.7 and 0.9","x=0.1, 0.3, 0.5, 0.7 and 0.9",HAS_CONDITION_VALUE,,N/A
+x=0.1-0.9,x=0.1-0.9,HAS_CONDITION_VALUE,,N/A
+Electric transport measurement,semiconductor,MEASURES,,N/A
+tetragonal I4/mmm space group,Bi4O4S3-xSex,EXHIBITS_STATE,,N/A
+lattice parameters,CeOBiS2,HAS_PROPERTY,,N/A
+lattice parameters,a= 4.15(1)Å,HAS_PROPERTY_VALUE,,N/A
+lattice parameters,c=14.02(2)Å,HAS_PROPERTY_VALUE,,N/A
+Tc onset,applied magnetic field,PROPERTY_UNDER_CONDITION,,N/A
+Tc (ρ = 0),applied magnetic field,PROPERTY_UNDER_CONDITION,,N/A
+applied magnetic field,Tc (R =0),PROPERTY_UNDER_CONDITION,,N/A
+applied magnetic field,200 Oe,HAS_CONDITION_VALUE,,N/A
+applied magnetic field,flux flow activation energies,PROPERTY_UNDER_CONDITION,,N/A
+Hc2(0),3Tesla,HAS_PROPERTY_VALUE,,N/A
+Hc2(0),2T (Tesla),HAS_PROPERTY_VALUE,,N/A
+Hc2(0),15.3(4) kOe,HAS_PROPERTY_VALUE,,N/A
+Hc2(0),µSR,DESCRIBES,,N/A
+Hc2(0),1.2Tesla,HAS_PROPERTY_VALUE,,N/A
+Hc2(0),20kOe,HAS_PROPERTY_VALUE,,N/A
+Hc2(0),WHH formula,DESCRIBES,,N/A
+Hc2(0),~310 kOe,HAS_PROPERTY_VALUE,,N/A
+Hc2(0),1.04 Tesla,HAS_PROPERTY_VALUE,,N/A
+U0,0.05 Tesla,PROPERTY_UNDER_CONDITION,,N/A
+U0,54.63 meV,HAS_PROPERTY_VALUE,,N/A
+0.05 Tesla,0.05 Tesla,HAS_CONDITION_VALUE,,N/A
+Hall measurement,electron charge carriers,MEASURES,,N/A
+electron charge carriers,multiband feature,EXHIBITS_STATE,,N/A
+Thermoelectric effects,Strong electron-electron correlations,EXHIBITS_STATE,,N/A
+CeO1-xFxBiS2,antiferromagnetism,EXHIBITS_STATE,,N/A
+CeO1-xFxBiS2,CeO blocking layers,EXHIBITS_STATE,,N/A
+antiferromagnetism,enhancement,STATE_UNDER_CONDITION,,N/A
+antiferromagnetism,Fe,EXHIBITS_STATE,,N/A
+antiferromagnetism,suppression,STATE_UNDER_CONDITION,,N/A
+80%,superconducting shielding fraction,HAS_PROPERTY_VALUE,,N/A
+superconducting shielding fraction,0.3%,HAS_PROPERTY_VALUE,,N/A
+unit cell volume,sulfur is replaced with selenium,PROPERTY_UNDER_CONDITION,,N/A
+sulfur is replaced with selenium,c-parameter,PROPERTY_UNDER_CONDITION,,N/A
+sulfur is replaced with selenium,13.3157 Å,HAS_CONDITION_VALUE,,N/A
+sulfur is replaced with selenium,14.01567 Å,HAS_CONDITION_VALUE,,N/A
+Eg,3 meV,HAS_PROPERTY_VALUE,,N/A
+metallic to a semiconducting state,temperature Tmin,STATE_UNDER_CONDITION,,N/A
+superconducting fluctuations,2-4 K,STATE_UNDER_CONDITION,,N/A
+gap features,3.5+-0.3 meV,HAS_PROPERTY_VALUE,,N/A
+gap features,7.5+-1 meV,HAS_PROPERTY_VALUE,,N/A
+gap features,scanning tunneling spectroscopy,MEASURES,,N/A
+3.5+-0.3 meV,smaller gap,HAS_PROPERTY_VALUE,,N/A
+2Δ_s/kBTc,16.8,HAS_PROPERTY_VALUE,,N/A
+weak coupling limit,BCS model,EXHIBITS_STATE,,N/A
+superfluid density,Muon-spin-spectroscopy,MEASURES,,N/A
+superfluid density,single gap s-wave model,DESCRIBES,,N/A
+magnetic penetration depth,λ(0) = 861(17) nm,HAS_PROPERTY_VALUE,,N/A
+magnetic penetration depth,tunnel diode oscillator technique,MEASURES,,N/A
+two s-wave type energy gaps,zero-temperature values,STATE_UNDER_CONDITION,,N/A
+zero-temperature values,0.93(3) meV,HAS_CONDITION_VALUE,,N/A
+zero-temperature values,0.09(4) meV,HAS_CONDITION_VALUE,,N/A
+0.93(3) meV,∆1(0),HAS_PROPERTY_VALUE,,N/A
+0.09(4) meV,∆2(0),HAS_PROPERTY_VALUE,,N/A
+Hc2(T),low field region,STATE_UNDER_CONDITION,,N/A
+superconducting ground state,ZFµSR,MEASURES,,N/A
+superconducting ground state,no magnetic anomaly,STATE_UNDER_CONDITION,,N/A
+λ(0),861(17) nm,HAS_PROPERTY_VALUE,,N/A
+two-orbital model,inter-pocket nesting,EXPERIMENT_CONDITIONS,,N/A
+two-orbital model,"pair scattering with a ""local"" character in k-space",DESCRIBES,,N/A
+lower pressures,lower pressures,HAS_CONDITION_VALUE,,N/A
+pressure coefficient,-0.287 K/GPa,HAS_PROPERTY_VALUE,,N/A
+pressure coefficient,0.435 K/GPa,HAS_PROPERTY_VALUE,,N/A
+pressure coefficient,-0.1714 K/GPa,HAS_PROPERTY_VALUE,,N/A
+pressure coefficient,1.75 GPa,HAS_CONDITION_VALUE,,N/A
+superconducting critical temperature,10.1 K,HAS_PROPERTY_VALUE,,N/A
+superconducting critical temperature,carrier doping concentration,PROPERTY_UNDER_CONDITION,,N/A
+superconducting critical temperature,3.2 K,HAS_PROPERTY_VALUE,,N/A
+maximum value of Tc,Tc,HAS_PROPERTY_VALUE,,N/A
+hysteretic suppression,suppression,effect,,N/A
+Hydrostatic pressure application,1.75 GPa,HAS_CONDITION_VALUE,,N/A
+Annealing,700 ºC,EXPERIMENT_CONDITIONS,,N/A
+uniaxial strain,superconducting impurities,PROPERTY_UNDER_CONDITION,,N/A
+strain,700 ºC,STATE_UNDER_CONDITION,,N/A
+strain,initial state,STATE_UNDER_CONDITION,,N/A
+Bi2-S2-Bi2 bond,Bi6O8S5,HAS_PROPERTY,,N/A
+Bi2-S2-Bi2 bond,bending,EXHIBITS_STATE,,N/A
+Bi6O8S5,bending,EXHIBITS_STATE,,N/A
+Bi6O8S5,parent compound,EXHIBITS_STATE,,N/A
+Bi6O8S5,Bi3+,HAS_PROPERTY,,N/A
+T^2 dependence,25 and 50 K,STATE_UNDER_CONDITION,,N/A
+ξGL(0),110 Å,HAS_PROPERTY_VALUE,,N/A
+n,0.46 < n < 1.0,HAS_PROPERTY_VALUE,,N/A
+n,spin fluctuations,STATE_UNDER_CONDITION,,N/A
+n,0.46 and 1.0,HAS_CONDITION_VALUE,,N/A
+A1g,pairing strengths,PROPERTY_UNDER_CONDITION,,N/A
+B2g,pairing strengths,PROPERTY_UNDER_CONDITION,,N/A
+electron densities,0.46 and 1.0,HAS_CONDITION_VALUE,,N/A
+electron densities,distance,PROPERTY_UNDER_CONDITION,,N/A
+hole-pockets,Two-orbital model for BiS2-based superconductors,EXHIBITS_STATE,,N/A
+hole-pockets,Se doped,STATE_UNDER_CONDITION,,N/A
+Fermi Surface,electronic interactions (RPA),PROPERTY_UNDER_CONDITION,,N/A
+electronic interactions (RPA),inter-pocket nesting,DESCRIBES,,N/A
+inter-pocket nesting,Fermi Surface segments,PROPERTY_UNDER_CONDITION,,N/A
+A weak-coupling RPA analysis of a minimal 2-orbital model,pairing properties,DESCRIBES,,N/A
+polarization,10 μC/cm^2,HAS_PROPERTY_VALUE,,N/A
+soft phonons,Changing spacer oxide,AFFECTS,,N/A
+ground state structure,Changing spacer oxide,AFFECTS,,N/A
+LaO(F) redox layer,superconducting BiS2 layers,EXHIBITS_STATE,,N/A
+p-orbital states,electron transformation,PROPERTY_UNDER_CONDITION,,N/A
+chalcogenides,physical properties,HAS_PROPERTY,,N/A
+chalcogenides,magnetic moment,HAS_PROPERTY,,N/A
+physical properties,intercalations/deintercalations,STATE_UNDER_CONDITION,,N/A
+Fe,magnetic moment,EXHIBITS_STATE,,N/A
+magnetic moment,reduction,PROPERTY_UNDER_CONDITION,,N/A
+oxygen intercalation,annealing in oxygen condition,EXPERIMENT_CONDITIONS,,N/A
+deintercalation of excess Fe,annealing in acid,EXPERIMENT_CONDITIONS,,N/A
+dome-shaped dependence,x dependence,PROPERTY_UNDER_CONDITION,,N/A
+3.7K,3.7K,HAS_CONDITION_VALUE,,N/A
+Schottky-type anomaly,~6K,STATE_UNDER_CONDITION,,N/A
+Schottky-type anomaly,heat capacity measurement,MEASURES,,N/A
+~6K,~6K,HAS_CONDITION_VALUE,,N/A
+type II,Isothermal magnetization (MH),DESCRIBES,,N/A
+Hc1,8Oe,HAS_PROPERTY_VALUE,,N/A
+Hc1,Isothermal magnetization (MH),MEASURES,,N/A
+Hc1,2.1K,PROPERTY_UNDER_CONDITION,,N/A
+Hc1,40Oe,HAS_PROPERTY_VALUE,,N/A
+Hc1,2K,PROPERTY_UNDER_CONDITION,,N/A
+Hc1,~39 Oe,HAS_PROPERTY_VALUE,,N/A
+type II-superconductor,Bi4O4S2,EXHIBITS_STATE,,N/A
+Bi4-xAgxO4S3,electron-like carriers,EXHIBITS_STATE,,N/A
+Bi4-xAgxO4S3,Fermi level,HAS_PROPERTY,,N/A
+Bi4-xAgxO4S3,density of states at EF,HAS_PROPERTY,,N/A
+x>0.10,0.10,HAS_CONDITION_VALUE,,N/A
+x>0.10,mixed valence of Ce ions,PROPERTY_UNDER_CONDITION,,N/A
+Fermi level,Ag doping,PROPERTY_UNDER_CONDITION,,N/A
+Bi4O4S2,flux pinning,EXHIBITS_STATE,,N/A
+Bi4O4S2,irreversible behavior,EXHIBITS_STATE,,N/A
+semiconductor,temperature range,STATE_UNDER_CONDITION,,N/A
+specific heat measurements,jump,MEASURES,,N/A
+specific heat measurements,light bands,EXPERIMENT_CONDITIONS,,N/A
+800°C,800°C,HAS_CONDITION_VALUE,,N/A
+12 hours,12 hours,HAS_CONDITION_VALUE,,N/A
+resistive broadening,"ρ(T,H)",MEASURES,,N/A
+BiS2 layer,Bi 6p orbital,EXHIBITS_STATE,,N/A
+inhomogeneity,local structure,PROPERTY_UNDER_CONDITION,,N/A
+inhomogeneity,carrier doping level,PROPERTY_UNDER_CONDITION,,N/A
+"CeO(Bi, Sb)(S, Se)2",Sb- and Se-substituted CeOBiS2,SYNTHESIZES,,N/A
+CeOBiS2,superconducting phase diagram,EXHIBITS_STATE,,N/A
+CeOBiS2,SmO1-xFxBiS2,EXHIBITS_STATE,,N/A
+superconducting phase diagram,CSb,PROPERTY_UNDER_CONDITION,,N/A
+superconducting phase diagram,CSe,PROPERTY_UNDER_CONDITION,,N/A
+CSb,0.18,HAS_PROPERTY_VALUE,,N/A
+CSe,0.45,HAS_PROPERTY_VALUE,,N/A
+CSe,0.15-0.30,HAS_CONDITION_VALUE,,N/A
+Nd1-xCexOBiS2,0.8×0.8×0.2 mm3,HAS_PROPERTY,,N/A
+Nd1-xCexOBiS2,mu0Hc2(0),HAS_PROPERTY,,N/A
+Nd1-xCexOBiS2,mixed valency,EXHIBITS_STATE,,N/A
+"x = 0.2, 0.3, 0.4, and 0.5","x = 0.2, 0.3, 0.4, and 0.5",HAS_CONDITION_VALUE,,N/A
+Nd0.8Ce0.2OBiS2,chi(T),HAS_PROPERTY,,N/A
+Nd0.8Ce0.2OBiS2,mu0Hc2(0),HAS_PROPERTY,,N/A
+Nd0.8Ce0.2OBiS2,Gamma,HAS_PROPERTY,,N/A
+chi(T),diamagnetism,EXHIBITS_STATE,,N/A
+mu0Hc2(0),12 T,HAS_PROPERTY_VALUE,,N/A
+mu0Hc2(0),0.34 T,HAS_PROPERTY_VALUE,,N/A
+mu0Hc2(0),ab- and c-planes,PROPERTY_UNDER_CONDITION,,N/A
+mu0Hc2(0),35 T,HAS_PROPERTY_VALUE,,N/A
+mu0Hc2(0),0.78 T,HAS_PROPERTY_VALUE,,N/A
+mu0Hc2(0),two times smaller,PROPERTY_UNDER_CONDITION,,N/A
+PrOBiS2,tetravalent Pr,EXHIBITS_STATE,,N/A
+tetravalent Pr,XAFS spectroscopy,DESCRIBES,,N/A
+valence fluctuation,Ce3+,EXHIBITS_STATE,,N/A
+valence fluctuation,Ce4+,EXHIBITS_STATE,,N/A
+SmO1-xFxBiS2,paramagnetic,EXHIBITS_STATE,,N/A
+470 deg. C,470 deg. C,HAS_CONDITION_VALUE,,N/A
+carrier doping concentration,F ~ 0.5,HAS_CONDITION_VALUE,,N/A
+electron carriers,La1-xCexOBiSSe,HAS_PROPERTY,,N/A
+480 ºC,480 ºC,HAS_CONDITION_VALUE,,N/A
+ferromagnetic signal,MT-curve,DESCRIBES,,N/A
+cylinders,kz direction,PROPERTY_UNDER_CONDITION,,N/A
+electron-like sheets,BZ lateral sides,PROPERTY_UNDER_CONDITION,,N/A
+volume of the Fermi surface,band occupancy,PROPERTY_UNDER_CONDITION,,N/A
+band occupancy,shape,STATE_UNDER_CONDITION,,N/A
+x ~ 0.4,BZ,PROPERTY_UNDER_CONDITION,,N/A
+2K,2K,HAS_CONDITION_VALUE,,N/A
+residual resistivity value,1.35mΩ-cm,HAS_PROPERTY_VALUE,,N/A
+90percent,90percent,HAS_CONDITION_VALUE,,N/A
+"x = 0, 0.03, 0.09 and 0.15",temperature measurements,EXPERIMENT_CONDITIONS,,N/A
+flux flow activation energies,Bi4O4S2.97Se0.03,HAS_PROPERTY,,N/A
+flux flow activation energies,Bi4O4S2.85Se0.15,HAS_PROPERTY,,N/A
+flux flow activation energies,18.60 meV,HAS_PROPERTY_VALUE,,N/A
+flux flow activation energies,13.69 meV,HAS_PROPERTY_VALUE,,N/A
+Δ0,1.54 meV,HAS_PROPERTY_VALUE,,N/A
+2Δ0/kBTc,7.2,HAS_PROPERTY_VALUE,,N/A
+gap ratio,2Δ0=7.2kBTc,HAS_PROPERTY_VALUE,,N/A
+tunneling spectra,gapped feature,MEASURES,,N/A
+2Δ/(kB*Tc),16.6,HAS_PROPERTY_VALUE,,N/A
+5000C,5000C,HAS_CONDITION_VALUE,,N/A
+increasing magnetic field,"R(T, H)",EXPERIMENT_CONDITIONS,,N/A
+R=0,lower temperatures,HAS_PROPERTY_VALUE,,N/A
+Ginzburg-Landau coherence length,~100 Å,HAS_PROPERTY_VALUE,,N/A
+H=10 Oe,10 Oe,HAS_CONDITION_VALUE,,N/A
+4.02 K,4.02 K,HAS_CONDITION_VALUE,,N/A
+Hall effect,multiband feature,SYNTHESIZES,,N/A
+Hall effect measurements,multiband feature,MEASURES,,N/A
+ΔC_e/γT_c,2.31,HAS_PROPERTY_VALUE,,N/A
+SC gaps,µSR measurements,EXPERIMENT_CONDITIONS,,N/A
+disconnected Fermi surfaces,d-wave symmetry,HAS_PROPERTY,,N/A
+mean free path,10 nm,HAS_PROPERTY_VALUE,,N/A
+La1-xCexOBiSSe,clear diamagnetic susceptibility,EXHIBITS_STATE,,N/A
+clear diamagnetic susceptibility,x = 0.2-0.6,STATE_UNDER_CONDITION,,N/A
+x = 0.2-0.6,0.2-0.6,HAS_CONDITION_VALUE,,N/A
+Bi-SSe pyramid,apical site,HAS_PROPERTY,,N/A
+superconducting anisotropic parameter,34-35,HAS_PROPERTY_VALUE,,N/A
+superconducting anisotropic parameter,upper critical magnetic field,DESCRIBES,,N/A

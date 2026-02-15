@@ -1,0 +1,594 @@
+ 
+1
+Enhancement of Tc in BiS2 based superconductors NdO0.7F0.3BiS2 by substitution 
+of Pb for Bi 
+S. Demura1,2, Y. Fujisawa1, S. Otsuki1, R. Ishio1, Y. Takano2 and H. Sakata1 
+1Tokyo University of Science, Department of Physics, Shinjyuku-ku, Tokyo 162-8601, Japan 
+2National Institute for Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan 
+E-mail : demura@rs.tus.ac.jp 
+ 
+ 
+
+
+ 
+2
+Abstract 
+ We succeed in enhancement of a superconducting transition temperature (Tc) for 
+NdO0.7F0.3BiS2 single crystal by partial substitution of Pb for Bi. The Tc increases with 
+increasing Pb concentration until 6%. The maximum Tc
+zero is 5.6 K, which is the highest value 
+among BiS2 based superconductors synthesized under an ambient pressure. Pb substitution for 
+Bi induces lattice shrinkage along the c axis. These results reflect that superconductivity in 
+this system is responsive to the lattice strain. 
+ 
+Key word : A. Superconductivity, A. BiS2-superconductor, E. Transport properties, E. 
+Magnetism, E. Scanning tunneling spectroscopy(STM)  
+ 
+ 
+
+
+ 
+3
+Introduction 
+High temperature superconductivity is the one of the most interesting phenomena in 
+solid state physics. This phenomenon has been achieved in cuprates and iron-based 
+superconductors [1-13]. One of the common features in these materials is the layered structure 
+composed of block layers and conduction layers. This structure leads to two dimensional 
+conduction, which is intrinsic to unconventional superconducting mechanism. This structure 
+also contribute to the carrier doping which is needed to realize superconductivity: the block 
+layers supply carriers into the conduction layers without introducing structural disorder of the 
+conduction layers.  
+ 
+Recently, BiS2 based superconductors has been discovered [14,15]. These 
+superconductors have the similar layered structure to cuprates and iron-based superconductors. 
+So, this material is possible candidate for another high temperature superconductor. Up to now, 
+many members of BiS2 superconductors have been reported [16-26]. Among them, NdOBiS2 
+shows superconductivity when a part of O2- ions are partly substituted F- ions [16]. The Tc 
+changes by the control of the F concentration and becomes the maximum value of 5.2K at the 
+F concentration of 40 %. This Tc is the highest value among BiS2 based superconductors 
+synthesized in an ambient pressure. Interestingly, the Tc increases up to around 6.5 K when 
+the samples are measured under a high pressure [27]. This increase of Tc is common 
+properties in BiS2 compounds with the block layers of LnO (Ln=La, Pr, Ce, Nd) [28-36]. 
+
+
+ 
+4
+Furthermore, a theoretical study for La(O,F)BiS2 using a first principle band calculation 
+indicated that the distance between La and S outside of the BiS2 layer significantly affects the 
+electronic structure [37]. These results may imply that the properties of BiS2 superconductors 
+are quite sensitive for a lattice strain. Considering these facts, it is interesting to induce the 
+lattice strain into the compounds by a partial substitution of atoms to investigate the relation 
+between Tc and the lattice strain. 
+       In this study, we report an increase of Tc for NdO0.7F0.3BiS2 single crystals by partial 
+substitution of Pb for Bi. The ionic radius of Pb ion is larger than that of Bi ion. Therefore, a 
+strain can be introduced to the crystal structure in an ambient pressure when Pb ions are 
+substituted for Bi ions. These single crystals were synthesized by a flux method in quarts 
+tubes. A c axis significantly decreases with increasing Pb concentration up to 6% while a a 
+axis gradually increases. The Tc of these crystals increases with increasing Pb concentration 
+until 6 %. A maximum value of Tc
+zero is 5.6 K, which is the highest value among those of BiS2 
+superconductors synthesized in an ambient pressure. These facts suggest that superconducting 
+properties are responsible to the lattice strain. 
+ 
+Experimental 
+    Single crystal samples of NdO0.7F0.3Bi1-xPbxS2 (x=0.01-0.1) were prepared by a CsCl 
+flux method in vacuumed quarts tubes [38,39]. Mixtures of Bi (Mituswa Chemicals Co. Ltd., 
+
+
+ 
+5
+99.9%), Bi2S3, Bi2O3 (Kojyundo Chemical Laboratory Co. Ltd., 99.99%), BiF3 (Stella 
+Chemifa Co. Ltd., 99%), Nd2S3 (Kojyundo Chemical Laboratory Co. Ltd., 99%), and PbO 
+(Kojyundo Chemical Laboratory Co. Ltd., 99.9%) were ground with nominal compositions of 
+NdO0.7F0.3Bi1-xPbxS2 (x=0.01-0.1). Bi2S3 was obtained by sintering the mixtures of Bi and S 
+(Kojyundo Chemical Laboratory Co. Ltd., 99.99%) in the evacuated quartz tube at 500 °C for 
+10 hours. The mixture of 0.8 g was mixed with CsCl powder (Kojyundo Chemical Laboratory 
+Co. Ltd., 99.9%) of 5 g, and sealed in an evacuated quartz tube. The tube was heated at 
+800 °C for 10 hours and cooled down to 630 °C at a rate of 0.5 or 1.0 °C/h. After this thermal 
+process, the sintered materials were washed by distilled water to remove the flux. The 
+obtained single crystals were characterized by X-ray diffraction measurements with Cu-K 
+radiation using the -2 method. The surface structure of single crystals was observed by a 
+laboratory-build scanning tunneling microscope (STM) at 4 K. The temperature dependence 
+of magnetic susceptibility was measured by a superconducting quantum interface device 
+(SQUID) magnetometer with an applied field of 10 Oe. The field was applied parallel to the c 
+axis of the sample. Tc
+mag is defined as the crossing point of fitting lines for the magnetic 
+susceptibility in the normal state near the transition and the line in the drop area during the 
+transition. The resistivity measurements were performed using the four-terminal method from 
+2 to 300 K. The Tc
+onset is defined as a crossing point of fitting lines for resistivity in the normal 
+state near the transition and the line in the drop area during the transition. The Tc
+zero is defined 
+
+
+ 
+6
+as the temperature where resistivity becomes zero. 
+ 
+Results 
+      Figure 1(a) shows X-ray diffraction profiles for the single crystal samples of 
+NdO0.7F0.3Bi1-xPbxS2 (x=0.01-0.10), respectively. The bottom profile shows (00l) peaks of 
+NdOBiS2 as reference. All of the peaks are corresponded to the (00l) peaks of CeOBiS2 type 
+structure with the space group P4/nmm symmetry. Enlarged (004) peaks are shown in 
+Fig.1(b). These peaks gradually shift to higher angle with increasing Pb concentration. 
+Figure 2(a) exhibits c axis of Pb doped samples. The c axis significantly decreases with 
+increasing Pb concentration until x=0.06, and become almost constant up to x=0.10. The a 
+axis was estimated by X-ray diffraction using the powder prepared by grinding the single 
+crystals. As shown in Fig. 2(b), the a axis gradually increases with increasing Pb 
+concentration up to x=0.10. The monotonic change in the a axis guarantees the partial 
+substitution of Pb for Bi in this x range. 
+       We also observed the cleaved sample surface by STM technique. Figure 3 shows a 
+STM image of NdO0.7F0.3Bi0.96Pb0.04S2 single crystal. The observed surface shows a square 
+lattice with a lattice constant of 3.9 Å, which corresponds to the lattice constant a. No 
+indication of Pb segregation or phase separation was observed. The observed atoms are 
+thought to be Bi atoms on the topmost BiS2 layer as in the case of NdO0.7F0.3BiS2 [40]. The 
+
+
+ 
+7
+number of dark spots, which indicate Bi defect, was about 4%. This concentration of the 
+defect is the almost same as previous report in NdO0.7F0.3BiS2 [40]. Thus, the number of 
+defects is not affected by the Pb substitution.  
+     Figure 4(a) exhibits temperature dependences of magnetic susceptibility for 
+NdO0.7F0.3Bi1-xPbxS2 (x=0.01-0.10) single crystals. Large diamagnetic signal corresponds to 
+superconductivity can be seen for all Pb doped samples. To determine these superconducting 
+transition temperatures (Tc), the magnetic susceptibility near the Tc is shown in Fig. 4(b). 
+The Tc increases with increasing Pb concentration until x=0.06, and decreases at x=0.10. The 
+highest Tc 
+mag is 5.6 K.  
+   The temperature dependence of resistivity for all Pb doped samples is presented in 
+Fig. 5(a). All samples show the sharp superconducting transition and zero resistivity around 
+6K, which is correspond to superconducting transition. The resistivity near the Tc is 
+exhibited in Fig. 5(b). The Tc
+onset and Tc
+zero increase with increasing Pb concentration until 
+x=0.06, and decrease at x=0.10. The maximum Tc
+zero is 5.6 K at x=0.06, which is the highest 
+value among the BiS2-based superconductors synthesized under an ambient pressure.  
+In order to discuss the temperature dependence of resistivity, we fit the resistivity 
+data to the formula: 
+   
+      
+where    and A, n is fitting parameters. These fitting lines are drown as the gray lines in 
+
+
+ 
+8
+the Fig. 5(a) and fitting parameters are shown in a table 1. The resistivity of samples with 
+x=0.02 and 0.04 can be fitted to the formula from 300 K down to 80 K, and shows a slight 
+upturn below 80 K. For the samples with x=0.06 and 0.10, the fitting region goes down to 
+20 K. Namely, these sample shows the more metallic behavior than the samples with 
+x=0.02 and 0.04. This result implies that the upturn of resistivity is suppressed by Pb 
+doping.  
+The resistivity at the room temperature for each Pb doped sample increases with 
+increasing Pb concentration until x=0.06. This change in resistivity mainly comes from the 
+change in   . Because Pb substitution of Bi in BiS2 layer, which is the conduction layer, 
+may increases the disorder of the conduction plane, residual resistivity    seems to 
+increase with Pb doping. However, parameter A also increases at x=0.06. The increase in A 
+cannot be explained by the disorder. This indicates that the Pb doping induces not only as 
+enhancement of the disorder but also modification of the electronic structure through the 
+change in the lattice parameter. It is noted that the resistivity at the room temperature 
+slightly decreases when the amount of Pb is x=0.10. This also shows that the effect of the 
+Pb doping is not only the enhancement of the disorder. 
+        Figure 6 shows a Pb concentration dependence of Tc obtained by each 
+measurement. All Tc gradually increase with increasing Pb concentration until x=0.06. This 
+result indicates that superconductivity is obviously enhanced by the Pb doping. Now, let’s 
+
+
+ 
+9
+consider a relation between Pb doping and the enhancement of Tc. Following two effects are 
+expected by Pb doping. One is the change of the carrier number. A valence of Pb ion is 
+typically Pb2+. This valence is one electron fewer than that of Bi3+. This means that carriers 
+are taken from the compound by Pb doping. Thus, the enhancement of Tc may due to the 
+change in the carrier number. However, this is not the case. In the previous study, the carrier 
+number dependence on Tc was reported in NdO1-xFxBiS2, where the carrier number was 
+controlled by the amount of F- concentration substituted for O2-. In that study, the maximum 
+Tc was achieved at the F concentration of x=0.4 [16]. Thus, to obtain the maximum Tc by 
+carrier doping into NdO0.7F0.3BiS2, it needs 0.1 electron per Bi ion doping into the sample. 
+On the other hand, Pb doping introduces the hole carriers into the sample. This should 
+decrease Tc. Therefore, the enhancement of Tc is not due to the carrier doping. Furthermore, 
+the observed maximum Tc in Pb doped sample is higher than that of NdO1-xFxBiS2. Thus, the 
+observed enhancement of Tc cannot be explained by the change in the carrier number. 
+The other effect of the Pb doping is the change in the lattice constant. Ionic radius of 
+Pb2+ ion is larger than that of Bi3+ ion. Thus, the crystal is slightly strained by doping Pb ions. 
+As shown in Fig. 2, the lattice constant a and c changes depending on the amount of doped 
+Pb. This effect may be related to the enhancement of Tc. Actually, many papers have 
+revealed that Tc of BiS2 based superconductors with LnOBiS2 type structure increases under 
+the high-pressure where the lattice constant decreases [27-36]. Theoretical study also 
+
+
+ 
+10
+reported that the band structure of BiS2-based materials is sensitive to the lattice constant 
+along the c axis [37,41,42].  Thus, it is plausible that the Tc enhancement with Pb doping is 
+achieved by shrinkage along the c axis. In this scenario, the saturation of Tc at x=0.1 is 
+consistent with the saturation of the lattice constant c as shown in Fig.2 (b). 
+ 
+Summary 
+       We achieved the increase of Tc by the Pb substitution of Bi in NdO0.7F0.3BiS2. The 
+enhancement of Tc is attributed the change in the lattice contraction along the c axis. The Tc
+zero 
+increases with decreasing c axis, and becomes the maximum value around 5.6 K at the Pb 
+concentration of 6 %, which is the highest value among BiS2 based superconductors 
+synthesized under the ambient pressure. These results indicate that superconductivity in this 
+material is strongly associated with the lattice strain. 
+ 
+Acknowledgements 
+      This work was partly supported by a Grant-in-Aid for Scientific Research from the 
+Ministry of Education, Culture, Sports, Science and Technology (KAKENHI). 
+
+
+ 
+11
+References 
+[1] J. G. Bednorz and K. Müller, Z. Physik B Condensed Matter 64 (1986) 189. 
+[2] M. K. Wu et al., Phys. Rev. Lett. 58 (1987) 908. 
+[3] H. Maeda, Y. Tanaka and T. Asano, Jpn. J. Appl. Phys. 27 (1988) L209. 
+[4] A. Schilling, M. Cantoni, J. D. Guo and H. R. Ott, Nature 363 (1993) 56. 
+[5] Y. Kamihara, T. Watanabe, M. Hirano and H. Hosono, J. Am. Chem. Soc. 130 (2008) 
+3296. 
+[6] X. H. Chen, T. Wu, G. Wu, R. H. Liu, H. Chen and D. F. Fang, Nature 453 (2008) 761. 
+[7] Z. A. Ren et al., Chinese Phys. Lett. 25 (2008) 2215. 
+[8] M. Rotter, M. Tegel and D. Johrendt Phys. Rev. Lett. 101 (2008) 107006. 
+[9] X. C. Wang, Q. Q. Liu, Y. X. Lv, W. B. Gao, L. X. Yang, R. C. Yu, F. Y. Li and C. Q. Jin, 
+Solid State Commun. 148 (2008) 538. 
+[10] F. C. Hsu et al., Proc. Natl. Acad. Sci. U. S. A. 105 (2008) 14262. 
+[11] K. W. Yeh et al., Europhys. Letter 84 (2008) 37002. 
+[12] Y. Mizuguchi, F. Taomita, T. Yamaguchi and Y. Takano, Appl. Phys. Lett. 94 (2009) 
+012503. 
+[13] J. Guo, S. Jin, G. Wang, K. Zhu, T. Zhou, M. He and X. Chen, Phys. Rev. B 82 (2010) 
+180520. 
+[14] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+
+
+ 
+12
+Takano, H. Izawa and O. Miura, Phys. Rev. B 86 (2012 ) 220510(R). 
+[15] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa and O. 
+Miura, J. Phys. Soc. Jpn. 81 (2012) 114725. 
+[16] S. Demura et al., J. Phys. Soc. Jpn. 82 (2013) 033708. 
+[17] H. Lei, K. Wang, M. Abeykoon, E. S. Bozin, C. Petrovic, Inorg. Chem. 52 (2013) 10685. 
+[18] J. Xing, S. Li, X. Ding, H. Yang, Hai-Hu Wen, Phys. Rev. B 86 (2012) 214518. 
+[19] R. Jha, A. Kumar, S. K. Singh, V. P. S. Awana J. Sup. and Novel Mag. 26 (2013) 499.  
+[20] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, M. B. Maple, 
+Philosophical Magazine 93 (2012) 673. 
+[21] D. Yazici et al., Phys. Rev. B 87 (2013) 174512. 
+[22] X. Lin et al., Phys. Rev. B 87 (2013) 020504(R). 
+[23] H. F. Zhai et al., Phys. Rev. B 90 (2014) 064518. 
+[24] A. Krzton-Maziopa et al., J. Phys.: Condens. Matter 26 (2014) 215702. 
+[25] G. S. Thakur, G. K. Selvan, Z. Haque, L. C. Gupta, S. L. Samal, S. Arumugam and A. K. 
+Ganguli, Inorg. Chem. 54 (2015) 1076. 
+[26] H. F. Zhai et al., J. American Chem. Soc. 136 (2014) 15386. 
+[27] C. T. Wolowiec, B. D. White, I. Jeon, D. Yazici, K. Huang, M. B. Maple, J. Phys.: 
+Condens. Matter 25 (2013) 422201. 
+[28] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+
+
+ 
+13
+Deguchi, Y. Takano, J. Phys. Soc. Jpn. 81 (2012) 103702.  
+[29] G. K. Selvan, M. Kanagaraj, S. E. Muthu, R. Jha, V. P. S. Awana, S. Arumugam, Phys. 
+Stat. Sol. Rapid Res. Lett. (2013). 
+[30] C. T. Wolowiec, D. Yazici, B. D. White, K. Huang and M. B. Maple, Phys. Rev. B 88  
+(2013) 064503. 
+[31] G. K. Selvan, M. Kanagaraj, R. Jha, V. P. S. Awana, S. Arumugam, arXiv:1307.4877. 
+[32] T. Tomita et al., J. Phys. Soc. Jpn. 83 (2014) 063704. 
+[33] R. Jha, H. Kishan, V. P. S. Awana, Solid State Communications 194 (2014) 6. 
+[34] M. Fujioka, M. Nagao, S. J. Denholme, M. Tanaka, H. Takeya, T. Yamaguchi, Y. 
+Takano, Appl. Phys. Lett. 105 (2014) 052601. 
+[35] R. Jha, V. P. S. Awana, arXiv:1502.05502. 
+[36] G. S. Thakur, R. Jha, Z. Haque, V. P. S. Awana, L. C. Gupta, A. K. Ganguli,  
+arXiv:1504.08088. 
+[37] K. Suzuki, H. Usui and K. Kuroki, Physical Procedia 45 (2013) 21. 
+[38] M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada and I. Tanaka, J. Phys. Soc. Jpn. 81 (2012) 103702. 
+[39] M. Nagao, A. Miura, S. Demura, K. Deguchi, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada and I. Tanaka, Solid State. Commun. 178 (2014 ) 33. 
+[40] T. Machida, Y. Fujisawa, M. Nagao, S. Demura S, Deguchi K, Y. Mizuguchi, Y. Takano Y, 
+
+
+ 
+14
+H. Sakata, J. Phys. Soc. Jpn 83 (2014 ) 113701. 
+[41] T. Sugimoto, B. Joseph, E. Paris, A. Iadecola, T. Mizokawa, S. Demura, Y. Mizuguchi, Y. 
+Takano and N. L. Saini, Phys. Rev. B 89 (2014 ) 201117. 
+[42] E. Paris et al., J. Phys.: Condens. Matter 26 (2014) 435701. 
+Figure caption 
+Fig. 1 (Color online) 
+(a) X-ray diffraction patterns for single crystals of NdO0.7F0.3Bi1-xPbxS2 (x=0.01-0.1). The 
+bottom black line shows the reference (00l) peaks of NdOBiS2. (b) Enlarged figure of (004) 
+peaks for Pb doped samples. 
+Fig. 2 (Color online) 
+(a, b) Pb concentration dependence of c and a axis. These a axis were estimated by the 
+powder X-ray measurements using ground single crystals.  
+Fig. 3(Color online) 
+STM image of the NdO0.7F0.3Bi0.96Pb0.04S2 single crystal on a 130 × 130 Å2 field of view taken 
+at V = +1400 mV and I = 500 pA. The inset show a Fourier transform image. The red arrows 
+indicate the direction an atom period corresponded to cell parameter of a axis.  
+Fig. 4 (Color online) 
+(a) The temperature dependence of the magnetic susceptibility for single crystals of 
+NdO0.7F0.3Bi1-xPbxS2 (x=0.01-0.1). (b) The enlarged figure of magnetic susceptibility near the 
+
+
+ 
+15
+superconducting transition. 
+Fig. 5 (Color online) 
+(a) The temperature dependence of resistivity for single crystals of NdO0.7F0.3Bi1-xPbxS2 
+(x=0.01-0.1) between 300 and 2 K. (b) The enlarged picture of resistivity between 10 and 2 K. 
+Fig. 6 (Color online) 
+The nominal F concentration x - superconducting transition temperature phase diagram for 
+single crystals of NdO0.7F0.3Bi1-xPbxS2 (x=0.01-0.1). 
+Table 1 
+Fitting parameters of resistivity for single crystals of NdO0.7F0.3Bi1-xPbxS2 (x=0.02-0.1). 
+ 
+ 
+
+
+ 
+16
+ 
+ 
+ 
+Fig. 1(a, b) 
+10
+20
+30
+40
+50
+60
+70
+Intensity (arb. unit)
+2 (degree)
+x = 0.10
+x = 0.01
+(a) NdO0.7F0.3Bi1-xPbxS2
+002
+003
+004
+005
+006
+007
+008
+009
+x = 0.02
+x = 0.06
+x = 0.03
+x = 0.04
+25
+26
+27
+28
+Intensity (arb. unit)
+2 (degree)
+004
+(b) NdO0.7F0.3Bi1-xPbxS2
+x = 0.10
+x = 0.01
+x = 0.02
+x = 0.06
+x = 0.03
+x = 0.04
+
+
+ 
+17
+ 
+ 
+Fig. 2(a,b) 
+13.49
+13.5
+13.51
+13.52
+13.53
+13.54
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+c-axis (Å)
+Pb concentration
+(a) NdO0.7F0.3Bi1-xPbxS2
+3.95
+3.96
+3.97
+3.98
+3.99
+4
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+a-axis (Å)
+Pb concentration
+(b) NdO0.7F0.3Bi1-xPbxS2
+
+
+ 
+18
+ 
+Fig. 3 
+ 
+ 
+3 nm
+q1
+q2
+V set / I set = 1400mV / 260 pA
+
+
+ 
+19
+ 
+Fig. 4(a,b) 
+ 
+ 
+ 
+ 
+-0.06
+-0.05
+-0.04
+-0.03
+-0.02
+-0.01
+0
+0.01
+0.02
+1
+2
+3
+4
+5
+6
+7
+Magnetic susceptibility (emu / g)
+Temperature (K)
+(a) NdO0.7F0.3Bi1-xPbxS2
+x = 0.02
+x = 0.01
+x = 0.03
+x = 0.04
+x = 0.06
+x = 0.10
+10 Oe
+H // c axis
+-0.0004
+-0.0002
+0
+0.0002
+0.0004
+0.0006
+0.0008
+4.5
+5
+5.5
+6
+6.5
+Magnetic susceptibility (emu / g)
+Temperature (K)
+x = 0.02
+x = 0.01
+x = 0.03
+x = 0.04
+x = 0.06
+x = 0.10
+(b) NdO0.7F0.3Bi1-xPbxS2
+10 Oe
+H // c axis
+
+
+ 
+20
+ 
+ 
+Fig. 5(a, b) 
+ 
+ 
+ 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0
+50
+100
+150
+200
+250
+300
+Temperature (K)
+(a) NdO0.7F0.3Bi1-xPbxS2
+Resistivity (mcm)
+x = 0.06
+x = 0.04
+x = 0.02
+x = 0.10
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Temperature (K)
+(b) NdO0.7F0.3Bi1-xPbxS2
+Resistivity (mcm)
+x = 0.06
+x = 0.04
+x = 0.02
+x = 0.10
+
+
+ 
+21
+ 
+F concentration 
+ 0.02 
+0.04 
+0.06 
+0.1 
+ₒ (× 10-1 W cm) 
+ 0.49 
+1.73 
+4.31 
+3.25 
+A(×10-4) 
+ 1.20 
+0.94 
+1.76 
+1.08 
+ 
+n 
+  0.98 
+1.15 
+1.27 
+1.28 
+Table 1 
+ 
+ 
+
+
+ 
+22
+ 
+ 
+Fig. 6 
+ 
+3.5
+4
+4.5
+5
+5.5
+6
+6.5
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+Tconset
+Tczero
+Tcmag
+Tc (K)
+Pb concentration x
+NdO0.7F0.3Bi1-xPbxS2
+
+

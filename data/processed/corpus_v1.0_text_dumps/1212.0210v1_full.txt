@@ -1,0 +1,1053 @@
+arXiv:1212.0210v1  [cond-mat.str-el]  2 Dec 2012
+RPA Analysis of a Two-orbital Model for the BiS2-based Superconductors
+G. B. Martins,1, ∗A. Moreo,2 and E. Dagotto2
+1Department of Physics, Oakland University, Rochester, MI 48309, USA.
+2Department of Physics and Astronomy, University of Tennessee,
+Knoxville, TN 37996 and Materials Science and Technology Division,
+Oak Ridge National Laboratory, Oak Ridge, TN 37831.
+The random-phase approximation (RPA) is here applied to a two-orbital model for the BiS2-based supercon-
+ductors that was recently proposed by Usui et al., arXiv:1207.3888. Varying the density of doped electrons per
+Bi site, n, in the range 0.46 ≤n ≤1.0, the spin ﬂuctuations promote competing A1g and B2g superconducting
+states with similar pairing strengths, in analogy with the A1g-B1g near degeneracy found also within RPA in
+models for pnictides. At these band ﬁllings, two hole-pockets centered at (0, 0) and (π, π) display nearly paral-
+lel Fermi Surface segments close to wavevector (π/2, π/2), whose distance increases with n. After introducing
+electronic interactions treated in the RPA, the inter-pocket nesting of these segments leads to pair scattering with
+a rather “local” character in k-space. The similarity between the A1g and B2g channels observed here should
+manifest in experiments on BiS2-based superconductors if the pairing is caused by spin ﬂuctuations.
+PACS numbers: 74.20.Mn,74.20.Rp,74.70.-b
+Introduction.—The recently discovered family of layered
+bismuth oxy-sulﬁde superconductors1–22 has immediately at-
+tracted considerable attention from the Condensed Matter
+community due to its close similarities with the famous iron-
+pnictide superconductors.23–27 As in the case of other layered
+unconventional superconductors, such as the cuprates and the
+aforementioned iron pnictides/chalcogenides, this new fam-
+ily displays a layered structure involving BiS2 planes where
+the observed superconductivity is believed to reside.
+The
+ﬁrst report of superconductivity originated in Bi4O4S3, with
+Tc = 4.5 K.1 Superconductivity has also been reported in
+ReO1−xFxBiS2, where Re = La, Nd, Ce, and Pr, with cor-
+responding Tc = 10.6,2 5.6,5 3.0,15 and 5.5 K.17 These com-
+pounds are metallic in the normal state and Density Functional
+Theory calculations indicate that the relevant bands crossing
+the Fermi surface (FS) originate mainly from the Bi 6p or-
+bitals, as shown, e.g., for LaO1−xFxBiS2.3 However, con-
+trary to the majority of the Cu- and Fe-based unconventional
+superconductors, no magnetically ordered phase has been de-
+tected thus far in the BiS2 compounds. This apparent ab-
+sence of magnetism in the BiS2 compounds may still locate
+them in the same category as LiFeAs, FeSe, and possibly
+Sr2VO3FeAs,24 that are also non magnetic but their pairing
+properties are widely believed to still originate in short-range
+magnetic ﬂuctuations. For these reasons, and despite the ab-
+sence of observed long-range magnetism in BiS2, it is impor-
+tant to study the potential role of spin ﬂuctuations in these
+novel materials and the pairing channels that those ﬂuctua-
+tions tend to favor, to help in the analysis of experimental data.
+In this manuscript, the two-orbital (2-orbital) model re-
+cently introduced by Usui et al. is adopted.3 The fact that
+the relevant orbitals in BiS2 compounds are p-type, where
+Coulomb interactions should be smaller than in d orbitals,
+turns RPA into a suitable technique, whose results deserve a
+careful analysis if electron correlations are found to be impor-
+tant for superconductivity in these materials. Similar calcula-
+tions for a related four-orbital model3 are underway. Note that
+in Ref. 3 a brief discussion of RPA calculations has already
+been presented. The results discussed by Usui et al. consisted
+of a single set of couplings (equivalent to our J/U = 0.2 cal-
+culations below) at n = 0.5. Their early weak-coupling RPA
+analysis is here expanded via a systematic study of the inﬂu-
+ence of the band ﬁlling n and the identiﬁcation of the domi-
+nant channels for superconductivity under the assumption of
+a spin ﬂuctuations mechanism. The main novel contribution
+of our present effort is the identiﬁcation of closely competing
+B2g and A1g gap functions as the dominant pairing channels,
+particularly for band ﬁllings around n = 0.5. At quarter ﬁll-
+ing (n = 1.0), another pair of almost degenerate gap func-
+tions (with symmetries A2g and B1g) is found to closely com-
+pete with the previously mentioned dominant pair, especially
+at J/U = 0.3.
+Hamiltonian. The 2-orbital model described by Usui et al.3
+contains hopping parameters up to fourth neighbors, and in
+k-space is given by
+HTB(k) =
+X
+k,σ,µ,ν
+T µν(k)d†
+k,µ,σdk,ν,σ ,
+(1)
+where
+T XX = 2tX
+x (cos kx + cos ky) + 2tX
+x∓y cos (kx ± ky)
+(2)
++ 2tX
+2x∓y [cos (2kx ± ky) + cos (kx ± 2ky)] + ǫX,
+T Y Y
+= 2tY
+x (cos kx + cos ky) + 2tY
+x±y cos (kx ∓ky)
+(3)
++ 22tY
+2x±y [cos (2kx ∓ky) + cos (kx ∓2ky)] + ǫY ,
+T XY
+= T Y X = 2tXY
+x
+(cos kx −cos ky)
+(4)
++ 4tXY
+2x (cos 2kx −cos 2ky)
++ 4tXY
+2x+y (cos 2kx cos ky −cos kx cos 2ky) .
+The operator d†
+k,ν,σ (dk,ν,σ) in Eq. (1) creates (annihilates) an
+electron in band ν = X, Y , with spin σ = ±, and wavevec-
+tor k. The values for the hopping parameters are those from
+Ref. 3, and are reproduced in Table I for completeness (in eV
+units, as used throughout this paper). Figure 1(a) shows the
+FS hole-pockets for four different band ﬁllings n = 0.46,
+0.5, 0.65, and 1.0, with corresponding chemical potentials
+
+
+2
+TABLE I: Tight-binding parameters (eV) for 2-orbital model.
+ǫX,Y
+tX,Y
+x
+tX,Y
+x∓y
+tX,Y
+x±y tX,Y
+2x∓y tX,Y
+2x±y tXY
+x
+tXY
+2x
+tXY
+2x+y
+2.811 −0.167 0.880 0.094 0.069 0.014 0.107 −0.028 0.020
+0
+K
+x
+(a)
+0
+ 
+K
+y
+ n=0.46
+ n=0.5
+ n=0.65
+ n=1.0
+(0,0)
+0
+ n=0.46
+ n=0.5
+ n=0.65
+ n=1.0
+(
+,
+)
+(
+,0)
+(k
+x
+,k
+y
+)
+(0,0)
+(b)
+FIG. 1: (Color online) (a) Hole-pockets for four different electronic
+ﬁllings: n = 0.46 (solid red), n = 0.50 (dashed green), n = 0.65
+(dotted blue), and n = 1.00 (dot-dashed magenta). Note that close
+to the (π/2, π/2) wavevector, where the n = 0.46 pockets almost
+touch, the increase of n decreases the radius of the hole-pockets and,
+more importantly, the adjacent FS segments (inside the dashed box)
+become more and more parallel. (b) Lindhard function χ0 for the
+same ﬁllings as in panel (a). Note that the position in k-space of the
+leftmost peak is clearly associated to FS nesting through a (kn, 0)
+vector, as indicated in the inset, which zooms-in the dashed box in
+panel (a). Indeed, the position of the leftmost peaks in χ0 agree
+(within a few percent) with the vectors indicated in the inset (see text
+for details, especially Fig. 5). Obviously, there are additional nesting
+vectors that become evident in a 2-d plot of χ0 [Fig. 5(b)].
+µ = 1.10375, 1.12514, 1.21828, and 1.52621 (in principle,
+n = x in LaO1−xFxBiS2).3 Panel (b) shows the correspond-
+ing non-interacting magnetic susceptibilities χ0. The leftmost
+peaks in χ0, located at (kn, 0), with 0 ≲kn ≲π/2 as the ﬁll-
+ing varies from n = 0.46 to 1.0, can be associated to FS nest-
+ing once it is noticed that their position matches the horizon-
+tal separation between the two adjacent FS segments from the
+pockets centered at (0, 0) (Γ) and (π, π) (M), as highlighted
+by the dashed box in panel (a) and sketched in the inset to
+panel (b). Note that the horizontal separation is well deﬁned if
+the two FS segments are parallel, which is the limiting case as
+n increases, as shown in the inset, to n = 1.0 (for details, see
+Fig. 5 and the associated discussion). It is also important to re-
+mark that once interactions are introduced, the leftmost peak
+in χ0 is the one that diverges in the RPA calculation of the
+spin susceptibility χRPA for almost all the ﬁllings and various
+values of interaction parameters. This divergence indicates a
+tendency to magnetic order, or at least strong spin ﬂuctuations
+(paramagnons), with characteristic wavelength determined by
+(kn, 0). Our analysis is not extended into the n ≤0.45 re-
+gion since there the topology of the FS changes (see Ref. 3
+for details of the FS at lower ﬁllings28).
+R P A
+(a .u .)
+J/U = 0.3
+U = 1.08
+n = 0.46
+(a)
+(0,0)
+(
+,0)
+(k
+x
+,k
+y
+)
+(
+,
+)
+(0,0)
+k
+x
+0
+0
+ 
+k
+y
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+B
+2g
+k
+y
+(b)
+R P A
+(a .u .)
+J/U = 0.3
+U = 1.363
+n = 0.5
+(0,0)
+(
+,0)
+(k
+x
+,k
+y
+)
+(
+,
+)
+(0,0)
+k
+x
+0
+0
+B
+2g
+ 
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+FIG. 2: (Color online) RPA spin susceptibility (solid red curves in
+the main panels) and dominant gap function (red and blue dots in
+the insets) for (a) n = 0.46 and (b) n = 0.50. In the inset to each
+panel, the dominant gap function with symmetry B2g is shown. The
+subdominant gap function (not shown) has symmetry A1g and its
+eigenvalue is almost degenerate with the dominant one (see text).
+The Coulomb interaction in the Hamiltonian is given by
+Hint = U
+X
+i,α
+ni,α,↑ni,α,↓+ (U ′ −J/2)
+X
+i,α<β
+ni,αni,β
+−2J
+X
+i,α<β
+Si,α · Si,β
++ J
+X
+i,α<β
+(d†
+i,α,↑d†
+i,α,↓di,β,↓di,β,↑+ h.c.),
+(5)
+where the notation is standard and the many terms have been
+described elsewhere.29 Here, the usual relation U ′ = U −2J
+is assumed, and J/U is a parameter. Calculations were done
+for 0.1 ≤J/U ≤0.4, in steps of 0.1, for the four ﬁllings n =
+0.46, 0.50, 0.65, and 1.0. The multi-orbital RPA calculations
+performed here follow closely those described in Ref. 30, and
+previous works by the authors.29,31 All results were obtained
+at temperature T = 10−4 and an imaginary part η = 10−5
+was used to regularize the Green’s functions.
+Our RPA results for spin-singlet pairing link the dominant
+superconducting gap functions to spin ﬂuctuations, which
+originate in FS nesting and are enhanced by electronic inter-
+actions. The particular relative topology of the two adjacent
+hole-pockets (see Fig. 1) promotes pairing whose strength is
+independent of the global symmetry of the pairing functions
+[see Fig. 4(b)]. Indeed, the B2g and A1g symmetries have
+essentially the same pairing strength, which is determined
+by pair scattering between these two adjacent FS segments
+(see Fig. 5) close to (π/2, π/2) in the Brillouin Zone (BZ).
+In addition, our results show that both dominant gap func-
+tions change sign between these two segments (Figs. 2 to 4),
+and the pairing is through the intraorbital scattering channel
+[Fig. 3(b)]. The near degeneracy A1g-B2g is the analog of the
+near degeneracy A1g-B1g found also in RPA calculations for
+the pnictides,30 since the pocket structures in both cases can
+be related by a 45o rotation. Results for spin-triplet pairing
+are presented in the supplemental material at the end of the
+manuscript.
+Results and Discussion. As mentioned above, the most im-
+portant feature of the FS for ﬁllings between 0.46 and 1.0 is
+that the hole-pockets centered at the Γ and M points present
+almost parallel segments close to the (π/2, π/2) wavevector,
+
+
+3
+0
+k
+x
+0
+ 
+k
+y
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+B
+2g
+R P A
+(a .u .)
+(a)
+J/U =0.3
+U = 1.53
+n = 0.65
+(0,0)
+(
+,0)
+(k
+x
+,k
+y
+)
+(
+,
+)
+(0,0)
+0.0
+0.3
+0.6
+0.9
+0.0
+0.3
+0.6
+0.9
+ X
+ Y
+2
+ 
+0
+|
+|
+2
+|
+|
+2
+(c)
+(b)
+    (
+,
+)
+pocket
+ 
+ X
+ Y
+  (0,0)
+pocket
+FIG. 3: (Color online) (a) RPA spin susceptibility and dominant gap
+function for n = 0.65. Orbital composition for the (0, 0) and (π, π)
+FS pockets (n = 0.65), (c) and (d), respectively. The winding angle
+θ is counter-clockwise, starting from the kx direction. Assuming the
+nesting described in the inset to Fig. 1(b) as producing the spin ﬂuc-
+tuations that provide pairing, the pair coupling is then intraorbital.
+k
+y
+0
+(a)
+A
+1g
+0
+k
+y
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+J/U=0.3
+U=1.8
+n=1.0
+0.0
+0.4
+0.8
+1.2
+1.6
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+ 
+J/U = 0.3
+U = 1.8
+n = 1.0
+ 
+U
+ A
+1g
+ B
+2g
+(b)
+0
+k
+x
+B
+2g
+0
+ 
+k
+y
+ 
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+FIG. 4: (Color online) (a) Dominant gap function with symmetry
+A1g at n = 1.0. (b) Main panel: normalized pairing strengths λ for
+the dominant (A1g, solid red curve) and subdominant (B2g, dashed
+green curve) gap functions. Although the two curves are very close,
+the eigenvalues are not degenerate. In the inset, the structure of the
+subdominant gap function (B2g) is shown. When compared to that
+of the dominant one [A1g in panel (a)], it is clear that the structure
+around (π/2, π/2) is very similar for both of them, explaining why
+the pairing strengths (eigenvalues) are the same. The region inside
+the dashed box, in panel (a), is analyzed in detail in Fig. 5(a).
+becoming more and more parallel as the pockets shrink, with
+increasing ﬁlling [see Fig. 1(a) and inset in Fig. 1(b)]. In
+Figs. 2 and 3 it will be shown that this has important con-
+sequences for the spin ﬂuctuations and the superconducting
+pairing associated to this 2-orbital model.
+Indeed, as dis-
+played in the main panel of Fig. 2(a) (solid (red) curve), there
+is a divergence in the RPA spin susceptibility for very small k
+values: k0.46 ∼(π/25, 0) for n = 0.46, and k0.50 ∼(π/8, 0)
+for n = 0.50 [panel (b)]. A divergence in the spin susceptibil-
+ity χRPA may point to magnetic order, or at least to strong spin
+ﬂuctuations with wave vector kn. Figure 3(a) shows the same
+calculations, but now for n = 0.65. Note that although χ0
+displays a broad-peak structure around (π, π) [see Fig. 1(b)],
+χRPA does not present a divergence in this region. In the in-
+sets to Figs. 2(a) and (b), and Fig. 3(a), it is shown that the
+dominant gap function at the FS has symmetry B2g for the
+three cases, showing that despite the changes in the size of
+the hole-pockets the results are qualitatively the same. Fig-
+ures 3(b) and (c) contain the orbital contribution (X, red solid
+curve; Y , green dashed curve) of the BZ states at the FS for the
+Γ and M pockets, respectively. It is interesting to note that the
+modiﬁcations in the position of the peak in χRPA correlates
+J/U=0.3
+U=1.8
+n=1.0
+K
+x
+0
+0
+A
+1g
+K
+y
+ 
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+(a)
+0
+K
+y
+ 
+0
+n = 1.0
+K
+x
+0
+0.0
+0.054
+0.11
+0.16
+0.22
+0.27
+0.33
+0.38
+0.44
+(b)
+FIG. 5: (Color online) (a) Region around point (π/2, π/2) of the BZ
+[dashed box in Fig. 4(a)], showing the dominant (A1g) gap-function
+for n = 1.0 and J/U = 0.3. (b) Two dimensional contour plot of
+χ0 also for n = 1.0. The horizontal (blue) vector in panel (a) con-
+nects the maximum amplitude of the gap-function in both pockets.
+Note also the horizontal (blue) vector in panel (b) along the kx direc-
+tion, indicating the position of the maximum value of χ0. These two
+vectors agree up to a difference smaller than the width of this maxi-
+mum peak in χ0. Therefore, it can be shown (see text) that the line
+describing the position of the points in the M pocket in relation to
+the points in the Γ pocket, as indicated by the two additional vectors
+(black and red) in panel (a), satisﬁes ky ∼−kx + kn, where (kn, 0)
+and (0, kn) are the positions of the maxima in χ0 (with n = 1.0).
+This equation also describes the line of local maxima of χ0, as seen
+in panel (b), originating from FS nesting.
+well with the “separation” between the Γ and M hole-pockets
+in the region around (π/2, π/2). For the purposes of describ-
+ing our results, this separation will be deﬁned as the horizontal
+distance between two parallel lines tangent to the hole-pockets
+at the points where each intercepts the Γ−M (Σ) line. As de-
+scribed in more detail in Fig.5(a) [and already mentioned in
+connection with Fig.1(a)], as the ﬁlling increases these seg-
+ments of FS approach more and more the parallel lines just
+deﬁned, justifying the deﬁnition just given.
+The RPA results for the gap functions also point to an inter-
+esting effect, namely, the small value of kn for ﬁllings 0.46 ≤
+n ≤1.0 results in the pairing strength depending on very “lo-
+cal” properties of the gap function at the adjacent segments of
+the hole-pockets. This implies that the pairing strength of gap
+functions with different symmetries is very similar, as long as
+they have the same “local” properties. To demonstrate that,
+in Fig. 4(a) the dominant gap function (with A1g symmetry)
+is shown for n = 1.0 and J/U = 0.3. It is clear that this is
+very similar in structure to the subdominant one shown in the
+previous ﬁgures. In the inset to Fig. 4(b) the subdominant gap
+function with symmetry B2g is displayed for the same param-
+eters. Comparing it with the dominant gap function in panel
+(a) note that, despite having different symmetries, the two gap
+functions are identical in the two adjacent hole-pocket seg-
+ments that cross the Σ line.
+For this reason, their pairing
+strengths as measured by λ (the eigenvalues of the Eliashberg
+Equation), and shown in the main panel of Fig. 4(b), are the
+same to the third decimal place. Note that the two eigenvalues
+for symmetries A1g and B2g are not degenerate. This seems
+a strong indication that the “local” aspect of the pair scatter-
+ing, as mentioned above, seems to be determinant to estab-
+
+
+4
+ 
+K
+x
+0
+0
+K
+y
+ 
+J/U = 0.3  
+n = 1.0  
+U = 1.65
+0.0
+0.63
+1.3
+1.9
+2.5
+3.1
+3.5
+FIG. 6: (Color online) Two-dimensional plot of the RPA spin suscep-
+tibility for n = 1.0. The parameter values are J/U = 0.3 and U =
+1.65. The similarity to the results in Fig. 5(b) is clear, showing also
+that there are relevant nesting features along the ky = −kx + k1.0
+line. Note that a smaller value of U than in Fig. 5(a) was used to
+avoid having a peak at (k1.0, 0) that would wash out the features in
+the rest of the BZ.
+lish the pairing properties of this model, at least in our RPA
+weak-coupling approach. It should be noted that the eigen-
+value results shown in Fig. 4 are basically identical to those
+for lower ﬁllings, shown in previous ﬁgures, with the only
+difference being the order of the dominant and subdominant
+symmetries. Since their eigenvalues are almost identical for
+all ﬁllings studied, this does not have a special signiﬁcance.
+Note that χRPA for n = 1.0 and J/U = 0.3 (not shown)
+follows the same trends as described in Figs. 2 and 3. From
+the orbital composition in Fig. 3(b) and the gap structure in
+Fig. 4 it appears that the symmetry of the B2g and A1g pairing
+operators is determined by the orbitals, while the spatial form
+in both cases is characterized by symmetric nearest-neighbor
+pairing with rotational invariance. Thus, the pairing operators
+have the form ∆† = f(k)(d†
+k,X,↑d†
+−k,X,↓± d†
+k,Y,↑d†
+−k,Y,↓)
+where the + (−) sign corresponds to A1g (B2g) symmetry
+with f(k) =
+cos kx + cos ky, plus higher harmonics with
+A1g symmetry.
+Figure 5(a) shows in more detail the almost parallel FS seg-
+ments of the two hole-pockets for n = 1.0. In this ﬁgure, the
+horizontal (blue) vector that was deﬁned above as the separa-
+tion between the two FS segments is displayed. A vector with
+the same length is reproduced in panel (b), where a 2d plot
+of χ0 in the ﬁrst quadrant of the BZ is also shown. It clearly
+indicates that the position kn of the main peak in χ0 is exactly
+given by the horizontal separation. Not only that, the (red)
+vector along the Σ line in panel (a) is also reproduced in panel
+(b) and it coincides also exactly with a local maximum of χ0.
+In fact (see in both panels the black vectors located at angle
+α), the locus of the ridge of local maxima in χ0 in panel (b)
+exactly coincides with the BZ points deﬁned by the vectors
+connecting the two FS segments for 0 ≤α ≤π/2. Figure 6
+shows the RPA spin susceptibility for n = 1.0. The similarity
+between these results and those in Fig. 5(a) is clear, indicat-
+ing that the FS nesting for the interacting system is the one
+described by the vectors in Fig. 5. Finally, an important issue
+should be highlighted: the four points in the hole-pockets in
+Fig. 5(a) where the gap function has a very pronounced peak,
+are exactly the two pairs of points (one in each pocket) con-
+nected by (k1.0, 0) and (0, k1.0). This fact clearly links the
+pairing properties with the spin ﬂuctuations. Note also that
+for n = 1.0 and J/U = 0.3, the second pair of eigenvalues
+(λ3 = 0.9038 and λ4 = 0.9036) corresponds to symmetries
+A2g and B1g, respectively (not shown). The same occurs for
+J/U = 0.1 and J/U = 0.2, also for n = 1.0 (but the eigen-
+values are smaller). Yet, the same explanation as described in
+Fig. 5 applies. See the supplemental material for a connection
+between the emergence of a B1g symmetry at n = 0.50 with
+the one-dimensionality of the bands.
+Conclusions. Summarizing, a weak-coupling RPA analy-
+sis of a minimal 2-orbital model was used to investigate the
+pairing properties of the BiS2-based superconductors. Fill-
+ings between 0.46 and 1.0 were analyzed. The Hund’s cou-
+pling was varied in the range 0.1 ≤J/U ≤0.4. Qualita-
+tively, the results are similar for all values of J/U and differ-
+ent ﬁllings. In the RPA results described here, a clear rela-
+tionship is found between quasi FS nesting, spin ﬂuctuations,
+and superconductivity: the topology of the two hole-pockets
+is such that they present almost parallel segments close to the
+(π/2, π/2) wavevector in the BZ. It is found that the horizon-
+tal distance (kn, 0) between the tangents to these segments at
+the points where they cross the Σ line is also where the non-
+interacting susceptibility χ0 has a pronounced peak at (kn, 0),
+for 0.46 ≤n ≤1.0. Once interactions are introduced, this
+peak will diverge at a certain critical coupling U for each ﬁll-
+ing, and all the values of J/U studied (with exception of one:
+n = 0.5, J/U = 0.1). In addition, a line of local maxima,
+connecting the BZ points (kn, 0) and (0, kn), is clearly ob-
+served in a 2-d plot of χ0. As expected, this line can also be
+associated to FS nesting. This nesting structure gives origin to
+pairing functions with similar eigenvalues, i.e., similar pairing
+strengths, and symmetries B2g and A1g. This close competi-
+tion originates in the FS quasi nesting properties, which deter-
+mine the spin-ﬂuctuation-mediated inter-pocket pair scatter-
+ing. This pair scattering is overwhelmingly between two adja-
+cent FS segments, therefore the properties of the pairing func-
+tions, including the pairing strength, are quite “local”, hav-
+ing almost no dependence on their global symmetry. One can
+then predict that pairing symmetry measurements may con-
+tain a mixture of both symmetries if the pairing mechanism is
+driven by spin ﬂuctuations.
+GBM acknowledges fruitful conversations with K. Kuroki,
+Q. Luo, and H. Usui. ED and AM were supported by the
+National Science Foundation Grant No. DMR-1104386. Af-
+ter ﬁnishing this manuscript, a related effort addressing the
+pairing symmetry of these materials using a spin model was
+published.32 There, it is found a dominant A1g state analogous
+to ours, but no competing B2g state.
+∗Corresponding author: martins@oakland.edu
+1 Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui,
+
+
+5
+K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura,
+arXiv:1207.3145 (2012).
+2 Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa,
+Y. Gotoh, H. Izawa, and O. Miura, arXiv:1207.3558 (2012).
+3 H. Usui, K. Suzuki, and K. Kuroki, arXiv:1207.3888 (2012).
+4 S. Li, H. Yang, J. Tao, X. Ding, and H.-H. Wen, arXiv:1207.4955
+(2012).
+5 S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara,
+T. Watanabe, S. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa,
+et al., arXiv:1207.5248 (2012).
+6 S. Tan, L. Li, Y. Liu, P. Tong, B. Zhao, W. Lu, and Y. Sun,
+arXiv:1207.5395 (2012).
+7 S. Singh, A. Kumar, B. Gahtori, S. Kirtan, G. Sharma, S. Patnaik,
+and V. Awana, arXiv:1207.5428 (2012).
+8 V. Awana, A. Kumar, R. Jha, S. Kumar, J. Kumar, A. Pal, J. Saha,
+and S. Patnaik, arXiv:1207.6845 (2012).
+9 H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi,
+O.
+Miura,
+S.
+Demura,
+K.
+Deguchi,
+and
+Y.
+Takano,
+arXiv:1207.6935 (2012).
+10 T. Zhou and Z. Wang, arXiv:1208.1101 (2012).
+11 X.
+Wan,
+H.-C.
+Ding,
+S.
+Savrasov,
+and
+C.-G.
+Duan,
+arXiv:1208.1807 (2012).
+12 H. Takatsu, Y. Mizuguchi, H. Izawa, O. Miura, and H. Kadowaki,
+arXiv:1208.2796 (2012).
+13 C. Sathish and K. Yamaura, arXiv:1208.2818 (2012).
+14 R. Jha, A. Kumar, S. Singh, and V. Awana, arXiv:1208.3077
+(2012).
+15 J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen, arXiv:1208.5000
+(2012).
+16 S. Tan, P. Tong, Y. Liu, W. Lu, L. Li, B. Zhao, and Y. Sun,
+arXiv:1208.5307 (2012).
+17 R. Jha, S. Singh, and V. Awana, arXiv:1208.5873 (2012).
+18 K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe,
+S. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, H. Takeya, et al.,
+arXiv:1209.3846 (2012).
+19 B. Li and Z. Xing, arXiv:1210.1743 (2012).
+20 S. Liu, arXiv:1210.2154 (2012).
+21 A. Zhang and Q. Zhang, arXiv:1210.2889 (2012).
+22 H. Lei, K. Wang, M. Abeykoon, E. Bozin, and C. Petrovic,
+arXiv:1208.3189 (2012).
+23 Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Amer.
+Chem. Soc. 130, 3296 (2008).
+24 G. R. Stewart, Rev. Mod. Phys. 83, 1589 (2011).
+25 D. C. Johnston, Adv. Phys. 59, 803 (2010).
+26 P. Dai, J. Hu, and E. Dagotto, Nat. Phys. 8, 709 (2012).
+27 Elbio Dagotto, arXiv:1210.6501 (to appear in Rev. Mod. Phys.).
+28 Note that in Ref. 3 (Fig. 4(c), n = 0.5), there are small pockets
+around the (π, 0) points. To obtain these pockets, hopping matix
+elements to considerably larger distances have to be added to the
+Hamiltonian considered here. The authors of Ref. 3 ascertained
+that the presence or not of these pockets does not alter the main
+RPA results (private communication).
+29 Q. Luo, G. Martins, D.-X. Yao, M. Daghofer, R. Yu, A. Moreo,
+and E. Dagotto, Phys. Rev. B 82, 104508 (2010).
+30 S. Graser, T. A. Maier, P. J. Hirschfeld, and D. J. Scalapino, New
+J. Phys. 11, 025016 (2009).
+31 A. Nicholson, Q. Luo, W. Ge, J. Riera, M. Daghofer, G. B. Mar-
+tins, A. Moreo, and E. Dagotto, Phys. Rev. B 84, 094519 (2011).
+32 Y. Liang, X. Wu, W.-F. Tsai, and J. Hu, arXiv:1211.5435 (2012).
+(a)
+0
+k
+y
+triplet-channel
+      n=0.5
+    J/U=0.3
+    U=1.416
+B
+2g
+k
+x
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+0
+k
+y
+0
+0
+k
+x
+triplet-channel
+      n=0.5
+    J/U=0.3
+    U=1.416
+A
+1g
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+(b)
+FIG. S1: (Color online) (a) Dominant and (b) subdominant gap func-
+tions in the spin-triplet channel, for parameters n = 0.5, J/U = 0.3,
+and U = 1.416.
+I.
+SUPPLEMENTAL MATERIAL
+Spin-triplet pairing. We also tested the two-orbital model
+for the case of spin-triplet pairing. Using the same RPA all the
+four ﬁllings studied in this work were investigated, but calcu-
+lations were carried out only for J/U = 0.2 and 0.3. All
+the critical values obtained for the Hubbard repulsion U were
+slightly above those obtained for the singlet pairing channel.
+However, they were close enough to warrant a brief discussion
+in this supplemental material. Note that in Usui et al.3 the pos-
+sibility of spin-triplet pairing was mentioned, in connection
+with the similarity of the BiS2 bands with those of Sr2RuO4,
+in regards to their common one-dimensionality character. Fig-
+ure S1 shows the gap functions [dominant in panel (a) and
+subdominant in (b)] for parameters n = 0.5, J/U = 0.3,
+and U = 1.416. This critical value of U should be compared
+with that obtained for singlet pairing for the same parameters
+(i.e., U = 1.363, see Fig. 2(b) in the main text). The symme-
+tries for both the dominant (B2g) and subdominant (A1g) gap
+functions in the spin-triplet channel are the same as for the
+spin-singlet channel. The main difference here is that they do
+not have as competing pairing strengths as in the spin-singlet
+channel. Indeed, the eigenvalues for Fig. S1 are λ1 = 1.00
+and λ2 = 0.88, while for the same parameters in the spin-
+singlet channel their values are λ1 = 0.989 and λ2 = 0.985.
+Quasi one-dimensionality. As mentioned in the main text,
+the two-orbital model has a quasi one-dimensional (1d) char-
+acter, with the hopping between next-nearest-neighbor being
+dominant (tX,Y
+x±y = 0.88, see the Table in the main text con-
+taining the hoppings).
+It is then interesting to verify how
+the results are modiﬁed in case all the other hoppings are re-
+moved from the two-orbital model Hamiltonian, except for
+tXY
+x
+= 0.05. The energies of the orbitals were kept the same
+as in the original model. RPA calculations for the spin-singlet
+pairing channel were done for n = 0.5 (with correspond-
+ing chemical potential µ = 1.18037278), J/U = 0.2, and
+J/U = 0.3. In addition, the spin-triplet pairing channel was
+investigated for J/U = 0.3, but, again, the critical value ob-
+tained for the Hubbard U was higher than for the singlet chan-
+nel, therefore, these results are not shown. Singlet pairing
+results for both values of the Hund’s coupling were similar,
+therefore, just the results for J/U = 0.3 will be presented.
+
+
+6
+0
+1
+2
+3
+t
+X,Y
+x+y
+ = 0.88
+t
+XY
+x
+= 0.05
+n = 0.5
+E (k)
+(
+,
+)
+(0,0)
+(
+,0)
+(k
+x
+,k
+y
+)
+(0,0)
+FIG. S2: (Color online) Band structure for a quasi 1d Hamiltonian
+obtained from the two-orbital model discussed in the main text by
+keeping only two hopping terms: tX,Y
+x±y and tXY
+x
+(see text for details).
+The Fermi energy is at EF = 0.0.
+(
+,
+)
+(0,0)
+(
+,0)
+0
+(k
+x
+,k
+y
+)
+(0,0)
+t
+X,Y
+x+y
+ = 0.88
+t
+XY
+x
+= 0.05
+n = 0.5
+FIG. S3: (Color online) Main panel: non-interacting magnetic sus-
+ceptibility χ0 (Lindhard function) for the quasi 1d model. In the
+inset, χ0 for the truly 1d Hamiltonian (obtained when just the dom-
+inant hopping is taken in account, tX,Y
+x±y = 0.88). The arrows indi-
+cating peaks located at (k, k) in the BZ are reproduced in Fig. S4.
+These peaks indicate different spin ﬂuctuations which may lead to
+electronic pairing.
+Figure S2 shows the band structure for high symmetry lines
+of the BZ. The Fermi energy is located at EF = 0.0. The
+two hole-pockets obtained are identical and nearly square (see
+Fig. S4), their corners being slightly rounded due to the pres-
+ence of the ﬁnite tXY
+x
+= 0.05 hopping. For tXY
+x
+= 0.0 the
+hole-pockets are perfectly square and the two bands are de-
+generate along the Γ −M (Σ) line.
+Figure S3 shows, in the main panel (solid red curve), the
+non-interacting magnetic susceptibility (Lindhard function)
+χ0 obtained from the bands in Fig. S2. The inset shows, as
+a reference, χ0 for the truly 1d Hamiltonian (i.e., tXY
+x
+=
+0.0). A comparison of these two χ0 curves in Fig. S3 with
+the one for the fully two-dimensional (2d) two-orbital model
+(Fig. 1(b) in the main text) shows that the introduction of a
+small tXY
+x
+= 0.05 brings the 1d model χ0 (green curve in the
+inset) qualitatively close to the 2d result. To see that, com-
+pare the solid (red) curve in the main pannel of Fig. S3 with
+0
+k
+y
+0
+k
+x
+J/U=0.3
+U=0.8686
+n=0.5
+B
+1g
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+(a)
+(b)
+J/U=0.3
+U=0.8686
+n=0.5
+0
+0
+k
+y
+k
+x
+A
+2g
+ 
+-0.1
+-0.06
+-0.02
+0.02
+0.06
+0.1
+FIG. S4: (Color online) (a) Dominant and (b) subdominant gap func-
+tions in the singlet channel for the quasi 1d model. The parameters
+used are n = 0.5, J/U = 0.3, and U = 0.8086. The arrows in-
+dicate pair scattering processes associated to the peaks in Fig. S3,
+which are there indicated with the corresponding line style (see text
+for details).
+the dashed (green) curve in Fig. 1(b) of the main text. As
+will be described next, the extra peaks introduced in the Σ
+line (main panel of Fig. S3) have a marked inﬂuence in the
+singlet pairing gap functions. Indeed, Fig. S4(a) shows the
+dominant gap function (with symmetry B1g) for n = 0.5 and
+J/U = 0.3. The four vectors connecting local maxima (with
+opposite signs) of the gap function are exactly the same that
+locate the four (k, k) peaks in χ0 in the main panel of Fig. S3.
+This, once again, shows the strong connection between spin
+ﬂuctuations and electron pairing. Panel (b) shows the sub-
+dominant gap function, with symmetry A2g. Their eigenval-
+ues are the same up to the third decimal place. It is easy to
+see that the vectors displayed in the B2g gap function [panel
+(a)] apply identicaly to the subdominant A2g in panel (b). It
+is also interesting to observe that a possible extra set of pair
+scattering processes, leading to change of sign in the A2g gap
+function, are the ones connecting adjacent sides of the same
+hole-pocket. Two of them are indicated by double-headed ar-
+rows. However, these processes do not occur, as there are
+no peaks in χ0 that can provide spin ﬂuctuations with these
+two wave vectors (see Fig. S3). This results in the pairing
+strengths of both gap functions being basically the same.
+The presence of a relatively large number of different pair-
+ing spin ﬂuctuations, as implied in Fig. S4, suggests that the
+RPA spin susceptibility should have competing peaks when U
+is close to the critical value. Figure S5 indicates that this is in-
+deed the case. There we show χRP A for the same parameters
+as Fig. S4, for three different values of Hubbard interaction
+U = 0.77 (dotted blue curve), 0.79 (dashed green curve), and
+0.8 (solid red curve). As a comparison, at the same ﬁlling
+n = 0.5 and J/U = 0.3, for the full 2d model studied in
+the main text, the leftmost peak (Fig. 2(b), main text), at a
+comparable ratio U/Uc as the ones in Fig. S5, is a few orders
+of magnitude above the other peaks. Similar results are seen
+for the other ﬁllings and J/U values, indicating that there is
+mainly a single dominant pairing process in the 2d model in
+the main text. In the 1d model it seems as if the different wave
+vector spin-ﬂuctuations cooperate to produce pairing.
+
+
+7
+ U=0.8
+ U=0.79
+ U=0.77
+R P A
+n = 0.5
+J/U = 0.3
+(
+,
+)
+(0,0)
+(
+,0)
+(k
+x
+,k
+y
+)
+(0,0)
+FIG. S5: (Color online) RPA spin susceptibility for the quasi 1d two-
+orbital model Hamiltonian, n = 0.5 and J/U = 0.3. Three curves
+are shown for values of Hubbard U close to the critical value Uc =
+0.8686: U = 0.77, 0.79, and 0.8. A competition between two peaks
+can be clearly observed. They are indicated by the same type of
+arrows as the ones for the corresponding peaks in Fig.S3.
+
+

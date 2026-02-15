@@ -1,0 +1,180 @@
+1 
+ 
+Chemical pressure effect on Tc in BiS2-based Ce1-xNdxO0.5F0.5BiS2 
+Joe Kajitani, Atsushi Omachi, Takafumi Hiroi, Osuke Miura, Yoshikazu Mizuguchi 
+Tokyo Metropolitan University, 1-1, Minami-Osawa, Hachioji, Tokyo 192-0397, Japan 
+ 
+ 
+Abstract 
+We have investigated the crystal structure and superconducting properties of the BiS2-based 
+layered superconductor Ce1-xNdxO0.5F0.5BiS2.  
+Bulk superconductivity was observed for x ≥ 0.4, and the transition temperature was enhanced with 
+increasing Nd concentration. The highest transition temperature was 4.8 K for x = 1.0. With 
+increasing Nd concentration, the length of the a axis decreased, while the length of the c axis did not 
+show a remarkable change. The chemical pressure along the a axis upon Nd substitution seemed to 
+be linked with the inducement of bulk superconductivity. We found that the chemical pressure effect 
+did not completely correspond to the external pressure effect. 
+ 
+Keywords: BiS2-based superconductor; chemical pressure effect 
+ 
+ 
+
+
+2 
+ 
+1. Introduction 
+Layered materials have been actively studied in the field of superconductivity because 
+superconductors with unconventional paring mechanisms and/or high transition temperature (Tc) had 
+been discovered in layered crystal structures. Recently, we have reported superconductivity in 
+several layered materials possessing a BiS2-type superconducting layer [1,2]. The crustal structure 
+composed of an alternate stacking of the BiS2 superconducting layers and blocking layers is quite 
+similar to those of the Cu-oxide and Fe-based superconductors. So far, three types of BiS2-based 
+materials, Bi4O4S3, REOBiS2 family (RE = La, Ce, Pr, Nd, Yb) and SrFBiS2, have found to become 
+superconducting upon electron doping into the Bi-6p orbitals within the BiS2 layers [1-9]. Electrical 
+resistivity measurements under high pressure revealed that the Tc of BiS2-based family was sensitive 
+to application of pressure and can be significantly enhanced [10-12] as observed in the Fe-based 
+family [13]. 
+In the CeOBiS2, bulk superconductivity has not appeared under ambient pressure, but appeared 
+under high pressure with Tc of 8 K. While in the NdOBiS2, the bulk superconductivity has appeared 
+under ambient pressure with Tc of ~5 K. These facts indicate that the superconducting properties of 
+BiS2-based family depend on both the applied pressure and the structure of the blocking layer. In this 
+article, we have investigated the crystal structure and superconducting properties of 
+Ce1-xNdxO0.5F0.5BiS2 synthesized to clarify chemical pressure effect on Tc of the REOBiS2 family. 
+ 
+ 
+2. Experimental 
+The polycrystalline samples of Ce1-xNdxO0.5F0.5BiS2 ( x = 0.0 - 1.0) were prepared by a solid-state 
+reaction method. Bi grains, Ce2S3 powder, Nd2S3 powder, BiF3 powder, Bi2O3 powder and Bi2S3 
+powder were used as the starting materials. The Bi2S3 powder was synthesized by a direct reaction of 
+Bi grains and S grains at 500 ºC in an evacuated quartz tube. Other chemicals were purchased from 
+Kojundo-Kagaku laboratory. The mixture of the starting materials with compositions of 
+Ce1-xNdxO0.5F0.5BiS2 (x = 0.0 - 1.0) was well-mixed, pelletized and sealed into an evacuated quartz 
+tube. The Ce1-xNdxO0.5F0.5BiS2  pellets were heated at 700 ºC for 10h. The obtained products were 
+ground, sealed into an evacuated quartz tube and heated again with the same heating conditions to 
+homogenize the samples. The obtained samples were characterized by X-ray diffraction using 
+the2method. Changes in the lattice volume were discussed with the peak shifts. The 
+temperature dependence of magnetization was measured by a superconducting quantum interface 
+device (SQUID) magnetometer with an applied field of 5 Oe after both zero-field cooling (ZFC) and 
+field cooling (FC). 
+ 
+ 
+3. Results and discussion 
+Figure 1 (a) shows the crystal structure of REOBiS2 (RE = Ce, Nd). The X-ray diffraction 
+pattern for the Ce1-xNdxO0.5F0.5BiS2 samples is displayed in Fig. 1(b). Almost all of the obtained 
+peaks were explained using the tetragonal P4/nmm space group. The profiles exhibit quite similar 
+tendency upon Nd substitution except for the slight differences in peak shifts corresponding to the 
+lattice contraction. The estimated peak positions of the (200) and (004) peaks are plotted in Figure 2. 
+The shift of the (200) peak to a higher angle corresponds to the shrinkage of the a axis, while that of 
+(004) peak corresponds to the shrinkage of the c axis. Therefore, in this system, the a axis decreases 
+with increasing Nd concentration, while c axis does not show a remarkable dependence on Nd 
+concentration. Figure 3 (a) shows the temperature dependence of magnetic susceptibility for 
+Ce1-xNdxO0.5F0.5BiS2. Figure 3(b) shows the Nd concentration dependence of the transition 
+temperature (Tc) for Ce1-xNdxO0.5F0.5BiS2 estimated from the magnetization measurements. 
+Superconductivity is observed for x ≥ 0.4. The transition temperature (Tc) is defined as a temperature 
+at which the magnetic susceptibility begins to decrease. The Tc increases with increasing Nd 
+concentration and reach 4.8 K for x = 1.0, NdO0.5F0.5BiS2. 
+
+
+3 
+ 
+The chemical pressure effect induces the lattice shrinkage along the a axis. Bulk 
+superconductivity is observed for x ≥ 0.4 where the a axis is significantly decreased. The contraction 
+of the a axis seems to be linked with the appearance of superconductivity in the Ce1-xNdxO0.5F0.5BiS2 
+system. However, the obtained Tc is clearly lower than that observed in the external pressure studies 
+on Tc of CeO1-xFxBiS2. The pressure dependence of Tc in CeO0.5F0.5BiS2 shows a transition-like 
+behavior and exceeds 6 K under high pressure above 2.61 GPa [11]. In fact, the chemical pressure 
+effect on Tc in CeO0.5F0.5BiS2 does not completely correspond to the external pressure effect. 
+Therefore, further increase of Tc at ambient pressure in the Ce1-xNdxO0.5F0.5BiS2 system should 
+require optimization of some crystal structure parameters other than the simple contraction of the a 
+axis. 
+ 
+ 
+4. Conclusion 
+In this study, we have systematically synthesized the Ce1-xNdxO0.5F0.5BiS2 polycrystalline samples, 
+and investigated the crystal structure and superconducting properties. On the basis of systematic 
+investigation on the lattice contraction and the susceptibility, we found that chemical pressure effect 
+induced lattice shrinkage along the a axis. Bulk superconductivity was observed for x ≥ 0.4, and the 
+transition temperature was enhanced with increasing Nd concentration. In this system, the chemical 
+pressure along the a axis upon Nd substitution seemed to be linked with the inducement of bulk 
+superconductivity. However, the chemical pressure effect on Tc in CeO0.5F0.5BiS2 does not 
+completely correspond to the external pressure effect. To clarify the detailed correlation between 
+superconductivity and crystal structure, studies using single crystals are required. 
+ 
+ 
+Acknowledgement 
+This work was partly supported by a Grant-in-Aid for Scientific Research for Young Scientists 
+(A) and The Thermal and Electric Energy Technology Foundation. 
+ 
+ 
+References 
+[1] Mizuguchi Y, Fujihisa H, Gotoh Y, Suzuki K, Usui H, Kuroki K, Demura S, Takano Y, Izawa H, 
+Miura O. BiS2-based layered superconductor Bi4O4S3. Phys. Rev. B 2012;86:220510(1-5). 
+[2] Mizuguchi Y, Demura S, Deguchi K, Takano Y, Fujihisa H, Gotoh Y, Izawa H, Miura 
+O. Superconductivity in novel BiS2-based layered superconductor LaO1-xFxBiS2. J. 
+Phys. Soc. Jpn. 2012;81:114725(1-5). 
+[3] Demura S, Mizuguchi Y, Deguchi K, Okazaki H, Hara H, Watanabe T, Denholme SJ, 
+Fujioka M, Ozaki T, Fujihisa H, Gotoh Y, Miura O, Yamaguchi T, Takeya H, Takano Y. 
+New Member of BiS2-Based Superconductor NdO1-xFxBiS2. J. Phys. Soc. Jpn. 
+2013;82:033708(1-3). 
+[4] Xing J, Li S, Ding X, Yang H, Wen HH. Superconductivity appears in the vicinity of 
+semiconducting-like behavior in CeO1-xFxBiS2. Phys. Rev. B 2012;86:214518(1-5).  
+[5] Jha R, Kumar A, Singh SK, Awana VPS. Synthesis and Superconductivity of New BiS2 Based 
+Superconductor PrO0.5F0.5BiS2. J. Sup. Novel Mag. 2013;26:499-502.  
+[6] Yazici D, Huang K, White BD, Chang AH, Friedman AJ, Maple MB. Superconductivity of 
+F-substituted LnOBiS2 (Ln = La, Ce, Pr, Nd, Yb) compounds. Philosophical Magazine 
+2012;93:673-680.  
+[7] Lei H, Wang K, Abeykoon M, Bozin ES, Petrovic C. New Layered Fluorosulfide SrFBiS2. Inorg. 
+Chem. 2013;52:10685-10689 . 
+[8] Lin X, Ni X, Chen B, Xu X, Yang X, Dai J, Li Y, Yang X, Luo Y, Tao Q, Cao G, Xu Z. 
+Superconductivity induced by La doping in Sr1−xLaxFBiS2. Phys. Rev. B. 2013;87:020504(1-4). 
+
+
+4 
+ 
+[9] Yazici D, Huang K, White BD, Jeon I, Burnett VW, Friedman AJ, Lum IK, Nallaiyan 
+M, Spagna S, Maple MB. Superconductivity induced by electron doping in 
+La1-xMxOBiS2 (M = Ti, Zr, Hf, Th). Phys. Rev. B 2013;87:174512(1-8). 
+[10] Kotegawa H, Tomita Y, Tou H, Izawa H, Mizuguchi Y, Miura O, Demura S, Deguchi K, 
+Takano Y. Pressure Study of BiS2-Based Superconductors Bi4O4S3 and La(O,F)BiS2. J. Phys. Soc. 
+Jpn. 2012;81:103702(1-4). 
+[11] Wolowiec CT, Yazici D, White B. D, Huang K, Maple MB. Pressure-induced enhancement of 
+superconductivity and suppression of semiconducting behavior in LnO0.5F0.5BiS2 (Ln=La,Ce) 
+compounds. Phys. Rev. B. 2013;88:064503(1-8). 
+[12] Tomita T, Ebata M, Soeda H, Takahashi H, Fujihisa H, Gotoh Y, Mizuguchi Y, 
+Izawa H, Miura O, Demura S, Deguchi K, Takano Y. Pressure-induced Enhancement of 
+Superconductivity in BiS2-layered LaO1-xFxBiS2. arXiv:1309.4250. 
+ 
+ 
+
+
+5 
+ 
+ 
+ 
+Figure 1. (a) Crystal structure of REOBiS2 (RE = Ce, Nd). (b) X-ray diffraction pattern for 
+Ce1-xNdxO0.5F0.5BiS2. The numbers indicate Miller indices. 
+ 
+ 
+ 
+Figure 2. Nd concentration dependence of the peak positions of the (a) (200) and (b) 
+(004) peaks. 
+ 
+ 
+
+
+6 
+ 
+ 
+Figure 
+3. 
+(a) 
+Temperature 
+dependence 
+of 
+magnetic 
+susceptibility 
+for 
+Ce1-xNdxO0.5F0.5BiS2. (b) Nd concentration dependence of the transition temperature (Tc) 
+for Ce1-xNdxO0.5F0.5BiS2. 
+
+

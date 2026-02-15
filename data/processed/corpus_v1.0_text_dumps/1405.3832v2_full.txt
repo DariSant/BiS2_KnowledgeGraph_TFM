@@ -1,0 +1,618 @@
+Effect of high pressure annealing on the normal state transport of LaO0.5F0.5BiS2 
+I. Pallecchi, G. Lamura, M. Putti 
+CNR-SPIN and Università di Genova, via Dodecaneso 33, I-16146 Genova, Italy 
+ 
+J. Kajitani, Y. Mizuguchi, O. Miura  
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, 
+Tokyo 192-0397, Japan 
+ 
+S. Demura 
+Tokyo University of Science, 1-3 Kagurazaka, Shinjuku-ku, Tokyo 162-8601, Japan 
+ 
+K. Deguchi, Y. Takano  
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0047, Japan 
+ 
+Abstract 
+We study normal state electrical, thermoelectrical and thermal transport in polycrystalline BiS2-
+based compounds, which become superconducting by F doping on the O site. In particular we 
+explore undoped LaOBiS2 and doped LaO0.5F0.5BiS2 samples, prepared either with or without high 
+pressure annealing, in order to evidence the roles of doping and preparation conditions. The high 
+pressure annealed sample exhibits room temperature values of resistivity  around 5 mcm, 
+Seebeck coefficient S around -20 V/K and thermal conductivity  around 1.5 W/Km, while the 
+Hall resistance RH is negative at all temperatures and its value is -10-8 m3/C at low temperature. The 
+sample prepared at ambient pressure exhibits RH positive in sign and five times larger in magnitude, 
+and S negative in sign and slightly smaller in magnitude. These results reveal a complex multiband 
+evolution brought about by high pressure annealing. In particular, the sign inversion and magnitude 
+suppression of RH, indicating increased electron-type carrier density in the high pressure sample, 
+may be closely related to previous findings about change in lattice parameters and enhancement of 
+superconducting Tc by high pressure annealing. As for the undoped sample, it exhibits the 10 times 
+larger resistivity, 10 times larger |S| and 10 times larger |RH| than its doped counterpart, consistent 
+with its insulating nature. Our results point out the dramatic effect of preparation conditions in 
+affecting charge carrier density as well as structural, band and electronic parameters in these 
+systems. 
+ 
+Introduction 
+The crystal structure of layered superconductors, such as CuO2-based and Fe-based compounds, is 
+described as consisting of a charge reservoir layer plus a high mobility layer, with the former 
+providing charge doping and the latter hosting the Cooper pairs. This charge transfer scenario has 
+offered a key to understand superconducting mechanisms in these materials and, even more 
+importantly, it has driven the efforts of researchers towards the synthesis of new superconductors. 
+Indeed, a new class of layered superconductors has been discovered very recently, namely BiS2-
+based compounds such as Bi4O4S3 (Tc~4.5 K) 1,2, Sr1-xLaxFBiS2 3 and REO1–xFxBiS2 (RE=La, Ce, 
+Pr, Nd) systems. Among the latter ones, LaO0.5F0.5BiS2 exhibits the largest onset Tc~11.1 K 4,5. The 
+
+
+crystal structure of La(O,F)BiS2 is composed of a stacking of La2(O,F)2 layers and double BiS2 
+layers. In terms of electronic bands, the parent compound LaOBiS2 is a band insulator with an 
+energy gap of 0.4 eV between a valence band consisting of O and S p states and a conduction band 
+consisting of Bi 6p and S 3p states 6. With the partial substitution of O by F, electrons are doped 
+into the conduction band and eventually superconductivity appears, with maximum Tc of about 3 K 
+for x=0.5, in correspondence of a topological change of the Fermi surface 7,6. More specifically, the 
+Fermi surface is markedly two-dimensional and close to x=0.5 it fulfills good nesting conditions 6,7. 
+From calculation of phonon spectrum and electron-phonon coupling constant for LaO0.5F0.5BiS2 
+(λ=0.8) 8, it turns out that this material is a conventional phonon mediated superconductor, however 
+it has been suggested that although the electron-phonon interaction plays the main role in the 
+Cooper pairing, the good Fermi surface nesting may cooperate to give an enhanced attractive 
+pairing interaction around the nesting vectors 7, in analogy with what is generally accepted to occur 
+for iron-based superconductors. This gives rise to an s-wave pairing with a constant gap sign, which 
+has been indeed observed experimentally by muon-spin spectroscopy 9. Nevertheless, the issues of 
+pairing mechanism and pairing symmetry are still under debate. Indeed, scanning tunneling 
+microscopy studies have found very large values of the reduced gap in BiS2 based superconductors 
+10, more compatible with unconventional pairing symmetry than with conventional s-wave 
+superconductivity. Moreover, neutron scattering studies have suggested that the electron-phonon 
+coupling in LaO0.5F0.5BiS2 could be weaker than expected 11. A more insightful investigation of the 
+relationship between superconducting and normal state properties may add further clues about the 
+phase diagram and thereby also about the conventional versus unconventional character of the 
+relevant pairing mechanism. 
+In this work, we specifically address the issue of how F doping and preparation conditions, in 
+particular high pressure (2 GPa) annealing, affect normal state properties and superconducting Tc in 
+LaO1–xFxBiS2 bulk samples. Indeed, it has been found that high pressure annealing yields a uniaxial 
+lattice contraction along the c axis, as well as elongation of the a axis 12,4, which could be positively 
+linked with the enhancement of superconducting Tc from 3 to 11 K 13,4. Also the effectiveness of 
+charge doping may be more or less directly affected by the preparation conditions. Theoretical 
+investigations have indicated F doping as the most effective to induce free charge carriers in BiS2 
+planes, as compared to other possible chemical substitutions 14. A charge transfer of about 0.26e per 
+unit formula to the BiS2 planes in x=0.5 F doped samples has been calculated 6. On the other hand, 
+F doping has been predicted to affect the band gap 15, making the relationship between nominal and 
+effective doping less straightforward. From the experimental point of view, it has been evidenced 
+that Bi deficiency may severely decrease the actual charge doping with respect to the nominal one 
+16.  
+In the following, we present magnetotransport, thermoelectrical and thermal transport 
+characterization of the normal state of LaO1–xFxBiS2 bulk samples, in order to gain insight into the 
+electronic properties of this compound. In particular, we examine an undoped sample (x=0) as well 
+as two optimally doped ones (x=0.5) prepared with or without high pressure annealing and compare 
+their behaviors. 
+ 
+Experimental 
+
+
+Polycrystalline samples of LaO0.5F0.5BiS2 are prepared by solid-state reaction using powders of 
+La2S3 (99.9%), Bi2O3 (99.9%), BiF3(99.9%), Bi2S3 and grains of Bi (99.99%). The Bi2S3 powder is 
+prepared by reacting Bi (99.99%) and S (99.99%) grains at 500 ºC in an evacuated quartz tube. The 
+starting materials with a nominal composition of LaO0.5F0.5BiS2 are mixed-well, pressed into 
+pellets, sealed into an evacuated quartz tube and heated at 700 ºC for 10h. As an additional step, the 
+obtained polycrystalline samples are annealed at 600 ºC under a high pressure of 2 GPa for 1 hour, 
+using a cubic-anvil high-pressure synthesis apparatus. 
+Magnetotransport behavior is investigated by means of a Physical Properties Measurement System 
+(PPMS) by Quantum Design at temperatures from room temperatures down to 2K and in magnetic 
+fields up to 9T. Hall coefficients (RH) are determined measuring the transverse resistivity at selected 
+fixed temperatures, sweeping the field from -9T to 9T. Seebeck (S) effect and thermal conductivity 
+are measured with the PPMS Thermal Transport Option in continuous scanning mode with a 0.3 
+K/min cooling rate. 
+ 
+Results 
+In figure 1, the resistivity  curves of the undoped and doped samples prepared either by 
+conventional solid-state reaction at ambient pressure (LaO0.5F0.5BiS2-LP) or by high-pressure 
+annealing (LaO0.5F0.5BiS2-HP) are presented. All the three samples exhibit semiconducting behavior 
+in the whole temperature range of the normal state. The values of the room temperature resistivity 
+are 28 mcm for the undoped sample and an order of magnitude smaller for the doped ones, 
+namely 3.2 mcm for LaO0.5F0.5BiS2-LP and 4.8 mcm for LaO0.5F0.5BiS2-HP, all in fair 
+agreement with previous reports 5,12,13,17. Despite the two doped samples LaO0.5F0.5BiS2-LP and 
+LaO0.5F0.5BiS2-HP have similar resistivity values at low temperature, the LaO0.5F0.5BiS2-LP sample 
+curve has a steeper temperature dependence, suggesting larger activation energy for transport. The 
+doped sample LaO0.5F0.5BiS2-LP become superconducting at temperature Tc-90%=2.36K (defined at 
+90% of normal state resistivity) and the resistivity is not completely vanished at the minimum 
+temperature of our measurement T=2K. In the case of the doped sample LaO0.5F0.5BiS2-HP we find 
+a transition temperature Tc-90%=8.46K and a transition width of 1.24K. These data are again in 
+agreement with previous works reporting on the effect of high pressure annealing in improving 
+superconducting properties 4,13. 
+ 
+0
+50
+100
+150
+200
+250
+300
+0.1
+1
+10
+100
+1000
+ LaO0.5F0.5BiS2- HP
+ LaO0.5F0.5BiS2- LP
+ LaOBiS2
+(mcm)
+T (K)
+ 
+Figure 1: (color online) resistivity versus temperature curves of undoped LaOBiS2 and doped LaO0.5F0.5BiS2 
+polycrystals, prepared either with or without high pressure annealing. 
+ 
+The normal state longitudinal magnetoresistivity ((H)-(H=0))/(H=0), not shown, is negligibly 
+small (<1%) at all temperatures for all the samples. 
+ 
+In figure 2, Hall effect curves of the three samples are plotted. In the case of the doped 
+LaO0.5F0.5BiS2-HP sample, RH is negative at all temperatures and slightly increasing in magnitude 
+with decreasing temperature, with a value around -10-8 m3/C at low temperature just above the 
+superconducting transition. This behavior is indeed reminiscent of that of Fe-based superconductors 
+
+
+of different families, e.g. F doped 1111 compounds 18,19, electron doped 122 compounds 20,21 and 
+other families of Fe-based superconductors 22. For the LaO0.5F0.5BiS2-LP sample the magnitude of 
+RH is on average 5 times as much, consistent with other literature data 23, indicating lower electron 
+density. However, quite remarkably, it is positive in sign. Positive RH
+  has also been found in other 
+BiS2 superconductors at optimal electron doping 24. Finally, RH of the LaOBiS2 sample is negative, 
+weakly dependent of temperature and its magnitude is around few times 10-7 m3/C, i.e. 10 times 
+larger than that of the corresponding doped LaO0.5F0.5BiS2-LP sample. 
+It must be said that whereas for the LaO0.5F0.5BiS2-HP sample Hall effect measurements are carried 
+out easily, in the case of the LaO0.5F0.5BiS2-LP and LaOBiS2 samples the experimental data points 
+are more scattered, not due to the magnitude of the Hall signal itself, but possibly due to charging at 
+grain boundaries. Also bismuth and bismuth oxide impurities may be responsible of erratic Hall 
+effect measurements, but in our case bismuth phase is not detected by X-rays diffraction analysis 
+and moreover the negligible magnetoresistance is not consistent with magnetotransport behavior of 
+bismuth and bismuth oxides.  
+ 
+0
+50
+100
+150
+200
+250
+300
+-4.0x10
+-8
+0.0
+4.0x10
+-8
+8.0x10
+-8
+ LaO0.5F0.5BiS2- HP
+ LaO0.5F0.5BiS2- LP
+ LaOBiS2 divided by 20
+RH (m
+3/C)
+T (K)
+ 
+Figure 2: (color online) Hall coefficient versus temperature curves of undoped LaOBiS2 and doped LaO0.5F0.5BiS2 
+polycrystals, prepared either with or without high pressure annealing. 
+ 
+In figure 3, we present Seebeck coefficient S curves of the three samples. It can be seen that in all 
+cases, the Seebeck coefficients are roughly linear with temperature, suggesting that the diffusive 
+mechanism of charge carriers dominates. This result is in agreement with similar optimally doped 
+compounds such as PrO0.3F0.7BiS2 25, but at odds with other BiS2-based superconductors, where 
+non-monotonic behavior with a pronounced minimum possibly related to a drag mechanism is 
+observed 26. Contrarily to Hall resistance curves, the Seebeck coefficient curves are negative at all 
+temperatures for all the three samples. In particular, the LaO0.5F0.5BiS2-LP exhibits negative S and 
+positive RH, similarly to the case of other electron-doped BiS2 superconductors 24. No appreciable 
+dependence on magnetic field is detected in the normal state Seebeck curves (in-field curves are not 
+shown in figure 3), as expected in the diffusive regime. Only below Tc of the doped samples the 
+Seebeck curves at 0H=7T and 0T deviate, as a consequence of the finite upper critical field. 
+ 
+
+
+0
+50
+100
+150
+200
+250
+300
+-100
+-50
+0
+ LaO0.5F0.5BiS2- HP
+ LaO0.5F0.5BiS2- LP
+ LaOBiS2
+S (V/K)
+T (K)
+ 
+Figure 3: (color online) Seebeck effect coefficient versus temperature curves of undoped LaOBiS2 and doped 
+LaO0.5F0.5BiS2 polycrystals, prepared either with or without high pressure annealing. 
+ 
+In figure 4, thermal conductivity  curves of the three samples are displayed. For the undoped 
+sample, the thermal conductivity increases with temperature at low temperature, exhibits a 
+maximum around T=100K and levels off at higher temperatures. On the other hand, both the doped 
+samples exhibit monotonic thermal conductivity and smaller thermal conductivity values. The 
+doped LaO0.5F0.5BiS2-HP sample has smaller thermal conductivity than the LaO0.5F0.5BiS2-LP 
+sample. No dependence of  on magnetic field is observed (in-field curves are not shown in figure 
+4).  
+ 
+0
+50
+100
+150
+200
+250
+300
+0
+1
+2
+ LaO0.5F0.5BiS2- HP
+ LaO0.5F0.5BiS2- LP
+ LaOBiS2
+ (W/Km)
+T (K)
+electronic  estimated from WF
+ 
+Figure 4: (color online) thermal conductivity versus temperature curves of undoped LaOBiS2 and doped LaO0.5F0.5BiS2 
+polycrystals, prepared either with or without high pressure annealing. Dashed lines indicate the electronic contribution 
+to the thermal conductivity estimated with the Wiedemann-Franz (WF) law. 
+ 
+ 
+Data analysis and discussion 
+Combining resistivity, Hall coefficient and Seebeck coefficient data we can carry out a fit of normal 
+state properties, with carrier densities n, mobilities  and effective masses meff as parameters. In a 
+single band picture we use for resistivity and Hall coefficient the relationships =(en)-1 and 
+RH=(en)-1, while for the Seebeck coefficient we use the Mott relationship valid for isotropic 
+degenerate materials in the diffusive regime: 
+n
+T
+m
+e
+h
+k
+E
+d
+E
+d
+kT
+e
+k
+S
+eff
+EF
+2
+3
+/
+5
+2
+3
+/
+8
+2
+3
+8
+2
+3
+)
+(
+ln
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 
+where k is the Boltzmann constant, h the Planck constant, E is the energy of charge carriers,  
+characterizes the energy dependence of the scattering time E (which is assumed constant for 
+simplicity, i.e. 0),  is the conductivity (=-1) and the logarithmic derivative is calculated at the 
+Fermi level. The minus sign holds for n type charge carriers. To get the above expression in terms 
+
+
+of fitting parameters n and meff, a free electron picture with parabolic dispersion and spherical Fermi 
+surface is assumed. In case of two band picture, with electrons (subscript e) and holes (subscript h) 
+contributing to transport, the appropriate relationships would be =((enee)-1+(enhh)-1)-1, 
+
+
+
+
+2
+2
+2
+1
+e
+e
+h
+h
+e
+e
+h
+h
+H
+n
+n
+n
+n
+e
+R
+
+
+
+
+
+
+
+ and 
+e
+h
+e
+e
+h
+h
+S
+S
+S
+
+
+
+
+
+
+
+, where the Seebeck coefficients of each band are calculated 
+according to the Mott relationship eq. (1). 
+Clearly in a single band approximation these parameters are univocally determined, whereas if we 
+assume both electrons and holes contributions the solution are not anymore univocal. In figure 5 we 
+show the mobility and carrier concentration resulting from the single band fitting of the 
+LaO0.5F0.5BiS2-HP sample. The electron mobility is on average 0.5-2cm2/(Vs), slightly decreasing 
+with increasing temperature. The electron density is in the range 5·1020-7·1021 cm-3, slightly 
+increasing with increasing temperature. Noteworthy, 2.3·1021 cm-3 is just what expected from the 
+nominal x=0.5 F doping. Moreover, in ref. 6 it is predicted that 0.7+0.26=0.96 electrons per unit cell 
+are doped in the BiS2 layers of LaO0.5F0.5BiS2, corresponding to 4.4·1021 cm-3 in fair agreement 
+with our data. However these charge carriers seem not to be very mobile, as seen from low mobility 
+values and from semiconducting behavior of resistivity, possibly as a consequence of strong 
+interaction with boson fluctuations, or else as a consequence of many-body interactions 7, or else in 
+relation with the predicted quasi-nested Fermi surface leading to the charge density wave instability 
+27. From the fitting, values of the electron effective mass around m0 (m0 bare electron mass) are 
+obtained, in agreement with ref. 26. 
+ 
+0
+50
+100
+150
+200
+250
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+(cm
+2/Vs)
+T (K)
+0
+2x10
+21
+4x10
+21
+6x10
+21
+8x10
+21
+ ne (cm
+-3)
+ 
+Figure 5: (color online) electron charge density and mobility obtained from single band fitting of  and RH data of 
+doped LaO0.5F0.5BiS2_HP sample, prepared with high pressure annealing. 
+ 
+If we assume a two band description with hole and electron contributions, all the physically realistic 
+solutions for the set of parameters present some common features: (i) electron mobilities are larger 
+than hole mobilities at all temperatures; (ii) at low temperature electron densities are around 1021 
+cm-3 or larger and holes densities are one order of magnitude smaller than electron density, while at 
+high temperature hole and electron densities are similar; (iii) effective masses are of the order of m0. 
+This picture indicates that below 100K the system can be approximately described in a single band 
+picture, taking into account only the electron contribution to transport. 
+For the doped LaO0.5F0.5BiS2_LP sample, it is not possible to assume a single band description, 
+because it could not account for the different sign of RH and S. On the contrary, in a two band 
+description this situation may occur, because, roughly speaking, bands contributions are weighed by 
+n2 in the expression for RH, while they are weighed by  in the expression for S. Hence, if we 
+allow for a band of electrons with smaller density and higher mobility, it may determine the 
+negative sign for S even with a positive RH. All the different solutions compatible with our 
+experimental data present common robust characteristics, namely: (i) both electron and hole 
+mobilities increase with increasing temperature; e varies from few cm2/(Vs) at low temperature to 
+several tens cm2/(Vs) at 300K, while h is one order of magnitude smaller; (ii) both electron and 
+
+
+hole densities are weakly temperature dependent except for the lowest temperature; ne is 1-5·1018 
+cm-3, while nh is 1019-1020 cm-3; (iii) both effective masses are around 0.5-1 m0. In short, according 
+to this picture there are more holes than electrons, but holes have much lower mobility. It may 
+appear strange that the LaO0.5F0.5BiS2_LP sample has lower |S| and at the same time lower carrier 
+concentrations as compared to the LaO0.5F0.5BiS2_HP sample. Indeed, this is a multiband effect, 
+explained by the more balanced competition between electron and hole type carriers in the former 
+sample. 
+Finally single band fittings for the undoped LaOBiS2 sample yield average electron density few 
+times 1019 cm-3, a factor 10 smaller than that of the corresponding doped sample LaO0.5F0.5BiS2_LP, 
+mobilities values that increase with temperature from 0.2 to 15 cm2V-1s-1 and effective masses 
+around 0.5m0. Obviously a two band scenario is possible as well. 
+In summary, the simple inspection of rough experimental data of resistivity, Seebeck coefficient 
+and RH in LaO0.5F0.5BiS2_LP and LaO0.5F0.5BiS2_HP samples, reveal that these two samples are 
+significantly different. Indeed, RH of the LaO0.5F0.5BiS2_LP sample is positive and nearly 5 times 
+larger in magnitude than RH of the LaO0.5F0.5BiS2_HP sample, which is negative. S of the two 
+samples are both negative, but  the S magnitude in the LaO0.5F0.5BiS2_LP sample is slightly smaller 
+than S of the LaO0.5F0.5BiS2_HP sample. Finally, resistivities are comparable in magnitude, but the 
+curve of the LaO0.5F0.5BiS2_LP sample has steeper temperature dependence, indicating larger 
+activation energy in the LaO0.5F0.5BiS2_LP sample. As a further step, the data analysis, despite its 
+simplifying assumptions, confirms that the preparation conditions have a strong effect on normal 
+state properties. The average values of the parameters obtained from the fittings in the three samples 
+are summarized in Table I, for easy comparison. The major difference between LaO0.5F0.5BiS2_LP 
+and LaO0.5F0.5BiS2_HP samples is the enhanced electron density in the latter, which is likely closely 
+related to the enhancement of superconducting Tc from 3 to 11 K 4,13. Moreover, these data suggest 
+that the preparation conditions yield not only different charge carrier densities, but also different 
+band and electronic parameters, such as larger effective mass and lower mobility in the 
+LaO0.5F0.5BiS2_HP sample as compared to the LaO0.5F0.5BiS2_LP sample. Both the larger effective 
+mass and the lower mobility may be possibly related to stronger coupling with boson excitations, 
+indeed enhanced coupling strength at optimal doping has been suggested for BiS2 based 
+superconductors in ref. 24. We note that also the analysis of superconducting properties has 
+indicated different band and electronic parameters in samples prepared either with or without high 
+pressure annealing 28.  
+ 
+LaO0.5F0.5BiS2_HP 
+(single band fit) 
+LaO0.5F0.5BiS2_LP 
+(two band fit) 
+LaOBiS2 
+(single band fit) 
+charge density  
+(cm-3) 
+5·1020-7·1021  
+electrons:  1-5·1018
+holes: 7·1019- 1.6·1020 
+1-5·1019  
+charge mobility 
+(cm2V-1s-1) 
+0.5-1 
+electrons:  10-100 
+holes:  3-25  
+0.2-15  
+effective mass 
+1m0 
+0.5-1m0 
+0.5m0 
+Table I: parameters obtained by fitting of , RH and S curves 
+ 
+ 
+We now consider the thermal conductivities of the three samples. For the undoped sample, the 
+thermal conductivity increases with temperature at low temperature, due to increasing excitation of 
+
+
+phonons. In this regime the dominant phonon scattering mechanism is by defects and grain 
+boundaries. At high temperature, the thermal conductivity decreases with temperature, due to 
+enhanced phonon-phonon scattering, which is the dominant scattering mechanism in this regime. At 
+intermediate temperature there is a broad maximum, as a consequence of the crossover between the 
+above mentioned regimes. It is expected that with increasing disorder or grain boundary density, the 
+regime of defect scattering extends up to larger temperatures, and eventually the broad maximum is 
+damped, yielding a monotonic shape of the (T) curve. This is indeed the case of the F doped 
+samples, which show monotonic behavior typical of more disordered materials (or materials with 
+higher density of grain boundaries) as compared to the undoped sample, which seems to have a 
+more ordered crystal lattice (or larger grains). 
+It may appear unexpected that the doped sample prepared at high pressure has smaller thermal 
+conductivity than the one prepared at low pressure, given that the former should have higher density 
+and better intergrain connection. On the other hand, this finding is consistent X-rays analysis 4, 
+which exhibits more broadened X-rays peaks after high pressure annealing. The broader peaks in 
+high pressure annealed samples indicate the presence of disorder and inhomogeneity, which may be 
+due to a competition of tetragonal and monoclinic phases in high pressure samples 29. Structural 
+inhomogeneity in similar samples has been also detected from the analysis of magnetotransport data 
+in the superconducting state, where the upper critical field parallel to BiS planes has been found to 
+be anisotropic, indicating that these crystalline planes are distorted into a lower-symmetry as 
+compared to the tetragonal structure 28. It can be noted that also electronic mobility, which is 
+smaller in the LaO0.5F0.5BiS2_HP sample (see Table I), may be affected by such disorder and 
+inhomogeneity. 
+Using the Wiedemann-Franz law we estimate that the thermal conductivity is dominated by phonon 
+thermal transport for all the samples, as indicated by the dashed lines in figure 4. This finding is 
+consistent with the low charge carrier mobility (in all samples  is larger than 1.5 W/Km at room 
+temperature, while the corresponding electron contribution is estimated smaller than 0.2 W/Km). 
+The absence of magnetic field dependence of  is consistent with  being dominated by the lattice 
+contribution. 
+ 
+Conclusions 
+We study normal state electrical, thermoelectrical and thermal transport in polycrystalline undoped 
+LaOBiS2 and doped LaO0.5F0.5BiS2 samples, prepared either by conventional solid-state reaction at 
+ambient pressure or by additional high pressure annealing. 
+All our samples present common behaviors such as semiconducting resisitivity, diffusive and 
+negative Seebeck effect and thermal transport dominated by phonon contribution. However, the 
+major difference between doped LaO0.5F0.5BiS2 samples, prepared either by conventional solid-state 
+reaction at ambient pressure or by high pressure annealing, lies in the sign and magnitude of the 
+Hall resistance, which is positive in sign and larger in magnitude in the former sample and negative 
+in sign and smaller in magnitude in the latter sample. This finding indicates the role played by the 
+multiband character of these compounds. The higher electron concentration of samples prepared by 
+high pressure annealing may be closely related to the enhanced superconducting Tc11 K and to the 
+change of structural parameters. Our results indicate that not only charge carrier densities, but also 
+band and electronic parameters are affected by preparation conditions. This work should trigger ab 
+initio calculations which could provide a theoretical framework for our experimental outcomes. 
+ 
+ 
+Acknowledgments 
+The work was supported by the FP7 European project SUPER-IRON (contract No. 283204). 
+
+
+ 
+ 
+References 
+                                                           
+1 Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. 
+Izawa, O. Miura, Phys. Rev. B 86, 220510(R) (2012) 
+2 S. K. Singh, A. Kumar, B. Gahtori, S. Kirtan, G. Sharma, S. Patnaik, V. P. S. Awana, J. Am. 
+Chem. Soc. 134, 16504 (2012) 
+3 X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, Z. Xu, 
+Phys. Rev. B 87, 020504 (2013) 
+4 Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, O. Miura, J. Phys. Soc. Jpn. 83, 
+053704 (2014) 
+5 Y. Mizuguchi, S. Demura, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, O. Miura, J. Phys. Soc. 
+Jpn. 81, 114725 (2012) 
+6 I. R. Shein, A. L. Ivanovskii, JETP Letters 96, 769 (2012) 
+7 H. Usui, K. Suzuki, K. Kuroki, Phys. Rev. B 86, 220501(R) (2012) 
+8 B. Li, Z. W. Xing, G. Q. Huang, arXiv:1210.1743 (2012) 
+9 G. Lamura, T. Shiroka, P. Bonfa, S.Sanna, R. De Renzi, C. Baines, H. Luetkens, J. Kajitani, Y. 
+Mizuguchi, O. Miura, K. Deguchi, S. Demura, Y. Takano, M. Putti, Phys. Rev. B 88, 180509(R) 
+(2013) 
+10 S. Li, H. Yang, D. L.Fang, Z. Y. Wang, J. Tao, X. X. Ding, H.-H. Wen, Sci. China-Phys. Mech. 
+Astron. 56, 2019 (2013) 
+11 J. Lee, M. B. Stone, A. Huq, T. Yildirim, G. Ehlers, Y. Mizuguchi, O. Miura, Y. Takano, K. 
+Deguchi, S. Demura, S.-H. Lee, Phys. Rev. B 87, 205134 (2013) 
+12 J. Kajitani, K. Deguchi, A. Omachi, T. Hiroi, Y. Takano, H. Takatsu, H. Kadowaki, O. Miura, Y. 
+Mizuguchi, Solid State Commun. 181, 1 (2014) 
+13 K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. 
+Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, Y. Takano, Europhys. Lett. 101, 17004 
+(2013) 
+14 C. Morice, E. Artacho, S. E. Dutton, D. Molnar, H.-J. Kim, S. S. Saxena, arXiv:1312.2615 
+15 K. Suzuki, H. Usui, K. Kuroki, Physics Procedia 45, 21 ( 2013 ) 
+16 Z. R. Ye, H. F. Yang, D. W. Shen, J. Jiang, X. H. Niu, D. L. Feng, Y. P. Du, X. G. Wan, J. Z. 
+Liu, X. Y. Zhu, H. H. Wen, M. H. Jiang, arXiv:1402.2860 
+17 Y. Mizuguchi, arXiv:1311.4270 
+18 M. Tropeano, I. Pallecchi, M. R. Cimberle, C. Ferdeghini, G. Lamura, M. Vignolo, A. Martinelli, 
+A. Palenzona, M. Putti, Supercond. Sci. Technol. 23, 054001 (2010) 
+19 J. Jaroszynski, S. C. Riggs, F. Hunte, A. Gurevich, D. C. Larbalestier, G. S. Boebinger, F. F. 
+Balakirev, A. Migliori, Z. A. Ren, W. Lu, J. Yang, X. L. Shen, X. L. Dong, Z. X. Zhao, R. Jin, A. S. 
+Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, D. Mandrus, Phys. Rev. B 78, 064511 (2008) 
+20 F. Rullier-Albenque, D. Colson, A. Forget, P. Thuéry, S. Poissonnet, Phys. Rev. B 81, 224503 
+(2010) 
+21 F. Rullier-Albenque, D. Colson, A. Forget, H.  Alloul, Phys. Rev. Lett. 103, 057001 (2009) 
+22 J. Guo, S. Jin, G. Wang, S. Wang, K. Zhu, T. Zhou, M. He, X. Chen, Phys. Rev. B 82, 180520(R) 
+(2010) 
+23 V. P. S. Awana, A. Kumar, R. Jha, S. K. Singh, A. Pal, Shruti, J. Saha, S. Patnaik, Solid State 
+Commun. 157, 21 (2013) 
+24 H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wakisaka, M. Mizumaki, K. Nitta, Y. Tokura, S. 
+Ishiwata, J. Phys. Soc. Jpn 83, 014709 (2014) 
+25 R. Jha, H. Kishan, V. P. S. Awana, J. Appl. Phys. 115, 013902 (2014) 
+
+
+                                                                                                                                                                                                     
+26 P. Srivatsava, Shruti, S. Patnaik, Supercond. Sci. Technol. 27, 055001 (2014) 
+27  X. G. Wan, H. C. Ding, S. Y. Savrasov, C. G. Duan, Phys. Rev. B 87, 115124 (2013) 
+28 Y. Mizuguchi, A. Miyake, K. Akiba, M. Tokunaga, J. Kajitani, O. Miura, Phys. Rev. B 89, 
+174515 (2014) 
+29 T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. Izawa, O. 
+Miura, S. Demura, K. Deguchi, Y. Takano, J. Phys. Soc. Jpn. 83(6), 063704 (2014) 
+
+

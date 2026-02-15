@@ -1,0 +1,810 @@
+Raman scattering in superconducting NdO1-xFxBiS2 crystals 
+ 
+Yong Tian,1 Anmin Zhang,1 Kai Liu,1 Jianting Ji,1 Jianzhong Liu,2 Xiyu Zhu,2 Hai-Hu Wen,2 Feng 
+Jin,1 Xiaoli Ma,1 Qing-Ming Zhang1,3* 
+ 
+1Department of Physics, Beijing Key Laboratory of Opto-electronic Functional Materials & 
+Micro-nano Devices, Renmin University of China, Beijing 100872, P.R.China 
+2National Laboratory of Solid State Microstructures and Department of Physics, Innovative 
+Center for Advanced Microstructures, Nanjing University, Nanjing 210093, P.R. China 
+3Department of Physics & astronomy, Innovative Center for Advanced Microstructures, 
+Shanghai Jiao Tong University, Shanghai 200240, P.R. China 
+ 
+Abstract 
+The recently discovered layered BiS2-based superconductors have attracted a 
+great deal of interest due to their structural similarity to cuprate and iron-pnictide 
+superconductors. We have performed Raman scattering measurements on two 
+superconducting crystals NdO0.5F0.5BiS2 (Tc = 4.5 K) and NdO0.7F0.3BiS2 (Tc = 4.8 K). 
+The observed Raman phonon modes are assigned with the aid of first-principles 
+calculations. The asymmetrical phonon mode around 118 cm-1 reveals a small 
+electron-phonon (e-ph) coupling constant  ~ 0.16, which is insufficient to generate 
+superconductivity at ~ 4.5 K. In the Raman spectra there exists a clear 
+temperature-dependent hump around 100 cm-1, which can be well understood in term 
+of inter-band vertical transitions around Fermi surface. The transitions get boosted 
+when the particular rectangular-like Fermi surface meets band splitting caused by 
+spin-orbit coupling. It enables a unique and quantitative insight into the band splitting. 
+                                                             
+* qmzhang@ruc.edu.cn 
+
+
+Introduction 
+The discovery of BiS2-based superconductors has inspired a new wave of 
+research1-5. Analogous to cuprate and iron-pnictide superconductors, the new 
+superconductors have two-dimensional conducting BiS2 layers as key building blocks, 
+which are considered to be responsible for superconductivity (SC). Actually the 
+BiS2-based compounds are very similar to FeSe superconductors in structure and 
+exhibit semiconducting behavior at low temperatures6, 7. As the most common 
+elementary excitations in solids, lattices vibrations are vital to study some 
+fundamental physical properties and interactions, such as mechanical and thermal 
+properties, electron-phonon coupling and other phonon-involved scattering processes. 
+Phonon dispersion in the materials has been initially studied by neutron scattering8. 
+And Raman measurements have also been made recently9. However, a comprehensive 
+assignment of the observed Raman modes is still lacking. Furthermore, many key 
+electronic properties, such as e-ph coupling and low-energy excitations, are waiting to 
+be unraveled by Raman scattering and other optical methods. 
+The electronic properties of REO1-xFxBiS2 (RE = rare earth) compounds have 
+received many theoretical and experimental investigations. 
+First-principles 
+calculations predicted a Fermi surface showing a nesting along (π，π，0）direction at 
+half filling. This may induce phonon instability or charge density wave (CDW), which 
+implies that superconductivity in the BiS2 system may be driven by strong e-ph 
+coupling10-12. Actually no sign of CDW transition was observed by infrared optical 
+spectroscopy13, and neutron scattering measurements show no significant change in 
+phonon density cross the SC transition8. Rectangular-like Fermi pockets around X 
+points have been revealed by angle resolved photoemission spectroscopy (ARPES) 
+experiments. The measured band filling is smaller than the calculated one, against the 
+picture of Fermi surface nesting14, 15. The pairing mechanism in the BiS2-based 
+superconductors is still under debate and requires further theoretical and experimental 
+studies.  
+
+
+Due to the particular rectangular-like Fermi surface, the delicate electronic 
+structure around Fermi surface becomes crucial to the understanding of electronic 
+properties of BiS2-based compounds. A multi-band or shallow band-edge effect, 
+observed by Hall measurements, seems to be related to SC pairing in the 
+CeO1−xFxBiS2
+16. And ARPES has observed a band splitting due to spin-orbit coupling 
+(SOC) in NdO0.5F0.5BiS2
+14. Probing low-energy excitations around Fermi surface is 
+still a one of the key issues in BiS2-based superconductors and is highly desired. 
+In this work, we have performed Raman scattering experiments on SC single 
+crystals NdO0.5F0.5BiS2 (Tc=4.5K) and NdO0.7F0.3BiS2 (Tc=4.8K). The observed 
+Raman modes are assigned with the assistance of first-principles calculations. The A1g 
+mode at 118 cm-1 exhibits an asymmetrical lineshape which is attributed to 
+Breit-Wigner-Fano (BWF) resonance (or Fano resonance) driven by e-ph coupling17, 
+18. The fitting of Fano lineshape gives the strength of e-ph coupling constant ~ 0.16, 
+which gives a near-zero Tc using the density of states (DOS) at Fermi surface N (EF) 
+derived from electronic specific heat coefficient19. This may suggest that the paring 
+glue in the BiS2 system is beyond e-ph coupling. Furthermore, the rectangular-like 
+Fermi surface plus band splitting due to SOC, enhances the inter-band vertical 
+transitions around Fermi surface. The transitions give rise to a clear 
+temperature-dependent electronic hump in cross-polarization Raman channel, which 
+allows a quantitative study on band splitting. 
+ 
+Experiments and methods 
+Superconducting single crystals NdO0.5F0.5BiS2 (Tc = 4.5 K) and NdO0.7F0.3BiS2 
+(Tc = 4.8 K) were grown using KCl flux and the details of crystal growth and 
+characterization can be found elsewhere20, 21. The sample size is typically about 
+0.5×0.5×0.1 mm. The crystals can be easily cleaved to obtain flat and shining ab 
+planes. To exclude possible impurity effect on surface, we have repeated the cleavage 
+for the crystals at least two times before they were placed into the cryostat. For each 
+cleavage, Raman spectra were recorded and compared. And no sign of impurity is  
+
+
+ 
+Fig. 1. Raman spectra of NdO1-xFxBiS2 (x = 0.5, 0.3) in cross and parallel channels at 10K.The 
+assigned Raman modes are indicated with arrows. The small peaks marked with  and  may 
+originate from the leakage of infrared mode and 2A1g mode, respectively.  
+ 
+seen in the spectra (Supplementary materials). It is in agreement with the reported 
+structural characterizations7. Raman measurements were performed in a high-vacuum 
+closed-cycle cryostat with anti-vibration design (10~300 K, ~10-8 mbar).Raman 
+spectra were collected with a HR800 spectrometer (Jobin Yvon) equipped with liquid 
+nitrogen cooled CCD and volume Bragg gratings and micro-Raman backscattering 
+configuration was adopted. A 632.8 nm laser was used with a spot of ~5 microns 
+focused on sample surface, and the laser power less than 1 mW was sustained during 
+measurements to avoid overheating. 
+In order to identify the Raman active modes found in experiments, we had carried 
+out first-principles calculations by using the QUANTUM-ESPRESSO (QE) 
+
+
+ 
+Fig. 2. Vibration patterns of Raman-active modes in NdO0.5F0.5BiS2. The calculated and 
+experimental mode frequencies are listed below each pattern. 
+ 
+package22. The ultra-soft pseudopotentials23 were employed to describe the 
+electron-ion interactions. The generalized gradient approximation (GGA) of 
+Perdew-Burke-Ernzerhof (PBE) 24 formalism was adopted for the exchange and 
+correlation functional. The kinetic energy cutoff and the charge density cutoff for the 
+plane-wave basis were 800 eV and 8000 eV, respectively. For the Brillouin-zone 
+integration, the k points were sampled on a 12X12X4 grid. The Fermi surface was 
+broadened using the gaussian smearing technique with a width of 0.05 eV. 
+Variable-cell calculations were performed until zero pressure was reached and all of 
+the forces acting on atoms were less than 0.01 eV/Å. 
+ 
+Results and discussions 
+I. Assignments of Raman modes 
+Low-temperature Raman spectra of NdO0.5F0.5BiS2 and NdO0.7F0.3BiS2 are shown 
+
+
+in Fig. 1. The spectra exhibit a high similarity between both crystals in peak position 
+and shape. This implies that the actual composition of the two samples may be very 
+close though their nominal fluorine contents seem quite different. It is in accord with 
+the fact that both crystals have very close SC transition temperatures. Symmetry 
+analysis shows that there are ten Raman-active modes (4A1g+B1g+5Eg) at gamma 
+point. The corresponding vibration patterns are illustrated in Fig. 2. The observed 
+Raman modes are well assigned in combination with first-principles calculations as 
+shown in Fig. 2. And the calculated phonon energies are close to those from Ref. 8 
+and summarized in Table I. 
+Among the observed Raman modes, the two peaks located at 70 cm-1 and 117.5 
+cm-1, only visible in parallel polarization channel, are identified as A1g symmetry. The 
+2A1g phonon mode exhibits a clear asymmetric lineshape, indicating an obvious e-ph 
+coupling. A broad low-frequency hump in cross polarization channel is observed in 
+both samples. We leave detailed discussions on them in the following sections. The 
+small peaks around 38 cm-1 and 79 cm-1 in cross channel, is attributed to Eg modes 
+according to first-principles calculations (see Table. 1). The modes are normally 
+prohibited in the present scattering geometry but may leak into the measurements on 
+ab planes, perhaps due to a slight tilt of sample surface. There are two unidentified  
+ 
+Table I Assignments of the observed Raman modes. The calculated phonon frequencies of 
+NdO0.5F0.5BiS2 are in good agreement with experiments. S1 and S2 denote sulfur atoms in BiS 
+plane and out of plane, respectively. (See Fig. 2) 
+Symmetry 
+Calc. Freq. 
+Exp. Freq. 
+Atoms 
+1Eg 
+32.7 
+38 
+Bi and S1 
+1A1g 
+69.0 
+70.7 
+Bi, S1 and S2 
+2Eg 
+76.0 
+79.1 
+S2, Nd and O/F 
+2A1g 
+127.5 
+117.5 
+Nd and S1 
+Eg 
+143.3 
+ 
+S1 and S2 
+A1g 
+158.1 
+ 
+Nd and S1  
+Eg 
+167.6 
+ 
+S1 and S2 
+1B1g 
+283.4 
+299.7 
+O/F 
+3A1g 
+312.0 
+346.8 
+S2 
+Eg 
+354.0 
+ 
+O/F 
+
+
+ 
+Fig. 3. Temperature evolution of 1A1g (a) and 2A1g (b) modes in NdO0.5F0.5BiS2 and NdO0.7F0.3BiS2. 
+The dashed peaks at the bottoms are Lorentzian fitting (a) and Fano fitting (b).  
+ 
+tiny peaks in cross channel. One is the peak around 111.5 cm-1 (marked by #) which 
+can be reasonably attributed to intensity leakage of the strongest 2A1g mode in parallel 
+channel. And the other peak at 56 cm-1 (marked by *),may be a leakage of 
+Raman-inactive mode. Actually around the energy, a peak of phonon density of states 
+has been observed by neutron scattering measurements.8 The 2Eg and B1g modes come 
+from the cooperative vibrations of O/F atoms. Both modes seem clearly boarder than 
+others. This is consistent with O/F disorder. 
+ 
+II. Electron-phonon coupling 
+The temperature dependence of the two strongest phonon peaks, 1A1g and 2A1g, is 
+depicted in Fig. 3. Both modes indicate a smooth temperature evolution and no 
+observable anomalies are seen in the temperature range of 10 to 300 K. However, 
+their line shapes are clearly different. 1A1g mode is a well-defined Lorentzian-type 
+peak, while on the other hand, 2A1g displays an asymmetric Fano-like shape (see  
+
+
+ 
+Fig. 4. Temperature dependence of 1A1g (a) and 2A1g mode frequencies in NdO0.5F0.5BiS2 (a&c) 
+and NdO0.7F0.3BiS2 (b&d). The red curves are anharmonic fittings using formula (1).  
+ 
+below). The fitting curves using symmetric and asymmetric functions for the two 
+modes, are illustrated at the bottoms of Fig. 3a&3b. Fig. 4 further shows the 
+temperature dependence of phonon frequencies. Both modes can be well described by 
+anharmonic phonon process
+ 
+
+(1)
+1
+2
+1
+2
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+T
+k
+ω
+B
+e
+C
+ω
+T
+ω
+
+ 
+where 0, kB and C are the phonon frequency extrapolated to 0 K, Boltzmann constant 
+and fitting constant, respectively. The smooth temperature evolution suggests the 
+absence of structure phase change over the measured temperature range, which is in 
+agreement with the experimental facts of no CDW transition13. The  frequencies of 
+the two modes extrapolated to 0 K (70.5 cm-1 and 118.94 cm-1 respectively) are 
+almost the same in both crystals, which may imply a close composition in nominal 
+NdO0.5F0.5BiS2 and NdO0.7F0.3BiS2 as mentioned above. 
+
+
+ Fig. 5. Temperature dependence of asymmetric factor q of 2A1g mode for NdO0.5F0.5BiS2 (a) and 
+NdO0.7F0.3BiS2 (b). 
+ 
+The asymmetric 2A1g exhibits a typical Breit-Wigner-Fano (BWF) behavior, 
+which indicates the interaction between discrete and continuous excitations. It is e-ph 
+coupling in our case. Fano equation reads17,28 
+ 
+
+
+
+
+
+
+
+/
+)
+(
+)
+2
+(
+1
+)
+(
+)
+,
+(
+0
+2
+2
+0
+
+
+
+
+
+
+q
+I
+q
+I
+ 
+ 
+where I0 and  are scaling factor and full width at half maximum (FWHM), q is an 
+inverse measure of asymmetry, which means that a larger q actually corresponds to a 
+more symmetric peak. A peak will return to a pure Lorentzian shape at the limit of 
+infinite q. The temperature dependence of extracted q is shown in Fig. 5. The value of 
+q lies in the range of -4 to -6 and has a slight increase with decreasing temperatures. 
+This means that a finite e-ph coupling always exists above SC transition temperatures.  
+
+
+ 
+Fig. 6. Temperature dependence of 2A1g phonon widths in NdO0.5F0.5BiS2 (a) and NdO0.7F0.3BiS2 
+(b). The red curves are anharmonic fittings using formula (2). 
+ 
+The e-ph coupling constant  can be determined by phonon broadening e-ph 29. 
+The broadening is obtained from the measured FWHM, the jump of phonon 
+frequencies at SC transition29, 30, or the asymmetry factor q31. Actually it is quite 
+complicated to derive e-ph from q. Measuring the frequency jump cross SC transition 
+seems a relatively reliable way to estimate intrinsic phonon broadening. Unfortunately 
+such jump is not available in our case. We will use e-ph extracted from the measured 
+linewidths. Basically the total linewidth  is contributed by anharmonic phonon decay, 
+temperature-independent impurity scattering and e-ph coupling. Accordingly, the 
+linewidth can be described as31， 
+
+
+ 
+)3(
+1
+)
+2
+(
+exp
+2
+1
+0
+b
+B
+p
+anh
+Γ
+T
+k
+/
+ω
+Γ
+Γ
+
+
+
+
+
+
+
+
+
+
+
+ 
+where 
+0
+anh
+Γ
+is the anharmonic phonon broadening extrapolated to 0 K and 
+b
+Γ  is the 
+broadening caused by e-ph coupling and impurity scattering. Approximately we can 
+take the width of symmetric 1A1g mode extrapolated to 0 K as the contribution from 
+impurity scattering, i.e, 
+1
+1
+1
+0
+4
+)
+0
+(
+-
+g
+b
+p
+e
+cm
+.
+K
+,
+A
+Γ
+Γ
+Γ
+
+
+
+
+for NdO0.5F0.5BiS2 (Fig. 6(a)). 
+This allows to estimate an intrinsic broadening from e-ph coupling e-ph ~ 5.3 cm-1, 
+The experimental density of states (DOS) at Fermi surface, Nexp(Ef) ≈5.5 
+states/eV/spin/formula, can be derived from electronic specific heat measurements19. 
+The e-ph coupling constant is expressed as29 
+）
+（4
+)
+(
+2
+0
+ω
+E
+πN
+Γ
+λ
+F
+e-ph
+
+
+ 
+where N(Ef) is the bare density of state at Fermi energy and given by Nexp(Ef)/(1+)32, 
+33. Eq. (4) gives  ~ 0.16 with ω0 = 118.9 cm-1. The derived e-ph coupling constant is 
+supported by first-principles calculations, which give a close value for the same 
+mode.8 The coupling strength leads to a Tc ~ 0 K using Allen-Dynes formula34, 35. 
+Even the original linewidth ~9.3 cm-1 without subtracting impurity broadening,,  
+only produces a  ~ 0.47 and Tc ~ 1.1 K. The value is still smaller than the 
+experimental ones, which implies that the pairing glue for the new superconductors 
+may not be the e-ph coupling. We note that in ref. 9 the authors employed a calculated 
+DOS rather than an experimental one, which outputs an e-ph coupling constant of ~ 
+0.68 and a Tc of ~ 5 K.  
+ 
+III. Inter-band transitions 
+Now we turn to the discussions on the low-frequency hump mentioned above. Fig. 
+7 shows Raman response (imaginary part of Raman susceptibility) in cross 
+polarization channel. A clear hump appears around 80 cm-1 at 10 K and smoothly 
+shifts to 166 cm-1 at 300 K. Actually the hump can be also clearly seen in parallel 
+
+
+ 
+Fig. 7. Temperature evolution of low-energy hump in cross channel in NdO0.5F0.5BiS2 (a) and 
+NdO0.7F0.3BiS2 (b). The dashed lines at the bottoms are fitting curves using (5).  
+ 
+channel but superimposed by strong phonon modes (Fig. 1) . A phononic origin for 
+the hump can be excluded because of its non-phononic-like shape, very large width 
+and the unusual softening with decreasing temperatures. For the same reasons, the 
+possibility that it comes from phonon signals of impurities, can be also ruled out. And 
+structural characterizations demonstrate that the impurities, if existing, must have a 
+negligible concentration in the crystals7. ARPES and optical measurements indicate 
+that the plasma frequency in this system is ~2.1 eV, far beyond the observed 
+characteristic energy ~ 0.15 eV13, 14. Magnetic excitations also seem unlikely to be the 
+
+
+origin of the hump. Rare-earth Nd3+ are the only magnetic ions in the compounds. 
+There is no observation of spin ordering of Nd3+ ions so far. Even if Nd3+ spins are 
+ordered, generally it would occur at very low temperatures (~10 K). Thus, the above 
+discussions lead to the possibility that the hump is contributed by electronic 
+excitations at Fermi surface. 
+Generally electronic Raman scattering (ERS) requires a finite momentum transfer, 
+which is usually provided by phonons or impurities due to near-zero momentum of 
+incident photons. But a special case is seen in the new BiS2-based superconductors. 
+ARPES measurements reveal a finite band splitting caused by SOC at Fermi level and 
+two separate rectangular-like Fermi surfaces around X points14, 15. The band splitting 
+allows a vertical inter-band hopping around Fermi level without the assistance of 
+phonons or impurities, as illustrated in Fig. 8. The same vertical hopping occurs not 
+just at one k point, but along the longer side (-X) of rectangular Fermi surfaces. This 
+dramatically boosts ERS signals, which actually contribute the observed 
+low-frequency hump. A further quantitative analysis can be made based on the 
+picture.  
+For the vertical electron hopping between the two split bands, Raman response 
+’’() is in general proportional to the hopping probability. Thus Raman response can 
+be written as 
+)
+5
+(
+1
+)
+(
+exp
+1
+1
+1
+)
+(
+exp
+1
+)]
+(
+1
+[
+)
+(
+~
+)
+(
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T
+k
+E
+E
+T
+k
+E
+E
+N
+E
+f
+E
+f
+N
+ω
+χ
+B
+F
+upper
+B
+F
+lower
+E
+upper
+lower
+E
+"
+F
+F
+ 
+where Elower and Eupper are the energies of electrons in lower and upper bands, 
+respectively. Both energies can be linearly expanded around Fermi level, i.e., 
+1
+C
+k
+v
+E
+lower
+lower
+F
+lower
+
+
+
+
+
+and 
+2
+C
+k
+v
+E
+upper
+upper
+F
+upper
+
+
+
+
+
+where 
+lower
+k
+
+/
+upper
+k
+
+ 
+is electron momentum relative to Fermi momentum 
+lower
+F
+k
+/
+upper
+F
+k
+. Now Raman shift 
+ corresponds to the transfer energy related to the vertical transition, i.e., 
+lower
+upper
+E
+E
+
+
+
+
+. Taking the parameters into (5), we can make a good fitting for 
+
+
+ 
+Fig. 8. (a) schematic of band structure near Fermi level in NdO1-xFxBiS2 (x = 0.5, 0.3).The two 
+bands shown here, come from a splitting by spin-orbit coupling. The vertical hopping, visible in 
+Raman channel, is illustrated by yellow and red arrows. ωmax and ωmin are the maximum and 
+minimum vertical hopping energies at zero temperature.（b）Top view of schematic Fermi surface 
+along kZ. The two colored lines correspond to the Fermi surface segments in (a) marked with the 
+same color lines. 
+ 
+ 
+
+
+. Taking the parameters into (5), we can make a good fitting for the hump, as shown at 
+the bottom of Fig. 7a & 7b. The fitting allows us to define two characteristic energy 
+scales, ω min and ω max, at which the hump takes half of its maximum. As depicted in 
+Fig. 8, the energies correspond to two particular vertical hopping processes in which 
+initial/final states are exactly located at Fermi level. They can be regarded as a good 
+measure of band splitting. At 10 K, the fitting gives ω min ~ 24.79cm-1 (~3 meV) for 
+NdO0.5F0.5BiS2 and 23.62cm-1 (~3 meV) for NdO0.7F0.3BiS2; ω max ~ 169.3cm-1 
+(~21.0 meV) for NdO0.5F0.5BiS2 and 158.2cm-1 (~19.6 meV) for NdO0.7F0.3BiS2. The 
+values are in accord with the results given by ARPES14, 15, which demonstrates that 
+the band splitting around X points lies in the range of 5 ~ 30 meV.  
+ 
+Summary 
+In summary, we have measured polarized Raman scattering spectra of BiS-based 
+SC single crystal NdO0.5F0.5BiS2 (Tc = 4.5K) and NdO0.7F0.3BiS2 (Tc = 4.8K) from 
+10K to 300K. The observed Raman modes are assigned with the aid of first-principles 
+calculations. And an investigation on the Fano-type A1g mode gives an 
+electron-phonon coupling constant  ~ 0.16, which is not strong enough to produce 
+superconductivity at ~4.5 K. We further observe a low-energy electronic hump. It can 
+be quantitatively explained by the vertical transitions around Fermi surface between 
+the two bands split by spin-orbit coupling. The transitions are dramatically enhanced 
+due to the particular rectangular-like Fermi surface, and hence provides a unique 
+window to quantitatively probe the band splitting. 
+ 
+Acknowledgements 
+This work was supported by the Ministry of Science and Technology of China 
+(973 projects: 2011CBA00112，2011CBA00102, and 2012CB921701) and the NSF of 
+China (Grant No.: 11174367 & 11474357). Q.M.Z. was supported by the 
+Fundamental Research Funds for the Central Universities, and the Research Funds of 
+Renmin University of China. 
+
+
+References: 
+1 
+Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. 
+Izawa, and O. Miura, Phys Rev B 86, 220510 (2012). 
+2 
+Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, 
+J Phys Soc Jpn 81, 114725 (2012). 
+3 
+A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka, and N. Kumada, J Solid State Chem 212, 
+213 (2014). 
+4 
+H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, and 
+Y. Takano, J Phys Soc Jpn 81 (2012). 
+5 
+X. Wan, H. Ding, S. Y. Savrasov, and C. Duan, Phys Rev B 87, 115124 (2013). 
+6 
+S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. James Denholme, 
+M. Fujioka, T. Ozaki, H. Fujihisa, and Others, J Phys Soc Jpn 82 (2013). 
+7 
+J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, S. Li, X. Zhu, H. Yang, and H. Wen, EPL (Europhysics 
+Letters) 106, 67002 (2014). 
+8 
+J. Lee, M. B. Stone, A. Huq, T. Yildirim, G. Ehlers, Y. Mizuguchi, O. Miura, Y. Takano, K. 
+Deguchi, S. Demura, and Others, Phys Rev B 87, 205134 (2013). 
+9 
+S. F. Wu, P. Richard, X. B. Wang, C. S. Lian, S. M. Nie, J. T. Wang, N. L. Wang, and H. Ding, 
+Phys Rev B 90, 54519 (2014). 
+10 
+X. Wan, H. Ding, S. Y. Savrasov, and C. Duan, Phys Rev B 87, 115124 (2013). 
+11 
+B. Li and Z. W. Xing and G. Q. Huang, EPL (Europhysics Letters) 101, 47002 (2013). 
+12 
+H. Ding, S. Y. Savrasov, C. Duan, and X. Wan, Phys Rev B 87, 115124 (2013). 
+13 
+X. B. Wang, S. M. Nie, H. P. Wang, P. Zheng, P. Wang, T. Dong, H. M. Weng, and N. L. Wang, 
+Phys. Rev. B 90, 54507 (2014). 
+14 
+L. K. Zeng, X. B. Wang, J. Ma, P. Richard, S. M. Nie, H. M. Weng, N. L. Wang, Z. Wang, T. 
+Qian, and H. Ding, Phys. Rev. B 90, 54512 (2014). 
+15 
+Z. R. Ye, H. F. Yang, D. W. Shen, J. Jiang, X. H. Niu, D. L. Feng, Y. P. Du, X. G. Wan, J. Z. Liu, 
+X. Y. Zhu, H. H. Wen, and M. H. Jiang, Phys. Rev. B 90, 45116 (2014). 
+16 
+S. Li, X. Ding, H. Yang, H. Wen, and J. Xing, Phys Rev B 86, 214518 (2012). 
+17 
+U. Fano, Physical Review 124, 1866 (1961). 
+18 
+H. Kataura, Y. Kumazawa, Y. Maniwa, I. Umezu, S. Suzuki, Y. Ohtsuka, and Y. Achiba, 
+Synthetic Met 103, 2555 (1999). 
+19 
+R. Jha, A. Kumar, S. K. Singh, and V. Awana, J Appl Phys 113, 56102 (2013). 
+20 
+L. A. D. F. Jianzhong, EPL (Europhysics Letters) 106, 67002 (2014). 
+21 
+M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. Kumada, and 
+I. Tanaka, J Phys Soc Jpn 82, 113701 (2013). 
+22 
+P. Giannozzi, S. Baroni, N. Bonini, M. Calandra, R. Car, C. Cavazzoni, D. Ceresoli, G. L. 
+Chiarotti, M. Cococcioni, I. Dabo, A. Dal Corso, S. de Gironcoli, S. Fabris, G. Fratesi, R. Gebauer, U. 
+Gerstmann, C. Gougoussis, A. Kokalj, M. Lazzeri, L. Martin-Samos, N. Marzari, F. Mauri, R. 
+Mazzarello, S. Paolini, A. Pasquarello, L. Paulatto, C. Sbraccia, S. Scandolo, G. Sclauzero, A. P. 
+Seitsonen, A. Smogunov, P. Umari, and R. M. Wentzcovitch, Journal of Physics: Condensed Matter 21, 
+395502 (2009). 
+23 
+D. Vanderbilt, Phys. Rev. B 41, 7892 (1990). 
+24 
+J. P. Perdew and K. Burke and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996). 
+
+
+25 
+P. G. Klemens, Physical Review 148, 845 (1966). 
+26 
+C. W. Li and M. M. McKerns and B. Fultz, Phys. Rev. B 80, 54304 (2009). 
+27 
+M. Balkanski and R. F. Wallis and E. Haro, Phys Rev B 28, 1928 (1983). 
+28 
+B. Friedl and C. Thomsen and M. Cardona, Phys. Rev. Lett. 65, 915 (1990). 
+29 
+P. B. Allen, Solid State Commun 14, 937 (1974). 
+30 
+M. Bakr, A. P. Schnyder, L. Klam, D. Manske, C. T. Lin, B. Keimer, M. Cardona, and C. Ulrich, 
+Phys Rev B 80, 64505 (2009). 
+31 
+V. G. Hadjiev, X. Zhou, T. Strohm, M. Cardona, Q. M. Lin, and C. W. Chu, Phys Rev B 58, 1043 
+(1998). 
+32 
+W. McMillan, Phys. Rev. 167, 331 (1968). 
+33 
+P. B. Allen, Solid State Commun 14, 937 (1974). 
+34 
+P. B. Allen and R. C. Dynes, Phys Rev B 12, 905 (1975). 
+35 
+R. Osborn, E. A. Goremychkin, A. I. Kolesnikov, and D. G. Hinks, Phys Rev Lett 87, 17005 
+(2001). 
+ 
+
+
+Supplementary information 
+ 
+ 
+To exclude the impurity and surface effect, we have made various Raman measurements 
+on different crystals which are repeatedly cleaved. The raw Raman spectra of four crystals are 
+shown in Fig. S1. Each crystal is cleaved at least twice and Raman spectrum was recorded 
+immediately after each cleavage. All the spectra show almost the same features and no 
+substantial difference is seen among them. This indicates that impurity and/or surface effect is 
+negligible in our case. The shoulder below 210 cm-1 comes from electron hopping between 
+two split bands near Fermi surface (see Section III in context).  
+0
+200
+400
+600
+800 1000
+0
+200
+400
+600
+800 1000 1200
+intensity(a.u.)
+ uncleaved
+ first cleavage
+ second cleavage
+NdO0.5F0.5BiS2
+sample #1
+632.8nm 300K
+NdO0.5F0.5BiS2
+sample #2
+632.8nm 300K
+ uncleaved
+ first cleavage
+ second cleavage
+NdO0.5F0.5BiS2
+sample #3
+632.8nm 300K
+ uncleaved
+ first cleavage
+ second cleavage
+NdO0.5F0.5BiS2
+sample #4
+632.8nm 300K
+Raman shift(cm
+-1)
+ uncleaved
+ first cleavage
+ second cleavage
+ 
+FIG. S1: Raman spectra of four NdO0.5F0.5BiS2 crystals with multiple cleavages. 
+ 
+
+

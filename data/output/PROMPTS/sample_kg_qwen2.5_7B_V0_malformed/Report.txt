@@ -1,0 +1,142 @@
+
+## Incident Report: Structured Information Extraction Failure in LLM-Based Knowledge Graph Construction
+
+### Status
+
+**Critical Inference and Decoding Failure**
+
+### Affected Component
+
+Single-pass, schema-constrained JSON extraction using Qwen 2.5 7B via Hugging Face Transformers
+
+---
+
+## 1. Description of the Incident
+
+During the extraction of structured material and physics information into a strict JSON schema, the language model produced severely corrupted output. The corruption manifested as:
+
+* Intra-token punctuation insertion (e.g., `"source!_meta"`)
+* Progressive degradation of syntactic structure
+* Eventual degeneration into an infinite repetition loop of punctuation characters (e.g., `"!!!!!!!!"`)
+
+This resulted in a `JSONDecodeError` and complete extraction failure.
+
+---
+
+## 2. Initial Hypothesis (Revised)
+
+The initial hypothesis attributed the failure primarily to **repetition penalty interference**, under the assumption that penalization of frequently used JSON tokens forced the model to emit fallback punctuation.
+
+While repetition penalties contributed to the instability, subsequent analysis revealed that this explanation was **incomplete**.
+
+---
+
+## 3. Root Cause Analysis (Updated)
+
+### 3.1 Primary Root Cause: Over-Constrained Decoding Stack
+
+The failure was caused by the **simultaneous activation of multiple decoding constraints**, including:
+
+* Repetition penalties
+* Potential n-gram suppression
+* Sampling-based decoding
+* Punctuation-heavy schema enforcement
+* Long generation length
+
+These constraints interacted destructively during generation, particularly in the presence of dense JSON syntax.
+
+---
+
+### 3.2 Tokenizer Fragmentation and Penalty Amplification
+
+The Hugging Face implementation of the Qwen 2.5 tokenizer aggressively fragments punctuation-heavy strings such as JSON keys. As a result:
+
+* Semantically atomic units (e.g., `"source_meta"`) are decomposed into multiple subword tokens
+* Each sub-token is independently penalized or suppressed
+* The model becomes unable to emit valid JSON keys without violating constraints
+
+This explains the observed phenomenon of punctuation being inserted *within* otherwise correct tokens.
+
+---
+
+### 3.3 Entropy Collapse and Infinite Loop Formation
+
+Once the decoder is unable to emit:
+
+* required punctuation
+* valid continuation tokens
+* or an end-of-sequence token
+
+the probability distribution collapses onto a minimal surviving token (often `"!"` or `"_"`), producing a runaway repetition loop.
+
+This behavior is characteristic of **decoder-level entropy collapse**, not semantic hallucination.
+
+---
+
+## 4. Evidence from Cross-Environment Comparison (LM Studio)
+
+To isolate the cause, the same model (Qwen 2.5 7B) and prompt were tested in LM Studio.
+
+### Observations:
+
+* The model produced clean, valid JSON
+* No token corruption occurred
+* No repetition loop was observed
+
+### Interpretation:
+
+LM Studio employs a fundamentally different decoding backend (llama.cpp / gguf), characterized by:
+
+* Greedy or near-greedy decoding
+* Minimal logits processors
+* Absence of dynamic repetition or punctuation penalties
+
+This confirms that:
+
+> **The failure was not model-specific, prompt-related, or semantic in nature, but entirely attributable to the decoding strategy and runtime configuration.**
+
+---
+
+## 5. Definitive Resolution: Two-Pass Extraction Architecture
+
+To eliminate decoder instability, a **two-stage extraction strategy** was implemented.
+
+### Pass 1: Semantic Extraction (Unstructured)
+
+* Plain text output
+* Bullet points only
+* No JSON
+* No schema constraints
+* Deterministic decoding
+
+This pass focuses exclusively on **information recall and interpretation**.
+
+### Pass 2: Deterministic Structuring
+
+* Short input (Pass 1 output)
+* Strict JSON formatting
+* No sampling
+* No repetition penalties
+
+This pass performs **formatting only**, with no semantic reasoning.
+
+---
+
+## 6. Advantages of the Two-Pass Strategy
+
+* Eliminates punctuation pressure during reasoning
+* Prevents token suppression conflicts
+* Isolates JSON failure modes
+* Enables deterministic validation and repair
+* Matches industry-standard IE and KG construction pipelines
+
+---
+
+## 7. Final Conclusion
+
+The observed extraction failure was a **systems-level decoding pathology**, not a limitation of the language model or prompt design. The issue arose from over-constrained, sampling-based decoding applied to long, punctuation-dense structured outputs.
+
+The two-pass extraction architecture, combined with deterministic decoding, fully resolves the issue and restores reliable knowledge graph construction.
+
+---
+

@@ -1,0 +1,61 @@
+{
+  "source_meta": {
+    "source_id": "1508.01656v1_v3_ext.txt",
+    "primary_material_family": "Bi2(O,F)S2"
+  },
+  "extracted_samples": [
+    {
+      "formula": "Bi2(O,F)S2",
+      "composition_variables": [],
+      "synthesis_profile": {
+        "method": "High Pressure Annealing",
+        "synthesis_pressure_GPa": 2.0,
+        "synthesis_temperature_C": 470
+      },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": {
+            "applied_pressure_GPa": 0
+          },
+          "data": {
+            "superconducting_transition": {
+              "tc_onset": 5.1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "Bi2(O,F)S2",
+      "composition_variables": [],
+      "synthesis_profile": {
+        "method": "Solid State Reaction",
+        "synthesis_pressure_GPa": 0,
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": {
+            "applied_pressure_GPa": 1.0
+          },
+          "data": {
+            "generic_value": {
+              "property_name": "dTc/dP",
+              "value": -1.2,
+              "unit": "K/GPa"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "HP annealing at 2 GPa and 470°C maintains or increases Tc in Bi2(O, F)S2.",
+    "In HP resistivity measurements, Tc linearly decreases at -1.2 K/GPa.",
+    "Expansion of the a-axis may lead to a flatter Bi-S plane, correlating with superconductivity."
+  ]
+}

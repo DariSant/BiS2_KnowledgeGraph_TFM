@@ -1,0 +1,498 @@
+ 
+1
+Hydrostatic pressures dependence of superconductivity in PrO0.5F0.5BiS2 
+superconductor 
+G. Kalai Selvan1, M. Kanagaraj1, Rajveer Jha2, V. P. S. Awana2,*, and S. Arumugam1 
+1Centre for High Pressure Research, School of Physics, Bharathidasan University, 
+Tiruchirappalli 620024, India 
+2Quantum Phenomena and Application Division, National Physical Laboratory (CSIR), Dr. K. S. 
+Krishnan Road, New Delhi 110012, India 
+ 
+ 
+In this communication, we report the temperature dependence (3 – 300K) of the electrical 
+resistivity of BiS2 based layered PrO0.5F0.5BiS2 superconductor at ambient and hydrostatic 
+pressure of up to ~ 3GPa. Superconducting transition temperature (Tc) is marked by zero 
+resistivity regions and also from the derivative of resistivity with respect to temperature plots. It 
+is observed that Tc increases with pressure (< 2GPa) at the rate of dTc/dP= 0.45 K/GPa for 
+PrO0.5F0.5BiS2 compound. The values of electron’s scattering factor (A) and residual resistivity 
+(ρ0) are determined from the ρ(T)= ρ0+AT2 relation, while factor A is increased, the 
+corresponding ρ0 is decreased with application of pressure. This indicates presence of substantial 
+electron correlation effect in PrO0.5F0.5BiS2 under external hydrostatic pressure.  Higher pressure 
+(> 2GPa) studies are warranted to observe the saturation or decrease of Tc in PrO0.5F0.5BiS2 
+superconductor. It is envisaged that one may increase the Superconducting transition temperature 
+(Tc) of recently discovered PrO0.5F0.5BiS2 superconductor by applying hydrostatic external or 
+internal chemical pressure via suitable on site substitutions.  
+Key 
+Words: 
+PrO0.5F0.5BiS2, 
+hydrostatic 
+pressure, 
+high 
+pressure 
+resistivity, 
+layered 
+superconductors, orbital hybridization and electron correlation effect.   
+PACS No:  61.50 Ks, 74.25.F-, 74.62.Fj, 74.70.Dd  
+ 
+*Corresponding Author awana@mail.nplindia.ernet.in  
+Tel.: +91 11 45609357; Fax; +91 11 45609310  
+Web page- www.freewebs.com/vpsawana/ 
+
+
+ 
+2
+Introduction 
+Since the discovery of high-transition temperature (HTSc) superconductivity in layered 
+copper oxides in excess of above 130K, lot of efforts have been put by both experimentalists and 
+theoreticians to understand the mysterious phenomenon.  Later in year 2008, the Fe based oxy-
+pnictides, i.e., LnFePnO (Ln= La, Pr, Ce, Nd, Sm; Pn: P and As) with a ZrCuSiAs type structure 
+[1,2] exhibited superconductivity in excess of 50K [3,4]. The LnFePnO attracted much attention 
+due to their parent phase being of semi-metallic nature and including a strong ferromagnetic (Fe) 
+atom in the conduction layer instead of Cu in CuO layer of cuprate superconductors. The 
+maximum superconducting transition temperature (Tc) of 26 K was found at ambient pressure in 
+Fe-based LaFeAsO1-xFx (x = 0.05-0.12) superconductor [3], which increases to 56 K by doping 
+of Sm in the place of La [4]. Further, the application of external pressure enhanced the Tc of 
+LaFeAsO/F from 26 K to 43 K at the pressure range of 4 GPa. These results have enabled 
+materials scientist’s to explore new materials with possible higher Tc and think of 
+superconducting runway mechanisms by using chemical doping, high magnetic field and 
+external pressure. Besides the cuprates and Fe oxy-pnictides, more recently a BiS2 based layered 
+Bi4O4S3 superconductor has appeared with Tc of 4K at ambient pressure [5, 6].  Soon after, 
+another BiS2 based series i.e., REOBiS2 (RE = La, Pr, Nd and Ce) was reported with Tc in excess 
+of 5 K [7-11]. Interestingly the structure of REOBiS2 is similar to that of LnFePnO pnictides. 
+Mizuguchi et al. reported the onset Tc of 8.7K for high pressure synthesized Bi4O4S3 [12].  Later, 
+in case of LaO1-xFxBiS2  (x = 0.5) maximum Tc of 10.5 K was attained through  high pressure 
+and high temperature sintering method using cubic-anvil cell under applied pressure of 2 GPa 
+[13].  
+ 
+ The superconductivity in REO1-xFxBiS2 (RE=rare earth elements) is achieved through 
+carrier doping (O/F). The spacer layer (REO) is used as charge reservoir similar to that as in case 
+of Fe pnictides. The effect of external pressure on these new BiS2-based superconducting 
+systems has not been fully investigated yet. The band structure calculations of BiS2 based 
+superconductors show that the Fermi level with corresponding density of states are mainly 
+originated from Bi (6P) orbitals [14]. The superconductivity in BiS2- based Bi4O4S3 and 
+REO0.5F0.5BiS2 compounds is attributed to the rate of flow of carriers between insulating and 
+conducting layers, which is strikingly similar to that as for high-Tc cuprate and Fe-pnictide 
+
+
+ 
+3
+superconductors. Kotegawa et al. reported that the Tc of Bi4O4S3 and LaO0.5F0.5BiS2 
+superconductors were found to decreases at maximum pressure of (~ 1.9 GPa) due to instability 
+in the Fermi surface resulting in band disorderedness appeared in these compounds [13]. Under 
+external pressure effect, the rare earth BiS2-based superconductor with Nd (4f) atom moves 
+further close to the Fermi level, and make more stronger hybridization between Nd (4f) and Bi 
+(6P) atomic orbitals than the normal state in NdO0.5F0.5BiS2 [15].   
+ 
+As of  yet, superconductivity found in various strongly correlated electronic systems had 
+been related to quantum critical transitions (QCT) where the perfect tuning of QCP’s have been 
+taken with respect to chemical elements, magnetic field and external pressure [16-19]. In 
+addition, to compare with chemical doping and magnetic field, the external pressure is one of the 
+clean ways for altering atomic lattice without introducing impurities and thus to moderate the 
+electronic band structure. Likewise, the electronic structure of recently discovered Bismuth 
+oxysulfide superconductors could be changed by addition of chemical elements over the 
+conducting layer as well as by applying external hydrostatic pressure.  In this report, here we 
+have studied and investigated an effect of external hydrostatic pressure (P) on the electrical 
+resistivity () and Tc of PrO0.5F0.5BiS2 in the temperature ranges from 300 to 3.5K.  
+Experimental Methods 
+ 
+The polycrystalline samples PrO0.5F0.5BiS2 was synthesised by a two step solid state 
+reaction method. The detailed study of sample preparation techniques, structural and magnetic 
+properties were previously reported Jha et al. [10]. The normalised (dc) electrical resistivity 
+measurements under pressure are carried out on a Closed Cycle Refrigerator- Variable 
+Temperature Insert (CCR-VTI) in temperature ranges of 300- 3.5K by standard four probe 
+technique. The external hydrostatic pressure up to ~ 3GPa was generated by homemade self-
+clamp type hybrid pressure cell in which outer jacket and inner core was made by BeCu and 
+NiCrAl materials. The Daphene 7373 was used as a hydrostatic pressure transmitting medium 
+and applied pressure inside the cell was calibrated using structural change of bismuth (Bi) with 
+fixed pressure point method at room temperature. For conventional four probe method, the four 
+contacts are made by copper wire with diameter of 0.15 mm and high quality silver paste was 
+taken for sample with copper wire connections. The polycrystalline samples used in these 
+experiments had dimensions of nearly 1.0×0.8×0.4 mm3. 
+
+
+ 
+4
+Results and discussion 
+ 
+Figure (1) shows the room temperature Rietveld fitted XRD pattern of as synthesized 
+PrO0.5F0.5BiS2 compound. Rietveld refinement of the XRD pattern is carried out by using the 
+Wyckoff positions of Bismuth (Bi), Praseodymium (Pr), and Sulfur (S1 and S2) atoms occupy 
+the 2c (0.25, 0.25, z) site. On the other hand, O/F atoms are at 2a (0.75, 0.25, 0) site. The 
+compound is crystallized in tetragonal P4/nmm space group structure. A small amount of Bi2S3 
+impurity is also observed along with the main phase. The refined lattice parameters are a = 
+4.015(5) Å, c = 13.362(4) Å. Inset of the figure (1) is showing the  AC magnetic susceptibility 
+result in an applied field of 5 Oe in temperature range of 2–7K. The compound exhibits sharp 
+diamagnetic transition at around 3.7K.  
+Figure 2 depicts the temperature dependence of dc electrical resistivity (ρ) taken from 
+150K to 3.5K for PrO0.5F0.5BiS2 superconductor at ambient and different externally applied 
+hydrostatic pressures of up to 3GPa. The onset of transition temperature (Tc
+onset) under zero 
+applied field is seen at 3.7K; being marked by the intersection of two extrapolated lines drawn on 
+the normal resistivity curves as shown in the inset of figures (2). The dc resistivity gradually 
+increases as a function of temperature down to 5K, which is reminiscent of slight 
+semiconducting behaviour, and thereafter a sharp drop to Tc(ρ=0) can be seen at 3.5K for 
+PrO0.5F0.5BiS2 sample. The normal state resistivity behaviour of PrO0.5F0.5BiS2 sample in zero 
+applied field is similar to that of REO0.5F0.5BiS2 (RE=La, Nd) superconductors [8,9]. In order to 
+understand a clear change of Tc by temperature, we have marked three different Tc as Tc
+onset, Tc
+mid 
+and Tc
+offset, these are marked the insert of figure 2. The onset Tc is determined from the 
+intersection of the two extrapolated lines; one is drawn through the resistivity curve in the 
+normal state just above Tc, and the other is drawn through the steepest part of the resistivity 
+curve in the superconducting state. The midpoint Tc is determined at the temperature where the 
+resistivity is dropped by 50% of its value at the onset Tc and the offset Tc is marked by Tc(ρ=0), 
+i.e., zero resistivity state. With application of hydrostatic pressure (0.43GPa to 2.19GPa) the 
+normal state resistivity (150K-5K) becomes slightly metallic and the superconducting transition 
+temperature Tc(ρ=0) is increased. The evolution of metallic behaviour under applied pressure is 
+similar to that as observed very recently for (La/Ce)O0.5F0.5BiS2 superconductors [20]. At room 
+temperature all the rare earth doped REO0.5F0.5BiS2 (RE=La, Pr, Nd and Ce) has the value of 
+
+
+ 
+5
+resistivity 10-3Ω-m, which is close to the range of semiconducting materials observed from ρ vs 
+T curve at ambient pressure [7-13]. The increase in Tc(ρ=0) of  PrO0.5F0.5BiS2 sample under 
+hydrostatic pressure will be discussed in next section.     
+ 
+Figure (3a) shows the superconducting transition part of the electrical resistivity of 
+polycrystalline PrO0.5F0.5BiS2 sample at different externally applied hydrostatic pressures in the 
+low temperature range of 3 to 7K. 
+In our previous study, the external hydrostatic pressure 
+enhanced the Tc from 4.6K to 5K (1.31 GPa) for NdO0.5F0.5BiS2 and upon further increase in 
+pressure, the same decreased to 4.8K [15].  In present case for PrO0.5F0.5BiS2, the enhancement 
+of Tc(ρ=0) is seen from 3.7K to 4.7K with change in pressure from 0 to 2.19 GPa. The mid point 
+of Tc could be seen clearly from the dρ/dT peak being shown in Figure 3(b). It is clear from 
+Figure 3(b) that bulk Tc of PrO0.5F0.5BiS2 compound increases monotonically with pressure up to 
+2.19 GPa. Simultaneously the normal state (near Tc onset) resistivity is suppressed from 1.6m Ω-
+cm to 0.55m Ω-cm with application of hydrostatic pressure; see Figure 3(a).  The rate of Tc 
+increases under external pressure is calculated to be 0.45K/GPa for PrO0.5F0.5BiS2 compound.  It 
+is clear that with in applied pressure range of up to 2.19GPa the PrO0.5F0.5BiS2 compound reveals 
+a positive pressure coefficient, which denotes an increase in density of charge carriers at Fermi 
+surface under applied pressure. Kotegawa et al [13] reported stable electronic band structure with 
+high density of states for these new BiS2-based superconductors (Bi4O4S3 and LnO0.5F0.5BiS2) 
+and located them at the boundary between semiconducting and metallic states. Interestingly, Tc 
+increases monotonically for PrO0.5F0.5BiS2 for hydrostatic pressure up to 2.19 GPa, along with 
+emergence of nearly metallic behaviour with positive d/dT.          
+ 
+The figure 4 (a) shows the pressure dependent of superconducting transition (Tc) and the 
+superconducting transition width (ΔTc = Tc
+onset - Tc
+offset) for the PrO0.5F0.5BiS2 sample. 
+Superconducting transition Tc is increased from 3.7K to 4.7K and the transition width (ΔTc) is 
+also increased slightly from 0.21K to 0.50K. This means the superconducting transition is 
+slightly broadened under hydrostatic pressure for PrO0.5F0.5BiS2 compound. This is in agreement 
+with earlier reports on similar compounds [12,13,15,20].  The relation between normal state 
+resistivity, residual resistivity (ρ0) and electron-electron scattering factor (A) can be derived from 
+ρ(T)= ρ0+AT2. The values of ρ0 and A at ambient and different hydrostatic pressure was 
+calculated and plotted in figure 4 (b). The parameter A is increased from 1 x 10-6 Ω-cmK-2 to 
+
+
+ 
+6
+1.28 x 10-6 Ω-cmK-2 (2.19 GPa). At the same time the value of residual resistivity ρ0 is decreased 
+from 1.56×10-4 Ω-cm to 6.12×10-5 Ω-cm with increase in pressure up to 2.19GPa. 
+To consider some postulates involving the relation between ρ0 and A at particular 
+pressure level of up to ~ 2.19 GPa, the Tc increases and ρ0 is decreased. Also, the change of ρ0 
+and electron scattering factor (A) seems to be distinguishable with respect to Pr3+(4f) and 
+Bi3+(6p) hybridizations with electron correlation effect in the conducting layers at ambient and 
+external hydrostatic pressure. There is also a possibility of change of valance (3+ to 44+) in Pr at 
+high pressure (2 GPa), which could enhance the conducting carrier interaction and reduce the 
+rate of scattered electrons.  More likely scenario could be the changed interactions between PrO 
+insulating and 6p (BiS2) conducting layers with applied pressure. The two layers (PrO/F and 
+BiS2) act in different manners at Fermi surface. In order to understand the relation between 
+effective electron correlation effect and change of Tc for these compounds, detailed theoretical 
+studies of band structure and structural parameters under high pressure are strictly needed. 
+ 
+Conclusion 
+In summary, we have investigated the electrical resistivity under external hydrostatic 
+pressures of up to 2.19GPa for BiS2-based polycrystalline PrO0.5F0.5BiS2 layered superconductor. 
+The superconducting transition temperature (Tc) of PrO0.5F0.5BiS2 is monotonically enhanced 
+from 3.7 to 4.7K (2.19GPa). The positive pressure coefficient of PrO0.5F0.5BiS2 superconductors 
+denotes the possibility of a strong inherent carrier interaction on DOS at N(EF) under pressure. 
+An observed decreasing of electron correlation effect from the values of electron-electron 
+scattering factor (A) and residual resistivity (ρ0) seems noticeable which may occur due to 
+unusual change of hybridization of Pr3+(4f) and Bi3+(6p) on the spacer and conducting layers 
+under external hydrostatic pressure. Furthermore studies are required on both theoretical side and 
+experimental high pressure investigations on PrO0.5F0.5BiS2 superconductor.  
+Acknowledgements  
+The author S. Arumugam wishes to thank DST (SERC, IDP, FIST) and UGC for the 
+financial support. G. Kalai Selvan would like to thank UGC- BSR for the meritorious fellowship. 
+M. Kanagaraj and Rajveer Jha acknowledge the CSIR for the senior research fellowship. This 
+
+
+ 
+7
+research at NPL is supported by DAE-SRC outstanding investigator scheme to work on search 
+for new superconductors 
+ 
+References 
+1. B. I. Zimmer, W. Jeitschko, J. H. Albering, J. Alloys Compd, 229, 238 (1995). 
+2. P. Quebe, L. J. Terbuchte, and W. Jeitschko, J. Alloys Compd, 302, 70 (2000). 
+3. Y. Kamihara, T. Watanabe, M. Hirano, J. Am. Chem. Soc, 130, 3296 (2008). 
+4. Ren Zhi-An, Lu Wei, Yang Jie, Yi Wei, Shen Xiao-Li, Zheng-Cai, Che Guang-Can, 
+Dong Xiao-Li, Sun Li-Ling, Zhou Fangand Zhao Zhong-Xian, Chin. Phys. Lett. 25, 2215 
+(2008). 
+5. Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa. and O. Miura, Phys.Rev.B 86, 220510(R) (2012). 
+6. S. K. Singh, A. Kumar, B. Gahtori, S. Kirtan, G. Sharma, S. Patnaik and V. P. S. Awana, 
+J. Am. Chem. Soc. 134, 16504 (2012) 
+7. K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura and Y. Takano, 
+Euro. Phys. Lett. 101, 17004 (2013). 
+8. S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano, J. Phys. Soc. Jpn. 82, 033708 (2013).  
+9. R.Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Appl. Phys. 113, 056102 (2013). 
+10. R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Supercond. Novel Magn. 26, 499 
+(2013). 
+11. J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys.Rev.B 86, 214518 (2012). 
+
+
+ 
+8
+12. Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa and 
+O. Miura, J. Phys. Soc. Jpn. 81, 114725 (2012) 
+13. H. Kotegawa,Y. Tomita, H. Tou, H. Izawa. Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi and Y. Takano, J. Phys. Soc. Jpn. 81, 103702 (2012). 
+14. B. Li, Z. W. Xing and G. Q. Huang, Euro. Phys. Lett. 101, 47002 (2013). 
+15. G. Kalai Selvan, M. Kanagaraj, S. Esakki Muthu, Rajveer Jha, V. P. S. Awana, S. 
+Arumugam, Phys. Status Solidi RRL, 7, 510-513  (2013). 
+16. X. J. Chen, V. V. Struzhkin, Y. Yu, A. F. Goncharov, C.T. Lin, Ho-kwang Mao, R. J. 
+Hemley, Nature, 466, 950 (2010). 
+17. H. Q. Yuan, F. M. Grosche, M. Deppe, C. Geibel, G. Sparn, F. Steglich, Science. 302, 
+2104 (2003). 
+18. T. Okuhata, T. Nagai, H. Taniguchi, K. Satoh, M. Hedo and Y. Uwatoko, J. Phys. Soc. 
+Jpn. 76, 188 (2007). 
+19. Y. Nakai, T. Iye, S. Kitagawa, K. Ishida, H. Ikeda, S. Kasahara, H. Shishido, T. 
+Shibauchi, Y. Matsuda, and T. Terashima, Phys. Rev. Lett. 105, 107003 (2010). 
+20. C.T. Wolowiec, D.Yazici, B. D. White, K.Huang and M.B. Maple, arXiv:1307.4157 
+(2013) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+9
+ 
+Figure Captions 
+Figure 1: Rietveld fitted XRD pattern of PrO0.5F0.5BiS2 sample. The insets of figure show the 
+AC magnetic susceptibility of same sample.  
+Figure 2: Temperature dependent of Resistivity for PrO0.5F0.5BiS2 superconductor under external 
+hydrostatic pressures. Inset of the figure denote the methodology of Tc determined at various 
+parts of superconducting transition curves. 
+Figure 3: (a) The enlarged view of normal state resistivity with temperature and (b) variation of 
+dρ/dT as a function of temperature at different pressures for PrO0.5F0.5BiS2.  
+Figure 4: (a) Pressure dependence of superconducting transition width ΔTc and Tc for 
+PrO0.5F0.5BiS2, (b) Pressure dependence of residual resistivity ρ0, electron-electron interaction 
+factor A for PrO0.5F0.5BiS2. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+10 
+ 
+Figure (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+11 
+Figure (2) 
+0
+25
+50
+75
+100
+125
+150
+0.0
+0.5
+1.0
+1.5
+3.0
+3.5
+4.0
+4.5
+5.0
+0.0
+0.4
+0.8
+1.2
+1.6
+PrO0.5F0.5BiS2
+Tcoffset
+Tcmid
+Tconset
+ 
+ 
+ 
+ 
+ - cm)
+T (K)
+ 
+ 
+ 
+ T (K)
+ (mcm)
+ 0 GPa
+ 0.43 GPa
+ 0.87 GPa
+ 1.31 GPa
+ 1.75 GPa
+ 2.19 GPa
+PrO0.5F0.5BiS2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+12 
+Figure (3a) 
+3
+4
+5
+6
+7
+0.0
+0.5
+1.0
+1.5
+2.0
+PrO0.5F0.5BiS2
+Tc
+ 
+ 
+ 
+ 
+(mcm)
+T (K)
+  0 GPa
+ 0.43 GPa
+ 0.87 GPa
+ 1.31 GPa
+ 1.75 GPa
+ 2.19 GPa
+(a)
+ 
+Figure (3b) 
+3.5
+4.2
+4.9
+5.6
+0.0
+0.3
+0.6
+0.9
+1.2
+ 
+ 
+ 
+ 
+d/dT ( - cm/K)
+T (K)
+ 0 GPa
+ 0.43 GPa
+ 0.87 GPa
+ 1.31 GPa
+ 1.75 GPa
+ 2.19 GPa
+(b)
+PrO0.5F0.5BiS2
+ 
+
+
+ 
+13 
+Figure (4a) 
+0.0
+0.7
+1.4
+2.1
+3.6
+3.9
+4.2
+4.5
+4.8
+ Tc
+ Tc
+ 
+ 
+ 
+P (GPa)
+0.21
+0.28
+0.35
+0.42
+0.49
+PrO0.5F0.5BiS2
+ 
+Tc (K)
+Tc (K)
+(a)
+ 
+Figure (4b) 
+0.0
+0.7
+1.4
+2.1
+1.04
+1.12
+1.20
+1.28
+ 
+ 
+ 
+P (GPa)
+0.6
+0.9
+1.2
+1.5
+ 
+A ( cm K-2)
+(mcm)
+(b)
+PrO0.5F0.5BiS2
+ 
+
+

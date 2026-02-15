@@ -1,0 +1,607 @@
+arXiv:1406.5851v1  [cond-mat.supr-con]  23 Jun 2014
+Optical spectroscopy study of Nd(O,F)BiS2 single crystals
+X. B. Wang,1 S. M. Nie,1 H. P. Wang,1 P. Zheng,1 P. Wang,1 T. Dong,1 H. M. Weng,1, 2 and N. L. Wang1, 2
+1Beijing National Laboratory for Condensed Matter Physics,
+Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China
+2Collaborative Innovation Center of Quantum Matter, Beijing, China
+We present an optical spectroscopy study on F-substituted NdOBiS2 superconducting single crystals grown
+using KCl/LiCl ﬂux method. The measurement reveals a simple metallic response with a relatively low screened
+plasma edge near 5000 cm−1 . The plasma frequency is estimated to be 2.1 eV, which is much smaller than the
+value expected from the ﬁrst-principles calculations for an electron doping level of x=0.5, but very close to the
+value based on a doping level of 7% of itinerant electrons per Bi site as determined by ARPES experiment.
+The energy scales of the interband transitions are also well reproduced by the ﬁrst-principles calculations. The
+results suggest an absence of correlation eﬀect in the compound, which essentially rules out the exotic pairing
+mechanism for superconductivity or scenario based on the strong electronic correlation eﬀect. The study also
+reveals that the system is far from a CDW instability as being widely discussed for a doping level of x=0.5.
+PACS numbers: 74.25.Gz, 74.70.-b, 74.25.Jb
+I.
+INTRODUCTION
+The newly discovered bismuth oxysulﬁde superconductors
+have attracted much attention in the past two years. Soon after
+the discovery of superconductivity at 4.4 K in Bi4O4S3,1,2 sev-
+eral new members of this family, e.g. ReO1−xFxBiS2 (Re= La,
+Ce, Pr, Nd, Yb), Sr1−xLaxFBiS2, and La1−xMxOBiS2 (M= Ti,
+Zr, Hf, Th), were found.3–10 Those compounds have layered
+structures consisting of alternate stacking of superconducting
+BiS2 layers and diﬀerent blocking layers. The stacking struc-
+ture is analogous to those of high-Tc cuprates11 and Fe-based
+superconductors12. Typically, superconductivity arises when
+charge carriers are introduced into the parent compound, and
+the superconducting transition temperature Tc reaches a max-
+imum value at the nominal doping level of x=0.5.3
+First principle calculations indicate that the parent com-
+pound is a semiconductor with an energy gap of ∼0.8 eV,
+and superconductivity induced by electron doping is derived
+mainly from the 6px/py orbitals in the BiS2 layers.13,14 At the
+doping level of x=0.5, a good nesting between the large par-
+allel Fermi-surface segments with wave vector q = (π, π, 0)
+has been found. It is therefore suggested that the BiS2-based
+superconductorsare conventionalphonon-mediatedsupercon-
+ductors closed to charge density wave instability.14,15 How-
+ever, this picture was not supported by subsequent neutron
+scattering experiment.16 The electron-phonon coupling could
+be much weaker than theoretically expected. It was proposed
+that the strong Fermi surface nesting would enhance the spin
+ﬂuctuations, and the electron correlations may play a major
+role in superconducting pairing.17–20 At present, there is no
+consensus on the origin of superconductivity in those com-
+pounds. It is important to distinguish between diﬀerent pic-
+tures by performing various experimental measurements.
+Most of the early experimental investigations were done
+on polycrystalline samples due to the lack of single crys-
+tals. Recently, millimeter-sized single crystals were success-
+fully grown from alkali metal chloride ﬂux in vacuum,21,22
+and two angle resolved photoemission spectroscopy (ARPES)
+studies on the electronic structures of NdO1−xFxBiS2 were
+reported.23,24 Ye et al. found that the electron correlation is
+very weak and the carrier doping is much smaller than that
+expected from the nominal ﬂuorine component which they at-
+tributed to the Bismuth deﬁciency.23 Another ARPES report
+by Zeng et al. based on our samples also indicates rather small
+electron pockets around X point corresponding to an elec-
+tron doping level of roughly 7% per Bi site.24 Consequently,
+most of previous theoretical studies based on the high electron
+doping (close to x=0.5) becomes unreliable, and more exper-
+iments based on the single crystals are highly desired.
+In this work, we report an optical spectroscopy study on
+Nd(O,F)BiS2 single crystals in combination with the ﬁrst prin-
+ciple band structural calculations. The optical measurement
+reveals a simple metallic response with a plasma frequency of
+2.1 eV. Taking the doping level of 7% of itinerant electrons
+per Bi site as determined by ARPES experiment on the same
+batch of crystals, the band structure calculations yield almost
+the same plasma frequency. Furthermore, the interband transi-
+tions at higher energies observed in optical measurement can
+also be well reproduced by the band structure calculations.
+Those results reveal essentially an absence of correlation ef-
+fect in the compound. The study also indicates that the doping
+level of superconducting sample is far from CDW instability,
+which was widely discussed for a doping level of x=0.5.
+II.
+EXPERIMENT
+F-doped NdOBiS2 superconducting single crystals were
+grown using KCl/LiCl (molar ratio KCl:LiCl=3:2) ﬂux
+method.
+The raw materials with nominal composition of
+NdO0.7F0.3BiS2 were weighted and mixed with the KCl/LiCl
+ﬂux.
+The crystal growth procedure is similar to that de-
+scribed by Tanaka21 except that we use a diﬀerent molar ratio
+of KCl/LiCl:NdO0.7F0.3BiS2 = 25:1. Many dark-grey shiny
+plate-like single crystals were obtained. The typical size is 1-
+2 mm, and obvious layered structure can be observed under
+the microscope with a typical thickness of ∼60µm.
+The obtained single crystals were characterized by X-
+ray diﬀraction (XRD) and scanning electron microscope
+equipped with energy dispersion X-rays spectrum (EDX).
+
+
+2
+Bulk magnetization was measured using a Quantum De-
+sign superconducting quantum interference device (SQUID-
+VSM). Temperature-dependent electrical resistivity was mea-
+sured by a standard four-probe method in a Quantum Design
+Physical Property Measurement System (PPMS). The opti-
+cal reﬂectance measurements were performed on Bruker IFS
+113v and 80v spectrometers in the frequency range from 80
+to 24 000 cm−1 (10 meV∼3 eV). An in situ gold and alu-
+minum overcoating technique was used to obtain the reﬂec-
+tivity R(ω). The real part of conductivity σ1(ω) is obtained
+by the Kramers-Kronig transformation of R(ω). The Hagen-
+Rubens relation was used for low frequency extrapolation; at
+high frequency side a ω−1.2 relation was used up to 300 000
+cm−1 , above which ω−4 was applied.
+We also performed ﬁrst-principle calculations for the elec-
+tronic band structure of NdOBiS2 on the basis of the real crys-
+tal structure. The optical constants were calculated and com-
+pared with experimental results. A detailed description about
+the calculations will be presented in the following section.
+III.
+RESULTS AND DISCUSSION
+Figure 1 shows the XRD pattern for the Nd(O,F)BiS2 single
+crystal at room temperature. Only (0 0 l) peaks were observed,
+indicating a well developed ab-plane orientation for the crys-
+tal sheets. For the as-grown crystals, the c-axis lattice param-
+eters was obtained as 13.49 Å, in consistent with the previous
+reports.21,22 The averaged composition of the as-grown single
+crystals is approximately Nd0.95±0.02OyF0.44±0.1Bi0.94±0.02S2 as
+determined by EDX analysis on several pieces of samples.
+The composition was normalized to S=2. No Li, K, Cl were
+detected in the crystals. In the following part, we use nominal
+component Nd(O,F)BiS2 to represent the actual composition
+Nd0.95±0.02OyF0.44±0.1Bi0.94±0.02S2.
+Figure 2 shows temperature dependent in-plane resistivity
+for Nd(O,F)BiS2 single crystals. The curves are normalized
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+5
+10
+15
+20
+-0.09
+-0.06
+-0.03
+0.00
+(0012)
+(0011)
+(0010)
+(009)
+(008)
+(007)
+(006)
+(005)
+(004)
+(003)
+Intensity (a.u.)
+2
+(degree)
+(002)
+FC
+ZFC
+ (emu/g)
+T (K)
+H // c-axis
+H : 10 Oe
+FIG. 1: (Color online) X-ray diﬀraction pattern of the Nd(O,F)BiS2
+single crystal. Inset shows the temperature dependence of magnetic
+susceptibility for the annealed Nd(O,F)BiS2 single crystal.
+0
+50
+100
+150
+200
+250
+300
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+5
+10
+15
+20
+25
+30
+0
+0.2
+0.4
+0.6
+0.8
+ab
+ab
+(300K)
+T
+(K)
+ As grown
+ 400 
+ annealed 
+ab
+ab
+(300K)
+ 
+ 
+ 
+ 
+T (K)
+FIG. 2: (Color online) The normalized electrical resistivity vs tem-
+perature of both as-grown and annealed Nd(O,F)BiS2 crystals. The
+inset displays an enlarged region near superconducting transition.
+to the values at 300 K. For the as-grown crystal, the resistiv-
+ity values decrease with decreasing the temperature from 300
+K, but increase below 100 K before it undergo the supercon-
+ducting transition with Tonset
+c
+= 5.7 K and Tzero
+c
+= 3.6 K. The
+low temperature upturn is likely due to the disorder/defects
+of the crystals during the growth procedure. In order to re-
+duce the eﬀect, we have sealed the as-grown crystals in an
+evacuated silica tube and annealed them at 400 ◦C for 10
+hours. After such heat treatment, the in-plane resistivity ρab
+reveals a metallic behavior over the entire temperature range
+between room temperature and Tzero
+c
+= 4 K. The zero-ﬁeld-
+cooled (ZFC) and ﬁeld-cooled (FC) dc magnetic susceptibility
+of the annealed Nd(O,F)BiS2 crystals with H = 10 Oe along
+c-axis is displayed in the inset of Fig. 1. A sharp diamagnetic
+signal is observed below 3.8 K, indicating a bulk supercon-
+ductor. The positive background signal could be due to the
+paramagnetism of the Nd ion in the crystals. Apparently, the
+annealing reduces the defects and improves the quality of the
+crystals. The optical spectroscopy results presented below are
+based on the annealed Nd(O,F)BiS2 single crystals.
+Figure 3 (a) and (b) show the reﬂectance and real part
+of conductivity spectra of Nd(O,F)BiS2 single crystal over a
+broad energy scale at diﬀerent temperatures, respectively. The
+value of R(ω) at low frequency is high and increases further
+with decreasing temperature, yielding compelling evidence
+for a good metallic response. With increasing frequency, R(ω)
+drops quickly to a minimum value near 5000 cm−1 , which
+is known as the screened plasma edge. Above the edge fre-
+quency, the reﬂectance becomes roughly temperature inde-
+pendent. The relatively low edge position reveals a low carrier
+density, being consistent with a low electron doping level re-
+vealed by ARPES.24 As displayed in Fig. 3 (b), the Drude-like
+conductivity are observed for all spectra at low frequencies.
+At high energies, several interband transition features, for ex-
+ample, at 10 500 cm−1 , 14 400 cm−1 , and a weak feature near
+18 000 cm−1 , could be well resolved.
+To make a quantitative analysis of diﬀerent contributions to
+
+
+3
+0
+4000
+8000
+12000
+16000
+20000
+1500
+3000
+4500
+6000
+(cm
+-1
+)
+ (
+-1
+·
+cm
+-1
+)
+ 300 K
+ 200 K 
+ 100 K
+ 10 K
+ 
+ 
+ 
+(b)
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+50
+100
+150
+200
+250
+300
+1000
+1200
+1400
+1600
+ 300 K
+ 200 K 
+ 100 K
+ 10 K
+R
+ 
+ 
+ 
+ 
+ (cm
+-1
+)
+T (K)
+(a)
+FIG. 3: (Color online) (a)Temperature dependence of R(ω) from 100
+to 20000 cm−1 . (b) Temperature dependence of the real part of the
+optical conductivity σ1(ω).
+the electronic excitations, we decompose the optical conduc-
+tivity using a simple Drude-lorentz model:25
+ǫ(ω) = ǫ∞−
+ω2
+p
+ω2 + iω/τ +
+X
+i
+Ω2
+i
+ω2
+i −ω2 −iω/τi
+.
+(1)
+where ǫ∞is the dielectric constant at high energy, and the mid-
+dle and last terms are the Drude and Lorentz components, re-
+spectively. The Drude component represents the contribution
+from conduction electrons, while the Lorentz components de-
+scribe the interband transitions. The optical conductivity spec-
+tra below 20 000 cm−1 could be reasonably ﬁt by one Drude
+and three Lorentz components. As an example, we show in
+Fig. 4 the room temperature spectrum and decomposed Drude
+and Lorentz components. The plasma frequency obtained for
+the Drude components is 17 000 cm−1 (∼2.1 eV), and it keeps
+roughly unchange at diﬀerent temperatures, while the width,
+i.e. the scattering rate 1/τ, in the Drude term decreases with
+decreasing temperature, as displayed in the inset of Fig. 3 (a).
+The three Lorentz terms centered at 10 500, 14 400 and 17 800
+cm−1 , respectively, are attributed to the interband transitions,
+and their origins will be discussed below.
+According to band structural calculations, the Fermi sur-
+faces are big for the doping level of x=0.5, consisting of large
+pockets encircling the center Γ and and corner M of the Bril-
+louin zone (BZ), respectively. Correspondingly, the calcu-
+4000
+8000
+12000
+16000
+20000
+0
+1000
+2000
+3000
+4000
+ Ex perimental data
+ First principle calculation
+ Drude-Lorentz fit
+ Drude
+ Lorentz 1
+ Lorentz 2
+ Lorentz 3
+ 
+ 
+(cm
+-1
+)
+ (
+-1
+·
+cm
+-1
+)
+FIG. 4: (Color online) The real part of the optical conductivity σ1(ω)
+at 300 K, together with the decomposed Drude and Lorentz compo-
+nents. The calculated conductivity based on the ﬁrst-principle band
+structure within GGA and an assumed value of scattering rate is also
+presented.
+lated plasma frequency for LaO0.5F0.5BiS2 is 5.99 eV.14 This
+value is much larger than the value determined by optics in
+this work for Nd(O,F)BiS2 single crystal. However, as we ex-
+plained in the introduction, the recent ARPES measurements
+on Nd(O,F)BiS2 actually revealed only smaller Fermi pock-
+ets encircling the midpoints on the edge of BZ with a doping
+level of roughly 7% per Bi site.24 On this account, we have
+to compare the experimental results to theoretical calculations
+only at such small doping level.
+We performed the ﬁrst-principle calculations of electronic
+structure by using the full-potential linearized-augmented
+plane-wave(FP-LAPW) method implemented in WIEN2K
+package for the real crystal structure of undoped NdOBiS226.
+The exchange-correlation potential was treated using the
+generalized gradient approximation(GGA) based on the
+Perdew-Burke-Ernzerhof(PBE) approach27. Spin-orbit cou-
+pling(SOC) was included as a second variational step self-
+consistently. The radii of the muﬃn-tin sphere RMT were 2.37
+Bohr for Nd, Bi and S and 2.1 Bohr for O, respectively. A
+18×18×6 k-point mesh has been utilized in the self-consistent
+calculations. For the optical properties calculation28 a ﬁne
+grid mesh with 25×25×7 was adopted. The truncation of the
+modulus of the reciprocal lattice vector Kmax, which was used
+for the expansion of the wave functions in the interstitial re-
+gion, was set to RMT ∗Kmax = 7. This parent compound is
+a band semiconductor and its Fermi level (EF, set as zero en-
+ergy) locates in the energy gap. With electron doping by F
+substitution for O, the Fermi level should shift up. Figure 5 (a)
+and (b) shows the calculated band dispersions and the Fermi
+surfaces with chemical potential being shifted up by 0.85 eV,
+which roughly corresponding to a doping level of 7% per Bi
+site. The shape and Fermi surface areas are in good agreement
+with the ARPES measurement on the same batch of crystals.24
+The calculated plasma frequency at this chemical potential is
+2.078 eV, which is very close to the experimental value. Fig-
+
+
+4
+FIG. 5: (Color online) (a) The band dispersions of NdOBiS2 by ﬁrst-
+principle calculations within GGA with a shift of EF by 0.85 eV. (b)
+The Fermi surfaces of NdOBiS2 obtained by shifting up EF∼0.85
+eV, which roughly corresponding to a doping level of 7% per Bi site.
+(c) the real part and imaginary part of dielectric function. The in-
+terband transition peaks and corresponding transitions in the band
+dispersions are indicated by the arrows.
+ure 5 (c) shows the real and imagine parts of dielectric func-
+tion contributed for the interband transitions below 4 eV, the
+free carrier contributions are not considered in this plot.
+Since the scattering rate of free carriers is not a theoreti-
+cally calculated quantity, the spectral shape of Drude compo-
+nent could not be given by ﬁrst-principle band calculations.
+For the reason of making a comparison with experiment, we
+add a value of the scattering rate for the Drude component
+by hand. Then the spectrum of the Drude part could also
+be displayed. The calculated real part of conductivity by as-
+suming a scattering rate value of 1600 cm−1 is also displayed
+Fig. 4. Surprisingly, we ﬁnd that the calculated conductiv-
+ity curve can well reproduce the experimental curve not only
+for the low frequency Drude component but also for the en-
+ergy scales of the interband transitions. The diﬀerent val-
+ues of the conductivities at high energy higher than 15 000
+cm−1 could be largely attributed to the high energy extrapola-
+tions in Kramers-Kronig transformation.
+According to the band structural calculations, there should
+be four major interband transitions below the energy of 4 eV,
+as indicated by the arrows in Fig. 5. Those interband transi-
+tions lead to peaks in the imaginary part of the dielectric func-
+tion. The peak at the lowest energy near 0.25 eV is from the
+transition between two parallel bands from Bi p orbitals being
+caused by the Bi-Bi inter-layer coupling. The peak near 1.25
+eV is from the transition between two parallel bands from Bi
+px and py orbitals arising from the in-plane p-p σ-bond and
+p-p π-bond. The peaks near 1.8 eV and 2.1 eV both come
+from the transition between S or O p-bands to Bi p-bands.
+The last three could be well resolved in the optical conductiv-
+ity spectra at respective energies. However, the lowest inter-
+band transition near 0.25 eV is embedded in the strong peak
+from the Drude response of free carriers and could hardly be
+distinguished from the experimental data. Since the plasma
+frequency determined by experiment is even slightly higher
+than that of ﬁrst-principle calculations, it is very likely that
+such interband transition is indeed present in the experimen-
+tal data. Nevertheless, this interband transition must be ex-
+tremely weak in intensity and only a very small fraction of
+spectral weight is taken from the Drude component.
+Usually, the ratio of experimental kinetic energy Kexpt
+to that of the theoretical kinetic energy Kband from density
+functional calculations provides a measure of the degree of
+correlation.29,30 The kinetic energy is proportional to the spec-
+tral weight ω2
+p/8 deﬁned as the area under the Drude part of
+σ1(ω). The extremely close values of the plasma frequen-
+cies determined by both experiment and GGA calculations
+implies Kexpt/Kband = ω2
+p,expt/ω2
+p,band ≈1, suggesting that the
+Nd(O,F)BiS2 crystal is a simple metal and correlation eﬀect is
+almost absent. The result is consistent with the recent ARPES
+report.23
+The absence of the electronic correlation eﬀect and the sur-
+prisingly good agreement of optical data between the exper-
+imental measurement and the ﬁrst-principle calculations in-
+dicate that the BiS2-based compound is an ordinary metal.
+The scenario for the superconductivity based on the exotic
+pairing mechanism or strong electronic correlation eﬀect is
+not well grounded. The small plasma frequency, which is
+in good agreement with the small Fermi surfaces observed
+from ARPES measurements, suggests that the compound is
+far from the CDW instability at the doping level of x=0.5
+as proposed in early theoretical calculations. As proposed in
+early work,23 the smaller doping level could be due to the pres-
+ence of Bi vacancies in the samples.
+IV.
+SUMMARY
+To summarize, we have grown F-substituted NdOBiS2 su-
+perconducting single crystals using KCl/LiCl ﬂux method.
+The annealed crystals show a typical metallic behavior with
+a superconducting transition temperature near 4 K. We per-
+formed a combined optical spectroscopy and ﬁrst principle
+band structural calculation study on Nd(O,F)BiS2 single crys-
+tal. The optical measurement reveals a simple metallic behav-
+ior with a relatively small plasma frequency of 2.1 eV. Taking
+the doping level of 7% of itinerant electrons per Bi site as
+determined by ARPES experiment on the same batch of crys-
+tals, the band structure calculations not only well reproduce
+the spectral weight of the low frequency Drude component
+but also the energy scales of the interband transitions. Those
+results indicate essentially the absence of correlation eﬀect in
+the compound. The study also illustrates that the doping level
+of superconducting compound is far from the CDW instability
+suggested in early studies for a doping level of x=0.5.
+Acknowledgments
+This work is supported by the National Science Foun-
+dation of China (11120101003, 11327806), and the 973
+
+
+5
+project of the Ministry of Science and Technology of China
+(2011CB921701, 2012CB821403).
+1 Yoshikazu Mizuguchi, Hiroshi Fujihisa, Yoshito Gotoh, Kat-
+suhiro Suzuki, Hidetomo Usui, Kazuhiko Kuroki, Satoshi De-
+mura, Yoshihiko Takano, Hiroki Izawa, Osuke Miura, Phys. Rev.
+B 86, 220520(R) (2012).
+2 Shiva Kumar Singh, Anuj Kumar, Bhasker Gahtori, Shruti Kirtan,
+G. Sharma, S. Patnaik, V. P. S. Awana, J.Am. Chem. Soc., 134,
+16504 (2012).
+3 Yoshikazu Mizuguchi, Satoshi Demura, Keita Deguchi, Yoshihiko
+Takano, Hiroshi Fujihisa, Yoshito Gotoh, Hiroki Izawa, Osuke
+Miura, J. Phys. Soc. Jpn. 81, 114725 (2012).
+4 Satoshi Demura, Yoshikazu Mizuguchi, Keita Deguchi, Hi-
+royuki Okazaki, Hiroshi Hara, Tohru Watanabe, Saleem James
+Denholme, Masaya Fujioka, Toshinori Ozaki, Hiroshi Fujihisa,
+Yoshito Gotoh, Osuke Miura, Takahide Yamaguchi, Hiroyuki
+Takeya, Yoshihiko Takano, J. Phys. Soc. Jpn. 82, 033708 (2013).
+5 Jie Xing, Sheng Li, Xiaxing Ding, Huang Yang, Hai-Hu Wen,
+Phys. Rev. B 86, 214518 (2012).
+6 Rajveer Jha, Anuj Kumar, Shiva Kumar Singh, V. P. S. Awana, J.
+Sup. and Novel Mag. 26, 499-502 (2013).
+7 D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman,
+M. B. Maple, Philosophical Magazine 93, 673 (2012).
+8 Xi Lin, Xinxin Ni, Bin Chen, Xiaofeng Xu, Xuxin Yang, Jianhui
+Dai, Yuke Li, Xiaojun Yang, Yongkang Luo, Qian Tao, Guanghan
+Cao, Zhuan Xu, Phys. Rev. B 87, 020504(R) (2013).
+9 D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J.
+Friedman, I. K. Lum, M. Nallaiyan, S. Spagna, M. B. Maple,
+Phys. Rev. B 87, 174512 (2013).
+10 A.Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V. Pom-
+jakushin, R. Khasanov, H. Luetkens, P. Biswas, A. Amato, H.
+Keller, K. Conder, J. Phys.: Condens. Matter 26, 215702 (2014).
+11 Warren E. Pickett, Rev. Mod. Phys. 61, 433 (1989).
+12 Y.Kamihara, T.Watanabe, M.Hirano, and H.Hosono, J.Am. Chem.
+Soc., 103, 3296(2008).
+13 Hidetomo Usui, Katsuhiro Suzuki, and Kazuhiko Kuroki, Phys.
+Rev. B 86, 220501(R) (2012).
+14 Xiangang Wan, Hang-Chen Ding, Sergey Y. Savrasov, Chun-
+Gang Duan, Phys. Rev. B 87, 115124 (2013).
+15 B. Li, Z. W. Xing, G. Q. Huang, Europhys. Lett. 101, 47002
+(2013).
+16 J. Lee, M. B. Stone, A. Huq, T. Yildirim, G. Ehlers, Y. Mizuguchi,
+O. Miura, Y. Takano, K. Deguchi, S. Demura, and S.-H. Lee,
+Phys. Rev. B 87, 205134 (2013).
+17 Taner Yildirim, Phys. Rev. B 87, 020506(R) (2013).
+18 Tao Zhou, Z. D. Wang, Journal of Superconductivity and Novel
+Magnetism 26, 2735 (2013).
+19 Yi Liang, Xianxin Wu, Wei-Feng Tsai, Jiangping Hu, Frontiers of
+Physics 9, 194 (2014).
+20 Y. Yang, W. S. Wang, Y. Y. Xiang, Z. Z. Li, and Q. H. Wang, Phys.
+Rev. B 88, 094519 (2013).
+21 Masanori Nagao, Satoshi Demura, Keita Deguchi, Akira Miura,
+Satoshi Watauchi, Takahiro Takei, Yoshihiko Takano, Nobuhiro
+Kumada, Isao Tanaka, J. Phys. Soc. Jpn. 82, 113701 (2013).
+22 Jianzhong Liu, Delong Fang, Zhenyu Wang, Jie Xing, Zengyi Du,
+Xiyu Zhu, Huan Yang, Hai-Hu Wen, Europhys. Lett. 106, 67002
+(2014). .
+23 Z. R. Ye, H. F. Yang, D. W. Shen, J. Jiang, X. H. Niu, D. L. Feng,
+Y. P. Du, X. G. Wan, J. Z. Liu, X. Y. Zhu, H. H. Wen, M. H. Jiang,
+e-print arXiv:1402.2860.
+24 L. K. Zeng, X. B. Wang, J. Ma, P. Richard, S. M. Nie, H. M. Weng,
+N. L. Wang, Z. Wang, T. Qian, H. Ding, e-print arXiv:1402.1833.
+25 W. Z. Hu, J. Dong, G. Li, Z. Li, P. Zheng, G. F. Chen, J. L. Luo,
+and N. L. Wang, Phys. Rev. Lett. 101, 257005 (2008).
+26 P. Blaha, K. Schwarz, G. Madsen, D. Kvaniscka, and J. Luitz,
+Wien2k, An Augmented Plane Wave Plus Local Orbitals Program
+for Calculating Crystal Properties (Vienna University of Technol-
+ogy, Vienna,Austria, 2001).
+27 J. P. Perdew, K. Burke and M. Ernzerhof, Phys. Rev. Lett. 77, 3865
+(1996).
+28 R. Abt, C. Ambrosch-Draxl and P. Knoll, Physica B 194-196,
+1451 (1994); C. Ambrosch-Draxl and J. O. Sofo, Comput. Phys.
+Commun. 175, 1 (2006).
+29 M. M. Qazilbash, J. J. Hamlin, R. E. Baumbach, Lijun Zhang, D.
+J. Singh, M. B. Maple, D. N. Basov, Nature physics 5, 647 (2009).
+30 Qimiao Si, Nature physics 5, 629 (2009).
+
+

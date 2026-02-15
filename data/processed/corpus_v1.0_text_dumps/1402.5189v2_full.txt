@@ -1,0 +1,378 @@
+1 
+ 
+Stabilization of high-Tc phase of BiS2-based superconductor LaO0.5F0.5BiS2 using 
+high-pressure synthesis 
+ 
+Yoshikazu Mizuguchi1*, Takafumi Hiroi1, Joe Kajitani1, Hiroshi Takatsu2, Hiroaki 
+Kadowaki2 and Osuke Miura1 
+ 
+1. Department of Electrical and Electronic Engineering, Tokyo Metropolitan 
+University, 1-1, Minami-osawa, Hachioji, Japan 
+2. Department of Physics, Tokyo Metropolitan University, 1-1, Minami-osawa, 
+Hachioji, Japan 
+ 
+*Corresponding author: Yoshikazu Mizuguchi (mizugu@tmu.ac.jp) 
+ 
+ 
+Abstract 
+ High-quality polycrystalline samples of LaO0.5F0.5BiS2 were obtained using 
+high-pressure synthesis technique. The LaO0.5F0.5BiS2 sample prepared by heating 
+at 700 ºC under 2 GPa showed superconductivity with superconducting transition 
+temperatures (Tc) of Tconset = 11.1 and Tczero = 8.5 K in the electrical resistivity 
+measurements and Tconset = 11.5 and Tcirr = 9.4 K in the magnetic susceptibility 
+measurements, which are obviously higher than those of the LaO0.5F0.5BiS2 
+polycrystalline samples obtained using conventional solid-state reaction. It was 
+found that the high-Tc phase can be stabilized under high pressure and 
+relatively-low annealing temperature. X-ray diffraction analysis revealed that the 
+high-Tc phase possessed a small ratio of lattice constants of a and c, c/a.  
+
+
+2 
+ 
+ The BiS2-based superconductors are novel layered superconductors [1,2]. The 
+crystal structure is basically composed of an alternate stacking of double BiS2 
+conduction layers and blocking layers such as RE2O2 (RE: Rare earth), Sr2F2 or 
+Bi4O4(SO4)1-x layers[1-11]. Because of the layered structure similar to the cuprtes 
+and the Fe-based family [12,13], appearance of novel mechanisms of 
+superconductivity and high superconducting transition temperature (Tc) has been 
+expected. Band calculations suggested that the parent material is a band insulator, 
+and the BiS2-based materials could be superconductive when electron carriers were 
+generated at the Bi-6p orbitals within the BiS2 conduction layers [14]. 
+ LaO1-xFxBiS2 is a typical BiS2-based superconductor [2]. The parent phase LaOBiS2 
+is semiconducting, and partial substitution of O by F generates electron carriers 
+within the BiS2 layers. The superconducting transition temperature Tc of 
+LaO1-xFxBiS2 becomes highest at x ~ 0.5. The Tc of the polycrystalline samples 
+prepared by a conventional solid-state reaction (annealing in an evacuated quartz 
+tube) is less than 3 K. However, the Tc can be largely enhanced up to 10 K by 
+applying high pressure (HP) using a HP cell [15-17]. Recently, Tomita et al. showed 
+the possibility of structural transition from tetragonal (low-Tc) to monoclinic 
+(high-Tc) on the basis of the results of X-ray analysis under HP and the molecular 
+dynamics simulations of density functional theory calculations. Another way to 
+enhance the Tc in LaO1-xFxBiS2 is HP annealing. The sample annealed at 600 ºC 
+under 2 GPa showed Tconset = 10.6 and Tczero = 7.8 K [2,18]. The enhancement of Tc 
+was explained by the uniaxial lattice strain along the c axis [19]. These scenarios of 
+the appearance of high-Tc phase in LaO1-xFxBiS2 concluded in refs. 17 and 19 are 
+basically consistent. However, to clarify the correlation between superconductivity 
+and the crystal structure and to investigate physical properties of the high-Tc phase, 
+the preparation of homogeneous samples with Tc higher than 10 K is much 
+important. Here we report the HP synthesis of high-quality LaO0.5F0.5BiS2 
+polycrystalline samples with Tconset = 11.1 and Tczero = 8.5 K in the electrical 
+resistivity measurements and Tconset = 11.5 and Tcirr = 9.4 K in the magnetic 
+susceptibility measurements. 
+ 
+ Polycrystalline samples of LaO0.5F0.5BiS2 were prepared using a HP synthesis 
+technique with a cubic-anvil-type 180 ton press. The starting materials are La2S3 
+(99.9 %), Bi2O3 (99.99 %), BiF3 (99.9 %) and Bi2S3 powders and Bi (99.99 %) grains. 
+The Bi2S3 powder was prepared by reacting Bi and S (99.99 %) grains. The mixture 
+with a nominal composition of LaO0.5F0.5BiS2 was well-mixed and pressed into a 
+
+
+3 
+ 
+pellet. The sample was sealed into a BN sample space and inserted into a HP cell. 
+The HP cell was pressed with a pressure of 2 GPa and heated with various 
+annealing temperatures and times. The detailed annealing conditions are listed in 
+Table 1. The temperature dependence of electrical resistivity below 300 K was 
+measured using the four-terminal method. The DC magnetic susceptibility was 
+measured 
+using 
+a 
+superconducting 
+quantum 
+interference 
+device 
+(SQUID) 
+magnetometer after both zero-field cooling (ZFC) and field cooling (FC). The Tconset in 
+the susceptibility measurement was estimated to be a temperature where the 
+susceptibility began to decrease. The error of the Tconset in the phase diagram (Fig. 4) 
+was estimated by considering the real value of the susceptibility error at normal 
+conducting states around 15 K. For Tcirr, the reliable estimation of error was quite 
+difficult due to drastic change of susceptibility around Tcirr. Hence we did not plot in the 
+phase diagram. The powder X-ray powder diffraction (XRD) experiments were carried 
+out using a Rigaku SmartLab powder diffractometer equipped with a CuKα1 
+monochrometer. To compare XRD patterns of various samples precisely, the standard Si 
+powder was mixed with the samples, and used as the reference of the calibration of the 
+peak shift. 
+ 
+ The highest Tc and shielding property were obtained for the LaO0.5F0.5BiS2 sample 
+prepared with heating at 700 ºC for 1 h under 2 GPa. The temperature dependence 
+of electrical resistivity for the HP sample was displayed in Fig. 1(a). For comparison, 
+resistivity data of the solid-state-reacted LaO0.5F0.5BiS2 polycrystalline sample was 
+plotted together. The Tc of the HP sample is obviously higher than that of the 
+solid-state-reacted sample. The Tconset and Tczero are 11.1 and 8.5 K in the electrical 
+resistivity measurement. The onset temperature was defined as a temperature 
+where the resistivity began to decrease due to the evolution of the superconducting 
+states as shown in Fig. 1(c). Figure 1(b) shows the temperature dependence of 
+magnetic susceptibility for the HP and solid-state-reacted samples. In the 
+susceptibility measurements, Tconset and Tcirr are 11.5 and 9.4 K, respectively. The 
+Tcirr is a bifurcation temperature between the ZFC and FC curves as shown in Fig. 
+1(d). 
+ Figure 2 shows the XRD pattern of the HP sample prepared with heating at 700 ºC 
+for 1 h under 2 GPa (HP-700 ºC). The Miller indices are displayed over the 
+corresponding peaks. The obtained XRD pattern shows an almost single phase, 
+except for the tiny impurity phase of Bi2S3. By converting peak positions of the (200) 
+and (003) reflections to the lattice constants a and c for the tetragonal unit cell, we 
+
+
+4 
+ 
+obtained a = 4.0748(1) Å and c = 13.2830(10) Å for the HP-700 ºC sample. As 
+summarized in Table 1, the single-phase samples were obtained when the heating 
+temperature was above 700 ºC. This fact indicates that the formation of the 
+LaOBiS2-type structure requires a heating temperature higher than 650 ºC under a 
+high pressure of 2 GPa. For the HP sample prepared at 800 ºC (HP-800 ºC), single 
+phase was obtained by heating only for 0.5 h. However the Tc of the HP-800 ºC 
+sample becomes lower than those of the HP-700 ºC sample.  
+In Fig. 3, we plot XRD profiles around the (003) and (200) peaks for the 
+solid-state-reacted sample, HP-700 ºC sample (the high-Tc phase) and HP-800 ºC 
+sample (the low-Tc phase), respectively. As in the case of the HP-700 ºC sample, the 
+lattice constants of the HP-800 ºC sample are obtained as a = 4.0727(1) Å and c = 
+13.2920(10) Å. The lattice constants of the solid-state-reacted sample are a = 
+4.0709(1) Å and c = 13.3475(3) Å. One can see the broadening of the peaks when the 
+Tc of the sample is increased. Moreover, the peak positions of the (003) and (200) 
+reflections monotonically increases and decreases, respectively. Therefore, we think 
+that there is a close correlation between the lattice parameters and the appearance 
+of the high-Tc phase in the BiS2-based superconductor. We discuss its detail below. 
+Firstly, we compare the solid-state-reacted sample and the HP-700 ºC sample. The 
+position of the (003) peak for the HP-700 ºC sample is higher than that of the 
+solid-state-reacted sample. This indicates that the length of the c axis for the 
+HP-700 ºC sample is clearly shorter than that of the solid-state-reacted sample. In 
+contrast, peak position of the (200) peak for the HP-700 ºC sample is lower than that 
+of the solid-state-reacted sample. This indicates that the length of the a axis in the 
+HP-700 ºC sample is longer than that of the solid-state-reacted sample. Namely, a 
+small c/a ration is important for the appearance of the high-Tc phase. These 
+tendencies are basically consistent with the uniaxial contraction along the c axis 
+observed in the HP-post-annealing studies [2,18,19]. Although the previous X-ray 
+studies for the solid-state-reacted LaO0.5F0.5BiS2 sample under HP suggested that 
+the monoclinic phase appeared under HP, we did not observe a clear evidence of the 
+structural phase transition to the monoclinic structure in the present studies on the 
+HP-synthesized samples. Nevertheless, it should be noted that the (003) and (200) 
+peaks are broader than those of the solid-state-reacted sample, implying a little but 
+finite lattice distortion into the HP-700 ºC sample. Therefore, we speculate that the 
+high-Tc phase of the LaO0.5F0.5BiS2 requires an intermediate lattice structure 
+between tetragonal and monoclinic structure. 
+
+
+5 
+ 
+ Next, we discuss the differences in the superconducting properties and crystal 
+structure between the HP-700 ºC sample and HP-800 ºC sample. As shown in Fig. 1, 
+the Tc of the HP-700 ºC sample is the highest, Tconset = 11.5 K and Tcirr = 9.4 K, and 
+the shielding volume fraction estimated using a value of ZFC magnetization at 2 K 
+is almost 100 %. In contrast, the HP-800 ºC sample does not show bulk 
+superconductivity; the estimated Tc are Tconset = 8.6 K and Tcirr = 4.1 K and the 
+shielding volume fraction calculated using a value of ZFC magnetization at 2 K is 
+~3.5 %. As shown in Fig. 3(a), the position of the (003) peak for the HP-800 ºC 
+sample is slightly lower than that of the HP-700 ºC sample. In contrast, the position 
+of the (200) peak is higher than that of the HP-700 ºC sample as shown in Fig. 3(b). 
+This means that the HP-800 ºC sample possesses a shorter a axis and a longer c axis 
+than those of the HP-700 ºC sample. To visualize the relationship between Tc and 
+the c/a ratio, the data for the solid-state-reacted, the HP-700 ºC and the HP-800 ºC 
+samples are plotted in Fig. 4. It is clear that the appearance of higher-Tc 
+superconductivity requires the smaller c/a ratio. Furthermore, the peaks of the 
+HP-800 ºC sample are sharper than those of the HP-700 ºC sample. Thus, the 
+HP-800 ºC sample could be considered as almost a normal tetragonal phase. On the 
+basis of these facts, we consider that the smaller c/a ratio and/or lattice strain 
+toward a lower-symmetry structure such as monoclinic are essential for the 
+appearance of higher-Tc superconductivity in the LaO0.5F0.5BiS2 superconductor. As 
+an important fact, the high-Tc phase of the LaO0.5F0.5BiS2 superconductor can be 
+obtained under the environment of high pressure and low reacting temperature. To 
+analyze the local structure in detail, growth of the single crystal of the high-Tc 
+phase is required. 
+ 
+ In conclusion, high-quality polycrystalline samples of LaO0.5F0.5BiS2 were obtained 
+using high-pressure synthesis technique. The LaO0.5F0.5BiS2 sample prepared by 
+heating at 700 ºC for 1 h under 2 GPa showed the highest Tc and shielding volume 
+fraction. The estimated transition temperatures were Tconset = 11.1 and Tczero = 8.5 K 
+in the electrical resistivity measurements and Tconset = 11.5 and Tcirr = 9.4 K in the 
+magnetic susceptibility measurements. These values are higher than those of the 
+LaO0.5F0.5BiS2 polycrystalline samples obtained from a conventional solid-state 
+reaction. It was found that the high-Tc phase can be stabilized under high pressure 
+and relatively-low heating temperature. XRD experiments indicated that to realize 
+the high-Tc phase in BiS2-based superconductor, the smallest value of the c/a ratio of 
+the lattice constants is essential. Since the superconducting properties of the 
+
+
+6 
+ 
+HP-synthesized LaO0.5F0.5BiS2 sample is better than those of the solid-state-reacted 
+samples 
+and 
+the 
+HP-post-annealed 
+samples, 
+detailed 
+investigations 
+of 
+superconducting properties using the HP sample will provide us with important 
+information for elucidating the mechanisms of BiS2-based superconductivity. 
+ 
+ 
+Acknowledgements 
+ The authors thank Dr. Y. Takano of National Institute for Materials Science and Dr. 
+R. Higashinaka of Tokyo Metropolitan University for their fruitful comments on HP 
+experiments. This work was partly supported by a Grant-in-Aid for Scientific 
+Research for Young Scientists (A). 
+ 
+ 
+References 
+1) Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, and O. Miura: Physical Review B. 86 (2012) 220510.  
+2) Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+and O. Miura: J. Phys. Soc. Jpn. 81 (2012) 114725. 
+3) J. Xing, S. Li, X. Ding, H. Yang, H.H. Wen: Phys. Rev. B. 86 (2012) 214518. 
+4) S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. 
+Yamaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. 
+Ozaki, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano: arXiv:1311.4267 
+(2013). 
+5) R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana: J. Sup. Novel Mag. 26 (2013) 
+499. 
+6) J. Kajitani, K. Deguchi, T. Hiroi, A. Omachi, S. Demura, Y. Takano, O. Miura, 
+and Y. Mizuguchi: arXiv: 1401.7506 (2014). 
+7) S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, 
+H. Takeya, and Y. Takano: J. Phys. Soc. Jpn. 82 (2013) 033708. 
+8) R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana: J. Appl. Phys. 113 (2013) 
+056102. 
+9) D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple: 
+Philosophical Magazine 93 (2012) 673. 
+10) X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. 
+Cao, and Z. Xu: Phys. Rev. B 87 (2013) 020504. 
+11) H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wakisaka, M. Mizumaki, K. Nitta, 
+Y. Tokura, and S. Ishiwata: J. Phys. Soc. Jpn. 83 (2014) 014709.  
+12) J. G. Bednorz, and K. A. Müller: Z. Physik B 64 (1986) 189. 
+13) Y. kamihara, T. Watanabe, M. Hirano, and H. Hosono: J. Am. Chem. Soc. 130 
+(2008) 3296. 
+14) H. Usui, K. Suzuki, and K. Kuroki: Phys. Rev. B 86 (2012) 220501. 
+15) H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, 
+K. Deguchi, and Y. Takano: J. Phys. Soc. Jpn, 81 (2012) 103702. 
+
+
+7 
+ 
+16) C. T. Wolowiec, B. D. White, I. Jeon, D. Yazici, K. Huang, and M. B. Maple: J. 
+Phys.: Condens. Matter 25 (2013) 422201. 
+17) T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. 
+Mizuguchi, H. Izawa, O. Miura, S. Demura, K. Deguchi, and Y. Takano: 
+arXiv:1309.4250. 
+18) K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, and Y. 
+Takano: EPL 101 (2013) 17004. 
+19) J. Kajitani, K. Deguchi, A. Omachi, T. Hiroi, Y. Takano, H. Takatsu, H. 
+Kadowaki, O. Miura, and Y. Mizuguchi: Solid State Commun. 181 (2014) 1. 
+ 
+ 
+
+
+8 
+ 
+Table 1. Conditions of HP synthesis (annealing temperature and time) and 
+superconducting transition temperatures of Tcirr and Tconset examined from magnetic 
+susceptibility measurements for LaO0.5F0.5BiS2 polycrystalline samples. 
+ 
+Synthesis conditions 
+Tcirr (K) 
+Tconset (K) 
+Impurity 
+Solid-state reaction at 700 ºC 
+2.5 
+3.5 
+Single phase 
+HP (2 GPa) 
+600 ºC 
+0.5 h 
+6.6 
+10.8 
+Mixed phase 
+HP (2 GPa) 
+650 ºC 
+1.5 h 
+9.1 
+11.1 
+Mixed phase 
+HP (2 GPa) 
+700 ºC 
+0.5 h 
+8.5 
+11.2 
+Mixed phase 
+HP (2 GPa) 
+700 ºC 
+1 h 
+9.4 
+11.5 
+Single phase 
+HP (2 GPa) 
+700 ºC 
+2 h 
+7.0 
+9.1 
+Single phase 
+HP (2 GPa) 
+800 ºC 
+0.5 h 
+4.1 
+8.6 
+Single phase 
+ 
+ 
+ 
+ 
+ 
+
+
+9 
+ 
+Figure captions 
+ 
+Fig. 1. (a) Temperature dependence of electrical resistivity for solid-state-reacted 
+LaO0.5F0.5BiS2 and HP-700 ºC LaO0.5F0.5BiS2 (2 GPa, 700 ºC, 1 h). (b) Temperature 
+dependence of magnetic susceptibility for solid-state-reacted LaO0.5F0.5BiS2 and 
+HP-700 ºC LaO0.5F0.5BiS2. (c), (d) Enlargements of (a) and (b) around the onset and 
+bifurcation temperatures of superconducting transition. 
+ 
+Fig. 2. Powder X-ray diffraction pattern of HP-700 ºC LaO0.5F0.5BiS2. 
+ 
+Fig. 3(a) Enlargement of Fig. 2 around the (003) peaks with the X-ray diffraction 
+results of solid-state-reacted LaO0.5F0.5BiS2 and HP-800 ºC LaO0.5F0.5BiS2. (b) 
+Enlargement of Fig. 2 around the (200) peak with the X-ray diffraction results of 
+solid-state-reacted LaO0.5F0.5BiS2 and HP-800 ºC LaO0.5F0.5BiS2.. 
+ 
+Fig. 4. Tconset and Tcirr plotted as a function of the c/a ratio. The data are from the 
+results of the solid-state-reacted sample, HP-700 ºC sample and HP-800 ºC sample 
+of LaO0.5F0.5BiS2. 
+ 
+ 
+
+
+10 
+ 
+Figures 
+Fig. 1 
+ 
+ 
+
+
+11 
+ 
+Fig. 2. 
+ 
+ 
+ 
+ 
+
+
+12 
+ 
+Fig. 3. 
+ 
+ 
+
+
+13 
+ 
+Fig. 4.  
+ 
+ 
+
+

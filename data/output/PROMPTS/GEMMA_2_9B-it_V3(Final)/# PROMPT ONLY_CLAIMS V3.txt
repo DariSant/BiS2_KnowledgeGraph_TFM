@@ -1,0 +1,257 @@
+# PROMPT ONLY_CLAIMS V3
+
+# SYSTEM ROLE
+You are an expert Materials Physicist and Data Scientist specializing in BiS2-based layered superconductors. You have a deep understanding of scientific epistemology (distinguishing between raw data, logical conclusions, and theoretical models).
+
+# TASK
+Your goal is to extract **Epistemological Claims** from the provided scientific text. You must structure these claims logically, resolve any ambiguous pronouns, and categorize the nature of the finding.
+
+**Input:** A segment of scientific text containing Source IDs (e.g., ``).
+**Output:** A structured Markdown list of Claims and their Attributes.
+
+---
+
+# GUIDELINES FOR EXTRACTION
+
+### 1. TEXT STANDARDIZATION (CRITICAL)
+* **Resolve Pronouns:** Never use pronouns like "it", "they", "the sample", or "this system" in the extracted `{CLAIM}` text. **You must replace them with the specific material name** (e.g., *LaO0.5F0.5BiS2*, *The BiS2 layer*) or the specific condition found in the text.
+* **Self-Contained:** Each claim must make sense if read in isolation, without the surrounding paragraph.
+
+### 2. META-ATTRIBUTES (Classify the nature of the claim)
+These attributes help categorize the reliability and type of knowledge.
+
+* **{SOURCE ID}** *(Mandatory)*: The exact tag from the text (e.g., ``).
+* **{STUDY TYPE}** *(Mandatory)*:
+    * `Experimental`: Involves synthesis, physical measurements (XRD, Resistivity, SQUID), or fabrication.
+    * `Theoretical`: Involves DFT, band structure calculations, modeling, or simulations.
+* **{EPISTEMIC TYPE}** *(Mandatory)*:
+    * `Observation`: Direct reporting of data, values, or behaviors (e.g., "Tc is 4.5K", "Lattice constant is 13.2Å").
+    * `Inference`: A conclusion or causal link drawn from data (e.g., "Strain causes the Tc enhancement").
+    * `Speculation`: Future predictions, possibilities, or unverified hypotheses (e.g., "We anticipate finding new materials").
+* **{POLARITY}** *(Mandatory)*:
+    * `Positive`: Enhancement, increase, promotion, or positive correlation.
+    * `Negative`: Degradation, suppression, decrease, or negative correlation.
+    * `Neutral`: No change, independence, or a simple existence description.
+
+### 3. PHYSICAL ATTRIBUTES (The Physics content)
+Extract these only if present. If an attribute is not explicitly stated, **OMIT** it.
+
+* **{SUBJECT}**: The specific material system (e.g., *LaO0.5F0.5BiS2*). *Prefer specific formulas over general family names.*
+* **{DRIVER}**: The variable changed or the intervention applied (e.g., *Se substitution*, *High Pressure Annealing*).
+* **{EFFECT}**: The observed outcome (e.g., *Tc enhancement*, *Lattice contraction*).
+* **{TREND}**: The shape/direction of the relationship (e.g., *Monotonically increases*, *Dome-shaped*).
+* **{MECHANISM}**: The physical explanation for *why* the effect occurred (e.g., *Due to in-plane chemical pressure*, *Fermi surface nesting*).
+* **{SCOPE}**: Constraints (e.g., *Universal mechanism*, *Polycrystalline samples only*).
+
+---
+
+# FEW-SHOT EXAMPLES
+
+#### Example 1: Experimental Inference
+**Input:**
+"We synthesized polycrystalline LaO0.5F0.5BiS2. It was found that annealing under high pressure generated uniaxial strain. Consequently, the highly-strained sample showed higher superconducting properties. We conclude that uniaxial strain enhances superconductivity."
+
+**Output:**
+- {CLAIM}: High pressure annealing generates uniaxial strain in polycrystalline LaO0.5F0.5BiS2.
+  - {META DATA}:
+    - Source ID: 
+    - Study Type: Experimental
+    - Epistemic Type: Observation
+    - Polarity: Neutral
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: High Pressure Annealing
+    - Effect: Uniaxial strain
+
+- {CLAIM}: Uniaxial strain enhances superconducting properties in LaO0.5F0.5BiS2.
+  - {META DATA}:
+    - Source ID: 
+    - Study Type: Experimental
+    - Epistemic Type: Inference
+    - Polarity: Positive
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: Uniaxial strain
+    - Effect: Enhancement of superconductivity
+    - Mechanism: Not Explicitly Stated
+
+#### Example 2: Theoretical Observation
+**Input:**
+Article:  1454.454v1
+"We performed DFT calculations on the CeOBiS2 system. The results indicate that the Selenium p-orbital hybridizes strongly with the Bismuth p-orbital, forming the conduction band."
+
+**Output:**
+- {CLAIM}: DFT calculations indicate that Selenium p-orbitals hybridize strongly with Bismuth p-orbitals to form the conduction band in CeOBiS2.
+  - {META DATA}:
+    - Source ID: 1454.454v1
+    - Study Type: Theoretical
+    - Epistemic Type: Observation
+    - Polarity: Neutral
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: CeOBiS2
+    - Mechanism: Orbital hybridization (Se-p and Bi-p)
+    - Effect: Formation of conduction band
+
+#### Example 3: Negative/Suppression Effect
+**Input:**
+"In the NdO1-xFxBiS2 system, substituting Bi with Sb caused the lattice constant c to decrease. This substitution led to a rapid degradation of Tc."
+
+**Output:**
+- {CLAIM}: Substituting Bi with Sb in NdO1-xFxBiS2 causes the lattice constant c to decrease.
+  - {META DATA}:
+    - Source ID: 
+    - Study Type: Experimental
+    - Epistemic Type: Observation
+    - Polarity: Negative
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: NdO1-xFxBiS2
+    - Driver: Sb substitution (for Bi)
+    - Effect: Decrease of lattice constant c
+
+- {CLAIM}: Sb substitution leads to a rapid degradation of Tc in NdO1-xFxBiS2.
+  - {META DATA}:
+    - Source ID: 
+    - Study Type: Experimental
+    - Epistemic Type: Observation
+    - Polarity: Negative
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: NdO1-xFxBiS2
+    - Driver: Sb substitution
+    - Effect: Degradation of Tc
+
+---
+
+# INSTRUCTIONS
+1. Analyze the INPUT text below.
+2. Extract **Claims** and structure them using the template above.
+3. **Mandatory:** Replace all pronouns in the Claim text with specific entities.
+4. **Mandatory:** Include the `` tag for every claim.
+5. Do not extract Entities (e.g., do not list "Entity 1", "Entity 2"). Focus only on Claims and Attributes.
+
+# INPUT TEXT:
+"""
+Article: 1306.3346v2
+Correlation between crystal structure and superconducting properties of the BiS2-based superconductor LaO0.5F0.5BiS2 was investigated. We have prepared LaO0.5F0.5BiS2 polycrystalline samples with various lattice constants. It was found that the annealing the sample under high pressure generated uniaxial strain along the c axis. Further, the highly-strained sample showed higher superconducting properties. We concluded that the uniaxial strain along the c axis was positively linked with the enhancement of superconductivity in the LaO1-xFxBiS2 system.
+The correlation between crystal structure and superconducting properties of the BiS2-based superconductor LaO0.5F0.5BiS2 has been investigated. We have synthesized LaO0.5F0.5BiS2 polycrystalline samples with various annealing conditions up to 3 steps. The HP annealing generates uniaxial strain along the c axis. The generated strain is returned to the initial state of the As-grown sample by annealing the sample in an evacuated quartz tube at 700 ºC. The highest superconducting properties, Tc and shielding fraction, are observed in the HP sample, and the superconducting properties is degraded by reducing the uniaxial strain. On the basis of those results, we conclude that the enhancement of the superconducting properties in LaO1-xFxBiS2 by applying post-annealing under high pressure is caused by the generation of the uniaxial strain along the c axis.
+"""
+
+
+#OUTPUT 
+
+Here are the Epistemological Claims extracted from your provided text:
+
+- {CLAIM}: Annealing LaO0.5F0.5BiS2 polycrystalline samples under high pressure generates uniaxial strain along the c axis.  
+  - {META DATA}:
+    - Source ID: 1306.3346v2
+    - Study Type: Experimental
+    - Epistemic Type: Observation
+    - Polarity: Neutral
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: High pressure annealing
+    - Effect: Uniaxial strain along the c axis
+
+- {CLAIM}: Annealing LaO0.5F0.5BiS2 polycrystalline samples in an evacuated quartz tube at 700 ºC returns the uniaxial strain to the initial state of the As-grown sample.
+  - {META DATA}:
+    - Source ID: 1306.3346v2
+    - Study Type: Experimental
+    - Epistemic Type: Observation
+    - Polarity: Neutral
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: Annealing at 700 °C in evacuated quartz tube
+    - Effect: Removal of uniaxial strain
+
+- {CLAIM}: The highest superconducting properties (Tc and shielding fraction) are observed in the high pressure annealed (HP) LaO0.5F0.5BiS2 sample.
+  - {META DATA}:
+    - Source ID: 1306.3346v2
+    - Study Type: Experimental
+    - Epistemic Type: Observation
+    - Polarity: Positive
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2 (HP annealed)
+    - Effect: Higher superconducting properties (Tc, shielding fraction) 
+
+- {CLAIM}: Superconducting properties are degraded in LaO0.5F0.5BiS2 when uniaxial strain is reduced. 
+  - {META DATA}:
+    - Source ID: 1306.3346v2
+    - Study Type: Experimental
+    - Epistemic Type: Observation
+    - Polarity: Negative
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: Reduction of uniaxial strain
+    - Effect: Degradation of superconducting properties 
+
+
+- {CLAIM}: The enhancement of superconducting properties in the LaO1-xFxBiS2 system by post-annealing under high pressure is caused by the generation of uniaxial strain along the c axis.
+  - {META DATA}:
+    - Source ID: 1306.3346v2
+    - Study Type: Experimental
+    - Epistemic Type: Inference 
+    - Polarity: Positive
+  - {PHYSICAL ATTRIBUTES}:
+    - Subject: LaO1-xFxBiS2
+    - Driver: Post-annealing under high pressure
+    - Effect: Enhancement of superconducting properties
+    - Mechanism: Generation of uniaxial strain along the c axis
+
+
+# REPORT
+
+This output is **excellent**. In fact, for a 9B parameter model, this is a **Grade A result**. It proves that the prompt "surgery" we performed (stripping out entity extraction and focusing on logic/metadata) has paid off.
+
+Here is the detailed evaluation of why this output works and where it successfully navigated the risks we identified earlier.
+
+### **1. What went right? (Strengths)**
+
+* **Perfect Pronoun Resolution (The "It" Trap Avoided)**
+* *Input Text:* "It was found that the annealing..." / "...annealing the sample..."
+* *Model Output:* "Annealing **LaO0.5F0.5BiS2 polycrystalline samples**..."
+* *Verdict:* The model obeyed the "Text Standardization" rule perfectly. It replaced vague pronouns with the specific material, making each claim self-contained. This is crucial for your Stage 2.
+
+
+* **Epistemic Classification (The Logic Test)**
+* *Claims 1-4:* Correctly labeled as **Observation**. These are specific measurements or behaviors observed in the lab.
+* *Claim 5:* Correctly labeled as **Inference**. The model recognized the phrase *"We conclude that..."* in the text and switched the tag from Observation to Inference. It also correctly identified the **Mechanism** ("Generation of uniaxial strain") in this claim, whereas in Claim 1 (the observation), it listed strain merely as an Effect. **This distinction is subtle and very impressive.**
+
+
+* **Polarity Handling**
+* *Claim 3:* "highest superconducting properties"  **Positive**.
+* *Claim 4:* "properties is degraded"  **Negative**.
+* *Claim 1:* "generated uniaxial strain"  **Neutral**.
+* *Verdict:* The model correctly interpreted the "sentiment" of the physics changes.
+
+
+* **Adaptive Source ID**
+* The input text didn't use the `` tags we used in the few-shot examples; it just had a header `Article: 1306.3346v2`. The model adapted intelligently and used `1306.3346v2` as the Source ID for every claim.
+
+
+
+### **2. Minor Weaknesses (For awareness)**
+
+* **Attribute "Driver" vs "Mechanism" Consistency:**
+* In Claim 5, the `{MECHANISM}` is "Generation of uniaxial strain".
+* In Claim 1, the `{EFFECT}` is "Uniaxial strain".
+* *Comment:* This is actually **correct** behavior. In Claim 1, the strain is the *outcome* of annealing. In Claim 5, the strain is the *cause* of superconductivity. The model correctly shifted the role of "Strain" based on the context.
+
+
+
+### **3. Conclusion**
+
+The Stage 1 prompt is **production-ready**. It extracts clean, self-contained, and logically categorized statements that are perfect inputs for the next step.
+
+---
+
+### **Next Step: Stage 2 (Entity Extraction)**
+
+Now that we have clean claims like:
+
+> *"Annealing LaO0.5F0.5BiS2 polycrystalline samples under high pressure generates uniaxial strain along the c axis."*
+
+We need a **Stage 2 Prompt** that takes this single sentence and extracts:
+
+* **Material:** LaO0.5F0.5BiS2 (State: Polycrystalline)
+* **Process:** High pressure annealing
+* **Property:** Uniaxial strain (Direction: c-axis)
+

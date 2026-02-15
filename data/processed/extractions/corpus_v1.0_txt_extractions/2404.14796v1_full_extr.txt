@@ -1,0 +1,1 @@
+Sb- and Se-substituted CeOBiS2 [CeO(Bi, Sb)(S, Se)2] single crystals were grown and measured the superconducting transition temperature. A superconducting phase diagram with CSb < 0.18, CSe < 0.45 for CeOBiS2 was revealed. The boundary between superconductivity and non-superconductivity at above 0.3 K showed a non-linear line with the dome shape at CSe = 0.15-0.30 region.

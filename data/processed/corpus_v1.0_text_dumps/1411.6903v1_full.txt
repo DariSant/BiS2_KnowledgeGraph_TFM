@@ -1,0 +1,1104 @@
+arXiv:1411.6903v1  [cond-mat.supr-con]  25 Nov 2014
+Anomalous Eu Valence State and Superconductivity
+in Undoped Eu3Bi2S4F4
+Hui-Fei Zhai,† Pan Zhang,† Si-Qi Wu,† Chao-Yang He,† Zhang-Tu Tang,† Hao
+Jiang,† Yun-Lei Sun,† Jin-Ke Bao,† I. Nowik,‡ I. Felner,‡ Yue-Wu Zeng,¶ Yu-Ke Li,§
+Xiao-Feng Xu,§ Qian Tao,† Zhu-An Xu,†,∥and Guang-Han Cao∗,†,∥
+Department of Physics, Zhejiang University, Hangzhou 310027, China, Racah Institute of
+Physics, The Hebrew University, Jerusalem 91904, Israel, Center of Electron Microscope,
+Zhejiang University, Hangzhou 310027, China, Department of Physics, Hangzhou Normal
+University, Hangzhou 310036, China, and State Key Lab of Silicon Materials, Zhejiang
+University, Hangzhou 310027, China
+E-mail: ghcao@zju.edu.cn
+Abstract
+We have synthesized a novel europium bismuth sulfoﬂuoride, Eu3Bi2S4F4, by solid-state
+reactions in sealed evacuated quartz ampoules. The compound crystallizes in a tetragonal lat-
+tice (space group I4/mmm, a = 4.0771(1) Å, c = 32.4330(6) Å, and Z = 2), in which CaF2-type
+Eu3F4 layers and NaCl-like BiS2 bilayers stack alternately along the crystallographic c axis.
+There are two crystallographically distinct Eu sites, Eu(1) and Eu(2) at the Wyckoff positions
+4e and 2a, respectively. Our bond-valence-sum calculation, based on the reﬁned structural
+∗To whom correspondence should be addressed
+†Department of Physics, Zhejiang University, Hangzhou 310027, China
+‡Racah Institute of Physics, The Hebrew University, Jerusalem 91904, Israel
+¶Center of Electron Microscope, Zhejiang University, Hangzhou 310027, China
+§Department of Physics, Hangzhou Normal University, Hangzhou 310036, China
+∥State Key Lab of Silicon Materials, Zhejiang University, Hangzhou 310027, China
+1
+
+
+data, indicates that Eu(1) is essentially divalent, whilst Eu(2) has an average valence of ∼
++2.64(5). This anomalous Eu valence state is further conﬁrmed and supported, respectively,
+by Mössbauer and magnetization measurements. The Eu3+ components donate electrons into
+the conduction bands that are mainly composed of Bi- 6px and 6py states. Consequently, the
+material itself shows metallic conduction, and superconducts at 1.5 K without extrinsic chem-
+ical doping.
+Introduction
+Exploration of new superconductors is an important and challenging work. Through long-term
+effort, especially during the past three decades, one has learned two basic rational routes for new
+superconducting materials. The ﬁrst one is to carry out chemical doping in a so-called parent
+compound which is potentially superconducting. The other is to synthesize a new compound that
+contains two-dimensional (2D) superconductively active layers via structural design.1–3 Promi-
+nent examples are manifested by copper-based and iron-based high-temperature superconductors,
+in which the superconductively active layers are 2D CuO2 planes and Fe2As2 layers, respectively.
+Impressively, both the seminal discoveries were made by chemical doping,4,5 and all structures
+of these high-temperature superconductors can be well elucidated in terms of their crystal chem-
+istry.3,6 Optimizations of the doping level and the building block layers may create a record of
+the superconducting transition temperature, Tc.7,8 It is noted here, nevertheless, superconductivity
+may also appears, though infrequently or even rarely, in an apparently undoped material in which
+charge carriers are induced by self doping through internal charge transfer.9,10
+Recently, superconductivity up to 10.6 K was discovered in Bi4O4S3 11 and LaO1−xFxBiS2,12
+in which the 2D BiS2 bilayers were identiﬁed as superconductively active layers.
+Thus, the
+BiS2-based material represents a new class of superconductors, though the superconducting phase
+in the Bi-O-S system is not well established due to the complicated stacking faults.13–15 The
+LaBiS2O1−xFx (hereafter abbreviated as La-1121)16 system has been extended into a supercon-
+ducting family whose new members appeared one after another via element replacements in the
+2
+
+
+La2O2 spacer layers17–22 or even in the BiS2 bilayers.23 As a matter of fact, the relevant work can
+be traced back earlier to 1970s when the crystal structure of CeBiS2O was ﬁrst reported.24 Later in
+1990s, several new analogous compounds RBiS2O (R = La, Pr, Nd and Yb) were synthesized, and
+were found to exhibit semiconducting behavior.25 Until recently, superconductivity was observed
+by electron doping via F-for-O substitution (the ﬁrst rational strategy mentioned above).12 Band
+structure calculations indicate that the prototype parent compound LaBiS2O is a band insulator
+with an energy gap of ∼0.8 eV.26–29 The conduction bands mainly consist of Bi- 6px and 6py
+orbitals which are probably responsible for the superconductivity (note that hole doping fails to
+induce superconductivity in the 1121 system30). This leads to an effective two-orbitals (px and py)
+model,31 on which possible unconventional superconductivity was proposed.31–33
+We recently synthesized a novel member in the 1121 family, EuBiS2F (Eu-1121), which shows
+a possible charge-density wave (CDW) and superconductivity without extrinsic chemical doping.22
+As a comparison, its sister compound SrBiS2F is a band insulator,21,34 and superconductivity ap-
+pears only by electron doping through a heterovalent substitution.21 We revealed that this Eu-1121
+material was actually self doped due to Eu valence ﬂuctuations.22 Albeit of relatively low doping
+level and presence of CDW instability, superconductivity emerges at 0.3 K. These results demon-
+strate that the Eu-containing bismuth sulﬁdes bear new interesting phenomena that are distinct
+from other BiS2-based family members. Therefore, it is worthwhile to explore its analogous com-
+pounds by the second strategy above – structural design. In this article, we report our successful
+trial in synthesizing a new Eu-containing bismuth sulﬁde, Eu3Bi2S4F4 (Eu-3244), designed by in-
+corporating an additional EuF2 layer into the Eu-1121 structure (see right side of Figure 1). The
+crystal structure is of a new type, to our knowledge, which contains thicker spacer layers of the
+Eu3F4 block in addition to the essential 2D BiS2 bilayers. Unlike Eu-1121, there are two crystal-
+lographically distinct europium sites in Eu-3244. The Eu ions in the middle of the Eu3F4 layers
+were revealed to be in a mixed valence (MV) state with a valence of vEu ∼+2.5 −2.75 (depending
+on the different measurement techniques used), while other Eu ions on the top and bottom sides
+of the Eu3F4 block layers are essentially divalent. The material shows superconductivity at 1.5 K,
+3
+
+
+ﬁve times of the Tc value of Eu-1121, with no CDW anomaly below 300 K. The appearance of
+superconductivity is explained by self electron doping into the conduction bands, owing to the Eu
+MV states. Implications of the results are discussed.
+Experimental Section
+The designed compound Eu3Bi2S4F4 was synthesized by a solid-state reaction method. First,
+EuS was presynthesized by reacting stoichiometric Eu pieces (99.9% Alfa Aesar) and S powders
+(99.9995% Alfa Aesar) at 1073 K for 10 h. Second, the stoichiometric mixtures of EuS, EuF2
+(99.9% Alfa Aesar) and Bi2S3 (99.999% Alfa Aesar) were sintered at 1123 K for 35 h in a sealed
+evacuated quartz ampoule. The sample purity were able to be improved by repeating the sintering
+procedure. All the operations concerning with the intermediate materials were conducted in an
+argon-ﬁlled glove box to avoid the contamination of water and oxygen as far as possible. Never-
+theless, the ﬁnal product, being black in color, is stable in air.
+Powder X-ray diffraction (XRD) was carried out at room temperature on a PANalytical X-
+ray diffractometer (Model EMPYREAN) with a monochromatic Cu Kα1 radiation. The lattice
+parameters were determined by a least-squares ﬁt using Si as internal standard reference mate-
+rial. The crystal structure was determined by a Rietveld reﬁnement, adopting the structural model
+designed and, using the program RIETAN-2000.35 The resultant weighted reliable factor Rwp is
+6.46% and the goodness-of-ﬁt parameter S is 1.16, indicating validity and correctness of the re-
+ﬁnement. High-resolution transmission electron microscope (HRTEM) images were taken at room
+temperature with a FEI Tecnai G2 F20 scanning transmission electron microscope. The chemical
+composition of the new compound was veriﬁed by energy dispersive x-ray (EDX) spectroscopy af-
+ﬁliated to a ﬁeld emission scanning electron microscope (FEI Model SIRION). The electron beam
+was focused on a crystalline grain (see Figure S1), and ten EDX spectra from different grains were
+collected.
+151Eu Mössbauer spectra were measured for the Eu-3244 specimen by using a conventional
+4
+
+
+constant acceleration drive and ∼50 mCi 151Sm2O3 source. The experimental spectra were ana-
+lyzed by two Lorentzian lines from which values for the isomer shift (δ), the spectral area of the
+resonance absorption lines, and the quadrupole interactions were derived. The analysis consid-
+ered also the exact shape of the source emission line.36 The velocity calibration was performed
+with an α-iron foil at room temperature and the reported δ values are relative to Eu2O3 at room
+temperature.
+Magnetic measurements were performed on a Quantum Design Magnetic Property Measure-
+ment System (MPMS-5) using 6.06 mg Eu-3244 sample. The temperature dependence of dc mag-
+netic susceptibility was measured from 1.9 to 400 K. The dc magnetization was also measured
+as a function of magnetic ﬁeld. The temperature-dependent resistivity and speciﬁc heat capacity
+were measured down to 0.5 K using a standard four-probe method and a relaxation technique, re-
+spectively, on a Quantum Design Physical Property Measurement System (PPMS-9) with a 3He
+refrigerator inserted. A rectangular bar (2.5×1.5×1.1 mm3), cut from the as-prepared Eu-3244
+pellet, was employed for the measurement. Gold wires (φ=30 µm) were attached onto the sam-
+ple’s surface with silver paint, and the contact pads caused an uncertainty in the absolute values
+of resistivity of ±20%. The applied current was 0.5 mA. In the heat capacity measurement, the
+sample was cut and polished into a thin square plate (2.8×2.8×0.2 mm3, 10.7 mg), and it was
+carefully placed onto the sample holder coated with a thin layer of Apiezon N-grease. The heat
+capacity from the sample holder and grease was deducted. All the specimens measured were taken
+from the same batch.
+Results and Discussion
+Crystal Structure
+Figure 1 shows structural characterizations for the Eu-3244 sample. The powder XRD patterns
+can be well indexed by a tetragonal cell with a = 4.077 Å and c = 32.433 Å, except for several tiny
+reﬂections (the intensity of the strongest impurity peak is less than 3% of that of the main phase)
+5
+
+
+from Bi and EuF2.4 impurities. The diffraction indexes (hkl) obey h+k +l = even numbers, indi-
+cating a body-centered lattice. The unit cell is conﬁrmed by HRTEM images of the [001] and [100]
+zones (see the inset of Figure 1a). Compared with the cell parameters of Eu-1121 [a = 4.0508(1)
+Å and c = 13.5338(3) Å],22 the a axis is merely 0.026 Å larger, and one half of the c axis (because
+of the body centered unit cell) is 2.683 Å longer. The difference (1
+2c3244−c1121) basically agrees
+with the thickness of a single EuF2 crystallographic layer (e.g., 2.92 Å in cubic EuF2, according
+to ICDD PDF #12−0391). The HRTEM images conﬁrm the structure as designed, by showing the
+heavy elements (like Eu and Bi) at their corresponding positions. Our EDX spectroscopy experi-
+ment (see Figure S1 and Table S1) gives a chemical formula of Eu3.1(4)Bi1.8(1)S4.4(3)F3.7(7), which
+is close to the stoichiometric Eu3Bi2S4F4. Furthermore, based on the structure model, the Rietveld
+reﬁnement was very successful (note that preferential orientation of crystalline grains was included
+because of the plate-like morphology as seen in the inset of Figure S1), as shown in Figure 1b. We
+thus conclude that the target new material Eu3Bi2S4F4, with additional EuF2 layers to the Eu-1121
+structure, was successfully synthesized.
+The reﬁned structural parameters of Eu-3244 are listed in Table 1. Notably, there are two
+different crystallographic sites, 4e and 2a for Eu(1) and Eu(2), respectively. The Eu(1) cations are
+coordinated by four F−and ﬁve S2−anions, the same as all the Eu ions in Eu-1121. For the Eu(2)
+cations, however, the coordination atoms are eight nearest F−anions [there are two S(1) anions at
+a distance of 3.80 Å from Eu(2), which are usually not considered as the ligands]. As is known,
+the valence of a certain cation can be evaluated by the bond valence sum (BVS).37 Based on the
+bond distances in Table 1, the Eu-BVS was calculated by the formula ∑exp(R0−di j
+0.37 ), where R0 is
+empirical parameters and di j represents the bond distances between Eu and its coordination anions.
+Since the R0 value is 2.04 Å and 1.961 Å, respectively, for Eu2+ – F−and Eu3+ – F−bonds,38
+we performed a self-consistent iteration process for the calculation. The resultant Eu-BVS values
+for Eu(1) and Eu(2) are +1.96(3) and +2.64(5), respectively [note that inclusion of the two S(1)
+will not bring an appreciable change (within 0.01) in Eu(2)-BVS]. This result indicates an unusual
+scenario for the Eu valence states: the Eu(1) ions are essentially divalent, but simultaneously, the
+6
+
+
+20
+40
+60
+80
+100
+120
+0
+2
+4
+6
+8
+20
+30
+40
+50
+60
+0
+2
+4
+6
+8
+(b)
+ 
+2
+(degree)
+Intensity (10
+3
+ Counts)
+ 
+ 
+ Observ ed
+ Calculated
+ Difference
+ Eu
+3
+Bi
+2
+S
+4
+F
+4
+2.4
+EuF
+211, 1114
+1017, 2010
+0018
+215
+1015
+0012,109
+112
+107
+103
+0020
+200
+0010
+110
+008,101
+118
+1110
+1013
+105
+Intensity (10
+3
+ Counts)
+(a)
+Bi
+Bi
+S(2)
+S(1)
+Eu(1)
+F
+Eu(2)
+ 
+ 
+Figure 1: Structural characterizations of Eu3Bi2S4F4 at room temperature by powder X-ray diffrac-
+tion (XRD) and high resolution transmission electron microscopy (HRTEM). (a) The XRD patterns
+in the range of 20◦≤2θ ≤60◦, indexed with a body centered tetragonal unit cell whose dimen-
+sions are conﬁrmed by the HRTEM images shown in the inset. The diffraction lines of EuF2.4 and
+Bi, as labelled at the bottom, are taken from ICDD PDFs #26-0626 and #85-1331. (b) The Rietveld
+reﬁnement proﬁle by adopting the structure model displayed on the right side.
+7
+
+
+Eu(2) ions are in a MV state.
+Table 1: Crystallographic Data of Eu3Bi2S4F4 from the Rietveld Reﬁnement for the Powder X-ray
+Diffractions at 300 K.
+chemical formula
+Eu3Bi2S4F4
+space group
+I4/mmm (No. 139)
+a (Å)
+4.0771(1)
+c (Å)
+32.4330(6)
+V (Å3)
+539.13(2)
+Z
+2
+ρ (g/cm3)
+6.6413(2)
+Rwp (%)
+6.46
+S
+1.16
+atom
+site
+x
+y
+z
+Eu(1)
+4e
+0
+0
+0.5928(1)
+Eu(2)
+2a
+0
+0
+0
+Bi
+4e
+0
+0
+0.1978(1)
+S(1)
+4e
+0
+0
+0.1173(3)
+S(2)
+4e
+0
+0
+0.6988(5)
+F
+8g
+0
+0.5
+0.0392(3)
+bond distances
+multiplicity
+Eu(1)−F (Å)
+2.678(5)
+×4
+Eu(2)−F (Å)
+2.403(6)
+×8
+Eu(1)−S(1) (Å)
+3.438(14)
+×1
+Eu(1)−S(2) (Å)
+2.990(4)
+×4
+Mössbauer Spectra
+To conﬁrm the Eu valence state in Eu-3244, the 151Eu Mössbauer spectra were measured, as shown
+in Figure 2. Two separate absorption lines are displayed with the isomer shifts at δ1 = −13.9(1)
+and δ2 = −0.8(1) mm/s, which are obviously ascribed to the resonance absorptions of Eu2+ and
+Eu3+ nuclei, respectively. With increasing the temperature up to 395 K, neither the δ1 and δ2
+values, nor the absorption intensity of Eu3+ relative to that of Eu2+, and nor the line widths change
+signiﬁcantly. This is in sharp contrast with the observations in Eu-1121 material where all the
+Mössbauer parameters vary with temperature, in relation with Eu valence ﬂuctuations.22 Since the
+probing time of Mössbauer measurement is about 10−9 s, which is much longer than the usual time
+8
+
+
+scale of electron dynamics in solids, the temperature-independent isomer shifts and the line widths
+indicate static or quasi-static MV of Eu. Note that the isomer shifts of Eu2+ and Eu3+ lines are
+about 0.3 mm/s smaller than those of Eu-1121 at low temperatures. This may reﬂect difference in
+the hybridization between Eu-4 f electrons and the conduction electrons.
+-20
+-10
+0
+10
+20
+0.97
+0.98
+0.99
+1.00
+0.98
+0.99
+1.00
+0.99
+1.00
+85 K
+ 
+Velocity (m m /s)
+Relative Transmission
+298 K
+Eu
+3
+Bi
+2
+S
+4
+F
+4
+395 K
+Figure 2: 151Eu Mössbauer spectra of Eu3Bi2S4F4 at 85, 298 and 395 K. The blue and red lines
+represent the ﬁtted curves contributed from Eu2+ and Eu3+ ions, respectively.
+Table 2 lists the 151Eu Mössbauer parameters at different temperatures obtained by the data ﬁt-
+ting with consideration of the exact shape of the emission spectrum of 151Sm2O3 and the quadrupole
+interactions. Consistent with the above qualitative analysis, there is no obvious variations in isomer
+shifts, line widths, and also quadrupole interactions for the Eu2+ lines, with changing temperature.
+Notably, no electrical quadrupole interaction is derived for the Eu3+ absorption lines. This means
+that the Eu3+ ions are indeed located at the Eu(2) site where the electric ﬁeld gradient is virtually
+zero due to its highly symmetric coordinations. The population fraction of Eu3+, scaled by the
+relative absorption areas, shows minor temperature dependence, from 0.25 (at 85 K) to 0.30 (at
+395 K), which can be interpreted by a small difference in the Debye-Waller factors between Eu3+
+and Eu2+. Similar observation was reported in Eu2CuS3, in which the Debye temperature of Eu3+
+9
+
+
+is higher than that of Eu2+.39 In this circumstance, low-temperature data should more accurately
+reﬂect the population fraction. Taken the 85-K result, i.e., Eu3+/(Eu2++Eu3+) = 0.25(1), and with
+all the Eu3+ ions occupied Eu(2) site [simultaneously, the Eu(1) ions are purely divalent], the Eu(2)
+valence, vEu2, can be easily estimated to be +2.75(3), which is not far from the Eu(2)-BVS value
+of +2.64(5). One may expect that the ’real’ vEu2 value could be somewhat lower, if considering a
+little higher recoil-free fraction for Eu3+ ions, and if the Mössbauer data were collected at lower
+temperatures. Therefore, the unusual Eu valence states obtained by BVS approach are conﬁrmed
+by Mössbauer techniques.
+Table 2: 151Eu Mössbauer parametersa of Eu3Bi2S4F4 by data ﬁtting.
+Temperature (K)
+85
+298
+395
+δ1 (mm/s)
+−13.87(3)
+−13.62(6)
+−13.87(7)
+δ2 (mm/s)
+−0.78(5)
+−0.85(6)
+−0.82(9)
+Γ (mm/s)
+2.3(1)
+2.1(1)
+2.3(2)
+1
+4e2qQ (Eu2+)
+3.1(1)
+2.7(2)
+2.7(2)
+1
+4e2qQ (Eu3+)
+–
+–
+–
+Eu3+ fraction
+0.25(1)
+0.29(1)
+0.30(1)
+a δ1 and δ2 denote the isomer shift for Eu2+ and Eu3+, respectively. Γ refers to the full linewidth
+at half maximum. 1
+4e2qQ represents the quadrupole interactions. The population fraction of Eu3+
+was scaled by the relative absorption areas.
+Magnetic Susceptibility
+Figure 3a shows the temperature dependence of magnetic susceptibility (in emu/mol-fu, where fu
+refers to formula unit), χ(T), for the Eu-3244 sample. The χ(T) data well follow the extended
+Curie-Weiss law, χ = χ0+C/(T +θN), where χ0 denotes the temperature independent components
+of susceptibility, C the Curie constant, and θN the paramagnetic Neel temperature. The Curie-
+Weiss ﬁtting gives an average effective moment of 7.28 µB Eu-atom−1, which is substantially less
+than the expected value for Eu2+ ions (7.94 µB Eu-atom−1). This indicates existence of Eu3+ ions
+which show Van Vleck paramagnetism due to spin-orbit interaction.40,41 The Van Vleck magnetic
+susceptibility is a function of the spin-orbit coupling constant λ as well as temperature T, i.e.,
+χVV ∝f(λ,T).40–42 With ˜vEu denotes the average Eu valence [consequently, the Eu2+ content is
+10
+
+
+(9 −3˜vEu) per fu, and the Eu3+ content is (3˜vEu −6) per fu], therefore, a more accurate ﬁtting of
+the χ(T) data in a wide range of 10 K ≤T ≤400 K was performed by equation,
+χ(T) = χ(Eu2+)+ χ(Eu3+)+ χ0,
+(1)
+where χ(Eu2+) = C2+(9 −3˜vEu)/(T +θN) and χ(Eu3+) = C3+(3˜vEu −6) f(λ,T). With the unit
+of emu mol-fu−1 for χ(T), C2+ and C3+ are settled to be 7.875 and 0.125 emu mol-fu−1 K−1,
+respectively, and there are actually only four parameters (˜vEu,θN,λ and χ0) to be ﬁtted. The
+ﬁtting was very successful, which gives rise to the following results. (1) ˜vEu = 2.167(1), meaning
+2.50 Eu2+ and 0.50 Eu3+ in a unit formula of Eu-3244. This conclusion basically agrees with
+the Eu-BVS and Mössbauer results above. (2) The spin-orbit coupling constant λ is ﬁtted to be
+419±19 K, which is a reasonable value for the related europium compounds.42 (3) The ﬁtted χ0
+value is as high as 0.0120(1) emu mol-fu−1, suggesting an exceptionally large Pauli paramagnetic
+contribution. This means very high density of state at the Fermi level (EF), like the case in Eu-1121
+which shows substantial hybridizations between Eu-4 f and conduction bands.22 The heat capacity
+result below also supports this speculation. (4) The paramagnetic Neel temperature θN is +2.63
+K, suggesting a dominant antiferromagnetic interactions among the Eu2+ spins. This is consistent
+with the antiferromagnetic-like transition at 2.3 K, as shown in the inset of Figure 3a.
+The above analysis on χ(T) is actually based on the presumption that ˜vEu does not change
+with temperature. So, it is necessary to check the ˜vEu value at a certain temperature, preferably
+at sufﬁciently low temperatures which reﬂects ground-state properties. The ﬁeld-dependent mag-
+netization, M(H), shown in Figure 3b, just gives the information. At 300 K, the magnetization
+increases slowly and linearly with the applied ﬁeld, in accordance with the small susceptibility.
+At low temperatures, however, the M(H) curves deviate from linearity, and tend to saturate at
+high magnetic ﬁelds. The M(H) curve at 5 K can be well ﬁtted by a Brillouin function with con-
+sideration of Weiss molecular ﬁeld Bmf = ξM. The ﬁtted saturation magnetization is 16.78 µB
+fu−1, corresponding to 2.40 Eu2+ and 0.60 Eu3+ in a unit formula of Eu-3244. The result is in
+11
+
+
+0
+100
+200
+300
+400
+0.01
+0.1
+1
+1
+2
+3
+4
+2.5
+3.0
+3.5
+4.0
+-6
+-4
+-2
+0
+2
+4
+6
+-20
+-10
+0
+10
+-4
+-2
+0
+2
+4
+0
+2
+4
+6
+(a)
+ (emu mol-fu
+-1
+)
+T (K) 
+ Data points
+ Fitted curve
+ 
+(Eu
+2+
+)
+ 
+(Eu
+3+
+) X10
+ = 
+(Eu
+2+
+) + 
+(Eu
+3+
+) + 
+0
+H = 1 kOe
+ ZFC, 10(1) Oe
+   FC, 10(1) Oe
+ ZFC, 1 kOe
+   FC, 1 kOe
+ 
+T (K) 
+ (emu/mol)
+(b)
+M (
+B
+ fu
+-1
+)
+0
+H (T)
+T = 2 K
+T = 5 K
+T = 300 K
+ Brillouin fit
+ dM /dH  (10
+-4
+ 
+B
+ T
+-1
+ fu
+-1
+ )
+0
+H (T)
+ 2 K
+ 5 K
+ 300K
+Figure 3: Magnetic measurements on Eu3Bi2S4F4. (a) Temperature dependence of dc magnetic
+susceptibility. Note that a logarithmic scale is applied for showing the contribution from Eu3+
+clearly. The inset zooms in the low-temperature data in which an antiferromagnetic transition at
+2.3 K can be seen. The small inconsistency in the value of χ comes from the deviation of magnetic
+ﬁeld from 10 Oe. (b) Field dependence of magnetization at 2, 5, and 300 K. The dotted line on the
+5-K curve is a Brillouin ﬁt. The inset plots the derivative of magnetization.
+12
+
+
+principle consistent with the χ(T) ﬁtting result, and also meets the conclusion from the BVS and
+Mössbauer-spectrum evaluations. Besides, the ﬁtted parameter ξ is negative (−0.09), conform-
+ing to the positive value of θN and the antiferromagnetic transition at 2.3 K. The M(H) curve at
+2 K cannot be well ﬁtted by a Brillouin function because it is in a magnetically ordered state.
+The derivative of magnetization shown in the inset of Figure 3b indiactes a metamagnetic-like
+transition occurs around the ﬁeld µ0H = 1 T below the Neel temperature.
+Electrical Resistivity
+Figure 4a shows the temperature dependence of resistivity, ρ(T), for the Eu-3244 polycrystalline
+sample. It exhibits metallic conduction with positive temperature coefﬁcient of resistivity (TCR)
+above 35 K, albeit without extrinsic doping. This is obviously due to the self doping effect arising
+from the Eu MV, like the case in Eu-1121. The positive TCR is in contrast with the negative TCR
+in the electron-doped Sr1−xLaxBiS2F system even for x > 0.5.21,43,44 The latter was interpreted by
+Anderson localization,43 because the extrinsic La/Sr substitution brings about disorder potentials
+in the conducting BiS2 bilayers. In Eu-3244 and Eu-1121 systems, no extrinsic chemical doping is
+applied, and the Anderson localization effect is largely reduced. Compared with Eu-1121, however,
+it is remarkable that Eu-3244 does not show any CDW-like anomaly below 300 K.
+Below 1.5 K, the resistivity drops abruptly, and it achieves zero at 1.4 K (see the inset), in-
+dicating a superconducting transition. The narrow superconducting transition width (< 0.1 K) at
+zero ﬁeld suggests bulk superconductivity (note that the measured sample is nearly monophasic
+polycrystal). The Tc value is nearly ﬁve times of that in Eu-1121, and is comparable to that in
+Sr1−xLaxBiS2F system with x = 0.4.44
+The superconductivity was conﬁrmed by the magnetoresistance measurement.45 With apply-
+ing magnetic ﬁelds, the superconducting transition shifts down to lower temperatures. Moreover,
+the transition width is broadened, which is the characteristic of strongly anisotropic superconduc-
+tors in which magnetic ﬂux ﬂow produces extra resistance. The upper critical ﬁeld, Hc2, can be
+obtained from the ρ(T,H) data. If employing the conventional criterion of 90% of the normal-
+13
+
+
+0
+50
+100
+150
+200
+250
+300
+0
+1
+2
+3
+0.5
+1.0
+1.5
+2.0
+2.0
+2.2
+2.4
+2.6
+2.8
+0.0
+0.4
+0.8
+1.2
+1.6
+0
+5
+10
+15
+20
+25
+0.5
+1.0
+1.5
+2.0
+0
+1
+2
+3
+ (m
+ cm)
+ 
+T (K)
+(a)
+Eu
+3
+Bi
+2
+S
+4
+F
+4
+T
+c
+onset
+(H)
+  H (kOe)
+ 0
+0.1
+ 0.3
+ 0.5
+ 1
+ 2
+ 4
+ 6
+ 10
+ 15
+T (K)
+(b)
+ 
+ 
+ (m
+ cm)
+90%
+n
+T
+c
+onset
+90%
+n
+H
+P
+(c)
+T (K)
+ 
+H
+c 2
+ (kOe)
+T (K)
+ 
+ 
+ (m
+ cm)
+Figure 4: Superconductivity in Eu3Bi2S4F4. (a) The temperature dependence of resistivity. The
+inset shows the superconducting transition under various magnetic ﬁelds. (b) An enlarged plot of
+the temperature dependence of magnetoresistivity, from which the upper critical ﬁelds, Hc2, can be
+derived with two criteria. (c) The superconducting Hc2 −T phase diagram. The dashed lines are
+ﬁtted curves based on Ginzburg-Landau theory. The Pauli limiting ﬁeld, HP is marked.
+14
+
+
+state resistivity to determine Tc(H), Hc2 could be underestimated because of the severe broad-
+ening of the superconducting transition. Hence, we made an additional criterion to determine
+Hc2 by deﬁning T onset
+c
+(H) (see Figure 4b). The Hc2(T) data satisfy the Ginzburg-Landau law,46
+Hc2(T) = Hc2(0)(1−t2)/(1+t2), where t denotes a reduced temperature of T/Tc. The upper crit-
+ical ﬁeld at zero temperature, Hc2(0), is then estimated to be 5.9 kOe and 23.4 kOe, respectively,
+for the different criteria employed. The latter Hc2(0) value is close to HP = 18.4 Tc ≈27.6 kOe,
+suggesting Pauli limited behavior in this system.
+Speciﬁc Heat
+Figure 5a shows the temperature dependence of speciﬁc heat, C(T), for the Eu-3244 sample. The
+C(T) data at high temperatures tend to saturate above 300 J K−1 mol−1, close to the Dulong-Petit
+value of 3NR = 39R = 324 J K−1 mol−1, where N counts the number of elements per fu, R is the gas
+constant. A sharp λ-shape peak at 2.2 K is observed (see the magniﬁed plot in the upper left inset),
+coinciding with magnetic measurement which indicates an antiferromagnetic ordering of the Eu2+
+spins at 2.3 K. The divergence in C(T) at 2.3 K conﬁrms the long-range magnetic ordering, which
+is in contrast with the hump-shape peak for Eu-1121 where a spin glass state is likely to formed.22
+The low-temperature C(T) data (T < 2 K) are predominately from magnetic contributions, which
+can be ﬁtted by the sum of a linear term and a quadratic term. The quadratic term can be ascribed
+to the excitations of 2D antiferromagnetic spin waves.47 The linear term, which generally appears
+in a spin-glass state,48 implies existence of spin glass that probably occurs in the Eu(2) sublattice
+due to the Eu mixed valence. The large magnetic signal of ∼20 J K−1 mol−1 prevents the direct
+observation of a possible jump in C(T), estimated to be ∼0.2 J K−1 mol−1, associated with
+the superconducting transition around 1.5 K. Nevertheless, we indeed observed a kink at 1.43 K
+(see the lower right inset of Figure 5a) that could be related to the superconducting transition,
+when subtracting the contributions from magnetism (the linear and quadratic terms), electrons and
+lattice.
+Similar to the C(T) analysis for Eu-1121,22 the different contributions from conduction elec-
+15
+
+
+0
+50
+100
+150
+200
+0
+100
+200
+300
+0
+5
+10
+15
+0
+10
+20
+30
+40
+50
+0
+5
+10
+15
+0
+5
+10
+15
+20
+0
+50
+100
+150
+200
+0.0
+0.2
+0.4
+0.6
+0.8
+0
+1
+2
+0
+10
+20
+30
+40
+50
+1.0
+1.2
+1.4
+1.6
+-0.2
+0.0
+0.2
+0.4
+0.6
+T (K)
+(c)
+(b)
+Eu
+3
+Bi
+2
+S
+4
+F
+4
+C (J K
+-1
+ mol
+-1
+)
+(a)
+C (J K
+-1
+ mol
+-1
+)
+T (K)
+C
+m
+/T (J K
+-2
+ mol
+-1
+)
+T (K)
+C/T=
++
+T
+2
+C/T (J K
+-2
+ mol
+-1
+)
+T 
+2
+ (K
+2
+)
+0
+10
+20
+30
+40
+ S
+m
+ (J K
+-1
+ mol
+-1
+)
+AT+BT 
+2
++
+T 
+3
+=3 mJ K
+-4
+ mol
+-1
+ C  (J K
+-1
+ mol
+-1
+)
+T (K)
+C = C-AT-BT 
+2
+-
+T 
+3
+C  (J K
+-1
+ mol
+-1
+)
+T (K)
+Figure 5:
+Speciﬁc heat capacity for Eu3Bi2S4F4. (a) Temperature dependence of speciﬁc heat
+capacity, C(T), from 0.5 to 210 K. The upper left inset zooms in the low-temperature C(T) data.
+The solid line is a ﬁt by C = AT +BT 2 +βT 3, where β was ﬁxed to be 3.00 mJ K−4 mol−1. The
+lower right inset shows ∆C, deﬁned by C −AT −BT 2 −βT 3, as a function of temperature. (b)
+An enlarged plot of C(T) from 0.5 to 15 K. The dashed line represents the sum of electronic and
+lattice contributions. The inset plots C/T vs. T 2, where the dashed line obeys C/T = γ + βT 2.
+(c) Cm/T (right axis, where Cm is the difference between the two sets of data in (b), representing
+the magnetic contribution to the speciﬁc heat) and magnetic entropy Sm (left axis) as functions of
+temperature.
+16
+
+
+trons (Cel), crystalline lattice (Clat) and Eu magnetism (Cm) can be separated, assuming that Cm
+is negligibly small above 10 K. The C/T vs T 2 plot, shown in the inset of Figure 5b gives γ =
+159 mJ K−2 mol−1 and β = 3.00 mJ K−4 mol−1. The Debye temperature is then obtained by
+θD = [(12/5)NRπ4/β]1/3 = 203 K, which is almost identical to that of Eu-1121.22 The ﬁtted γ
+value is also close to that of Eu-1121 based on per mol-Bi (because of Bi-6p electrons mainly
+contribute the conduction bands). Using the formula N(EF) = 3γ/(πkB)2, the density of state
+at EF estimated is as high as 65 eV−1 fu−1, which explains the unusually large Pauli magnetic
+susceptibility above.
+The magnetic contribution Cm was then obtained by removing the sum of Clat (= βT 3) and Cel
+(= γT), as shown in Figure 5b. Consequently, the magnetic entropy released can be calculated by
+the integration Sm =
+R T
+0 (Cm/T)dT (see Figure 5c). We obtained Sm = 36.2 J K−1 mol−1 at 15 K,
+equivalent to 2.09 times of Rln(2S + 1) (S=7/2 for Eu2+). It is noted that the Sm value could be
+underestimated because short-range spin ordering may extend to higher temperatures above 15 K.
+Remember in mind that Sm refers to the change in magnetic entropy, the value 2.09 only counts
+the Eu2+ ions that order magnetically at low temperatures. Therefore, the speciﬁc heat data do not
+contradict with the conclusion of Eu mixed valence above. The unexpectedly low Sm suggests spin
+glass state for the Eu(2) ions, consistent with the implication of the low-temperatureC(T) behavior
+and, in conformity with the mixed valence state exclusively at the Eu(2) site.
+Discussion
+Let us ﬁrst discuss the issue of Eu MV. As we know, europium is a special rare earth element
+that frequently shows MV due to the stability of half ﬁlling of 4 f orbitals for divalent Eu2+ ions
+(usually trivalent rare earth is the stable state). Basically, there are two distinct categories for the
+Eu MV according to its dynamicity. The ﬁrst MV scenario is homogeneous, in the sense that
+the mixed-valent Eu ions are indistinguishable in a short time (e.g., 10−9 s). This MV behavior
+is characterized by valence ﬂuctuations due to hybridization between Eu-4 f electrons with the
+conduction electrons, as exempliﬁed by EuNi2P2.49 Obviously, it occurs only in a material that
+17
+
+
+all the Eu ions occupy the crystallographically equivalent sites. In contrast, if the Eu ions with
+different valences selectively occupy the different crystallographic sites, the MV will be static in
+nature. Such a scenario is called inhomogeneous MV, which is equivalent to static charge order-
+ing. Examples of this category are shown in Eu2CuS3,39 Eu2SiN3,50 and Eu3F4S2,51 etc., where
+Eu2+ and Eu3+ occupy their individual sites. Note that, in the homogeneous Eu-MV state, vEu
+usually increases remarkably with decreasing temperature, because of dominant thermal ﬂuctua-
+tions (rather than quantum mixing) between the two integer-valence states.52 More frequently, a
+ﬁrst-order structural transition occurs accompanying with an abrupt change in vEu. In such cases,
+the MV becomes inhomogeneous at low temperatures because of static or quasi-static character of
+MV, as evidenced by two separate lines in the 151Eu Mössbauer spectra.53,54
+Compared with the conventional scenarios for Eu MV described above, the Eu-containing bis-
+muth chalcogenides, including Eu-1121 and Eu-3244, exhibit unusual MV behaviors. The Eu
+valence in Eu-1121 was found to be nearly temperature-independent down to 2 K.22 This has been
+interpreted by Eu valence ﬂuctuations that couple with the dynamic CDW in the BiS2 bilayers.
+However, the situation is different here for Eu-3244. There are two crystallographically different
+sites for the Eu ions. Unlike the aforementioned examples that different Eu sites are occupied by
+Eu2+ and Eu3+, respectively, the Eu(2) ions at the 2a site are in a MV state, while the 4e-site Eu(1)
+ions are essentially divalent. Our 151Eu Mössbauer spectra clearly show static or quasi-static MV
+up to 395 K, and the Eu3+ ions occupy the Eu(2) site. Since the Eu-4 f 7 narrow band touches the
+Fermi level of the conduction band in Eu-1121,22 it is plausible that, because of stronger crystal
+ﬁeld for Eu(2), the Eu(2)-4 f 7 band is lifted further in Eu-3244. Consequently, the Eu(2) ions are in
+a MV state, driven by the electrons transfer from an Eu(2)-4 f orbital to the conduction bands. On
+the other hand, the Eu(1)-4 f 7 band is lowered due to the relatively weak crystal ﬁeld [note that the
+Eu(1)-BVS value is substantially smaller than the Eu-BVS in Eu-1121]. This leads to a fully ﬁlled
+Eu(1)-4 f 7 band, i.e., the Eu(1) ions are divalent. Future band-structure calculations are expected
+to clarify this explanation.
+Owing to the Eu(2) MV with vEu2 ≈2.6(1), the conduction bands of BiS2 bilayers should be
+18
+
+
+self doped with the transferred electrons from the Eu-4 f states, similar to the case in Eu-1121.22
+The doping level is estimated to be x ∼0.30(5) electrons per Bi-atom, assuming that stoichiometry
+is conserved. This explains the appearance of superconductivity as well as the metallic conduction
+in the undoped Eu-3244. Here we note that similar self doping, via an internal charge transfer
+from 3d transition metal ions (V and Ti), leads to high-temperature superconductivity in iron-based
+materials.9,10 Thus, the direction of self doping deserves further attention.
+It is unexpected that no signature of CDW transition appears in Eu-3244. In general, the en-
+hanced 2D characteristic in Eu-3244 would further stabilize the potential CDW. Therefore, the
+obvious difference in Eu MV could be relevant. In Eu-3244, the Eu(2) MV occurs in the middle
+layers of the Eu3F4 block, farther from the BiS2 bilayers. In addition, the Eu(2) ions show much
+higher valence, leading to a different pattern of charge ordering. These two factors seem to be
+against the possible coupling between the CDW of BiS2 layers and the Eu MV.
+Since CDW usually competes with superconductivity, the absence of CDW in Eu-3244 may
+explain the relatively high Tc value (ﬁvefold of the Tc value in Eu-1121). It is also possible, of
+course, that the pronounced two dimensionality in Eu-3244 may enhance the superconductivity.
+Considering the relatively low doping level, one may expect that a higher Tc could be realized by
+extrinsic chemical doping and/or with applying high pressures. The latter is very expectable since
+high pressure was found to be very effective to enhance the Tc value in BiS-based materials,55–58
+and high pressure may push the parent compound toward metallic conduction.59 Also, in this
+regard, exploration of new superconductors with the 3244-type structure is of potential interest.
+Conclusion
+We have discovered a novel europium bismuth sulfoﬂuoride superconductor, Eu3Bi2S4F4, via a
+structural-design approach by introducing an additional EuF2 layer into the existing Eu2F2 spacer
+layers in EuBiS2F. The crystal structure, featured with the existence of two crystallographically
+distinct europium sites, was determined by high-resolution transmission electron microscopy as
+19
+
+
+well as X-ray diffractions. We investigated the Eu valence state by: (1) structural probing with
+calculation of Eu-BVS; (2) internal and local probing with 151Eu Mössbauer spectroscopy; and (3)
+bulk probing with analysis of magnetic properties. The results of these three probes consistently
+point to an anomalous Eu valence state in which the Eu(1)-site cations are essentially divalent,
+whilst the Eu(2)-site cations are in a mixed valence state with a valence of ∼+2.6(1). The mixed
+valence allows charge transfer, which realizes electron doping into the conduction bands that are
+mainly composed of Bi- 6px and 6py orbitals. That is why we observed metallic conduction and
+superconductivity in the undoped Eu3Bi2S4F4. Our work could inspire further exploration of new
+superconductors, especially those with self doping, in BiS2-based and other families.
+Acknowledgement
+This work was supported by NSF of China (Grants No. 11190023 and 90922002), the National
+Basic Research Program of China (Grant Nos. 2010CB923003 and 2011CBA00103), and the
+Fundamental Research Funds for the Central Universities of China (Grant No. 2013FZA3003).
+Supporting Information Available
+Figure S1 (showing the energy dispersive X-ray spectrum on a crystalline grain of Eu3Bi2S4F4),
+Table S1 (listing the result of the energy dispersive X-ray sepctroscopy), and CIF ﬁle of the crys-
+tal structure data of Eu3Bi2S4F4.
+This material is available free of charge via the Internet at
+http://pubs.acs.org/.
+Notes and References
+(1) Ferey, G. J. Sol. State Chem. 2000, 152, 37.
+(2) Cario, L.; Kabbour, H.; Meerschaut, A. Chem. Mater. 2005, 17, 234.
+(3) Jiang, H.; Sun, Y.-L.; Xu, Z.-A.; Cao, G.-H. Chin. Phys. B 2013, 22, 087410.
+20
+
+
+(4) Bednorz, J. G.; Müller, K. A. Z. Phys. B 1986, 64, 189.
+(5) Kamihara, Y.; Watanabe, T.; Hirano, M.; Hosono, H. J. Am. Chem. Soc. 2008, 130, 3296.
+(6) Raveau, B.; Michel, C.; Hervieu, M.; Groult, D. Crystal chemistry of High Tc Superconduct-
+ing Copper Oxides; Springer Verlag, 1991.
+(7) Schilling, A.; Cantoni, M.; Guo, J. D.; Ott, H. R. Nature 1993, 363, 56.
+(8) Wang, C.; Li, L. J.; Chi, S.; Zhu, Z. W.; Ren, Z.; Li, Y. K.; Wang, Y. T.; Lin, X.; Luo, Y. K.;
+Jiang, S. A.; Xu, X. F.; Cao, G. H.; Xu, Z. A. EPL 2008, 83, 67006.
+(9) Cao, G. H. et al. Phys. Rev. B 2010, 82, 104518.
+(10) Sun, Y. L.; Jiang, H.; Zhai, H. F.; Bao, J. K.; Jiao, W. H.; Tao, Q.; Shen, C. Y.; Zeng, Y. W.;
+Xu, Z. A.; Cao, G. H. J. Am. Chem. Soc. 2012, 134, 12893.
+(11) Mizuguchi, Y.; Fujihisa, H.; Gotoh, Y.; Suzuki, K.; Usui, H.; Kuroki, K.; Demura, S.;
+Takano, Y.; Izawa, H.; Miura, O. Phys. Rev. B 2012, 86, 220510.
+(12) Mizuguchi, Y.; Demura, S.; Deguchi, K.; Takano, Y.; Fujihisa, H.; Gotoh, Y.; Izawa, H.;
+Miura, O. J. Phys. Soc. Jpn. 2012, 81, 114725.
+(13) Sathish, C. I.; Feng, H. L.; Shi, Y.; Yamaura, K. J. Phys. Soc. Jpn. 2013, 82, 074703.
+(14) Singh, S. K.; Kumar, A.; Gahtori, B.; Shruti,; Sharma, G.; Patnaik, S.; Awana, V. P. S. J. Am.
+Chem. Soc. 2012, 134, 16504.
+(15) Phelan, W. A.; Wallace, D. C.; Arpino, K. E.; Neilson, J. R.; Livi, K. J.; Seabourne, C. R.;
+Scott, A. J.; McQueen, T. M. J. Am. Chem. Soc. 2013, 135, 5372.
+(16) The chemical formula should preferably written as LaBiS2O1−xFx according to standard
+nomenclature of inorganic compounds. See: Hiroi, Z. A. arXiv: 2008, 0805.4668.
+(17) Xing, J.; Li, S.; Ding, X.; Yang, H.; Wen, H.-H. Phys. Rev. B 2012, 86, 214518.
+21
+
+
+(18) Demura, S.; Mizuguchi, Y.; Deguchi, K.; Okazaki, H.; Hara, H.; Watanabe, T.; Den-
+holme, S. J.; Fujioka, M.; Ozaki, T.; Fujihisa, H.; Gotoh, Y.; Miura, O.; Yamaguchi, T.;
+Takeya, H.; Takano, Y. J. Phys. Soc. Jpn. 2013, 82, 033708.
+(19) Jha, R.; Kumar, A.; Singh, S. K.; Awana, V. P. S. J. Supercond. Novel Magnetism 2013, 26,
+499.
+(20) Yazici, D.; Huang, K.; White, B. D.; Chang, A. H.; Friedman, A. J.; Maple, M. B. Philosoph-
+ical Magazine 2013, 93, 673.
+(21) Lin, X.; Ni, X. X.; Chen, B.; Xu, X. F.; Yang, X. X.; Dai, J. H.; Li, Y. K.; Yang, X. J.;
+Luo, Y. K.; Tao, Q.; Cao, G. H.; Xu, Z. A. Phys. Rev. B 2013, 87, 020504.
+(22) Zhai, H. F. et al. Phys. Rev. B 2014, 90, 064518.
+(23) Krzton-Maziopa, A.; Guguchia, Z.; Pomjakushina, E.; Pomjakushin, V.; Khasanov, R.;
+Luetkens, H.; Biswas, P. K.; Amato, A.; Keller, H.; Conder, K. J. Phys.: Condens. Matt.
+2014, 26, 215702.
+(24) Ceolin, R.; Rodier, N. Acta Crystallogr. Sect. B 1976, 32, 1476.
+(25) Tanryverdiev, V. S.; Aliev, O. M.; Aliev, I. Inorg. Mater. 1995, 31, 1361.
+(26) Wan, X. G.; Ding, H. C.; Savrasov, S. Y.; Duan, C. G. Phys. Rev. B 2013, 87, 115124.
+(27) Li, B.; Xing, Z. W.; Huang, G. Q. EPL 2013, 101, 47002.
+(28) Yildirim, T. Phys. Rev. B 2013, 87, 020506.
+(29) Wang, G. T.; Liu, C.; Zhang, H. P.; Zhang, L.; Chen, C. Physica C 2013, 495, 114.
+(30) Yazici, D.; Huang, K.; White, B. D.; Jeon, I.; Burnett, V. W.; Friedman, A. J.; Lum, I. K.;
+Nallaiyan, M.; Spagna, S.; Maple, M. B. Phys. Rev. B 2013, 87, 174512.
+(31) Usui, H.; Suzuki, K.; Kuroki, K. Phys. Rev. B 2012, 86, 220501.
+22
+
+
+(32) Yang, Y.; Wang, W. S.; Xiang, Y. Y.; Li, Z. Z.; Wang, Q. H. Phys. Rev. B 2013, 88, 094519.
+(33) Martins, G. B.; Moreo, A.; Dagotto, E. Phys. Rev. B 2013, 87, 081102.
+(34) Lei, H. C.; Wang, K. F.; Abeykoon, M.; Bozin, E. S.; Petrovic, C. Inorg. Chem. 2013, 52,
+10685.
+(35) Izumi, F.; Ikeda, T. Mater. Sci. Forum 2000, 321, 198.
+(36) I., N.; Felner, I. Hyper. Inter. 1986, 28, 959.
+(37) Brown, I. D.; Altermatt, D. Acta Crystallogr. Sect. B 1985, 41, 244.
+(38) Brese, N. E.; O’Keeffe, M. Acta Crystallogr. Sect. B 1991, B47, 192.
+(39) Furuuchi, F.; Wakeshima, M.; Hinatsu, Y. J. Solid State Chem. 2004, 177, 3853.
+(40) Van Vleck, J. H. The Theory of Electric and Magnetic Susceptibilities; Oxford University
+Press, 1932; p 226.
+(41) Bozorth, R. M.; Van Vleck, J. H. Phys. Rev. 1960, 118, 1493.
+(42) Takikawa, Y.; Ebisu, S.; Nagata, S. J. Phys. Chem. Solids. 2010, 71, 1592.
+(43) Sakai, H.; Kotajima, D.; Saito, K.; Wadati, H.; Wakisaka, Y.; Mizumaki, M.; Nitta, K.;
+Tokura, Y.; Ishiwata, S. J. Phys. Soc. Jpn. 2014, 83, 014709.
+(44) Li, Y. K.; Lin, X.; Li, L.; Zhou, N.; Xu, X. F.; Cao, C.; Dai, J. H.; Zhang, L.; Luo, Y. K.;
+Jiao, W. H.; Tao, Q.; Cao, G. H.; Xu, Z. Supercond. Sci. Technol. 2014, 27, 035009.
+(45) We were not able to test the Meissner effect by dc magnetic susceptibility measurement due
+to the limit of the lowest temperature achieved. However, our ac susceptibility measurement
+down to lower temperatures shows a sharp decrease below 1.4 K, conﬁrming the supercon-
+ductivity. Details will be reported elsewhere.
+(46) Ginzburg, V. L.; Landau, L. D. Z. Eksp. Teor. Fiz. 1950, 20, 1064.
+23
+
+
+(47) Joshua, S. J. Physica A 1998, 261, 135.
+(48) Tari, A. The Speciﬁc Heat of Matter at Low Temperatures; Imperical College Press, 2003; p
+167.
+(49) Nagarajan, R.; Shenoy, G. K.; Gupta, L. C.; Sampathkumaran, E. V. Phys. Rev. B 1985, 32,
+2846.
+(50) Zeuner, M.; Pagano, S.; Matthes, P.; Bichler, D.; Johrendt, D.; Harmening, T.; Pöttgen, R.;
+Schnick, W. J. Am. Chem. Soc. 2009, 131, 11242.
+(51) Grossholz, H.; Hartenbach, I.; Kotzyba, G.; Pöttgen, R.; Trill, H.; Mosel, B. D.; Schleid, T.
+J. Solid State Chem. 2009, 182, 3071.
+(52) Guritanu, V.; Seiro, S.; Sichelschmidt, J.; Caroca-Canales, N.; Iizuka, T.; Kimura, S.;
+Geibel, C.; Steglich, F. Phys. Rev. Lett. 2012, 109, 247207.
+(53) Bauminger, E. R.; Froindlich, D.; Nowik, I.; Ofer, S.; Feiner, I.; Mayer, I. Phys. Rev. Lett.
+1973, 30, 1053.
+(54) Pöttgen, R.; Johrendt, D. Chem. Mater. 2000, 12, 875.
+(55) Kotegawa, H.; Tomita, Y.; Tou, H.; Izawa, H.; Mizuguchi, Y.; Miura, O.; Demura, S.;
+Deguchi, K.; Takano, Y. J. Phys. Soc. Jpn. 2012, 81, 103702.
+(56) Wolowiec, C. T.; Yazici, D.; White, B. D.; Huang, K.; Maple, M. B. Phys. Rev. B 2013, 88,
+064503.
+(57) Tomita, T.; Ebata, M.; Soeda, H.; Takahashi, H.; Fujihisa, H.; Gotoh, Y.; Mizuguchi, Y.;
+Izawa, H.; Miura, O.; Demura, S.; Deguchi, K.; Takano, Y. J. Phys. Soc. Jpn. 2014, 83,
+063704.
+(58) Jha, R.; Tiwari, B.; Awana, V. P. S. J. Phys. Soc. Jpn. 2014, 83, 063707.
+(59) Jha, R.; Tiwari, B.; Awana, V. P. S. J. Phys. Soc. Jpn. 2014, 83, 105001.
+24
+
+

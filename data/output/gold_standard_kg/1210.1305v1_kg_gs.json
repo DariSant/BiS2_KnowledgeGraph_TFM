@@ -1,0 +1,13 @@
+{
+  "source_meta": {
+    "source_id": "1210.1305v1_v3_ext.txt",
+    "primary_material_family": "Fe chalcogenides / BiS2-based"
+  },
+  "extracted_samples": [],
+  "general_conclusions": [
+    "Key factors to induce superconductivity in Fe chalcogenides are suppression of antiferromagnetism and reduction of magnetic moment of excess Fe.",
+    "Reduction of magnetic moment of excess Fe can be achieved by oxygen intercalation or acid annealing.",
+    "Red wine is noted as more effective for annealing than other solutions.",
+    "BiS2 layer plays a role similar to CuO2 planes in cuprates."
+  ]
+}

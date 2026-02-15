@@ -1,0 +1,77 @@
+{
+  "source_meta": {
+    "source_id": "1404.6359v2_v3_ext.txt",
+    "primary_material_family": "NdO0.5F0.5BiS2"
+  },
+  "extracted_samples": [
+    {
+      "formula": "NdO0.5F0.5Bi(S1-xSex)2",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": {
+            "min_value": 0.1,
+            "max_value": 0.2,
+            "variable_name": "x"
+          }
+        }
+      ],
+      "synthesis_profile": {
+        "method": "Solid State Reaction",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Non-Superconducting",
+      "measurements": [
+        {
+          "measurement_type": "Crystallography",
+          "conditions": {},
+          "data": {
+            "generic_value": {
+              "property_name": "a-axis trend",
+              "value": 1,
+              "unit": "increases"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "NdO0.5F0.5Bi1-ySbyS2",
+      "composition_variables": [
+        {
+          "element": "Sb",
+          "substituted_element": "Bi",
+          "concentration": {
+            "min_value": 0.1,
+            "max_value": 0.2,
+            "variable_name": "y"
+          }
+        }
+      ],
+      "synthesis_profile": {
+        "method": "Solid State Reaction",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Non-Superconducting",
+      "measurements": [
+        {
+          "measurement_type": "Crystallography",
+          "conditions": {},
+          "data": {
+            "generic_value": {
+              "property_name": "c-axis trend",
+              "value": -1,
+              "unit": "decreases"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "Substitution of S by Se degrades superconducting properties.",
+    "Substitution of Bi by Sb induces a metal-insulator transition.",
+    "Element substitution within the superconducting layer generally degrades superconductivity in NdO1-xFxBiS2."
+  ]
+}

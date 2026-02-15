@@ -1,0 +1,1092 @@
+Structural, Electromagnetic, and Thermoelectric 
+properties of Bi4O4S3 Superconductor 
+ 
+P. Srivatsava, Shruti, and S. Patnaik 
+School of Physical Sciences, Jawaharlal Nehru University, New Delhi-110067, India. 
+ 
+ 
+Abstract 
+ 
+We report on the synthesis and extensive characterization of layered Bi4O4S3 superconductor. This is 
+the optimally doped sample with Tc ~5.3 K out of a series of Bi6O4S4(SO4)1-x samples synthesized 
+by solid state reaction.  The series was synthesized towards establishing a phase diagram of transition 
+temperature as a function of carrier concentration. Crystal structure for Bi4O4S3 shows larger bending 
+of Bi2-S2-Bi2 bond in the BiS2 layer compared to that for the parent phase. Scanning electron 
+microscopy images show platelets like morphology for Bi4O4S3 signifying the layered structure.  
+While the parent compound is found to be semiconducting, the electrical resistivity of Bi4O4S3 
+exhibits T2 dependence in a small temperature range between 25 and 50 K. The typical dome structure 
+for variation of Tc with dopant concentration is not observed. From the magneto-transport data Hc2 for 
+Bi4O4S3 is estimated to be ~2.75T with WHH approximation and the corresponding coherence length 
+is ~110Å. Support for multiband signatures is not seen from magneto-resistance data.  RF 
+susceptibility data fits well for S-wave isotropic gap with gap value higher than BCS strong coupling 
+limit. Hall measurements confirm dominance of electronic transport with charge carrier density of 
+4.405×1019 cm−3 at 10 K. The experimental value of Seebeck coefficient at 35K is well in accord with 
+the calculated value deduced by using density of charge carriers from Hall experiments.  The 
+Sommerfeld constant γ is estimated to be ~ 1.113 mJ/K2 mol.  Evidence for thermally activated flux flow is 
+observed and the pinning potential is found to scale as   B-0.3 for B < 0.1T and B-1.99 for B > 0.1T. 
+ 
+ 
+ 
+ 
+e-mail: spatnaik@mail.jnu.ac.in 
+ 
+
+
+Introduction 
+The recent discovery of superconductivity in bismuth oxy-sulphide Bi4O4S3 has underlined 
+the serendipitous possibilities in layered chalcogenides.1-6 Pure bismuth itself has five 
+different phases that are superconducting below 8.5 K, therefore the initial challenges 
+focussed on ruling out impurity phases and establish bulk superconductivity with Tc ~ 4.4 K.2  
+It was quickly deciphered that induction of superconductivity in this compound of tetragonal 
+crystal structure is achieved through SO4 deficiency in the parent Bi6O8S5.1,2 It is now 
+established that like CuO2 and FeAs layers of high Tc cuprates and pnictides, 
+superconductivity in this oxy-sulphide is confined to BiS2 layers.  Subsequently, following 
+ideas from oxypnictides,  LaOBiS2 is traced to be superconducting when doped with F at the 
+place of O.7-15  Superconductivity is also confirmed when La is replaced by the rare earth 
+elements Nd, Ce, Pr and Yb with corresponding Tc = 5.616(5.2K),17 3.0,18 5.5 K19 and 5.4 K9 
+respectively.  It is suggested that in YbO0.5F0.5BiS2 superconductivity coexists with 
+magnetism below ~2.7 K.9  It may be noted that Sm/Gd based BiS2 (that shows high Tc in 
+oxypnictides) has not yet been reported even though smaller rare-earth ion Yb based 
+compound is superconducting.  It was also suggested that SrFBiS2 might also be a potential 
+family for BiS2 superconductors.20   This is experimentally verified with recent report of 
+superconductivity in Sr1-xLaxFBiS2.21 Further, Ag and Cu have also been doped at the place of 
+Bi but in both the cases suppressed superconductivity is reported.22,23  
+Theoretical studies have surmised that the dominating bands for the electron 
+conduction in Bi4O4S3 are derived from the Bi 6px and 6py orbitals.1 Strong nesting of the 
+Fermi surface and quasi-one-dimensional bands are also predicted.24,25 Structurally, Bi4O4S3 
+is composed of a set of BiS2 layers sandwiched between adjacent Bi4O4(SO4) spacer layers.1 
+A schematic view of the crystal structure is shown in Figure 1. The Bi atoms are coordinated 
+by four S atoms in the BiS2 plane which form a square-net perpendicular to c-axis. Similar 
+
+
+structure is also ascertained for parent phase Bi6O8S5. It is inferred, on the basis of band 
+calculations, that Bi6O8S5 is an insulator.1,24 Superconductivity in Bi4O4S3 is induced by 
+electron doping into the BiS2 layers via the defects of the SO4 ions at the interlayer site1 and 
+in particular Bi4O4S3 possess 50% defects at a SO4 site. A recent study on Hall and magneto-
+resistance measurements predicts an exotic multi-band features for Bi4O4S3.3 Further, on the 
+basis of electron-phonon coupling constant calculated for LaO1−xFxBiS2 (λ = 0.85), there are 
+indications of a strongly coupled electron-phonon superconductor.9,10 There are reports on 
+possibility of spin fluctuations leading to unconventional pairing mechanism as evidenced in 
+cuprates, and pnictides.8 Some theories predict structural instabilities15,26 which places this 
+system in close proximity to competing ferroelectric and charge density wave (CDW) 
+phases.15 This instability is possibly caused by anharmonic potential of the S ions lying on the 
+same plane as the Bi ions. Just like the spin-density wave (SDW) instability in Fe-based 
+superconductors, a CDW instability from negative phonon modes at or around the M point, 
+(π, π), is suggested to be essential to the superconductivity.15 As far as pairing symmetry is 
+concerned, three possibilities, d-wave, extended s-wave, and p-wave have been studied based 
+on two orbital RPA calculations.27  
+In a sense, the whole story of BiS2 based layered superconductors is evolving in the 
+side lines of the path taken by oxypnictides. But there are several points where strong 
+departure from pnictides can be observed in disulphides. The broad questions about the multi-
+band behaviour, BCS coupling parameters and pairing symmetry in (Bi4O4S3) the parent 
+superconducting compound have remained unresolved. In this article we report, the evolution 
+of superconducting properties in Bi4O4S3 with doping and address these issues along with 
+extensive electromagnetic and thermodynamic characterizations.  Towards synthesizing 
+Bi4O4S3, we have gradually created deficiency of SO4 in the SO4 layer of the parent 
+compound Bi6O8S5 (Bi6O4S4(SO4).  Although a perfect dome has not been observed, we have 
+
+
+successfully synthesized Bi6O4S4(SO4)1-x superconductors. We could achieve the highest Tc 
+phase achieved thus far (for x = 0.5) with Tc = 5.3 K. The main focus of the present study is 
+the detailed characterization of Bi6O4S4(SO4)1-x with nominal composition of x =0 and 0.5.  
+The thermodynamic and transport properties of this material are then studied in detail using 
+an array of experimental techniques such as the Hall Effect, rf susceptibility, electrical 
+resistivity, magento-transport and Thermoelectric power. 
+ 
+Experimental 
+A series of polycrystalline samples of Bi6O4S4(SO4)1-x  (x=0, 0.2, 0.25, 0.4, 0.5, 0.6, 
+0.66, 0.75, 0.8) were prepared using the conventional solid state reaction method. For 
+synthesis, Bi2S3, Bi2O3 powders and S grains were ground, pelletized, sealed into an 
+evacuated quartz tube and heated at 510ºC for 12 h. The product was well-ground, pelletized 
+and again annealed at 510ºC for 12 h in an evacuated quartz tube. Then it was cooled down 
+slowly to room temperature. The second step was repeated for achieving good homogeneity. 
+The resultant sample looked black and hard.  The samples were cut to rectangular shape 
+(length 3 mm, width 2.5 mm and thickness of 0.5 mm).  Since it was hard, we polished the 
+sample with very fine sand paper and obtained shiny and mirror like surface. The crystallinity 
+of the sample was checked by using the x-ray diffraction (XRD) in a PANanalytical 
+diffractometer with Cu Kα radiation. The analysis of XRD data were done with the Fullprof 
+software. Resistivity and Hall measurements were carried out in low temperature and high 
+magnetic field (8T) Cryogen Free system in conjunction with variable temperature insert. The 
+thermoelectric power (TEP) was measured from 300K to 12K using an automated setup that 
+was attached to a Closed Cycle Refrigerator.  A rectangular sample was mounted between 
+two copper blocks and two small chip heaters (50Ω) were used to produce heat gradient. The 
+
+
+rf susceptibility was performed by tunnel diode oscillator technique. The sample was kept 
+inside an inductor that formed a part of an LC circuit of an ultrastable oscillator (f~2.3 MHz).  
+ 
+Results and Discussion  
+Figure 2 shows the Rietveld refined XRD patterns for Bi4O4S3.  The calculated values 
+for lattice parameters, bond lengths and bond angles for the parent Bi6O8S5 and 
+superconducting Bi4O4S3 samples are given in Table 1. Rietveld refinement of the XRD 
+pattern was carried out using the reported1,2  Wyckoff positions and space group I4/mmm. 
+Some impurities of Bi (JCPDS No. 05-0519) and Bi2S3 (JCPDS No. 17-0320, ref. 28) are 
+present which have also been taken into account for refinement that improved the fitting.  The 
+quality of the refinement is indicated by the value of χ2 = 1.75 and 1.68 for the parent and 
+superconducting phase respectively. The refined lattice constants of Bi4O4S3 are a = 3.967(5) 
+Ǻ and c = 41.323(1) Ǻ which are slightly less than the values reported earlier2 and for 
+Bi6O8S5 the values are a = 3.965(5) Ǻ and c = 41.234(0) Ǻ. The c axis increased for the 
+superconducting phase indicating relaxation in the structure after losing 50% of SO4 ion from 
+SO4 layer. This is in consonance with decreased Tc with increasing external pressure.4  The 
+crystal structure made by refined Wyckoff positions indicates that the S and Bi atoms do not 
+stay in a single plane in the BiS2 layer (Figure 1) for the superconducting Bi4O4S3 phase. For 
+Bi4O4S3, the out of plane angle between S2-Bi2-S2 is found to be 162° and the in-plane S2-
+Bi2-S2 angle is 88.6° for the adjacent BiS2 layers (Figure 1). This indicates slight 
+deformation from the ideal square lattice of Bi2-S2 atoms. On the other hand, in the parent 
+Bi6O8S5 sample, the out of plane S2-Bi2-S2 angle is ~171° and in plane S2-Bi2-S2 angle is 
+89.7°. This suggests larger bending of Bi2-S2-Bi2 bond in case of superconducting sample.  
+To investigate the surface morphology of the as grown samples, in Figure 3 we show 
+Scanning Electron Microscopy (SEM) of the parent and superconducting samples. The 
+
+
+formation of platelet like morphology for Bi4O4S3 is well evident in Figure 3b which is an 
+indication of layered structure.  The size of these crystals is in micrometer range having the 
+average length and breadth ~ 6 µm and ~1 µm respectively. Comparing Figure 3a with Figure 
+3b, we find the parent Bi6O8S5 has rather small sized crystals compared to Bi4O4S3.  This 
+suggests better crystal growth characteristics for the superconducting sample.  
+Figure 4a show the temperature dependence of resistivity from 1.6 K to 300 K for 
+parent Bi6O8S5 (inset i) and 50% SO4 deficient superconducting Bi4O4S3.  The undoped 
+sample shows semiconducting behaviour up to the lowest measured temperature. The value 
+for room temperature resistivity is ~1 Ohm-cm that reaches to ~36 Ohm-cm at the lowest 
+measured temperature. On the other hand, the electrical resistivity of Bi4O4S3 shows metallic 
+behaviour in the normal state.  The inset (ii) of Figure 4a shows the resistivity behaviour near 
+the superconducting transition. The onset of transition in this sample is Tc
+onset = 5.3K as 
+determined by the intersection of extrapolated normal state resistivity line with 
+superconducting transition line. Similarly Tc offset is determined from the intersection at the 
+zero resistance line and is estimated to be Tc0 ~4.8 K (inset ii, Fig 4a). These values are ~20% 
+higher than earlier reports for this material.1-6 This could be explained by the fact that with 
+variation in doping concentration we could achieve the optimal doping phase. We further 
+note that the value of resistivity changes from 1.59 mOhm-cm at 300K to 0.786 mOhm-cm 
+just above the transition temperature. Hence, the residual resistivity ratio (RRR) in this case is 
+2.023.  The transport in this polycrystalline sample would have contribution from disorder 
+and perhaps small amounts of impurities. The transition widths for Bi4O4S3 ∆Tc = Tc(onset) − 
+Tc(offset) = 0.44 K is indicative of excellent grain connectivity. To gain further insight into 
+the normal state electronic correlations, we fit the low-temperature resistivity data to a power 
+law, ρ = ρ0 + ATα,and find that above 50 K, the resistivity data can be reasonably fit by with α 
+= 0.78 where the values of ρ0 and A are estimated to be 0.695 mΩ-cm and 0.01 mΩ-cm/Kα 
+
+
+respectively (Figure 4a). The data between 25 K and 50 K can be scaled with α = 2 (Figure 
+4b), with the residual resistivity ρ0 is 0.847 mΩ-cm, and the coefficient A = 3.12×10-5 mΩ-
+cm/K2. The value of ρ0 is large due to the polycrystalline nature of the sample.  Below 25K, 
+the resistivity starts deviating from this Fermi liquid fitting.  It is to be noted that the value of 
+A is close to the value reported for LaOFeAs.29  But a clear departure from Fermi liquid 
+behavior near Tc  is indicated.  In order to get the transition temperature with varying 
+concentration of charge carriers the Tc of SO4 deficient Bi6O4S4(SO4)1-x samples were also 
+measured.  The results have been summarized in inset iii of Fig 4a. It can be seen that 
+superconductivity is not observed upto 25% of SO4 deficiency and decrease in Tc is seen 
+beyond x = 0.5.  But superconductivity persists upto the maximum doping that we could 
+achieve (x = 0.8).  This doping dependence of Tc
+onset shows that x = 0.5 is the optimal doping 
+concentration for which transition temperature is highest in Bi6O4S4(SO4)1-x series.  However, 
+we note that no clear dome structure is obtained putting question marks on the possibility of 
+induction of superconductivity onto a strongly correlated insulator.  
+The accompanying diamagnetic transition is confirmed by measurement of rf 
+susceptibility (rf penetration depth). The data are shown in the inset (ii) of Figure 4b. The 
+measured quantity is the shift in the resonant frequency, ∆f ≡ f(T) − f0 = −4πχ(T)G, where χ 
+is the total magnetic susceptibility and G ≃ f0Vs/2Vc (1 − N) is a geometric calibration factor 
+defined by the coil (Vc), and the sample (Vs)  volumes and the demagnetization factor N.30 
+We note that magnetic transition of 5.1 K is lower by 0.2 K compared to onset resistivity 
+decrease.  As reported elsewhere, detailed analysis of the penetration depth data are 
+consistent with a S-wave gap of ∆0/kBTc ~ 2.4.31 This decidedly puts the nature of the 
+superconductivity into strong coupling regime.  
+Figure 5a shows the resistive transition for Bi4O4S3 as a function of magnetic field. 
+The Tc(H) values for ρ onset and offset as a function of magnetic field and temperature are 
+
+
+shown in inset of Figure 5b, which are equivalently  the upper critical Hc2(T) and 
+irreversibility (Hirr (T)) fields respectively. The slope is estimated to be [dHc2/dT]|T=Tc = 
+−0.75 T/K for ρonset  and −0.45 T/K for ρoffset for H≥ 0.05T.  In the conventional Ginzburg – 
+Landau picture, Hc2 is linear in T near Tc0 and saturates in the 0K limit.  However, in the 
+presence of impurity scattering32 or in a multiband scenario it shows deviations from the 
+expected behaviour.  Nonetheless for the present case, we apply the Werthamer–Helfand–
+Hohenberg (WHH) equation which relates the slope for ρonset to Hc2(0) = −0.693Tc[dHc2/dT] 
+|T=Tc = 2.754 T. The extrapolated lines in Figure 5b are drawn by using the Ginzburg–Landau 
+equation Hc2(T) = Hc2(0) (1 − t2)/(1 + t2) where t = T/Tc is the reduced temperature and Hc2(0) 
+is the upper critical field at zero temperature which give the value slightly higher than that by 
+WHH approach.  Assuming Hc2(0) = Hc2(WHH0), the Ginzburg–Landau coherence length 
+ξGL= (Ф0/2πHc2)1/2, where Ф0=2.07×10−7 G cm2 yields zero temperature coherence length 
+ξGL(0) ~ 110Å.  Further, as seen in, inset of Figure 5a, we note that although bulk 
+superconductivity can be suppressed above 3T, a kink in resistivity is present on the ρ versus 
+T curve.   Even with the maximum applied magnetic field of 4T this feature stays at about 
+5K. In an earlier study, this behaviour has been interpreted as the residual Cooper pairs 
+existing in the system even when the bulk superconductivity has been completely suppressed 
+which supports the applicability of strong coupling theories.3 
+In Figure 6 we show the Hall resistivity ρxy with varying field at 10K and 300K. The 
+Hall resistivity is negative for all fields and show nonlinearity at both the temperatures which 
+suggests possible deviations from single-band analysis.2,3,18 Clearly, the conduction 
+mechanism is dominated by electronic transport.  The Hall coefficient is field-dependent and 
+the carrier concentration estimated from low field value is n~ 4.405×1019 cm−3 at 10 K and 
+that increases to ∼7.28×1019 cm−3 at 300 K.  These values are almost three times higher than 
+the values reported by Singh et al (~1.53×1019 cm−3 at 10K) while close to the values given 
+
+
+by Li et al (~4.5×1019 cm−3 at 2K).2,3
+  Moreover, the magnetoresistance for a multiband 
+system is expected to follow ∆ρxx/ρ0 α H2 behavior in the low field region and as plotted, in 
+the inset of Figure 6, no such dependence is seen.  Clearly more studies are needed to 
+establish the applicability of exotic multi band theories.3 
+The Seebeck coefficient (S) of Bi4O4S3 with respect to copper is shown in Figure 7. In 
+agreement with Hall data, S is negative in the whole temperature range varying from ~ −23 
+µV/K at 300 K to a maximum negative value of ~ −30.5 µV/K at ~35 K.  In general, the S(T) 
+would consist of three parts; the diffusion term, the spin-dependent scattering term and the 
+phonon-drag term due to electron-phonon interaction.33 The spin-dependent contribution in 
+particular, would be weak since there are no magnetic elements in Bi4O4S3. The phonon-drag 
+effect usually gives a peak structure in the temperature dependence of thermopower (TEP). 
+At high temperature, the phonon-drag part of the TEP varies as 1/T, and at low temperature it 
+goes as ~T3 and consequently there is a peak in S(T) at ~ θD /5 (where θD is the Debye  
+temperature ) in transiting from the high-temperature to the low-temperature regime. Heat 
+capacity measurement done by Takatsu et al. estimates θD ~192 K for Bi4O4S3.
+5 The 
+pronounced peak in our S(T) data around 35K is very close to the value ∼ θD/5 = 38 K that 
+confirms the contribution due to the phonon-drag effect. This peak structure was not observed 
+in the in previous reports of TEP in Bi4O4S3.6, 22  Further, the carrier concentration from low-
+temperature Hall data can be used to obtain a qualitative estimate of diffusive part of Seebeck 
+coefficient and so the effective mass of charge carriers m* and the Sommerfeld coefficient γ 
+can be estimated.  If we assume that the electron carrier concentration below ~35 K is close 
+to the value inferred from the Hall data (4.405×1019 electrons/cm3
+ at 10K), the free electron 
+model predicts a Fermi energy (temperature) of 45.53 meV (528.29 K).34 In low carrier 
+concentration metals,33 the Seebeck coefficient is given by the diffusion contribution of the 
+Mott expression or S = π2kBT(2eTF)−1, where TF is the Fermi temperature. If we use a value 
+
+
+for of 528.29 K for TF in the expression for S, this results in a Seebeck value of −28.9 µV/K 
+at 35K, which yields excellent matching with the measured value of −30.5 µV/K at the same 
+temperature (relative to the value of copper SCu ~ 1.8 µV/K). That signifies that the effective 
+mass of electron equals to its rest mass around 35 K.  This strongly underlines the 
+applicability of Fermi liquid theory in this temperature regime from the zero field resistivity 
+analysis.  The Sommerfeld coefficient as given for free electron model34 is γ = π2NkB/2TF 
+where N is the total charge carriers calculated for one mole of molecule. Bi4O4S3 is the 
+normalized formula for 50% SO4 deficient Bi6O8S5 so taking the molecular weight of 
+Bi6O8S5-0.5SO4 or Bi6O6S4.5 and using the calculated density 7.62 gm/cm3, the Sommerfeld 
+constant comes out to be ~ 1.113 mJ/K2 mol.  It needs to be pointed out that our estimation of 
+Sommerfeld coefficient is smaller than the value reported by Hiroshi et al from specific heat 
+measurements which is ~2.8 mJ/K2 mol.5 
+To test the potentiality of BiS2 based superconductors towards applications, in the 
+following we discuss the basic pinning and vortex activation characteristics of Bi4O4S3.  The 
+broadening of the resistive transition under applied magnetic field is understood in terms of a 
+dissipation of energy caused by the motion of vortices in the mixed state. This interpretation 
+is based on the fact that for the low-resistance region, the lossy behavior is caused by the 
+creep of vortices which is modeled as Arhenius type thermally activated behavior.  This is 
+simply described by ρ(T, B) = ρ0exp(-U0/kBT).  Here, U0 is the flux-flow activation energy, 
+that can be obtained from the slope of the linear parts of an Arrhenius plot and ρ0 is a field-
+independent pre-exponential factor.  Investigations of high-Tc superconductors and artificial 
+multilayers have showed that the activation energy exhibits different power-law dependences 
+on a magnetic field, i.e. U0(H) ∝ H-n.36-38 The values of U0 (Figure 8), are deduced from the 
+limited temperature intervals below Tc, in which the data of the Arrhenius plot of ρ(T) yield 
+straight lines. The Arrhenius plots are shown in Figure 8 and activation energy in inset. The 
+
+
+straight-line behavior over 5 decades of the resistivity data validates the thermally activated 
+flux flow (TAFF)-process as described by the Arrhenius law. The best fit of the experimental 
+data ρ(T)|B=const  yields values of the activation energy, ranging from U0/kB  ~ 121 K in low 
+magnetic field (0.01T) down to ~ 9.75 K in the high field region (1T) (Inset Fig. 8). The 
+value of the exponent n in the power law equation U0(B) ~B-n is ~0.3 for H < 0.1.  On the 
+other hand, Bi4O4S3 shows a much stronger field dependence of the activation energy in the 
+high magnetic field region with the value of n ~1.99 for H > 0.1T.  
+ 
+Conclusions 
+In conclusion, we have successfully synthesized a series of BiS2 layer based Bi6O4S4(SO4)1-x 
+superconductors with varying SO4 concentration.  The optimally doped superconducting 
+sample Bi4O4S3 has transition temperature 5.3 K which is the highest Tc reported for this 
+compound. The crystal structure establishes the increase in the c-axis for superconducting 
+sample to that of the parent Bi6O8S5 that relates to the bending of Bi2-S2-Bi2 bond in the 
+BiS2 layer. The upper critical field was estimated ~2.75T for ρonset and zero temperature 
+coherence length ξGL(0) ~ 110 Å for Hc2(ρonset). The pinning potential U0 scales as B−0.3 for B 
+< 0.1T.  Hall measurements confirm dominance of electronic conduction and in conjuction 
+with thermoelectric power data, the Sommerfeld’s constant is estimated to be  ~ 1.113 mJ/K2 
+mol.  The energy gap calculated through rf susceptibility establishes this system to be 
+strongly coupled superconductor and the data fits well for an isotropic S wave gap.   
+ 
+ 
+Acknowledgment  
+PS is grateful to UGC, India for the award of a Dr D S Kothari postdoctoral fellowship.  
+Shruti acknowledge the UGC for providing her the JRF fellowship. Technical support from 
+AIRF is gratefully acknowledged. This work is performed under the sponsorship of DST-
+FIST. 
+
+
+ 
+ 
+
+
+References: 
+1 Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, , Y. 
+Takano.; H. Izawa, O. Miura, , Phys. Rev. B 86, 0220510(R) (2012) 
+2 S. K. Singh, A. Kumar., B. Gahtori, Shruti, G. Sharma, S. Patnaik and V. P. S. Awana, J. 
+Am. Chem. Soc. 134, 16504(2012) 
+3 S. Li, H. Yang, J. Tao, X. Ding, and H. Wen, arXiv:1207.4955v1 
+4 H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 81,103702 (2012) 
+5 H. Takatsu, Y. Mizuguchi, H. Izawa, O. Miura,H. Kadowaki, arXiv:1208.2796v1 and J. 
+Phys. Soc. Jpn. 81,125002(2012)  
+6 S. G. Tan, L.J. Li, Y. Liu, P. Tong, B.C. Zhao, W.J. Lu, Y.P. Sun, Physica C 483, 94 (2012) 
+7 Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. 
+Miura,  J. Phys. Soc. Jpn. 81, 114725 (2012) 
+8 X. Wan, H. C. Ding, S. Y. Savrasov and C. G. Duan, arXiv: 1208.1807v2. 
+9 D. Yazici, K. Huang, B.D. White, A.H. Chang, A.J. Friedman and M.B. Maple, 
+Philosophical Magazine 93, 673 (2013) 
+10 I. R. Shein and A. L. Ivanovskii Pis’ma v ZhETF 96, 859 (2012) 
+11 V.P.S. Awana, Anuj Kumar, Rajveer Jha, Shiva Kumar Singh, Anand Pal, Shruti, J. Saha, 
+S. Patnaik, Solid State Communications 157, 21 (2013) 
+12 J. Lee, M. B. Stone, A. Huq, T. Yildrim, G. Ehlers, Y. Mizuguchi, O. Miura, Y. Takano, K. 
+Deguchi, S. Demura, and S.-H. Lee arXiv:1212.4811v1 (2012) 
+13 K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, 
+H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura and Y. Takano, EPL 101, 17004 
+(2013) 
+14 T. Yildirim Phys. Rev. B 87, 020506(R) (2013) 
+
+
+15 B. Li and Z. W. Xing arXiv:1210.1743v1 (2012) 
+16 S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. Denholme, 
+M. Fujioka, T. Ozaki, H. Fujihisa, et al., arXiv:1207.5248 
+17 R. Jha, A. Kumar, S. K. Singh and V. P. S. Awana, J. Appl. Phys. 113, 056102 (2013) 
+18 J. Xing, S. Li, X. Ding, H. Yang, and H.-H.Wen, Phys. Rev. B 86, 214518 (2012) 
+19 R. Jha, S. Singh, and V. Awana, J. Supercond. Nov. Magn. 26,499 (2013) 
+20 H. Lei, K. Wang, M. Abeykoon, E. S. Bozin, C. Petrovic, arXiv:1208.3189v1  
+21 X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Yuke Li, X. Yang, Y. Luo, Q. Tao, G. Cao 
+and Z. Xu, Phys. Rev. B 87, 020504(R) (2013)  
+22 S. G. Tan, P. Tong, Y. Liu, W. J. Lu, L. J. Li, B. C. Zhao, Y. P. Sun, arXiv:1208.5307 and 
+Eur. Phys. J. B  85, 414 (2012) 
+23 Y. Liu, P. Tong, S. G. Tan, W. J. Lu, L. J. Li, B. C. Zhao, S. B. Zhang, Y. P. Sun, Physica 
+B 412, 119 (2013) 
+24 Hidetomo Usui, Katsuhiro Suzuki, and Kazuhiko Kuroki Phys. Rev. B 86, 220501(R) 
+(2012) 
+25 G. B. Martins, A. Moreo and E. Dagotto Phys. Rev. B 87, 081102(R) (2013) 
+26 X. Wan, H.-C. Ding, S. Y. Savrasov and C.-G. Duan, arXiv:1208.1807v2 (2012). 
+27 T. Zhou and Z. D. Wang, J Supercond Nov Magn DOI 10.1007/s10948-012-2073-4 
+28 L. F. Lundegaard, E. Makovicky, T. Boffa-Ballaran and T. Balic-Zunic, Phys Chem 
+Minerals 32, 578 (2005). 
+29 A. S. Sefat, M. A. McGuire, B. C. Sales, R. Jin, J. Y. Howe and D. Mandrus, Phys. Rev. B 
+77, 174503 (2008). 
+30 R. Prozorov and R. W. Giannetta, Supercond. Sci. Techn. 19, R41 (2006). 
+31 Shruti et al. (Unpublished) 
+32 A. M. Clogston, Phys. Rev. Lett. 9, 266 (1962). 
+
+
+33 K. F. Wang, H. C. Lei and C. Petrovic, Phys. Rev. B 84, 054526 (2011). 
+34 C. Kittel, Introduction to Solid State Physics, 3rd ed. (Wiley, New York, 1986), Chap. 6 
+35 J. McCarten, S. E. Brown, C. L. Seaman, and M. B. Maple, Phys. Rev. B 49, 6400 (1994). 
+36 T. M. Palstra, B. Batlogg, R. B. van Dover, L. F. Schneemeyer, and J. V. Waszchak, Phys. 
+Rev. B 41, 6621 (1990). 
+37 Y. Yeshurn, A. P. Malozemoff, Phys. Rev. Lett. 60, 2202 (1988). 
+38 N. Y. Fogel, V. G. Cherkasova, O. A. Koretzkaya, A. S. Sidorenko, Phys. Rev. B 55, 85 
+(1997). 
+ 
+ 
+ 
+ 
+ 
+
+
+Table Caption 
+ 
+Table 1. Structural and lattice parameters of Bi6O8S5 and Bi4O4S3 obtained by Rietveld 
+refinement. Bi1, Bi2, Bi3, S1, and S2 occupy the 4e (0, 0, z) site. The S3 atom is at the 2b (0, 
+0, 1/2) site. O1 is situated at the 8g (0, 1/2, z) site, and O2 is positioned at the 16n (0, y, z) 
+site. Only the variable z coordinates are given for Bi and S atoms in the table while the O1 
+and O2 are fixed at (0, 0.5, 0.0884) and (0, 0.3053, 0.4793) respectively [1]. 
+ 
+Figure captions 
+ 
+FIGURE 1. (a) Schematic representation of the crystal structure for Bi4O4S3. Grey, yellow 
+and red circles indicate Bi, S and O atoms, respectively. The structure is composed of Bi2O2, 
+BiS2 and SO4 layers. (b) BiS2 layer with out of plane angles and bond lengths. (c) Image of 
+the BiS2 square lattice (ab plane) with in plane parametres. 
+ 
+FIGURE 2. XRD pattern with the result of the Rietveld refinement. Bragg reflections for 
+Bi4O4S3, Bi2S3 and Bi are shown by green vertical lines. 
+ 
+FIGURE 3. Scanning Electron Microscopy (SEM) images show the morphology of (a) 
+Bi6O8S5 and (b) Bi4O4S3 samples. The average length and breadth of Bi4O4S3 crystals is ~ 6 
+µm and ~1 µm respectively. 
+ 
+FIGURE 4 (a). Temperature dependence of resistivity for Bi4O4S3. Solid curve shows the 
+fitting of A+BTn with n=0.78. Inset (i) shows semiconducting resistivity profile for Bi6O8S5 
+(ii) Enlarged low-temperature data, with the indicated superconducting transition temperature 
+(iii) Change in transition temperature with doping concentration x for of Bi3O4-4xS2.5-x (where 
+x=0, 0.2, 0.25, 0.4, 0.5, 0.6, 0.66, 0.75, 0.8).  
+(b) ρ = ρ0 + AT2fitiing with value of ρ0 = 0.847 mΩ-cm and the coefficient A = 3.12×10-5 
+mΩ-cm/K2. Inset (i) enlarged view of the fitting from 25K to 50K. (ii) Change in frequency 
+with respect to temperature. 
+ 
+FIGURE 5. (a) Resistivity vs temperature (ρ−T) behavior of Bi4O4S3 in applied fields of 0, 
+0.01, 0.02, 0.03, 0.05, 0.1, 0.25, 0.5, 0.8, 1, 2, 3 and 4T in the superconducting region. Inset 
+
+
+shows the persistent kink in the resistivity at higher magnetic fields of 2T, 3T, 4T.  (b) 
+Represent the GL approach extrapolated to zero temperature, Inset shows the upper critical 
+field Hc2 and the Hirr found from onset and offset temperature. 
+ 
+FIGURE 6. Hall resistivity as a function of magnetic field at 10 K and 300K. Insets shows 
+magnetoresistance at 6K as a function of square of the magnetic field. 
+ 
+FIGURE 7. Temperature dependence of Seebeck coefficient for Bi4O4S3 in zero magnetic 
+field. The Seebeck coefficient is negative in the whole temperature range with maximum 
+negative value of ~30.5 µV/K. 
+ 
+FIGURE 8. (a) Arrhenius plot of the resistivity for Bi4O4S3 for (left to right) with H = 0, 
+0.01, 0.02, 0.03, 0.05, 0.1, 0.25, 0.5, 0.8, 1, 2, 3 and 4T. (Inset) Dependence of the activation 
+energy U0/kB on magnetic field for the samples. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Table 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Parameters 
+Bi6O8S5 
+Bi4O4S3 
+a (Å) 
+3.9655
+3.9675 
+c (Å) 
+41.2340 
+41.3228 
+V ( Å3) 
+648.41
+650.46
+z Bi1 
+   Bi2 
+   Bi3 
+0.0612(8) 
+0.2078(11) 
+0.3767(9) 
+0.0601(2) 
+0.2084(0) 
+0.3815(8) 
+z S1 
+  S2 
+0.127(5) 
+0.287(6) 
+0.1313(6) 
+0.2811(4) 
+Bi2-S1 (Å) 
+--- 
+3.18(8) 
+S1-Bi2-S2  
+180° 
+180° 
+(In plane) Bi2-S2 (Å) 
+(out of plane) Bi2-S2 (Å) 
+2.812(19) 
+2.812(19) 
+2.839(13) 
+3.00(8) 
+(In plane) Bi2-S2-Bi2 
+(out of plane) Bi2-S2-Bi2 
+89.7° 
+171.3° 
+88.6° 
+162.0° 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1.  
+ 
+ 
+162°
+99°
+3.18 Ǻ
+3.00 Ǻ
+3.435 Ǻ 
+91.4° 
+88.6° 
+2.839Ǻ 
+Bi2O2  
+BiS2
+SO4
+S1 
+Bi2
+S2
+Bi3
+Bi1
+(a)
+(b) 
+(c) 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 2. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 3. 
+ 
+(b)
+1 µm 
+1 µm
+(a)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 4. 
+0
+50
+100
+150
+200
+0.0
+0.5
+1.0
+1.5
+2.0
+(b)
+(ii)
+25
+30
+35
+40
+45
+50
+0.84
+0.86
+0.88
+0.90
+0.92
+0.94
+ 
+ρ(mΩ−
+Ω−
+Ω−
+Ω−cm)
+T(K)
+1
+2
+3
+4
+5
+0
+5
+10
+15
+20
+25
+ 
+ 
+4π
+4π
+4π
+4πχG(kHz)
+T(K)
+ρ(mΩ−
+Ω−
+Ω−
+Ω−cm)
+T(K)
+(i)
+-
+0
+50
+100
+150
+200
+250
+300
+0.0
+0.5
+1.0
+1.5
+2.0
+0.0
+0.2
+0.4
+0.6
+0.8
+0
+1
+2
+3
+4
+5
+6
+ 
+ 
+Tc
+onset
+T(K)
+Doping concentration x
+Superconducting
+(iii)
+(a)
+(ii)
+3
+4
+5
+6
+7
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+ρ (mΩ-cm)
+T(K)
+Bi4O4S3
+5.3K
+0
+50 100 150 200 250 300
+0
+5
+10
+15
+20
+25
+30
+35
+40
+T(K)
+Resistivity (Ohm-cm)
+Bi6O8S5
+ρ (mΩ-cm)
+T(K)
+(i)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 5. 
+0
+1
+2
+3
+4
+5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+0
+1
+2
+3
+4
+5
+6
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+ 
+ 
+HC2 (T)/Hirr (T)
+T(K)
+T(K)
+HC2 (T)
+(b)
+2
+3
+4
+5
+6
+7
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+3
+4
+5
+6
+7
+8
+0.85
+0.86
+0.87
+ 
+ 
+ρ 
+ρ 
+ρ ρ (mΩ  
+Ω  
+Ω  
+Ω  - cm)
+T(K)
+2T
+3T
+4T
+ 
+ 
+ρ(mΩ-cm)
+T(K)
+0T
+0.01T
+0.02T
+0.03T
+0.05T
+0.1T
+0.25T
+0.5T
+0.8T
+1T
+2T
+3T
+4T
+(a)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 6. 
+ 
+ 
+0
+1
+2
+3
+4
+-0.035
+-0.030
+-0.025
+-0.020
+-0.015
+-0.010
+-0.005
+0.000
+0.0 0.2 0.4 0.6 0.8 1.0 1.2
+0
+1
+2
+3
+4
+5
+6
+∆ρ
+∆ρ
+∆ρ
+∆ρxx/ρ (%)
+ρ (%)
+ρ (%)
+ρ (%)
+H2(T2)
+6K
+ 
+ 
+ 10K
+ 300K
+ρxy (mΩ−
+Ω−
+Ω−
+Ω−cm)
+µ0H (T)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 7. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+50
+100
+150
+200
+250
+300
+-30
+-28
+-26
+-24
+-22
+ 
+ 
+ 
+S(µV/K) 
+T(K)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 8. 
+0.1
+0.2
+0.3
+0.4
+-5
+-4
+-3
+-2
+-1
+0
+0.01
+0.1
+1
+10
+100
+1000
+ 
+ 
+U0/kB (K)
+H (T)
+ 
+U0 (B) α 
+α 
+α 
+α B-0.3   H<0.1
+U0 (B) α 
+α 
+α 
+α B-1.99 H>0.1
+ 
+ 
+ln ρ 
+ ρ 
+ ρ 
+ ρ (mΩ−
+Ω−
+Ω−
+Ω−cm) 
+1/T(K-1)
+
+

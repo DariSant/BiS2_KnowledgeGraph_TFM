@@ -1,0 +1,268 @@
+1 
+ 
+Effect of Se doping in recently discovered layered Bi4O4S3 Superconductor  
+Rajveer Jha and V.P.S. Awana* 
+CSIR-National Physical Laboratory (CSIR), Dr. K. S. Krishnan Road, New Delhi 
+110012, India 
+We report suppression of superconductivity in Bi4O4S3 compound by Se doping at S site.  
+Bulk polycrystalline samples are synthesized by solid state reaction route. The Rietveld refined 
+of XRD data of all the studied samples show that the same are crystallized in tetragonal I4/mmm 
+space group with slightly increased c lattice constant with the Se doping. Superconductivity is 
+observed at below 4.5 K in both dc magnetization and resistivity with temperature measurements 
+for all Bi4O4S3-xSex (x = 0, 0.03, 0.09 and 0.15) samples, though the same is decreased slightly 
+with increase in Se content. The upper critical field of the Bi4O4S3 is estimated from resistivity 
+under magnetic field [ρ(T)H] measurements of up to 2T (Tesla), and the same decreases for Se 
+doped samples. The flux flow activation energies being obtained by fitting to the the Arrhenius 
+equation are 18.60 meV for Bi4O4S3 , 13.69 meV for Bi4O4S2.97Se0.03 and 13.16 meV for 
+Bi4O4S2.85Se0.15 samples in applied magnetic field of 200 Oe. In conclusion the S site Se 
+substitution showed detrimental effect on superconductivity of Bi4O4S3.  
+Key Words: BiS2 based new superconductor, structure, Magnetization and electrical transport. 
+PACS number(s): 74.10.+v, 74.70.-b, 74.25.Ha, and 74.25.Fy  
+*Corresponding Author: E-mail: awana@mail.npindia.org 
+Ph. +91-11-45609357, Fax-+91-11-45609310; Homepage www.fteewebs.com/vpsawana/ 
+ 
+Introduction 
+ 
+ 
+The discovery of superconductivity with superconducting transition temperature (Tc) of 
+around 4.5K in Bi4O4S3 [1, 2] with tetragonal I4/mmm structure has generated tremendous 
+interest among condensed matter scientific community. The novel BiS2 based superconductor 
+consists of a layered crystal structure built from BiS2 layers and Bi4O4(SO4)1−x block layers, 
+where x indicates the deficiency of SO4
+2- ions at interlayer sites [3]. Within few weeks, several 
+other BiS2-based superconductors, with composition ReO1−xFxBiS2 (Re = La, Ce, Pr, Nd) [4-7] 
+appeared, with Tc as high as 10 K. Evidently, these compounds have a common BiS2 layer, which 
+serves as the basic building blocks of this new superconducting family. The carrier doping 
+mechanism in the new BiS2 based superconductors is seemingly the same as for the high Tc 
+cuprates and Fe-Pnictides [4-10].  There are some doubts about the exact crystal structure and 
+superconducting composition of the Bi4O4S3 superconductor [8]. A recent extensive study of 
+these compounds showed that Bi4O4S3 is actually a two-phased material [9]. The two phases are 
+namely Bi2OS2 and Bi3O2S3 and most likely the later one exhibits the superconductivity. 
+Theoretical studies indicated that the Fermi level lies within the conduction bands, which are 
+originating from the Bi 6p orbitals in the BiS2 layer [11-13]. Also exotic multi-band behavior has 
+been reported in the Hall coefficient measurements and it is shown that the charge carriers are 
+mainly electron-type [14]. The chemical doping in the main phase of these superconducting 
+compounds could be a powerful way to increase their Tc and to understand possible mechanism 
+of superconductivity. In one report, Ag has been doped in Bi4O4S3 compound and it is shown 
+that the lattice shrinks gradually with Ag doping and the Tc is suppressed [15].  
+
+
+2 
+ 
+Keeping in view that there exists only scant reports [15] on the on-site substitution in 
+Bi4O4S3, we report here the effect of Se substitution at S site in bulk polycrystalline Bi4O4S3-xSex 
+(x=0, 0.03, 0.09 and 0.15). All the studied samples are crystallized in near single phase and the 
+superconductivity is seen to decrease with increase in Se content. For higher (x > 0.15) content 
+of Se in Bi4O4S3-xSex, the resultant material becomes clearly multi phase and the on-site 
+substitution was not possible. It is shown that, Se doping at S site has detrimental effect on 
+superconductivity of Bi4O4S3.     
+Experimental 
+ 
+Polycrystalline Bi4O4S3-xSex (x = 0, 0.03, 0.09 and 0.15) samples are synthesized by 
+standard solid state reaction route via vacuum encapsulation. High purity Bi, S, Bi2O3, and Se are 
+weighed in stoichiometric ratio and ground thoroughly in a glove box under high purity argon 
+atmosphere. The mixed powders are subsequently palletized and vacuum-sealed (10-3 Torr) in a 
+quartz tube. Sealed quartz ampoules are placed in Box furnace and heat treated at 4000C for 10h 
+with the typical heating rate of 2oC/minute, and subsequently cooled down slowly over a span of 
+six hours to room temperature. This process was repeated twice. X-ray diffraction (XRD) was 
+performed at room temperature in the scattering angular (2θ) range of 10o-60o in equal 2θ step of 
+0.02o using Rigaku Diffractometer with Cu Kα (λ = 1.54Å). Rietveld analysis was performed 
+using the standard FullProf program. The electrical transport and magnetization measurements 
+were performed on Physical Property Measurements System (PPMS-14T, Quantum Design) as a 
+function of both temperature and applied magnetic field. 
+Results and discussion 
+Figure 1 shows the Rietveld refined XRD patterns at a room temperature for Bi4O4S3-xSex 
+(x = 0, 0.03, 0.09 and 0.15) samples. Reported Wyckoff positions [2] and space group I4/mmm 
+with the tetragonal structure are used to refine the XRD pattern. Some impurities of Bi and Bi2S3 
+are also seen in the main phase of the Bi4O4S3. The content of Bi2S3 phase slightly increases with 
+increase in Se content. The refined lattice constants of Bi4O4S3 are a = 3.9708(2) Ǻ and c = 
+41.357(1) Ǻ, and the same slightly increases to a = 3.9717(1) Ǻ and c = 41.419(3) Ǻ for x = 0.15 
+sample. It is clear from XRD data the lattice slightly expands due to bigger ion Se doping at S 
+site.  
+ 
+Temperature dependent dc magnetic susceptibility (M-T) data under 10 Oe magnetic field 
+for the studied Bi4O4S3-xSex samples are shown in Figure 2(a). Magnetization measurements are 
+performed in both ZFC (Zero Field Cool) and FC (Field Cool) modes. Clear diamagnetic 
+transitions are seen at around 4.4 K for Bi4O4S3, 4.2 K for Bi4O4S2.97Se0.03, 3.7 K for 
+Bi4O4S2.91Se0.09, and 3.5 K for Bi4O4S2.85Se0.15. It is clear that though all studied samples show 
+superconductivity, but the Tc is decreasing with increasing Se doping level. Below Tc, the 
+bifurcation of the FC and ZFC data is simply due to the complicated magnetic flux pinning 
+effects. Both the FC and ZFC magnetization data confirmed the appearance of bulk 
+superconductivity in Bi4O4S3-xSex samples. Figure 2(b), represents the AC magnetic 
+susceptibility of the Bi4O4S3 sample, confirming the bulk superconductivity at around 4.5 K. The 
+AC magnetic susceptibility measurements have been carried out at 333 Hz and varying 
+amplitude of 5 - 13 Oe. It can be seen from Fig. 2b, that the imaginary part peak height is 
+increased along with increased diamagnetism in real part of AC susceptibility with change in 
+amplitude from 5-13 Oe. The interesting part is that with increasing AC amplitude the imaginary 
+
+
+3 
+ 
+part peak position temperature (4.5 K) is not changed. This indicates, that the superconducting 
+grains are well coupled and hence nearly no grain boundary contribution in the superconductivity 
+of Bi4O4S3. Inset of the Fig. 2b depicts the Real part of AC susceptibility being measured at 
+applied DC bias fields of up to 4 kOe at temperature 2 K. The upper critical field (Hc2) being 
+determined from in-field AC susceptibility measurements, is 0.5 kOe and 1.973 kOe with 50% 
+and 90% diamagnetism criteria, respectively.  
+The Resistivity versus temperature (ρ-T) plots for Bi4O4S3-xSex (x = 0, 0.03, 0.09 and 
+0.15) samples in zero magnetic field are shown in Figure 3. It can be seen from the ρ-T plots that 
+resistivity increases slightly with increasing of Se doping. All samples showed 
+superconductivity, with Tc
+onset of 4.5 K for Bi4O4S3 and 4.0 K for the x = 0.15. This indicates that 
+the superconductivity is suppressed with the Se doping in the Bi4O4S3-xSex compounds. It is clear 
+indication that the superconductivity in Bi4O4S3 compound is not due to Bi impurity. This is 
+because the Bi content is fixed for all samples and the substitution is done only at S site. Inset of 
+the Figure 3 shows the temperature dependent resistivity in expanded temperature range of 300 - 
+2.2 K. It can be seen that the all samples exhibit metallic behavior with slightly increasing 
+resistivity for Se doped compounds.  
+Figure 4 (a), (b), and (c) shows the temperature dependence of resistivity under applied 
+magnetic field for Bi4O4S3-xSex (x = 0, 0.03 and 0.15) samples. Superconductivity is seen at 
+below 4.5K for pristine Bi4O4S3 and the same decreases with Se doping. With increasing applied 
+magnetic field, though both the Tc
+onset and Tc (ρ = 0) are gradually shifted to lower temperatures, 
+but the shift is comparatively more for the later. This results in broadening of the 
+superconducting transition under applied field, which is similar to the high-Tc layered cuprates 
+and Fe-pnictide superconductors [16, 17]. Figure 5 exhibits the temperature dependent of upper 
+critical field (Hc2) for Bi4O4S3-xSex (x = 0, 0.03 and 0.15) samples.  The Hc2 is evaluated by using 
+resistivity drops to 90% of its normal state value i.e., ρn(T,H) at above Tc
+onset. The conventional 
+one-band Werthamer–Helfand–Hohenberg (WHH) equation Hc2(0) = − 0.693Tc(dHc2 /dT)T=Tc has 
+been used to evaluate Hc2. Thus calculated upper critical field Hc2
+WHH(0) is 2.3 Tesla for Bi4O4S3,  
+2.1 Tesla for Bi4O4S2.97Se0.03, and 1.8 Tesla for Bi4O4S2.85Se0.15. It is clear that the Hc2 is 
+decreasing with increase in Se doping concentration. The temperature derivative of resistivity 
+(dρ/dT) for the three superconducting samples Bi4O4S3-xSex (x = 0, 0.03 and 0.15) are shown in 
+Fig. 6 (a), (b) and (c) respectively. Though dρ/dT peak is broadened with field yet only a single 
+transition peak is observed, suggesting better grains coupling in these systems. The broadening 
+of the resistive transition under applied magnetic field can be seen in terms of dissipation energy 
+caused by the motion of vortices in the mixed state. This suggests that superconducting onset is 
+relatively less affected than the Tc (ρ = 0) state. The transition broadening is caused by the creep 
+of vortices, which are thermally activated. The temperature dependence of resistivity in this 
+region is governed by Arrhenius equation [18], 
+ρ(T,B) = ρ0 exp[- U0/kBT]                           
+(1) 
+Here, ρ0 is the field independent pre-exponential factor, kB is the Boltzmann’s constant and U0 is 
+thermally activated flux flow (TAFF) activation energy. Activation energy can be obtained from 
+the fitted low temperature resistivity data with the Arrhenius equation. Figs. 7(a), (b) and (c) 
+show the experimental data in terms of ln(ρ) vs. T-1 along with the fitting to equation 1. The best 
+fitted data give values of the activation energies to be 18.60 meV for Bi4O4S3, 13.69 meV for 
+Bi4O4S2.97Se0.03 and 13.16 meV for Bi4O4S2.85Se0.15 samples in applied magnetic field of 200 Oe. 
+In low field region, though the activation energy shows weak dependence i.e. U0/kB ~ H-0.35, but 
+
+
+4 
+ 
+is strongly dependent in high field range as U0/kB ~ H-0.85, it could be clearly seen that the field 
+dependence of U0 is different for lower and higher field ranges. This has been observed earlier 
+for some other superconductors as well [16, 17]. In summery we have synthesized near single 
+phase bulk polycrystalline samples Bi4O4S3-xSex (x = 0, 0.03, 0.09 and 0.15) compounds and it is 
+found that the S site Se doping deteriorates superconductivity in Bi4O4S3 system.   
+Acknowledgements 
+ 
+The authors would like to thank encouragement and support from Director NPL Prof. 
+R.C. Budhani for the superconducting materials work. One of the authors Rajveer Jha 
+acknowledges to the CSIR for providing SRF scholarship to pursue his Ph.D. This work is also 
+financially supported by DAE-SRC outstanding investigator award scheme on search for new 
+superconductors. 
+Figure Captions  
+ 
+Figure 1: Reitveld fitted room temperature XRD patterns of Bi4O4S3-xSex (x = 0, 0.03, 0.09 and 
+0.15) samples. 
+  
+Figure 2: (a) Temperature dependent dc magnetic susceptibility (both ZFC and FC) in the 
+applied magnetic field, H= 10 Oe plots for Bi4O4S3-xSex (x = 0, 0.03, 0.09 and 0.15) samples. (b) 
+AC magnetic susceptibility in real (M’) and imaginary(M”) situations in varying amplitudes of 
+5–13 Oe at fixed frequency of 333 Hz for Bi4O4S3 sample, inset shows isothermal magnetization 
+(MH) for real part of AC susceptibility (M’) with applied field up to 4 kOe at 2 K for Bi4O4S3 
+sample the upper critical field (Hc2) is marked. 
+ 
+Figure 3: Resistivity versus temperature (ρ Vs T) plots for Bi4O4S3-xSex (x = 0, 0.03, 0.09 and 
+0.15) samples in the temperature range 2.2-5 K. Inset of the fig show the same in 2.2-300 K 
+temperature range. 
+ 
+Figure 4: (a), (b) & (c) Temperature dependence of the resistivity ρ(T) under magnetic fields  for 
+the samples Bi4O4S3-xSex (x = 0, 0.03 and 0.15) samples respectively. 
+ 
+Figure 5: The upper critical field Hc2 found from 90% of the normalized resistivity ρn(T) for the 
+samples Bi4O4S3-xSex (x = 0, 0.03 and 0.15). 
+ 
+Figure 6: (a), (b) and (c) Temperature derivative of normalized resistivity Vs T of Bi4O4S3-xSex 
+(x = 0, 0.03 and 0.15) samples. 
+ 
+Figure 7: Fitted Arrhenius plots of resistivity for Bi4O4S3-xSex (x = 0, 0.03 and 0.15) samples.  
+ 
+ 
+ 
+
+
+5 
+ 
+Reference: 
+1. Y. Mizuguchi, H. Fujihisa, Y. Gotoh,  K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, O. Miura, Phys. Rev. B, 86, 214518 (2012). 
+2. S. K. Singh, A. Kumar, B. Gahtori, Shruti; G. Sharma, S. Patnaik,  V. P. S. Awana, J. 
+Am. Chem. Soc., 134, 16504 (2012). 
+3. Y. YU, J. Shao, S. Tan, C.  Zhang, and Y. Zhang, J. Phys. Soc. Jpn., 82, 034718 (2013). 
+4. Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, O. 
+Miura, J. Phys. Soc. Jpn., 81, 114725 (2012).  
+5. S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano, J. Phys. Soc. Jpn., 82,  033708 (2013). 
+6. R. Jha, A. Kumar, S. K. Singh, V.P.S. Awana, J Supercond Nov Magn 26, 499 (2013). 
+7. J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B, 86, 214518 (2012). 
+8.  C. I. Sathish,  H. L. Feng, Y. Shi, and K. Yamaura,  arXiv:1208.2818v3 (2013). 
+9. W. A. Phelan, D. C. Wallace, K. E. Arpino,  J. R. Neilson, K. J. Livi, C. R. Seabourne, A. 
+J. Scott, and T. M. McQueen. , J. Am. Chem. Soc., 135, 5372 (2013). 
+10. C. Morice, E. Artacho, S. E. Dutton, D. Molnar, H. J. Kim, and S. S. Saxena , 
+arXiv:1305.1201v1 (2013). 
+11. H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B 86, 220501(R)  (2012). 
+12. H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi, and Y. Takano,. J. Phys. Soc. Jpn 81 103702 (2012). 
+13. Y. Mizuguchi,  H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa,  and O. Miura, Phys. Rev. B 86, 220510(R) (2012). 
+14. S. Li, H. Yang, J. Tao, X. Ding, and H.-H. Wen, Sci. China-Phys. Mech. Astron. 56, 
+2019 (2013). 
+15. S.G. Tan, P. Tong, Y. Liu, W.J. Lu, L.J. Li, B.C. Zhao, and Y.P. Sun, Eur. Phys. J. B 85, 
+414 (2012). 
+16. J. Jaroszynski, F. Hunte, L. Balicas, Jo Youn-jung, I. Rai Cevic, A. Gurevich, D.C. 
+Larbalestier, F.F. Balakirev, L. Fang, P. Cheng, Y. Jia, H.H. Wen, Phys. Rev. B 78, 
+174523 (2008). 
+17. A. Pal, S.S. Mehdi, M. Husain, V.P.S. Awana, Solid State Sciences, 15, 123 (2013). 
+18. A. Gurevich, Rep. Prog. Phys. 74, 124501 (2011). 
+
+
+6 
+ 
+Figure 1 
+ 
+ 
+Figure 2(a) 
+ 
+
+
+7 
+ 
+Figure 2(b) 
+ 
+ 
+Figure 3 
+  
+
+
+8 
+ 
+Figure 4 
+ 
+Figure 5 
+ 
+
+
+9 
+ 
+Figure 6 
+ 
+ 
+Figure 7 
+ 
+
+

@@ -1,0 +1,1314 @@
+{
+  "corpus_version": "v1.0",
+  "creation_date": "2026-01-29",
+  "total_papers": 130,
+  "download_stats": {
+    "total": 130,
+    "success": 130,
+    "failed": 0,
+    "already_existed": 130,
+    "failed_ids": []
+  },
+  "papers": [
+    {
+      "arxiv_id": "2406.01263v2",
+      "title": "Pb Substitution Effects on Lattice and Electronic System of the BiS2-based Superconductors La(O F)BiS2",
+      "published": "2024-06-03T12:24:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2406.01263v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2406.01263v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 3881.13,
+      "md5_checksum": "308efa46a8624aba94793d0bdf23f2d1"
+    },
+    {
+      "arxiv_id": "2405.09129v2",
+      "title": "Aging Effects on Superconducting Properties of BiS2-Based Compounds: First-12-Year Restudy",
+      "published": "2024-05-15T06:46:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2405.09129v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2405.09129v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 343.47,
+      "md5_checksum": "752f19b739b2e75522e63624ce5f94f0"
+    },
+    {
+      "arxiv_id": "2308.04081v2",
+      "title": "Absence of Tc-Pinning Phenomenon Under High Pressure in High-Entropy REO0.5F0.5BiS2 Layered Superconductor",
+      "published": "2023-08-08T06:38:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2308.04081v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2308.04081v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 712.07,
+      "md5_checksum": "e8c81a6ad759ac65c6e1a77c0215f771"
+    },
+    {
+      "arxiv_id": "2211.00843v1",
+      "title": "Weak antilocalization induced by Se substitution in layered BiCh$_2$-based (Ch = S, Se) superconductors LaO$_{1-x}$F$_x$BiS$_{2-y}$Se$_y$",
+      "published": "2022-11-02T03:05:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2211.00843v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2211.00843v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1557.3,
+      "md5_checksum": "a9dc8362537326c2e21640083a9f842b"
+    },
+    {
+      "arxiv_id": "2208.11880v2",
+      "title": "Estimation of Gr\u00fcneisen Parameter of Layered Superconductor LaO0.5F0.5BiS2-xSex (x = 0.2, 0.4, 0.6, 0.8, 1.0)",
+      "published": "2022-08-25T05:43:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2208.11880v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2208.11880v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1149.52,
+      "md5_checksum": "bd49b00de0c17aae49e179c2967bb4ce"
+    },
+    {
+      "arxiv_id": "2203.11566v1",
+      "title": "Lattice Anharmonicity in BiS2-Based Layered Superconductor RE(O,F)BiS2 (RE = La, Ce, Pr, Nd)",
+      "published": "2022-03-22T09:41:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2203.11566v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2203.11566v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 861.89,
+      "md5_checksum": "10183c31acba8405c769dd36499e9c9d"
+    },
+    {
+      "arxiv_id": "2203.07010v1",
+      "title": "The upper critical field in the BiCh2-based superconductors CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3)",
+      "published": "2022-03-14T11:29:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2203.07010v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2203.07010v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 2279.81,
+      "md5_checksum": "79d8a7830668c42deaca3d2ab1a4ae0c"
+    },
+    {
+      "arxiv_id": "2106.09863v1",
+      "title": "Fluorine solubility and superconducting properties of Sm(O,F)BiS$_2$ single crystals",
+      "published": "2021-06-18T01:35:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2106.09863v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2106.09863v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 2242.94,
+      "md5_checksum": "44589511495834442b8eb89691ef5c9c"
+    },
+    {
+      "arxiv_id": "2104.02241v2",
+      "title": "Direct Observation of an Incommensurate Charge Density Wave in the BiS2-based Superconductor NdO1-xFxBiS2",
+      "published": "2021-04-06T02:11:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2104.02241v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2104.02241v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1114.58,
+      "md5_checksum": "060b618636ebfa62e0e6a9a55d391e2e"
+    },
+    {
+      "arxiv_id": "2102.01321v1",
+      "title": "Superconductivity in HEA-type compounds",
+      "published": "2021-02-02T05:39:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2102.01321v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2102.01321v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1905.29,
+      "md5_checksum": "bb250a604b9837309cbb091a30e3cc76"
+    },
+    {
+      "arxiv_id": "2011.12708v1",
+      "title": "Investigation of superconducting properties and possible nematic superconductivity in self-doped BiCh2-based superconductor CeOBiS1.7Se0.3",
+      "published": "2020-11-25T13:19:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2011.12708v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2011.12708v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 747.45,
+      "md5_checksum": "420c38fd795cd6b1d9382c78e1bd986c"
+    },
+    {
+      "arxiv_id": "2007.11130v2",
+      "title": "Possible pairing mechanism switching driven by structural symmetry breaking in BiS2-based layered superconductors",
+      "published": "2020-07-21T23:22:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2007.11130v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2007.11130v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1023.77,
+      "md5_checksum": "07259e7466b8e80b6aa4e73999c6e4eb"
+    },
+    {
+      "arxiv_id": "2007.06696v2",
+      "title": "Unconventional isotope effect on transition temperature in BiS2-based superconductor Bi4O4S3",
+      "published": "2020-07-13T21:15:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2007.06696v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2007.06696v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 595.65,
+      "md5_checksum": "bc1e0c5d39e5ac80b31adc98cc9a1d12"
+    },
+    {
+      "arxiv_id": "2007.03235v1",
+      "title": "Investigation of in-plane anisotropy of c-axis magnetoresistance for BiCh2-based layered superconductor NdO0.7F0.3BiS2",
+      "published": "2020-07-07T07:02:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2007.03235v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2007.03235v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 809.05,
+      "md5_checksum": "d1b5d3361e83580abb838c117415826b"
+    },
+    {
+      "arxiv_id": "2006.11576v1",
+      "title": "Two-fold symmetry of in-plane magnetoresistance anisotropy in the superconducting states of BiCh2-based LaO0.9F0.1BiSSe single crystal",
+      "published": "2020-06-20T13:52:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2006.11576v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2006.11576v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 697.11,
+      "md5_checksum": "64d6ce53363ae2e3efdeabd57145fd0a"
+    },
+    {
+      "arxiv_id": "2006.08489v1",
+      "title": "Evolution of two bulk-superconducting phases in Sr0.5RE0.5FBiS2 (RE: La, Ce, Pr, Nd, Sm) by external hydrostatic pressure effect",
+      "published": "2020-06-15T15:46:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2006.08489v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2006.08489v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 757.46,
+      "md5_checksum": "c0c768be7ef26202fd212d6dd066e4a2"
+    },
+    {
+      "arxiv_id": "2006.07798v2",
+      "title": "Structural phase diagram of LaO1-xFxBiSSe: suppression of the structural phase transition by partial F substitutions",
+      "published": "2020-06-14T04:47:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2006.07798v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2006.07798v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1085.97,
+      "md5_checksum": "825c13b362e87c8a15f3e869f6499b88"
+    },
+    {
+      "arxiv_id": "2001.07928v1",
+      "title": "Bulk superconductivity induced by Se substitution in self-doped BiCh2-based compound CeOBiS2-xSex",
+      "published": "2020-01-22T09:35:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2001.07928v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2001.07928v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1052.05,
+      "md5_checksum": "87bd8a4bcd4c12687fcb232798bcbcc4"
+    },
+    {
+      "arxiv_id": "1912.11981v1",
+      "title": "Superconductivity in Se-doped La2O2Bi2Pb2S6-xSex with a Bi2Pb2Ch4-type thick conducting layer",
+      "published": "2019-12-27T04:22:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1912.11981v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1912.11981v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 645.3,
+      "md5_checksum": "9e0550f64586da35090668632752131f"
+    },
+    {
+      "arxiv_id": "1911.02337v1",
+      "title": "Growth of superconducting Sm(O,F)BiS2 single crystals",
+      "published": "2019-11-06T12:28:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1911.02337v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1911.02337v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 829.36,
+      "md5_checksum": "65567f5ed0e831c9a6fb6b8bd1f0bf0f"
+    },
+    {
+      "arxiv_id": "1908.05961v2",
+      "title": "Pressure-induced enhancement of two-dimensionality in LaO1-xFxBi(Se/S)2 superconductors",
+      "published": "2019-08-16T13:10:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1908.05961v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1908.05961v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1002.64,
+      "md5_checksum": "104fd0fd2c21fe185118ebd1c06c77c3"
+    },
+    {
+      "arxiv_id": "1811.02810v2",
+      "title": "Two-Fold-Symmetric Magnetoresistance in Single Crystals of Tetragonal BiCh2-Based Superconductor LaO0.5F0.5BiSSe",
+      "published": "2018-11-07T09:45:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1811.02810v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1811.02810v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1040.2,
+      "md5_checksum": "1c0eb22123900b5210e0fc895f3d936d"
+    },
+    {
+      "arxiv_id": "1810.08404v3",
+      "title": "Bulk superconductivity in La2O2M4S6-type layered oxychalcogenide La2O2Bi3Ag0.6Sn0.4S5.7Se0.3",
+      "published": "2018-10-19T08:55:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1810.08404v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1810.08404v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 1062.62,
+      "md5_checksum": "88d0baf9fe83d394026859d8d7aed5ae"
+    },
+    {
+      "arxiv_id": "1808.05782v3",
+      "title": "Material Development and Physical Properties of BiS2-Based Layered Compounds",
+      "published": "2018-08-17T07:44:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1808.05782v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1808.05782v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 2773.88,
+      "md5_checksum": "104f6944f0eb82d45834062a648689fa"
+    },
+    {
+      "arxiv_id": "1808.04090v2",
+      "title": "Improvement of superconducting properties by high mixing entropy at blocking layers in BiS2-based superconductor REO0.5F0.5BiS2",
+      "published": "2018-08-13T07:50:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1808.04090v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1808.04090v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 575.54,
+      "md5_checksum": "a29b1307cfd7f412b89cfb5810327310"
+    },
+    {
+      "arxiv_id": "1807.04582v1",
+      "title": "Superconductivity in layered Oxychalcogenide La2O2Bi3AgS6",
+      "published": "2018-07-12T12:49:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1807.04582v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1807.04582v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 795.87,
+      "md5_checksum": "60af200c17e2eaf621e71c1deaa039ea"
+    },
+    {
+      "arxiv_id": "1801.06568v1",
+      "title": "High pressure effects on non-fluorinated BiS2-based superconductors La$_{1-x}$M$_x$OBiS$_2$ (M = Ti and Th)",
+      "published": "2018-01-19T20:39:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1801.06568v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1801.06568v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1756.26,
+      "md5_checksum": "8723844c61a56b39e31268aeb3234939"
+    },
+    {
+      "arxiv_id": "1712.06815v1",
+      "title": "Evolution of Anisotropic Displacement Parameters and Superconductivity with Chemical Pressure in BiS2-Based REO0.5F0.5BiS2 (RE = La, Ce, Pr, and Nd)",
+      "published": "2017-12-19T08:25:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1712.06815v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1712.06815v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 732.54,
+      "md5_checksum": "29daadc95920ef57bc12092ff0e37704"
+    },
+    {
+      "arxiv_id": "1712.06726v1",
+      "title": "Synthesis, Crystal Structure, and Physical Properties of New Layered Oxychalcogenide La2O2Bi3AgS6",
+      "published": "2017-12-19T00:37:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1712.06726v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1712.06726v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 377.74,
+      "md5_checksum": "e4bc770efcbd1f2e4d1fd6f73ff0bde7"
+    },
+    {
+      "arxiv_id": "1708.08252v2",
+      "title": "Indication of unconventional superconductivity in layered bismuth chalcogenide superconductor LaO0.6F0.4Bi(S,Se)2 revealed by Se isotope effect",
+      "published": "2017-08-28T09:43:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1708.08252v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1708.08252v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 782.25,
+      "md5_checksum": "e3e554f2e274ed1460aebd0cef394813"
+    },
+    {
+      "arxiv_id": "1708.03841v1",
+      "title": "Crystal structure, site selectivity, and electronic structure of layered chalcogenide LaOBiPbS3",
+      "published": "2017-08-13T02:43:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1708.03841v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1708.03841v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 524.21,
+      "md5_checksum": "4f906e677826cbfcfcd3983662dc2df6"
+    },
+    {
+      "arxiv_id": "1708.03840v1",
+      "title": "Bulk Superconductivity Induced by Se Substitution in BiCh2-Based Layered Compounds Eu0.5Ce0.5FBiS2-xSex",
+      "published": "2017-08-13T02:38:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1708.03840v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1708.03840v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1496.94,
+      "md5_checksum": "32fec9ed4eb7677f61b8c9e9518d02ee"
+    },
+    {
+      "arxiv_id": "1705.10452v1",
+      "title": "Growth and superconducting properties of Cd-doped La(O,F)BiS2 single crystals",
+      "published": "2017-05-30T04:25:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1705.10452v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1705.10452v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 565.57,
+      "md5_checksum": "0ce3f90075c8cd2d73c7653a30c6ffc7"
+    },
+    {
+      "arxiv_id": "1702.07485v1",
+      "title": "Intrinsic Phase Diagram of Superconductivity in the BiCh2-based System Without In-plane Disorder",
+      "published": "2017-02-24T07:43:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1702.07485v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1702.07485v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1188.86,
+      "md5_checksum": "10a5c21b6666d04d43afe90b0b7f8a38"
+    },
+    {
+      "arxiv_id": "1701.07575v1",
+      "title": "Synchrotron powder X-ray diffraction and structural analysis of Eu0.5La0.5FBiS2-xSex",
+      "published": "2017-01-26T04:36:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1701.07575v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1701.07575v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 554.61,
+      "md5_checksum": "246a098a48e3347a39b405a66401db21"
+    },
+    {
+      "arxiv_id": "1610.09825v1",
+      "title": "Role of valence changes and nanoscale atomic displacements in BiS2-based superconductors",
+      "published": "2016-10-31T08:43:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1610.09825v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1610.09825v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1198.75,
+      "md5_checksum": "ba509f669733dcd78c581203b23ec747"
+    },
+    {
+      "arxiv_id": "1608.01470v2",
+      "title": "Bulk Superconductivity Induced by In-plane Chemical Pressure Effect in Eu0.5La0.5FBiS2-xSex",
+      "published": "2016-08-04T09:06:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1608.01470v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1608.01470v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1050.83,
+      "md5_checksum": "910469c8a215a7327afd5562f2e2ea9e"
+    },
+    {
+      "arxiv_id": "1604.08686v1",
+      "title": "Superconductivity and abnormal pressure effect in Sr0.5La0.5FBiSe2 superconductor",
+      "published": "2016-04-29T04:59:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1604.08686v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1604.08686v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 400.24,
+      "md5_checksum": "af91dee9008f4fab0d90dc8315ba3cfb"
+    },
+    {
+      "arxiv_id": "1604.01939v1",
+      "title": "Theoretical aspects of the study on the new bismuth chalcogenide based superconductors",
+      "published": "2016-04-07T09:54:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1604.01939v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1604.01939v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 2298.41,
+      "md5_checksum": "19eab60ae2fa8adef379ce32ee79d658"
+    },
+    {
+      "arxiv_id": "1604.00707v2",
+      "title": "Compositional and temperature evolution of crystal structure of new thermoelectric compound LaOBiS2-xSex",
+      "published": "2016-04-04T00:43:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1604.00707v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1604.00707v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 545.42,
+      "md5_checksum": "9fb6c728406757b2a5532df47c19d760"
+    },
+    {
+      "arxiv_id": "1603.02819v1",
+      "title": "RVB States in doped Band Insulators from Coloumb forces: Theory and a case study of Superconductivity in BiS$_2$ Layers",
+      "published": "2016-03-09T09:27:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1603.02819v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1603.02819v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 267.12,
+      "md5_checksum": "f7ba927a5b3ba3c1a10dd4f714be793e"
+    },
+    {
+      "arxiv_id": "1601.03502v2",
+      "title": "Conventional s-wave superconductivity in BiS2-based NdO0.71F0.29BiS2 revealed by thermal transport measurements",
+      "published": "2016-01-14T06:43:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1601.03502v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1601.03502v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 362.33,
+      "md5_checksum": "c853db8211a6fcfb998672d3dc48ab8c"
+    },
+    {
+      "arxiv_id": "1512.08595v1",
+      "title": "Effect of Hydrostatic Pressure on BiS2-Based Layered Superconductors: A Review",
+      "published": "2015-12-29T03:50:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1512.08595v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1512.08595v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 2420.54,
+      "md5_checksum": "7de50e0c1348d33e67e40b26ed3a1c22"
+    },
+    {
+      "arxiv_id": "1512.04505v2",
+      "title": "Polytypism in LaOBiS2-type compounds based on different three-dimensional stacking sequences of two-dimensional BiS2 layers",
+      "published": "2015-12-14T20:26:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1512.04505v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1512.04505v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 698.33,
+      "md5_checksum": "bf5dbc6a4675548bba1e27574f1e655f"
+    },
+    {
+      "arxiv_id": "1511.00219v1",
+      "title": "Growth and characterization of R(O,F)BiS2 (R = La, Ce, Pr, Nd) superconducting single crystals",
+      "published": "2015-11-01T08:53:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1511.00219v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1511.00219v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1522.36,
+      "md5_checksum": "6ffbd25a9c5d38abd5d70ebac60eb3f2"
+    },
+    {
+      "arxiv_id": "1509.06486v2",
+      "title": "Enhancement of Tc in BiS2 based superconductors NdO0.7F0.3BiS2 by substitution of Pb for Bi",
+      "published": "2015-09-22T07:36:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1509.06486v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1509.06486v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1318.9,
+      "md5_checksum": "20a10f4296d203ca1ae5f0d4e167f985"
+    },
+    {
+      "arxiv_id": "1509.03387v1",
+      "title": "High thermoelectric performance and low thermal conductivity of densified LaOBiSSe",
+      "published": "2015-09-11T04:46:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1509.03387v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1509.03387v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 483.5,
+      "md5_checksum": "f8ed3aebe5c9ec8de9fc31c63298f4e4"
+    },
+    {
+      "arxiv_id": "1508.04820v1",
+      "title": "Applying experimental constraints to a one-dimensional model for BiS2 superconductivity",
+      "published": "2015-08-19T22:39:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1508.04820v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1508.04820v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 877.22,
+      "md5_checksum": "fcb2f55b199ff315f62e96b35a51554e"
+    },
+    {
+      "arxiv_id": "1508.01656v1",
+      "title": "Pressure Effects on Superconducting Properties of the BiS2-Based Superconductor Bi2(O,F)S2",
+      "published": "2015-08-07T10:51:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1508.01656v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1508.01656v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1379.22,
+      "md5_checksum": "2a6f32dce5e6d6a43f62086677c3749b"
+    },
+    {
+      "arxiv_id": "1508.01654v1",
+      "title": "Topotactic synthesis of a new BiS2-based superconductor Bi2(O,F)S2",
+      "published": "2015-08-07T10:42:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1508.01654v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1508.01654v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 521.41,
+      "md5_checksum": "2cd9a2844f3d764351ebc528def9a807"
+    },
+    {
+      "arxiv_id": "1506.07231v1",
+      "title": "C-axis electrical resistivity of PrO$_{1-a}$F$_a$BiS$_2$ single crystals",
+      "published": "2015-06-24T03:35:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1506.07231v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1506.07231v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1019.38,
+      "md5_checksum": "d1457f950c078494753ad5a84dfd4175"
+    },
+    {
+      "arxiv_id": "1505.08002v2",
+      "title": "Pressure-Induced Superconductivity in BiS2-based EuFBiS2",
+      "published": "2015-05-29T11:51:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1505.08002v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1505.08002v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 988.88,
+      "md5_checksum": "bf09221c40daf83902c3c83981f5be11"
+    },
+    {
+      "arxiv_id": "1504.01208v2",
+      "title": "In-plane chemical pressure essential for superconductivity in BiCh2-based (Ch: S, Se) layered structure",
+      "published": "2015-04-06T05:25:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1504.01208v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1504.01208v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1719.88,
+      "md5_checksum": "1666830d77ab21f2492f1c3ccb951c3b"
+    },
+    {
+      "arxiv_id": "1501.04453v2",
+      "title": "Raman scattering in superconducting NdO1-xFxBiS2 crystals",
+      "published": "2015-01-19T11:18:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1501.04453v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1501.04453v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1657.46,
+      "md5_checksum": "da31cf7eec9b50d470715c4fdc23c39d"
+    },
+    {
+      "arxiv_id": "1412.3070v1",
+      "title": "Superconductivity in Semimetallic Bi3O2S3",
+      "published": "2014-12-09T19:42:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1412.3070v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1412.3070v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 354.87,
+      "md5_checksum": "e826fc99995f2bac235c7eda7094878c"
+    },
+    {
+      "arxiv_id": "1411.6903v1",
+      "title": "Anomalous Eu Valence State and Superconductivity in Undoped Eu3Bi2S4F4",
+      "published": "2014-11-25T16:08:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1411.6903v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1411.6903v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 601.63,
+      "md5_checksum": "48d566fdae0e880fc892225e02bf33b7"
+    },
+    {
+      "arxiv_id": "1410.6775v2",
+      "title": "Evolution of superconductivity in BiS2-based superocnductor LaO0.5F0.5Bi(S1-xSex)2",
+      "published": "2014-10-24T18:41:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1410.6775v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1410.6775v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 411.49,
+      "md5_checksum": "989160bc9f02814b01c6fbfafa4718e5"
+    },
+    {
+      "arxiv_id": "1408.2625v4",
+      "title": "Chemical pressure effect on superconductivity of BiS2-based Ce1-xNdxO1-yFyBiS2 and Nd1-zSmzO1-yFyBiS2",
+      "published": "2014-08-12T05:42:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1408.2625v4",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1408.2625v4.pdf",
+      "file_exists": true,
+      "file_size_kb": 769.55,
+      "md5_checksum": "d95d874845dd2186c0c245193452ad67"
+    },
+    {
+      "arxiv_id": "1408.0108v1",
+      "title": "Pressure-induced phase transition for single crystalline LaO0.5F0.5BiSe2",
+      "published": "2014-08-01T09:19:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1408.0108v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1408.0108v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1504.76,
+      "md5_checksum": "f622c79e0ac1c3ff35f069056dcb8a64"
+    },
+    {
+      "arxiv_id": "1407.6793v4",
+      "title": "Hydrostatic Pressure Studies on Parent Phase SrFBiS2 of BiS2-based Superconducting Family",
+      "published": "2014-07-25T06:53:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1407.6793v4",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1407.6793v4.pdf",
+      "file_exists": true,
+      "file_size_kb": 343.78,
+      "md5_checksum": "3e0da6fe0bb168642aa89964daf325d9"
+    },
+    {
+      "arxiv_id": "1406.5851v1",
+      "title": "Optical spectroscopy study of Nd(O,F)BiS2 single crystals",
+      "published": "2014-06-23T10:08:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1406.5851v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1406.5851v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1020.57,
+      "md5_checksum": "88ca6a602a546a09cee30fed1c30834a"
+    },
+    {
+      "arxiv_id": "1406.4231v2",
+      "title": "Effect of hydrostatic pressures on the superconductivity of new BiS2 based REO0.5F0.5BiS2 (RE-La, Pr and Nd) superconductors",
+      "published": "2014-06-17T03:56:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1406.4231v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1406.4231v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1737.15,
+      "md5_checksum": "28bea8a76d5e1827a7fa1de3bc9fafaf"
+    },
+    {
+      "arxiv_id": "1406.0734v1",
+      "title": "First single crystal growth and structural analysis of superconducting layered bismuth oxyselenide; La(O,F)BiSe2",
+      "published": "2014-06-03T14:53:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1406.0734v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1406.0734v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1203.52,
+      "md5_checksum": "92cbccc7a96a8b29f45b75d2928b292a"
+    },
+    {
+      "arxiv_id": "1405.5976v2",
+      "title": "Significant enhancement of superconductivity under hydrostatic pressure in CeO0.5F0.5BiS2 superconductor",
+      "published": "2014-05-23T07:23:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1405.5976v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1405.5976v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1489.92,
+      "md5_checksum": "0a81aa79d102215f86649795e9d9a0db"
+    },
+    {
+      "arxiv_id": "1405.3832v2",
+      "title": "Effect of high pressure annealing on the normal state transport of LaO0.5F0.5BiS2",
+      "published": "2014-05-15T13:07:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1405.3832v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1405.3832v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 171.75,
+      "md5_checksum": "ec9cee2a4032f67c3424cd91ab29d308"
+    },
+    {
+      "arxiv_id": "1404.6361v3",
+      "title": "Increase in Tc and change of crystal structure by high-pressure annealing in BiS2-based superconductor CeO0.3F0.7BiS2",
+      "published": "2014-04-25T09:10:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1404.6361v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1404.6361v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 371.33,
+      "md5_checksum": "87fb67668b4beea5b0578c0ced3c87f9"
+    },
+    {
+      "arxiv_id": "1404.6359v2",
+      "title": "Element Substitution Effect on Superconductivity in BiS2-Based NdO_{1-x}F_xBiS_2",
+      "published": "2014-04-25T09:08:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1404.6359v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1404.6359v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 314.68,
+      "md5_checksum": "26959b993b0f34b3d3816e8355658bca"
+    },
+    {
+      "arxiv_id": "1404.3798v1",
+      "title": "Anisotropic upper critical field of BiS2-based superconductor LaO0.5F0.5BiS2",
+      "published": "2014-04-15T01:54:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1404.3798v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1404.3798v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 788.13,
+      "md5_checksum": "93c571cfe7cb6c4352584f3dd5410a6e"
+    },
+    {
+      "arxiv_id": "1402.5189v2",
+      "title": "Stabilization of high-Tc phase of BiS2-based superconductor LaO0.5F0.5BiS2 using high-pressure synthesis",
+      "published": "2014-02-21T02:44:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1402.5189v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1402.5189v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 879.59,
+      "md5_checksum": "1956ac6d1b96d20c419d51af153dc78d"
+    },
+    {
+      "arxiv_id": "1402.1833v1",
+      "title": "Observation of anomalous temperature dependence of spectrum on small Fermi surfaces in a BiS2-based superconductor",
+      "published": "2014-02-08T08:34:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1402.1833v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1402.1833v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 636.29,
+      "md5_checksum": "ab177ff1847ce15ff60a40f966707162"
+    },
+    {
+      "arxiv_id": "1401.7506v2",
+      "title": "Enhancement of Tc by uniaxial lattice contraction in BiS2-based superconductor PrO0.5F0.5BiS2",
+      "published": "2014-01-29T13:19:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1401.7506v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1401.7506v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 284.87,
+      "md5_checksum": "fb6193deeceb87dc2661663920b0a571"
+    },
+    {
+      "arxiv_id": "1401.4811v2",
+      "title": "Superconducting properties of BiS2 based superconductor NdO1-xFxBiS2 (x=0 to 0.9)",
+      "published": "2014-01-20T07:38:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1401.4811v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1401.4811v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 607.95,
+      "md5_checksum": "bfeaaa133f2bb4c438c86bc2c4df8866"
+    },
+    {
+      "arxiv_id": "1312.3707v2",
+      "title": "Superconducting and magneto-transport properties of BiS2 based superconductor PrO1-xFxBiS2 (x = 0 to 0.9)",
+      "published": "2013-12-13T05:18:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1312.3707v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1312.3707v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1771.24,
+      "md5_checksum": "03650b05afbf9660c16c799987a32266"
+    },
+    {
+      "arxiv_id": "1311.4272v1",
+      "title": "Chemical pressure effect on Tc in BiS2-based Ce1-xNdxO0.5F0.5BiS2",
+      "published": "2013-11-18T05:35:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1311.4272v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1311.4272v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 290.28,
+      "md5_checksum": "4d52f8b9e720ccdcef7e336fb21166bf"
+    },
+    {
+      "arxiv_id": "1311.4270v1",
+      "title": "Superconductivity in BiS2-Based Layered Compounds",
+      "published": "2013-11-18T05:31:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1311.4270v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1311.4270v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 238.04,
+      "md5_checksum": "a971d879d7f8798334085d540024dea9"
+    },
+    {
+      "arxiv_id": "1311.4267v1",
+      "title": "Coexistence of bulk superconductivity and ferromagnetism in CeO1-xFxBiS2",
+      "published": "2013-11-18T05:06:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1311.4267v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1311.4267v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1850.99,
+      "md5_checksum": "302e6017a1fbc24bd0542b7ad8d233e6"
+    },
+    {
+      "arxiv_id": "1310.8131v2",
+      "title": "Superconductivity in a new layered bismuth oxyselenide: LaO0.5F0.5BiSe2",
+      "published": "2013-10-30T12:52:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1310.8131v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1310.8131v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 782.56,
+      "md5_checksum": "ef0d96d4ac232bc8e2d3ceeb1cfbce82"
+    },
+    {
+      "arxiv_id": "1310.1695v2",
+      "title": "Electronic phase diagram in the new BiS2-based Sr1-xLaxFBiS2 system",
+      "published": "2013-10-07T07:50:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1310.1695v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1310.1695v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 421.23,
+      "md5_checksum": "57a9d2ad53e508ee07c4b7307c4d4a1b"
+    },
+    {
+      "arxiv_id": "1310.0377v1",
+      "title": "Unexpected Giant Superconducting Fluctuation and Anomalous Semiconducting Normal State in NdO1-xFxBi1-yS2 Single Crystals",
+      "published": "2013-10-01T16:30:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1310.0377v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1310.0377v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1020.69,
+      "md5_checksum": "1e7f00e50806e6987563a398fc8366b1"
+    },
+    {
+      "arxiv_id": "1309.7282v2",
+      "title": "Low superfluid density and possible multi-gap superconductivity in BiS2-based layered superconductor Bi4O4S3",
+      "published": "2013-09-27T15:56:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1309.7282v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1309.7282v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 564.02,
+      "md5_checksum": "00de5ab9d05b5f42c845e3bf55d7febe"
+    },
+    {
+      "arxiv_id": "1309.6400v1",
+      "title": "Structural Analysis and Superconducting Properties of F-Substituted NdOBiS2 Single Crystals",
+      "published": "2013-09-25T04:42:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1309.6400v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1309.6400v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1960.03,
+      "md5_checksum": "3dc0335e591a22fe5b3bef8d980839a4"
+    },
+    {
+      "arxiv_id": "1308.1072v3",
+      "title": "Enhancement of superconductivity near the pressure-induced semiconductor-metal transition in BiS2-based compounds LnO(0.5)F(0.5)BiS2 (Ln = La, Ce, Pr, Nd)",
+      "published": "2013-08-05T19:12:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1308.1072v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1308.1072v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 1762.32,
+      "md5_checksum": "a6f7eec0a727e5250178d293aca8ccc7"
+    },
+    {
+      "arxiv_id": "1307.4877v1",
+      "title": "Hydrostatic pressures dependence of superconductivity in PrO0.5F0.5BiS2 superconductor",
+      "published": "2013-07-18T09:35:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1307.4877v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1307.4877v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 258.42,
+      "md5_checksum": "51fd1925b45cd62dff946f50b37ec7ba"
+    },
+    {
+      "arxiv_id": "1307.4157v5",
+      "title": "Pressure-induced enhancement of superconductivity and suppression of semiconducting behavior in Ln(O0.5F0.5)BiS2 (Ln = La, Ce) compounds",
+      "published": "2013-07-16T04:05:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1307.4157v5",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1307.4157v5.pdf",
+      "file_exists": true,
+      "file_size_kb": 3126.67,
+      "md5_checksum": "9a8fcb581c37df87cbc9f984339881c2"
+    },
+    {
+      "arxiv_id": "1307.0645v2",
+      "title": "Hydrostatic pressure effect on Tc of new BiS2 based Bi4O4S3 and NdO0.5F0.5BiS2 layered superconductors",
+      "published": "2013-07-02T09:39:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1307.0645v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1307.0645v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 286.52,
+      "md5_checksum": "7952c01ec63497e99bf59cccc7796ffa"
+    },
+    {
+      "arxiv_id": "1306.3346v2",
+      "title": "Correlation between crystal structure and superconductivity in LaO0.5F0.5BiS2",
+      "published": "2013-06-14T09:36:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1306.3346v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1306.3346v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 523.17,
+      "md5_checksum": "4f730961943439a38e4e44035d397556"
+    },
+    {
+      "arxiv_id": "1304.5032v2",
+      "title": "Giant birefringence in layered compound LaOBiS2",
+      "published": "2013-04-18T06:28:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1304.5032v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1304.5032v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 547.72,
+      "md5_checksum": "d7290414403e0aa8ac070dbf67a8b5b5"
+    },
+    {
+      "arxiv_id": "1304.4386v1",
+      "title": "Structural, Electromagnetic, and Thermoelectric properties of Bi4O4S3 Superconductor",
+      "published": "2013-04-16T10:13:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1304.4386v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1304.4386v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 2733.12,
+      "md5_checksum": "7c66bde2e9dde43f5a1768e42f23c262"
+    },
+    {
+      "arxiv_id": "1212.0210v1",
+      "title": "RPA Analysis of a Two-orbital Model for the BiS2-based Superconductors",
+      "published": "2012-12-02T14:09:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1212.0210v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1212.0210v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 575.38,
+      "md5_checksum": "95104c6041b6cc70e2a94cf3e1bba6c9"
+    },
+    {
+      "arxiv_id": "1210.2418v1",
+      "title": "Ferroelectric Soft Phonons, Charge Density Wave Instability and Strong Electron-Phonon Coupling in BiS2-Layered Superconductors",
+      "published": "2012-10-08T20:55:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1210.2418v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1210.2418v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 846.3,
+      "md5_checksum": "af3fbac31e071d850ec7ee21ea215dca"
+    },
+    {
+      "arxiv_id": "1210.1743v2",
+      "title": "Electronic structure and superconductivity of BiS2-based compounds LaO1-xFxBiS2",
+      "published": "2012-10-05T13:01:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1210.1743v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1210.1743v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1429.32,
+      "md5_checksum": "bed01277091afa17c8b6d3f3010a8299"
+    },
+    {
+      "arxiv_id": "1210.1305v1",
+      "title": "Physics and chemistry review of layered chalcogenide superconductors",
+      "published": "2012-10-04T06:03:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1210.1305v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1210.1305v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1849.48,
+      "md5_checksum": "27d6474fd0009f422623c81c6471a692"
+    },
+    {
+      "arxiv_id": "1209.3846v1",
+      "title": "Evolution of superconductivity in LaO1-xFxBiS2 prepared by high pressure technique",
+      "published": "2012-09-18T05:08:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1209.3846v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1209.3846v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 199.7,
+      "md5_checksum": "1caa8cc82efdb762b455b8b3c0e98fc7"
+    },
+    {
+      "arxiv_id": "1208.5873v3",
+      "title": "Synthesis and superconductivity of new BiS2 based superconductor PrO0.5F0.5BiS2",
+      "published": "2012-08-29T09:53:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1208.5873v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1208.5873v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 648.99,
+      "md5_checksum": "269f407871c4ca0b11801c241d63a852"
+    },
+    {
+      "arxiv_id": "1208.5307v1",
+      "title": "Suppression of superconductivity in layered Bi4O4S3 by Ag doping",
+      "published": "2012-08-27T07:16:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1208.5307v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1208.5307v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 854.11,
+      "md5_checksum": "535d34a0045275370b8ca5fea18f9e03"
+    },
+    {
+      "arxiv_id": "1208.3189v2",
+      "title": "New layered fluorosulfide SrFBiS2",
+      "published": "2012-08-15T19:56:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1208.3189v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1208.3189v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1248.51,
+      "md5_checksum": "8e7e3b3158b6eb8cfb3b56d5b8774a3c"
+    },
+    {
+      "arxiv_id": "1208.2818v3",
+      "title": "Superconductivity in Bismuth Oxysulfide Bi4O4S3",
+      "published": "2012-08-14T09:48:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1208.2818v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1208.2818v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 988.74,
+      "md5_checksum": "39a70cfba6a3a1911adb6e69f848670d"
+    },
+    {
+      "arxiv_id": "1208.2796v1",
+      "title": "Bulk superconductivity in Bi4O4S3 revealed by specific heat measurement",
+      "published": "2012-08-14T07:50:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1208.2796v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1208.2796v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 132.83,
+      "md5_checksum": "abd6d320895bd5037838887e08df0835"
+    },
+    {
+      "arxiv_id": "1207.6935v2",
+      "title": "Pressure Study of BiS2-Based Superconductors Bi4O4S3 and La(O,F)BiS2",
+      "published": "2012-07-30T13:34:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1207.6935v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1207.6935v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 659.48,
+      "md5_checksum": "c69a8a736c31a948175670a7e40f7c61"
+    },
+    {
+      "arxiv_id": "1207.6845v4",
+      "title": "Appearance of superconductivity in new BiS2 based layered LaO0.5F0.5BiS2",
+      "published": "2012-07-30T06:34:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1207.6845v4",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1207.6845v4.pdf",
+      "file_exists": true,
+      "file_size_kb": 607.29,
+      "md5_checksum": "f99803c47a5158f19145af79405fb1dc"
+    },
+    {
+      "arxiv_id": "1207.5248v1",
+      "title": "BiS2 - based superconductivity in F-substituted NdOBiS2",
+      "published": "2012-07-22T17:47:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1207.5248v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1207.5248v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 406.32,
+      "md5_checksum": "eca364f4848abb31de4dea5a19f7b811"
+    },
+    {
+      "arxiv_id": "1207.3558v4",
+      "title": "Superconductivity in novel BiS2-based layered superconductor LaO1-xFxBiS2",
+      "published": "2012-07-16T00:45:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1207.3558v4",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1207.3558v4.pdf",
+      "file_exists": true,
+      "file_size_kb": 1097.78,
+      "md5_checksum": "b19e7cb7b518615111638878cdf8ea52"
+    },
+    {
+      "arxiv_id": "1207.3145v1",
+      "title": "Novel BiS2-based layered superconductor Bi4O4S3",
+      "published": "2012-07-13T05:17:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1207.3145v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1207.3145v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 3271.6,
+      "md5_checksum": "d3b496e70bb506f23c919eea15fdb400"
+    },
+    {
+      "arxiv_id": "2404.14796v1",
+      "title": "Superconducting phase diagram of Sb and Se substitution in CeOBiS2 single crystals",
+      "published": "2024-04-23T07:22:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2404.14796v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2404.14796v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 532.27,
+      "md5_checksum": "40cabdd147b10638ff0974e31c52551e"
+    },
+    {
+      "arxiv_id": "2312.11002v1",
+      "title": "Suppression of superconductivity by Sb-substitution into CeOBiS2 single crystals",
+      "published": "2023-12-18T07:58:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2312.11002v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/2312.11002v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 965.93,
+      "md5_checksum": "65516d3c9a6de55a67695e66f6974e69"
+    },
+    {
+      "arxiv_id": "1909.01710v1",
+      "title": "Superconductivity of Electron-Doped NdOBiS2 by Substitution of Mixed-Valence Ce ions",
+      "published": "2019-09-04T11:53:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1909.01710v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1909.01710v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1177.17,
+      "md5_checksum": "a79c1cda05e0e2661404fd288e4988f7"
+    },
+    {
+      "arxiv_id": "1904.09402v1",
+      "title": "Growth and transport properties under high pressure of PrOBiS2 single crystals",
+      "published": "2019-04-20T04:47:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1904.09402v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1904.09402v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1112.58,
+      "md5_checksum": "1a2ca8818c250015b5d14b5685678af6"
+    },
+    {
+      "arxiv_id": "1607.05371v1",
+      "title": "Superconductivity in CeOBiS2 with cerium valence fluctuation",
+      "published": "2016-07-19T02:10:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1607.05371v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1607.05371v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 375.87,
+      "md5_checksum": "ca37bd426438c63ea13fb4d66beb8992"
+    },
+    {
+      "arxiv_id": "1504.08088v3",
+      "title": "Pressure enhanced superconductivity at 10 K in La doped EuBiS2F",
+      "published": "2015-04-30T06:21:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1504.08088v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1504.08088v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 497.05,
+      "md5_checksum": "8e5d20384b717621491f7b7ca065b1ae"
+    },
+    {
+      "arxiv_id": "1410.0751v2",
+      "title": "Synthesis and properties of SmO0.5F0.5BiS2 and enhancement in Tc in La1-ySmyO0.5F0.5BiS2",
+      "published": "2014-10-03T04:59:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1410.0751v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1410.0751v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1163.9,
+      "md5_checksum": "52664679d563113ed7483228edc7a1cb"
+    },
+    {
+      "arxiv_id": "1409.2189v2",
+      "title": "Enhancement of thermoelectric properties by Se substitution in layered bismuth-chalcogenide LaOBiS2-xSex",
+      "published": "2014-09-08T02:19:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1409.2189v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1409.2189v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 353.68,
+      "md5_checksum": "173402683801a42422414ed6dae22322"
+    },
+    {
+      "arxiv_id": "1408.6004v2",
+      "title": "Search and design of nonmagnetic centrosymmetric layered crystals with large local spin polarization",
+      "published": "2014-08-26T04:30:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1408.6004v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1408.6004v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 969.48,
+      "md5_checksum": "9ada336f62c9af5f118d1215083f5eaa"
+    },
+    {
+      "arxiv_id": "1404.7562v1",
+      "title": "Enhanced superconductivity in F-doped LaO1-xFxBiSSe",
+      "published": "2014-04-30T00:41:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1404.7562v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1404.7562v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 345.0,
+      "md5_checksum": "d763c4c5d69baf94ee4d0d485bade5ad"
+    },
+    {
+      "arxiv_id": "1312.4694v1",
+      "title": "High-temperature thermoelectric properties of novel layered bismuth-sulfide LaO1-xFxBiS2",
+      "published": "2013-12-17T09:10:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1312.4694v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1312.4694v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 345.17,
+      "md5_checksum": "0ca4ac2d64e0301edef7f5f641697aac"
+    },
+    {
+      "arxiv_id": "1310.4634v3",
+      "title": "Superconductivity in layered CeO0.5F0.5BiS2",
+      "published": "2013-10-17T09:38:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1310.4634v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1310.4634v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 451.17,
+      "md5_checksum": "6e0ee19548cf1ef63882842e5b64e7f9"
+    },
+    {
+      "arxiv_id": "1310.1213v2",
+      "title": "Growth and superconducting properties of F-substituted ROBiS2 (R = La, Ce, Nd) single crystals",
+      "published": "2013-10-04T10:01:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1310.1213v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1310.1213v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 289.03,
+      "md5_checksum": "0d8487a1f8af8a149076057fa10aae7c"
+    },
+    {
+      "arxiv_id": "1306.6393v3",
+      "title": "Layered compounds AFBiS2: superior birefringent crystals",
+      "published": "2013-06-27T02:22:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1306.6393v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1306.6393v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 694.95,
+      "md5_checksum": "951729043832be4509d671135c5eb281"
+    },
+    {
+      "arxiv_id": "1211.3818v1",
+      "title": "Electronic band structure and Fermi surface for new layered superconductor LaO0.5F0.5BiS2 in comparison with parent phase LaOBiS2 from first principles",
+      "published": "2012-11-16T07:58:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1211.3818v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1211.3818v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1262.74,
+      "md5_checksum": "e845b453cc5e2f8b0b2e81e041e71238"
+    },
+    {
+      "arxiv_id": "1502.05502v3",
+      "title": "Anomalous impact of hydrostatic pressure on superconductivity of polycrystalline LaO0.5F0.5BiSe2",
+      "published": "2015-02-19T09:08:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1502.05502v3",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1502.05502v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 558.66,
+      "md5_checksum": "e60169d5761aeb0f3223f1185f88f183"
+    },
+    {
+      "arxiv_id": "1311.0161v2",
+      "title": "Effect of Se doping in recently discovered layered Bi4O4S3 Superconductor",
+      "published": "2013-11-01T12:20:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1311.0161v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1311.0161v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1006.16,
+      "md5_checksum": "64841709e208d5b49eeb4853763f8fd2"
+    },
+    {
+      "arxiv_id": "1305.6913v1",
+      "title": "Evidence for Fully Gapped Strong Coupling S-wave Superconductivity in Bi4O4S3",
+      "published": "2013-05-29T19:27:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1305.6913v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1305.6913v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 947.21,
+      "md5_checksum": "c00779e53fd4233dbb716a01a1607b66"
+    },
+    {
+      "arxiv_id": "1304.3354v2",
+      "title": "Strong coupling superconductivity and prominent superconducting fluctuations in the new superconductor Bi4O4S3",
+      "published": "2013-04-11T16:06:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1304.3354v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1304.3354v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 610.71,
+      "md5_checksum": "ba45a2e2463141e734916f28d2575676"
+    },
+    {
+      "arxiv_id": "1207.5428v5",
+      "title": "Bulk Superconductivity in Bismuth-oxy-sulfide Bi4O4S3",
+      "published": "2012-07-23T15:48:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1207.5428v5",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1207.5428v5.pdf",
+      "file_exists": true,
+      "file_size_kb": 647.04,
+      "md5_checksum": "439a2a5970de73858d91080e4f0b0a26"
+    },
+    {
+      "arxiv_id": "1207.5395v1",
+      "title": "Superconducting and thermoelectric properties of new layered Superconductor Bi4O4S3",
+      "published": "2012-07-23T14:03:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1207.5395v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1207.5395v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1809.46,
+      "md5_checksum": "3a3f40929d0cf8a901f53d987386473e"
+    },
+    {
+      "arxiv_id": "1207.4955v1",
+      "title": "Multi-Band Exotic Superconductivity in the New Superconductor Bi4O4S3",
+      "published": "2012-07-20T13:57:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1207.4955v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1207.4955v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 545.83,
+      "md5_checksum": "2b5c8896f43f0a6e4f912a74530d6a8c"
+    },
+    {
+      "arxiv_id": "1301.2380v1",
+      "title": "Superconductivity induced by La doping in Sr1-xLaxFBiS2 system",
+      "published": "2013-01-11T02:05:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1301.2380v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1301.2380v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 255.39,
+      "md5_checksum": "878cc51b4163afb7f8f480bc7512afee"
+    },
+    {
+      "arxiv_id": "1709.05992v2",
+      "title": "Superconducting gap symmetry of the BiS$_2$-based superconductor LaO$_{0.5}$F$_{0.5}$BiSSe elucidated through specific heat measurement",
+      "published": "2017-09-18T15:04:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1709.05992v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1709.05992v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 1002.97,
+      "md5_checksum": "fff1930866a4dca5329187cad715d850"
+    },
+    {
+      "arxiv_id": "1709.00892v2",
+      "title": "Superconductivity in La1-xCexOBiSSe: carrier doping by mixed valence of Ce ions",
+      "published": "2017-09-04T10:33:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1709.00892v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1709.00892v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 2675.03,
+      "md5_checksum": "103fae53353bc8b597c7bcb8c9054e00"
+    },
+    {
+      "arxiv_id": "1602.05320v1",
+      "title": "Thermoelectric properties of new Bi-chalcogenide layered compounds",
+      "published": "2016-02-17T06:52:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1602.05320v1",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1602.05320v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1311.25,
+      "md5_checksum": "2110acd950b5ad124d66edda65a5e623"
+    },
+    {
+      "arxiv_id": "1412.8387v2",
+      "title": "Site Selectivity on Chalcogen Atoms in Superconducting La(O,F)BiSSe",
+      "published": "2014-12-29T16:46:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1412.8387v2",
+      "local_path": "data/raw/pdfs/corpus_v1.0_pdfs/1412.8387v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 521.71,
+      "md5_checksum": "c609016dbcceee73e03a3d15d1d1df2c"
+    }
+  ]
+}

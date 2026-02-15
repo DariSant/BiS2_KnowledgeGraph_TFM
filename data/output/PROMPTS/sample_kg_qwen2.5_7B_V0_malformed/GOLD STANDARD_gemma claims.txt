@@ -1,0 +1,439 @@
+Here are the **Gold Standard** extraction targets for the first 5 articles.
+
+These examples represent the "Ideal Output" that Gemma 2 9b-it should generate using the **Stage 1 Prompt**. They demonstrate:
+
+1. **Comprehensive Extraction:** Capturing every distinct scientific finding, not just the main conclusion.
+2. **Pronoun Resolution:** All "it", "they", and "the sample" references are replaced with specific material names.
+3. **Strict Attribute Categorization:** Correct separation of Observations (raw data) vs. Inferences (conclusions).
+
+---
+
+### **ARTICLE 1: 1210.1305v1**
+
+**Context:** A review summarizing properties of Fe-based and newly discovered BiS2-based families.
+
+* {CLAIM}: The intercalation or deintercalation of ions or molecules at the interlayer site dramatically changes the physical properties and induces exotic superconductivity in layered chalcogenides.
+* {META DATA}:
+* Source ID: 1210.1305v1
+* Study Type: Experimental
+* Epistemic Type: Inference
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Layered chalcogenide superconductors
+* Driver: Intercalation/deintercalation of ions or molecules
+* Effect: Change in physical properties, Induction of exotic superconductivity
+
+
+
+
+* {CLAIM}: The suppression of antiferromagnetism in Fe planes and the reduction of the magnetic moment of excess Fe at the interlayer site are key factors to induce superconductivity in Fe chalcogenides.
+* {META DATA}:
+* Source ID: 1210.1305v1
+* Study Type: Experimental
+* Epistemic Type: Inference
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Fe chalcogenides
+* Driver: Suppression of antiferromagnetism, Reduction of magnetic moment
+* Effect: Induction of superconductivity
+
+
+
+
+* {CLAIM}: Reduction of the magnetic moment of excess Fe in Fe chalcogenides is achieved by oxygen intercalation via annealing in oxygen or deintercalation of excess Fe via annealing in acid.
+* {META DATA}:
+* Source ID: 1210.1305v1
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Neutral
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Fe chalcogenides
+* Driver: Oxygen intercalation (annealing), Acid annealing
+* Effect: Reduction of magnetic moment of excess Fe
+
+
+
+
+* {CLAIM}: Red wine is more effective than other solutions for inducing superconductivity or reducing excess Fe in Fe chalcogenides.
+* {META DATA}:
+* Source ID: 1210.1305v1
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Fe chalcogenides
+* Driver: Red wine treatment
+* Effect: Effectiveness (in inducing superconductivity/reducing Fe)
+
+
+
+
+* {CLAIM}: The BiS2 layer likely plays the important role for superconductivity in BiS2-based superconductors, analogous to the CuO2 plane in cuprates.
+* {META DATA}:
+* Source ID: 1210.1305v1
+* Study Type: Theoretical
+* Epistemic Type: Speculation
+* Polarity: Neutral
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: BiS2-based superconductors
+* Mechanism: BiS2 layer role
+* Effect: Superconductivity
+
+
+
+
+
+---
+
+### **ARTICLE 2: 1306.3346v2**
+
+**Context:** Investigation of High Pressure (HP) annealing on LaO0.5F0.5BiS2 structure and Tc.
+
+* {CLAIM}: Annealing LaO0.5F0.5BiS2 polycrystalline samples under high pressure generates uniaxial strain along the c-axis.
+* {META DATA}:
+* Source ID: 1306.3346v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Neutral
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaO0.5F0.5BiS2
+* Driver: High Pressure (HP) annealing
+* Effect: Uniaxial strain along the c-axis
+
+
+
+
+* {CLAIM}: Annealing the high-pressure synthesized LaO0.5F0.5BiS2 sample in an evacuated quartz tube at 700 ºC returns the generated strain to the initial state.
+* {META DATA}:
+* Source ID: 1306.3346v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Neutral
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaO0.5F0.5BiS2 (HP sample)
+* Driver: Annealing at 700 ºC (vacuum)
+* Effect: Return of strain to initial state
+
+
+
+
+* {CLAIM}: The highest superconducting properties (Tc and shielding fraction) are observed in the HP annealed LaO0.5F0.5BiS2 sample.
+* {META DATA}:
+* Source ID: 1306.3346v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaO0.5F0.5BiS2 (HP annealed)
+* Effect: Highest Tc and shielding fraction
+
+
+
+
+* {CLAIM}: Superconducting properties in LaO0.5F0.5BiS2 are degraded by reducing the uniaxial strain.
+* {META DATA}:
+* Source ID: 1306.3346v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Negative
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaO0.5F0.5BiS2
+* Driver: Reducing uniaxial strain
+* Effect: Degradation of superconducting properties
+
+
+
+
+* {CLAIM}: The enhancement of superconducting properties in LaO1-xFxBiS2 by post-annealing under high pressure is caused by the generation of uniaxial strain along the c-axis.
+* {META DATA}:
+* Source ID: 1306.3346v2
+* Study Type: Experimental
+* Epistemic Type: Inference
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaO1-xFxBiS2 system
+* Driver: Post-annealing under high pressure
+* Effect: Enhancement of superconducting properties
+* Mechanism: Generation of uniaxial strain along the c-axis
+
+
+
+
+
+---
+
+### **ARTICLE 3: 1404.6359v2**
+
+**Context:** Element substitution (Se for S, Sb for Bi) in NdO0.5F0.5BiS2.
+
+* {CLAIM}: Partial substitution of Sulfur by Selenium in NdO0.5F0.5Bi(S1-xSex)2 results in uniaxial lattice expansion along the a-axis.
+* {META DATA}:
+* Source ID: 1404.6359v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: NdO0.5F0.5Bi(S1-xSex)2
+* Driver: Partial substitution of S by Se
+* Effect: Uniaxial lattice expansion along the a-axis
+
+
+
+
+* {CLAIM}: Substituting Sulfur with Selenium in NdO0.5F0.5Bi(S1-xSex)2 degrades the superconducting transition temperature (Tc) and shielding volume fraction.
+* {META DATA}:
+* Source ID: 1404.6359v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Negative
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: NdO0.5F0.5Bi(S1-xSex)2
+* Driver: Substitution of S by Se
+* Effect: Degradation of Tc and shielding volume fraction
+
+
+
+
+* {CLAIM}: Substituting Bismuth with Antimony in NdO0.5F0.5Bi1-ySbyS2 decreases the lattice constant of the c-axis.
+* {META DATA}:
+* Source ID: 1404.6359v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Negative
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: NdO0.5F0.5Bi1-ySbyS2
+* Driver: Substitution of Bi by Sb
+* Effect: Decrease of lattice constant c
+
+
+
+
+* {CLAIM}: Substitution of Bismuth with Antimony in NdO0.5F0.5Bi1-ySbyS2 induces a metal-insulator transition.
+* {META DATA}:
+* Source ID: 1404.6359v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Neutral
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: NdO0.5F0.5Bi1-ySbyS2
+* Driver: Substitution of Bi by Sb
+* Effect: Metal-insulator transition
+
+
+
+
+* {CLAIM}: Element substitution within the superconducting layer degrades superconductivity in the NdO1-xFxBiS2 system.
+* {META DATA}:
+* Source ID: 1404.6359v2
+* Study Type: Experimental
+* Epistemic Type: Inference
+* Polarity: Negative
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: NdO1-xFxBiS2 system
+* Driver: Element substitution within the superconducting layer
+* Effect: Degradation of superconductivity
+
+
+
+
+
+---
+
+### **ARTICLE 4: 1409.2189v2**
+
+**Context:** Thermoelectric properties of LaOBiS2-xSex.
+
+* {CLAIM}: Partial substitution of Sulfur by Selenium enhances electrical conductivity (metallic characteristics) in LaOBiS2-xSex.
+* {META DATA}:
+* Source ID: 1409.2189v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaOBiS2-xSex
+* Driver: Partial substitution of S by Se
+* Effect: Enhancement of electrical conductivity (metallic characteristics)
+
+
+
+
+* {CLAIM}: The power factor of LaOBiS2-xSex largely increases with increasing Se concentration.
+* {META DATA}:
+* Source ID: 1409.2189v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaOBiS2-xSex
+* Driver: Increasing Se concentration
+* Effect: Increase in power factor
+* Trend: Monotonically increases (inferred)
+
+
+
+
+* {CLAIM}: The highest power factor for LaOBiS2-xSex was 4.5 μW/cmK2 at around 470 ºC for LaOBiS1.2Se0.8.
+* {META DATA}:
+* Source ID: 1409.2189v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Neutral
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaOBiS1.2Se0.8
+* Effect: Highest power factor (4.5 μW/cmK2)
+
+
+
+
+* {CLAIM}: The thermal conductivity for LaOBiS2-xSex is independent of both temperature and Se concentration.
+* {META DATA}:
+* Source ID: 1409.2189v2
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Neutral
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: LaOBiS2-xSex
+* Driver: Temperature, Se concentration
+* Effect: Independence of thermal conductivity
+
+
+
+
+* {CLAIM}: Optimization of the carrier concentration and/or the local structure will further enhance the thermoelectric performance of layered bismuth chalcogenides.
+* {META DATA}:
+* Source ID: 1409.2189v2
+* Study Type: Theoretical
+* Epistemic Type: Speculation
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Layered bismuth chalcogenides
+* Driver: Optimization of carrier concentration, Optimization of local structure
+* Effect: Enhancement of thermoelectric performance
+
+
+
+
+
+---
+
+### **ARTICLE 5: 1508.01656v1**
+
+**Context:** Comparison of High Pressure (HP) Resistivity Measurement vs. HP Annealing on Bi2(O,F)S2.
+
+* {CLAIM}: In high pressure resistivity measurements of Bi2(O,F)S2, Tc linearly decreases at the rate of -1.2 K GPa-1.
+* {META DATA}:
+* Source ID: 1508.01656v1
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Negative
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Bi2(O,F)S2
+* Driver: High pressure resistivity measurement
+* Effect: Linear decrease of Tc (-1.2 K GPa-1)
+* Trend: Linearly decreases
+
+
+
+
+* {CLAIM}: High pressure annealing (2 GPa, 470°C) maintains the Tc of 5.1 K in optimally doped Bi2(O,F)S2 despite significant changes in lattice parameters.
+* {META DATA}:
+* Source ID: 1508.01656v1
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Neutral
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Bi2(O,F)S2 (Optimally doped)
+* Driver: High pressure annealing (2 GPa, 470°C)
+* Effect: Maintenance of Tc (5.1 K), Change of lattice parameters
+
+
+
+
+* {CLAIM}: Superconductivity is observed in fluorine-free Bi2OS2 after high pressure annealing.
+* {META DATA}:
+* Source ID: 1508.01656v1
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Bi2OS2 (Fluorine-free)
+* Driver: High pressure annealing
+* Effect: Appearance of superconductivity
+
+
+
+
+* {CLAIM}: The decrease of Tc in Bi2(O,F)S2 during HP resistivity measurement might be explained by the shrinkage of the a-axis under in-situ high pressure at low temperatures.
+* {META DATA}:
+* Source ID: 1508.01656v1
+* Study Type: Theoretical
+* Epistemic Type: Speculation
+* Polarity: Negative
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Bi2(O,F)S2
+* Mechanism: Shrinkage of a-axis
+* Effect: Decrease of Tc
+
+
+
+
+* {CLAIM}: High pressure annealing increases Tc in undoped and underdoped Bi2(O,F)S2 samples.
+* {META DATA}:
+* Source ID: 1508.01656v1
+* Study Type: Experimental
+* Epistemic Type: Observation
+* Polarity: Positive
+
+
+* {PHYSICAL ATTRIBUTES}:
+* Subject: Bi2(O,F)S2 (Undoped and underdoped)
+* Driver: High pressure annealing
+* Effect: Increase of Tc

@@ -1,0 +1,365 @@
+1 
+ 
+Synthesis, Crystal Structure, and Physical Properties of New Layered Oxychalcogenide 
+La2O2Bi3AgS6 
+ 
+Yudai Hijikata1, Tomohiro Abe2, Chikako Moriyoshi2, Yoshihiro Kuroiwa2, Yosuke Goto1, Akira 
+Miura3, Kiyoharu Tadanaga3, Yongming Wang4, Osuke Miura1, and Yoshikazu Mizuguchi1* 
+ 
+1. Graduate School of Science and Engineering, Tokyo Metropolitan University, 1-1 Minami-
+osawa, Hachioji 192-0397, Japan 
+2. Department of Physical Science, Hiroshima University, 1-3-1 Kagamiyama, Higashihiroshima 
+739-8526, Japan 
+3. Faculty of Engineering, Hokkaido University, Kita-13, Nishi-8, Kita-ku, Sapporo 060-8628, 
+Japan 
+4. Creative Research Institution, Hokkaido University, Kita-21, Nishi-10, Kita-ku, Sapporo 001-
+0021, Japan 
+ 
+ 
+Abstract 
+We have synthesized a new layered oxychalcogenide La2O2Bi3AgS6. From synchrotron 
+X-ray diffraction and Rietveld refinement, the crystal structure of La2O2Bi3AgS6 was refined 
+using a model of the P4/nmm space group with a = 4.0644(1) Å and c = 19.412(1) Å, which is 
+similar to the related compound LaOBiPbS3, while the interlayer bonds (M2-S1 bonds) are 
+apparently shorter in La2O2Bi3AgS6. The tunneling electron microscopy (TEM) image confirmed 
+the lattice constant derived from Rietveld refinement (c ~ 20 Å). The electrical resistivity and 
+Seebeck coefficient suggested that the electronic states of La2O2Bi3AgS6 are more metallic than 
+those of LaOBiS2 and LaOBiPbS3. The insertion of a rock-salt-type chalcogenide into the van der 
+Waals gap of BiS2-based layered compounds, such as LaOBiS2, will be a useful strategy for 
+designing new layered functional materials in the layered chalcogenide family. 
+ 
+ 
+ 
+ 
+
+
+2 
+ 
+1. Introduction 
+Layered compounds have been extensively studied in the fields of superconductivity 
+and thermoelectric materials [1-6] because of the high flexibility of the stacking structure and the 
+constituent elements. In addition, low-dimensional electronic states can be generated, and thus, 
+unconventional superconductivity or exotic functionality has been revealed in several materials. 
+Recently, BiS2-based layered compounds, whose crystal structure is composed of 
+alternate stacks of electrically conducting BiS2 bilayers and various kinds of electrically insulating 
+(blocking) layers, have drawn much attention as superconductors [7-16] and thermoelectric 
+materials [17-21]. The typical parent phase is REOBiS2 (RE: Rare earth element). From band 
+calculations [22,23], the parent phase is basically an insulator with a band gap. The conduction 
+band just above the Fermi energy is mainly composed of Bi-6p (px and py) bands. Typically, the 
+partial substitution of O2- at the blocking REO layers with F- generates electron carriers in the 
+BiS2 layer, and superconductivity has been observed in REO1-xFxBiS2 [9-14]. The highest reported 
+superconducting transition temperature (Tc) in this family is 11 K for LaO0.5F0.5BiS2 [24], although 
+a possible high Tc phase with Tc ~ 20 K was detected for Nd(O,F)BiS2 single crystal using 
+scanning tunneling spectroscopy [25]. In addition, the possibility of unconventional mechanisms 
+of the superconductivity in BiS2-based compounds has been recently proposed [26-29]. Thus, 
+further exploration of the new superconducting phases and clarification of the mechanisms are 
+desired. The BiS2-based compounds exhibit high thermoelectric performance. The highest 
+reported thermoelectric dimensionless figure of merit (ZT) in this family is 0.36 at 650 K for 
+LaOBiSSe [18]. The high ZT was achieved by the enhancement of carrier mobility and the low 
+thermal conductivity [18,19]. To further enhance ZT, exploration of new BiS2-type layered 
+compounds is needed. 
+Very recently, we have reported the crystal structure and site selectivity of LaOBiPbS3 
+[30], which was discovered to be a thermoelectric material [20]. From neutron diffraction, we 
+revealed the site selectivity of Bi and Pb in LaOBiPbS3. On the basis of crystal structure 
+refinements with neutron and synchrotron X-ray diffraction, it was found that the crystal structure 
+of LaOBiPbS3 can be regarded as the alternate stacks of PbS layers and LaOBiS2 layers. In 
+addition, the insertion of PbS layers results in an electronic structure (at around the Fermi energy) 
+apparently different from that of LaOBiS2. If another type of chalcogenide layer can be 
+sandwiched by LaOBiS2 layers, a new layered oxychalcogenide can be synthesized with a 
+modified electronic structure, which may be useful for the emergence of superconductivity or 
+high thermoelectric performance. In this study, we have designed and synthesized a new layered 
+bismuth oxysulfide La2O2Bi3AgS6 with the concept obtained from the crystal structure of 
+LaOBiPbS3. The crystal structure of La2O2Bi3AgS6 is composed of stacks of (Bi0.66Ag0.34)S 
+chalcogenide layers and LaO(Bi0.9Ag0.1)S2 layers, as displayed in Fig. 1. 
+
+
+3 
+ 
+ 
+2. Experimental Details 
+La2O2Bi3AgS6 polycrystalline samples were prepared by a solid-state reaction method. 
+Powders of Bi2O3 (99.9%), La2S3 (99.9%), and Ag (99.9%) and grains of Bi (99.999%) and S 
+(99.99%) with a nominal composition of La2O2Bi3AgS6 were mixed in a mortar, pelletized, sealed 
+in an evacuated quartz tube, and heated at 720 °C for 15 h. The obtained sample was ground, 
+mixed to homogenize it, pelletized, and heated at 720 °C for 15 h. The phase purity of the prepared 
+samples and the optimal annealing conditions were examined using laboratory X-ray diffraction 
+(XRD) with Cu-K radiation. Synchrotron XRD was performed at BL02B2 of SPring-8 with an 
+energy of 25 keV (project number: 2016B0074). The synchrotron XRD experiments were 
+performed with a sample rotator system at room temperature, and the diffraction data were 
+collected using a high-resolution one-dimensional semiconductor detector (MYTHEN) [31] with 
+a step of 2 = 0.006º. The crystal structure parameters were refined using the Rietveld method 
+with RIETAN-FP [32]. Schematic images of the crystal structure were drawn using VESTA [33]. 
+The ratio of Bi to Ag in the obtained sample was examined using energy dispersive X-ray 
+spectroscopy (EDX) with a TM3030 microscope. Tunneling electron microscopy (TEM; JEOL, 
+JEM-2010) was performed with an accelerating voltage of 200 keV. An ethanol suspension of the 
+powder was dispersed on a commercial grid. The temperature dependence of the electrical 
+resistivity was measured by the four-probe method. For high-temperature measurements, the 
+probes were mechanically attached to the sample, while Ag paste was used to attach Au wires to 
+the sample for low-temperature measurements. The Seebeck coefficient was measured by the 
+four-probe method as well as high-temperature resistivity. In this article, the sample is named 
+La2O2Bi3AgS6, which is the starting nominal composition. 
+ 
+3. Results and Discussion 
+As shown in Fig. 1(c), the refined structure for La2O2Bi3AgS6 was found to be similar 
+to that of LaOBiPbS3 with the space group of P4/nmm [20,30] [Fig. 1(b)]. La2O2S (P-3m1: #164) 
+and AgBiS2 (Fm-3m: #225) impurity phases were also detected. The LaOBiS2 phase with the 
+space group of P4/nmm was hardly detected. Although the peaks of AgBiS2 are broad, the 
+existence of AgBiS2 was also confirmed by the observation of particles with the composition of 
+Ag:Bi:S = 1:1:2 by EDX. Figure 2 shows the multiphase Rietveld refinement profile obtained 
+using synchrotron XRD. With the P4/nmm model and two impurity phases, the XRD pattern was 
+refined with a resulting reliability factor of Rwp = 11.6%. Rwp was not as low as that obtained for 
+LaOBiPbS3 (Rwp = 7.5% [30]), measured in the same beamline and analyzed with the same 
+structural model. This is attributed to the shoulder of the peaks at a lower angle than the major 
+phase, which may be due to the low crystallinity of the phase. The obtained structure parameters 
+
+
+4 
+ 
+are listed in Table I. The lattice constants of a = 4.0644(1) Å and c = 19.412(1) Å are smaller than 
+those of LaOBiPbS3: a = 4.09716(4) Å and c = 19.7933(2) Å. The differences in lattice constants 
+are consistent with the smaller ionic radius of Ag+ than that of Pb2+: 1.15 Å for Ag+ and 1.19 Å 
+for Pb2+ when the coordinate number is 6. In addition, the smaller lattice constants are consistent 
+with the large amount of Bi3+ ions, with an ionic radius of 1.03 Å, in La2O2Bi3AgS6. 
+In Fig. 1, Bi-S bonding is depicted when the bond length is shorter than 2.95 Å. The 
+M2-S1 bond length [2.82(3) Å] is clearly shorter than that in LaOBiPbS3 [3.018(9) Å], which 
+should enhance the interlayer transfer of carriers. The short interlayer bonding may be due to the 
+suppression of the effects of lone pairs because Bi3+ and Pb2+ have 6s lone pairs, which affect the 
+local structure of the conducting layers in LaOBiS2 and LaOBiPbS3. Because Ag+ does not have 
+lone pairs, the interlayer bonding may decrease, as observed in the InS2-based compound LaOInS2 
+[34]. From the refinement, the Bi concentration can be estimated as 3.1(1), which is almost the 
+same as the starting nominal composition. EDX analysis also confirmed that the composition of 
+most of the area almost corresponded to the starting nominal composition. 
+ 
+Figure 3 shows a TEM image of the La2O2Bi3AgS6 sample. We confirmed the existence 
+of fringes with a length of approximately 20 Å, corresponding to the lattice constant of c obtained 
+from the Rietveld refinement. Nonetheless, fringes with a length of 14 Å, close to the c-axis of 
+LaOBiS2, were seen [9]. Such disorder has also been seen in Bi4O4S3 and related compounds 
+[35,36]. Although clear diffraction peaks of LaOBiS2 were not seen in the XRD pattern, TEM 
+diffraction suggests that the exact structure of La2O2Bi3AgS6 is rather complicated, and the above 
+Rietveld analysis can thus derive the average structure without considering the local disorder.  
+ 
+Figure 4 shows the temperature dependences of the electrical resistivity for LaOBiS2 
+[Fig. 1(a)], LaOBiPbS3 [Fig. 1(b)] [37] and La2O2Bi3AgS6 [Fig. 1(c)]. As mentioned in the 
+introduction, LaOBiS2 becomes a superconductor when electron carriers are doped by elemental 
+substitution. Notably, the resistivity of La2O2Bi3AgS6 is clearly lower than that of LaOBiS2 over 
+a wide temperature range. In addition, the increase in resistivity at low temperatures observed for 
+LaOBiS2 is not observed for La2O2Bi3AgS6, and almost temperature-independent resistivity is 
+observed for La2O2Bi3AgS6. Figure 5 shows the temperature dependences of the Seebeck 
+coefficient for LaOBiS2, LaOBiPbS3, and La2O2Bi3AgS6. The absolute value of the Seebeck 
+coefficient is the smallest for La2O2Bi3AgS6 among these compounds. On the basis of the 
+electrical resistivity and Seebeck coefficient, the carrier concentration in La2O2Bi3AgS6 is higher 
+than that in LaOBiPbS3 and LaOBiS2. For LaOBiPbS3, band calculations revealed that the band 
+structure is markedly changed by the insertion of a PbS layer into the van der Waals gap of 
+LaOBiS2. The valence and conduction bands of LaOBiS2 and related BiS2-based compounds are 
+basically composed of Bi-6p and S-3p orbitals in the same BiS plane [22,23]. In contrast, the 
+valence band top of LaOBiPbS3 is mainly composed of S-3p bands of the PbS block while the 
+
+
+5 
+ 
+conduction band bottom is mainly composed of Bi-6p bands [30]. A similar situation, a valence 
+band bottom composed of S bands of a NaCl-type Ag-rich layer, can also be expected in 
+La2O2Bi3AgS6, and the carrier excitation may be enhanced in the present Ag case. The enhanced 
+interlayer bonding (M2-S1 bonding) mentioned in the structure analysis part may be related to 
+the enhanced electrical conductivity and increased carrier concentration. 
+ 
+In the present study, we did not observe a superconducting transition. From 
+magnetization measurements using a superconducting quantum interference device (SQUID) 
+magnetometer for La2O2Bi3AgS6, we confirmed the absence of a superconducting transition down 
+to 2 K. In addition, from the resistivity measurements down to 3.8 K, we did not observe any 
+onset of a superconducting transition. We expect that La2O2Bi3AgS6 will become a 
+superconductor upon carrier doping or structural optimization, as observed for other BiS2-based 
+superconductors [38]. 
+ 
+4. Conclusion 
+We have reported the synthesis of a new layered oxychalcogenide La2O2Bi3AgS6. On 
+the basis of the material design concept revealed in LaOBiPbS3, rock-salt-type (Ag0.66Bi0.34)S 
+layers are inserted into the BiS2-based LaO(Bi0.9Ag0.1)S2. From synchrotron XRD, Rietveld 
+refinement, and TEM, the crystal structure of La2O2Bi3AgS6 was revealed, as shown in Fig. 1(c), 
+which is similar to that of LaOBiPbS3 with the P4/nmm space group, and the lattice constant 
+estimated from the Rietveld refinement and TEM had similar values (c ~ 20 Å). The temperature 
+dependences of the electrical resistivity and Seebeck coefficient suggested that the electronic 
+states of La2O2Bi3AgS6 are more metallic than those of LaOBiS2 and LaOBiPbS3, which may be 
+due to the formation of short M2-S1 bonds along the c-axis. The insertion of a rock-salt-type 
+chalcogenide into the van der Waals gap of BiS2-based layered compounds, such as LaOBiS2, will 
+be a useful strategy for designing new layered functional materials in the layered chalcogenide 
+family. 
+  
+Acknowledgements 
+This work was partly supported by Grants-in-Aid for Scientific Research (Nos. 
+15H05886, 16H04493, and 17H04950) and JST-CREST (No. JPMJCR16Q6), Japan. The SXRD 
+experiments were performed under Proposal No. 2016B0074 at SPring-8. The TEM analysis was 
+carried out with a JEM-2010 at the Joint-use Facilities: Laboratory of Nano-Micro Material Analysis, 
+Hokkaido University, supported by the Material Analysis and Structure Analysis Open Unit 
+(MASAOU). 
+ 
+ 
+ 
+
+
+6 
+ 
+Table I. Crystal structure parameters of the La2O2Bi3AgS6 sample. 
+Nominal composition 
+La2O2Bi3AgS6 
+Space group 
+P4/nmm (#129) 
+a (Å) 
+4.0644(1) 
+c (Å) 
+19.412(1) 
+V (Å3) 
+320.68(2) 
+La: (x, y, z) / U (Å2) 
+(0, 1/2, 0.0606(3))  /  0.005(2) 
+O: (x, y, z) / U (Å2) 
+(0, 0, 0)  /  0.013(fixed) 
+M1: (x, y, z) / U (Å2) 
+(1/2, 0, 0.5705(3))  /  0.023(2) 
+M2: (x, y, z) / U (Å2) 
+(1/2, 0, 0.2649(2))  /  0.007(1) 
+S1: (x, y, z) / U (Å2) 
+(1/2, 0, 0.716(1))  /  0.013(fixed) 
+S2: (x, y, z) / U (Å2) 
+(1/2, 0, 0.145(1))  /  0.013(fixed) 
+S3: (x, y, z) / U (Å2) 
+(1/2, 0, 0.423(1))  /  0.013(fixed) 
+Occupancy at M1 
+Bi : Ag = 0.90(3) : 0.10(3) 
+Occupancy at M2 
+Bi : Ag = 0.66(4) : 0.34(3) 
+M1-S1 distance (Å) 
+2.898(3) 
+M1-S2 distance (Å) 
+2.33(2) 
+M1-S3 distance (Å) 
+3.07(2) 
+M2-S1 distance (Å) 
+2.82(3) 
+M2-S3 distance (Å) (along a-axis) 
+2.8767(9) 
+M2-S3 distance (Å) (along c-axis) 
+2.86(3) 
+Rwp (%) 
+11.6 
+La2O2S impurity (%) 
+6 
+AgBiS2 impurity (%) 
+6 
+ 
+ 
+ 
+
+
+7 
+ 
+References 
+[1] J. G. Bednorz and K. Müller, Z. Phys. B: Condens. Matter 64, 189 (1986). 
+[2] M. K. Wu, J. R. Ashburn, C. J. Torng, P. H. Hor, R. L. Meng, L. Gao, Z. J. Huang, Y. Q. Wang, 
+and C. W. Chu, Phys. Rev. Lett. 58, 908 (1987). 
+[3] Y. Kamihara, H. Hiramatsu, M. Hirano, R. Kawamura, H. Yanagi, T. Kamiya, and H. Hosono, 
+J. Am. Chem. Soc. 128, 10012 (2006). 
+[4] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+[5] I. Terasaki, Y. Sasago, and K. Uchinokura, Phys. Rev. B 56, R12685 (1997). 
+[6] D. Y. Chung, T. Hogan, P. Brazis, M. Rocci-Lane, C. Kannewurf, M. Bastea, C. Uher, and M. 
+G. Kanatzidis, Science 287, 1024 (2000). 
+[7] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, 
+H. Izawa, and O. Miura, Phys. Rev. B 86, 220510 (2012). 
+[8] S. K. Singh, A. Kumar, B. Gahtori, S. Kirtan, G. Sharma, S. Patnaik, and V. P. S. Awana, J. 
+Am. Chem. Soc 134, 16504 (2012). 
+[9] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. 
+Miura, J. Phys. Soc. Jpn. 81, 114725 (2012). 
+[10] J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B 86, 214518 (2012). 
+[11] S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. Yamaki, H. 
+Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. Yamaguchi, 
+H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. 84, 024709 (2015). 
+[12] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Supercond. Nov. Magn. 26, 499 (2013). 
+[13] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, 
+M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, 
+J. Phys. Soc. Jpn. 82, 033708 (2013). 
+[14] G. S. Thakur, G. K. Selvan, Z. Haque, L. C. Gupta, S. L. Samal, S. Arumugam, and A. K. 
+Ganguli, Inorg. Chem. 54, 1076 (2015). 
+[15] H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J. K. Bao, Y. L. Sun, W. H. Jiao, 
+I. Nowik, I. Felner, Y. K. Li, X. F. Xu, Q. Tao, C. M. Feng, Z. A. Xu, and G. H. Cao, Phys. Rev. 
+B 90, 064518 (2014). 
+[16] H. F. Zhai, P. Zhang, S. Q. Wu, C. Y. He, Z. T. Tang, H. Jiang, Y. L. Sun, J. K. Bao, I. Nowik, 
+I. Felner, Y. W. Zeng, Y. K. Li, X. F. Xu, Q. Tao, Z. A. Xu, and G. H. Cao, J. Am. Chem. Soc. 136, 
+15386 (2014). 
+[17] Y. Mizuguchi, A. Omachi, Y. Goto, Y. Kamihara, M. Matoba, T. Hiroi, J. Kajitani, and O. 
+Miura, J. Appl. Phys. 116, 163915 (2014). 
+[18] A. Nishida, O. Miura, C. H. Lee, and Y. Mizuguchi, Appl. Phys. Express 8, 111801 (2015). 
+
+
+8 
+ 
+[19] A. Nishida, H. Nishiate, C. H. Lee, O. Miura, and Y. Mizuguchi, J. Phys. Soc. Jpn. 85, 074702 
+(2016). 
+[20] Y. L. Sun, A. Ablimit, H. F. Zhai, J. K. Bao, Z. T. Tang, X. B. Wang, N. L. Wang, C. M. Feng, 
+and G. H. Cao, Inorg. Chem. 53, 11125 (2014). 
+[21] Y. Goto, J. Kajitani, Y. Mizuguchi, Y. Kamihara, and M. Matoba, J. Phys. Soc. Jpn. 84, 
+085003 (2015). 
+[22] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B 86, 220501 (2012). 
+[23] H. Usui and K. Kuroki, Nov. Supercond. Mater. 1, 50 (2015). 
+[24] Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, and O. Miura, J. Phys. Soc. 
+Jpn. 83, 053704 (2014). 
+[25] J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, X. Zhu, H. Yang, and H. H. Wen, EPL 106, 67002 
+(2014). 
+[26] C. Morice, R. Akashi, T. Koretsune, S. S. Saxena, and R. Arita, Phys. Rev. B 95, 180505 
+(2017). 
+[27] K. Suzuki, H. Usui, K. Kuroki, and H. Ikeda, Phys. Rev. B 96, 024513 (2017). 
+[28] Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S. Watanabe, C. Chen, M. Nagao, S. 
+Watauchi, I. Tanaka, Y. Takano, and S. Shin, Phys. Rev. Lett. 118, 167002 (2017). 
+[29] K. Hoshi, Y. Goto, and Y. Mizuguchi, arXiv:1708.08252. 
+[30] Y. Mizuguchi, Y. Hijikata, T. Abe, C. Moriyoshi, Y. Kuroiwa, Y. Goto, A. Miura, S. Lee, S. 
+Torii, T. Kamiyama, C. H. Lee, M. Ochi, and K. Kuroki, EPL 119, 26002 (2017). 
+[31] S. Kawaguchi, M. Takemoto, K. Osaka, E. Nishibori, C. Moriyoshi, Y. Kubota, Y. Kuroiwa, 
+and K. Sugimoto, Rev. Sci. Instrum. 88, 085111 (2017). 
+[32] F. Izumi and K. Momma, Solid State Phenom. 130, 15 (2007). 
+[33] K. Momma and F. Izumi, J. Appl. Crystallogr. 41, 653 (2008). 
+[34] A. Miura, T. Oshima, K. Maeda, Y. Mizuguchi, C. Moriyoshi, Y. Kuroiwa, Y. Meng, X. D. 
+Wen, M. Nagao, M. Higuchi, and K. Tadanaga, J. Mater. Chem. A 5, 14270 (2017). 
+[35] W. A. Phelan, D. C. Wallace, K. E. Arpino, J. R. Neilson, K. J. Livi, C. R. Seabourne, A. J. 
+Scott., and T. M. McQueen, J. Am. Chem. Soc. 135, 5372 (2013). 
+[36] A. Miura, Y. Mizuguchi, T. Sugawara, Y. Wang, T. Takei, N. Kumada, E. Magome, C. 
+Moriyoshi, Y. Kuroiwa, O. Miura, and K. Tadanaga, Inorg. Chem. 54, 10462 (2015). 
+[37] Y. Mizuguchi, A. Nishida, A. Omachi, and O. Miura, Cogent Phys. 3, 1156281 (2016). 
+[38] Y. Mizuguchi, J. Phys. Chem. Solids 84, 34 (2015). 
+ 
+ 
+
+
+9 
+ 
+ 
+Fig. 1. (Color Online) Schematic images of the crystal structure of LaOBiS2, LaOBiPbS3, and 
+La2O2Bi3AgS6. Bi-S bonds are displayed when the Bi-S distance is shorter than 2.95 Å. 
+ 
+ 
+
+
+10 
+ 
+ 
+Fig. 2. (Color Online) Synchrotron XRD pattern and the Rietveld fitting for La2O2Bi3AgS6. The 
+Rietveld refinement was performed with two impurity phases of La2O2S and AgBiS2. The 
+numbers on XRD peaks are Miller indices. 
+ 
+ 
+  
+Fig. 3. (Color Online) TEM image of La2O2Bi3AgS6. The scale bar represents 10 nm. 
+ 
+ 
+
+
+11 
+ 
+ 
+Fig. 4. (Color Online) Temperature dependences of electrical resistivity for LaOBiS2 [37], 
+LaOBiPbS3 [37], and La2O2Bi3AgS6. 
+ 
+ 
+ 
+Fig. 5. (Color Online) Temperature dependences of Seebeck coefficient for LaOBiS2 [37], 
+LaOBiPbS3 [37], and La2O2Bi3AgS6.  
+
+

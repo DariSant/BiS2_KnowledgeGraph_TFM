@@ -1,0 +1,880 @@
+Direct Observation of an Incommensurate Charge Density Wave in the BiS2-based
+Superconductor NdO1−xFxBiS2
+Jooseop Lee1,2, Masanori Nagao3, Yoshikazu Mizuguchi4, and Jacob Ruﬀ2
+1CALDES, Institute for Basic Science, Pohang 37673, Republic of Korea
+2CHESS, Cornell University, Ithaca, New York 14853, USA
+3University of Yamanashi, Kofu, Yamanashi 400-8511, Japan and
+4Department of Physics, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+(Dated: June 7, 2021)
+The nature of superconductivity in BiS2-based superconductors has been controversial while ab-
+initio calculations proposed this system in close proximity to a charge-density-wave (CDW) phase.
+Using high-energy high-ﬂux X-ray diﬀraction, we reveal an intrinsic and long-range CDW phase
+coexisting with superconductivity in NdO1−xFxBiS2 superconductor (x = 0.37 and 0.3). The CDW
+wavevector in NdO0.63F0.37BiS2 correspond QCDW = (0.17, 0.17, 0.5) and is associated with trans-
+verse atomic displacements. Interestingly, this wavevector does not match theoretical expectations
+based on either phonon softening or Fermi surface nesting. In NdO0.7F0.3BiS2, where the super-
+conducting transition temperature is highest, the CDW satellites are slightly broader and weaker
+compared to NdO0.63F0.37BiS2, possibly suggesting the competition with the superconductivity.
+Lastly, we measure a thermal diﬀuse scattering across the superconducting transition temperature
+and ﬁnd no meaningful changes. Our result suggests the importance of understanding CDW which
+might hold a key to the superconductivity in the BiS2-based superconductor.
+I.
+INTRODUCTION
+The BiS2-based superconductors have many similar-
+ities with the unconventional cuprates and iron-based
+superconductors1–6.
+Their layered structure is low di-
+mensional composed of BiS2 superconducting layers and
+Ln2O2 (Ln:
+Lanthanide) blocking layers alternating
+along the c-axis. Moreover, Bi ions responsible for the su-
+perconductivity are arranged in a square lattice. On the
+other hand, Bi is not magnetic and shows 6px,y orbital
+characters, which have less electron correlation compared
+with 3d orbitals7. The highest transition temperature re-
+ported is relatively low ≈11.5 K8.
+The nature of superconductivity in BiS2-based super-
+conductors, therefore, has been controversial whether it
+can be considered as a conventional phonon-mediated
+BCS superconductor or another family of non-BCS su-
+perconductors that opens a new route to unconventional
+superconductivity. Density functional theory (DFT) cal-
+culations have predicted a signiﬁcant electron-phonon
+(e-ph) coupling9–12, that was later supported by Ra-
+man experiment13. Meanwhile, many ab initio studies
+also ﬁnd strong Fermi surface nesting (FSN) near opti-
+mal doping7,9,10 that can lead to unconventional pairing
+mechanisms14–20. Inelastic neutron scattering on poly-
+crystalline samples21 and Raman studies22 indicate that
+the possible e-ph coupling can be much weaker than the-
+oretically expected. Yet, a momentum-resolved phonon
+study on a single-crystalline sample is still lacking.
+Interestingly, theoretical studies predict negative en-
+ergy phonon modes possibly related to the FSN that
+leads to ferroelectric or charge-density-wave (CDW)
+phases9,10.
+According to the ab-inito calculation, in
+LaOBiS2, there is a ferroelectric soft phonon at the
+zone center, whose shallow potential curve prevents the
+development of static long-range order.
+In the opti-
+mally doped LaO0.5F0.5BiS2, on the other hand, un-
+stable phonon branches are expected along the q = (δ,
+δ, 0) causing the in-plane distortion of the BiS2 plane,
+especially the shift of S atoms by about 0.16 ˚A away
+from the high-symmetry position. Total energy analysis
+ﬁnds the structure with the lowest energy to be a
+√
+2
+x 2
+√
+2 CDW superstructure with sinusoidally distorted
+one-dimensional Bi-S chains.
+The relation between CDW and superconductivity
+has been hotly debated as CDW turns out to be a
+ubiquitous ground state found in the phase diagram
+of many unconventional superconductors, for example,
+cuprate or transition-metal dichalcogenides (TMDC)
+superconductors23,24.
+In BiS2-based superconductors,
+Scanning Tunneling Microscopy (STM) studies asserted
+a modulation in the real-space electronic features that are
+characterized, for example, by a checkerboard stripe25–27.
+These results, however, poses a question if the observed
+CDW is an intrinsic bulk property especially since they
+also found a large spectroscopic gap of about 40 meV
+contrary to a bulk metallic nature25.
+Moreover, it has been known from the early stage
+that the superconducting transition temperature in BiS2-
+based superconductors can be greatly enhanced under
+pressure or by pressure annealing8,28.
+First-principles
+energy calculations show that there is a family of poly-
+types nearly-degenerate in energy within ≈1 meV29,30
+and x-ray diﬀraction measurement found diﬀerent struc-
+tures coexisting in the same batch of crystals31. In-plane
+dynamic charge ﬂuctuations and local distortions have
+been claimed from neutron and x-ray diﬀraction and the
+pair density function analysis32–35.
+These ﬁndings all
+point to a crucial role of structural instability in under-
+standing BiS2-based systems.
+Here, we report a long-range CDW ground state that
+coexists with superconductivity in NdO0.63F0.37BiS2 ob-
+arXiv:2104.02241v2  [cond-mat.supr-con]  4 Jun 2021
+
+
+2
+served using high-energy and high-ﬂux x-ray diﬀraction.
+The CDW phase onsets around ≈120 K with a wavevec-
+tor QCDW = (0.17, 0.17, 0.5). This wavevector is distinct
+from the values proposed from either phonon calculation
+or Fermi surface evaluation and calls attention to the in-
+terlayer couplings neglected in the previous studies. A
+detailed study on the x-ray reﬂection pattern shows that
+the CDW satellite peaks are stronger along one of the
+diagonal directions in the reciprocal (H, K, 0.5) plane,
+suggesting one-dimensional and diagonal atomic modula-
+tion that breaks 4-fold symmetry. In the NdO0.7F0.3BiS2
+with optimal electron doping36, while a similar satel-
+lite diﬀraction pattern is observed, the CDW peaks are
+broader and weaker suggesting the competition between
+superconductivity and charge density wave in this sys-
+tem.
+Also, the relationship between phonon and su-
+perconductivity is investigated by x-ray diﬀuse scatter-
+ing measurement. No changes in the phonon frequency
+across the superconducting transition temperature, Tc ≈
+5 K, are observed.
+II.
+METHOD
+A.
+SAMPLE PREPARATION
+The single-crystal samples of NdO1−xFxBiS2 (x =
+0.3
+and
+0.37)
+were
+prepared
+as
+described
+in
+the
+Ref1,37,38. Samples were synthesized using high temper-
+ature CsCl/KCl ﬂux method in a vacuum-sealed quartz
+tube with the starting materials of Nd2S3, Bi, Bi2S3,
+Bi2O3, BiF3, CsCl, and KCl at approximately 616 ◦C.
+The single crystals are ﬂat and plate-like with the c-axis
+perpendicular to the growth direction which can be eas-
+ily exfoliated due to a Van der Waals gap between the
+BiS2 planes25. The typical sample size is about 2 mm
+x 2 mm x 0.05 mm. From resistivity measurements, the
+transition temperature was determined to be 5.1 K for
+x = 0.3 and 5.0 K for x = 0.37. The compositions were
+determined by electron probe microanalysis (EPMA).
+B.
+X-RAY DIFFRACTION
+We used a high-energy and high-ﬂux synchrotron x-ray
+at the A2 beamline at Cornell High Energy Synchrotron
+Source (CHESS). For the x = 0.3 sample, incident en-
+ergy, Ei, of 41.75 keV and Pilatus 300 area detector were
+used, and the sample was cooled with a closed-cycle re-
+frigerator. For the x = 0.37 sample, an Ei = 39.80 keV
+was used with other conditions identical. The beam was
+slit down to a typical size of 100 x 100 µm. All measure-
+ments were performed in transmission geometry taking
+advantage of the high ﬂux at high incident energies at
+CHESS. Typical reciprocal volume maps are obtained by
+combining two sets of 800 images at diﬀerent two-theta
+angles with each image having an increment of theta of
+0.025◦and counting time 10 seconds.
+III.
+RESULTS
+A high-energy single-crystal x-ray diﬀraction results of
+NdO0.63F0.37BiS2 are shown in Fig. 1. Figure 1 (a) shows
+the intensity map of the reciprocal space plane (H, K) at
+L = 0.5 measured at 4 K. While weak in intensity, we
+can clearly observe sharp satellite peaks away from the
+Bragg peak positions with δq = (0.17, 0.17). Fig. 1 (b)
+and (c) shows a magniﬁed view around q = (4, 2) and (4,
+0), respectively, for instance. The Bragg reﬂection at the
+integer position is surrounded by four satellite reﬂections
+which are marked with dashed green circles to make it
+clear.
+These satellite peaks indicate a periodic lattice
+modulation that most likely results from a CDW.
+It is intriguing to note that there are lines of diﬀuse
+scattering in diagonal directions, reminiscent of the un-
+stable phonon modes along the entire Γ-M direction sug-
+gested by ab-initio calculations9. See the zoom-in views
+Fig. 1 (d) and (e) again around q = (4, 2) and (4, 0), re-
+spectively, measured at 120 K where the thermal diﬀuse
+scattering intensity is stronger due to the Bose-factor.
+The lines of diﬀuse scattering seem to be enhanced on
+the line from Γ to satellite peaks. While the unstable
+phonon modes are merely an artifact from the calcula-
+tion, the soft phonon branch along the entire line should
+have an important physical origin9, for example, an ex-
+tended collapse of phonon modes due to electron-phonon
+coupling that condenses into CDW at low temperature as
+in TMDC39. Further energy-resolved phonon dispersion
+measurement will be needed to reach a ﬁrm conclusion
+on the origin of the thermal diﬀuse scattering line.
+Moreover, we notice diﬀerences in the intensities of the
+satellite peaks.
+For instance, as shown in Fig.
+1 (b),
+satellite reﬂections around q = (4, 2) are much stronger
+along (δ, -δ) direction than along the other diagonal (δ,
+δ) direction. Yet, the CDW peaks around (4, 0) all have
+comparable intensities, as in Fig. 1 (c).
+The intensity of CDW satellite reﬂections can be ex-
+pressed as40,41
+I(q) ∝
+
+X
+α
+(q·ϵα)fα(q±QCDW)
+
+2
+δ(q−G±QCDW). (1)
+Here, ϵα and fα are the atomic displacement and the
+structure factor of atom α, respectively, while G is the
+reciprocal lattice vector. Considering the (q · ϵα) prefac-
+tor, we conclude that the displacement of atom responsi-
+ble for the CDW is almost transverse and along diagonal
+direction: along (δ, -δ) direction for QCDW = (0.17, 0.17)
+and along (δ, δ) direction for QCDW = (0.17, -0.17). The
+diﬀraction pattern observed should be understood as an
+overlay of two domains, breaking 4-fold symmetry. This
+unidirectional modulation is consistent with the quasi-1D
+nature expected from small mixing between 6px and 6py
+orbitals of Bi ions7.
+Figure 1 (f)-(i) show the intensity curves at various
+temperatures along diagonal directions around two dif-
+ferent Bragg peaks: q = (4, 0) for Fig. 1 (f) and (g) and
+
+
+3
+Intensity (arb. units)
+0
+2
+T= 120 K
+3.5
+4.0
+4.5
+H (r.l.u.)
+(b)
+K (r.l.u.)
+H (r.l.u.)
+3
+4
+5
+6
+1
+3
+2
+0
+-1
+0
+1
+L (r.l.u.)
+0.0
+0.5
+1.0
+1.5
+Intensity (arb. units)
+δ (r.l.u.)
+0.4
+0.8
+1.2
+Intensity (arb. units)
+-0.16
+-0.18
+-0.20
+Q = (4 +δ, 2 -δ)
+Q = (4 +δ, 2 +δ)
+-0.16
+-0.18
+-0.20
+Q = (4 +δ, -δ)
+-0.16
+-0.18
+-0.20
+004 K
+040 K
+080 K
+120 K
+Q = (4 +δ, +δ)
+-0.16
+-0.18
+-0.20
+δ (r.l.u.)
+δ (r.l.u.)
+δ (r.l.u.)
+(f)
+(g)
+(h)
+(i)
+(j)
+K (r.l.u.)
+2.0
+1.5
+2.5
+0.0
+-0.5
+0.5
+(a)
+3.5
+4.0
+4.5
+H (r.l.u.)
+2.0
+1.5
+2.5
+0.0
+-0.5
+0.5
+T= 4 K
+(c)
+(d)
+(e)
+FIG. 1. Single-crystal x-ray diﬀraction of NdO0.63F0.37BiS2 obtained at A2, CHESS with Ei = 39.80 keV. (a) (H, K) reciprocal
+space map at L = 0.5 measured at the base temperature of 4 K. Miller indices are all in the reciprocal lattice unit (r.l.u.).
+Expanded view of satellite reﬂections at 4 K around (b) q = (4, 2) and (c) q = (4, 0), and the corresponding regions have been
+marked by yellow squares in (a). Same ﬁgures at an elevated temperature of 120 K, i.e., around (d) q = (4, 2) and (e) q = (4,
+0). Intensity curves measured at various temperature along (f) (δ, δ)- and (g) (δ, -δ)- directions at q = (4, 0) and along (h) (δ,
+δ)- and (i) (δ, -δ)- directions at q = (4, 2) showing the eﬀect of unidirectional atomic displacement in diagonal directions. (j)
+L-dependence of the CDW satellite peaks at (H, K) = (4-0.17, 0.17). For all 1D curves, ﬁts to Gaussian are shown in sold lines
+except (h) where there is no peak. In ﬁtting the L-dependence, the width of all Gaussian peaks were tied to a same value.
+q = (4, 2) for Fig. 1 (h) and (i). At all temperatures,
+the satellite reﬂections in Fig. 1 (h) has negligible inten-
+sities compared with Fig. 1 (i) due to near-orthogonality
+between q and ϵα while the CDW reﬂections around (4,
+0) all have similar intensities, Fig. 1 (f) and (g). From
+the temperature dependence of the CDW peaks showing
+a rapid decrease around 120 K, we expect the onset tem-
+perature should be a bit above, but close to 120 K. Future
+study on the detailed temperature dependence will be re-
+quired to pin down the CDW onset temperature and the
+order of phase transition.
+A CDW phase has been conjectured from previ-
+ous STM studies on BiS2-based superconductors25–27,
+though there have been concerns about possible surface
+eﬀects and/or sample inhomogeneities. Our x-ray data,
+from the sharp width of satellite peaks, demonstrate that
+the CDW is indeed a long-range order.
+Furthermore,
+the transmission geometry ensures that the CDW is a
+bulk intrinsic property, rather than a surface reconstruc-
+tion. The length of the wavevector, 0.172
+√
+2a∗, corre-
+sponds to about 3.97a (=2.81
+√
+2a) in real space, con-
+sistent with STM results reporting 3a ∼6a in-plane
+superstructure25–27.
+To check the L-dependence of the CDW satellite peaks,
+we made an intensity plot along L-direction at (H, K) =
+(4 - 0.17, 0.17) as shown in Fig. 1 (j). Surprisingly, the
+intensity is peaked at every half-integer position indicat-
+ing doubling of the unit cell along the c-axis. The width
+of the peak is ﬁtted with 0.33(1) r.l.u. corresponding to
+a correlation length of ≈3 unit cell. Though the broad
+width in Q-space suggests a weak and short-ranged inter-
+layer correlation, the peak structure is still well-deﬁned.
+It is worthy to note that previous phonon studies focused
+on the instabilities along q = (δ, δ, 0) direction leading
+to a CDW of 2
+√
+2 x
+√
+2 x 1 superstructure9,10.
+DFT
+calculation also pointed to FSN along the same direction
+assuming the 2D character of the Fermi surface7,9,10. Our
+data, however, reveals that there is a clear L-dependence
+in the CDW reﬂections, indicating interlayer couplings
+in NdO0.63F0.37BiS2 superconductors, which places an
+important constraint on future studies on the phonon,
+CDW, and superconductivity in BiS2-based supercon-
+ductors.
+We repeated a similar x-ray diﬀraction measurement
+on NdO0.7F0.3BiS2 sample to ﬁgure out the doping de-
+pendence of CDW. Figure 2 (a) shows the scattering in-
+
+
+4
+K (r.l.u.)
+H (r.l.u.)
+2
+4
+6
+4
+2
+0
+-1.5
+-0.5
+-2.5
+L (r.l.u.)
+0
+2
+4
+Intensity (arb. units)
+(h)
+(a)
+H (r.l.u.)
+2
+4
+6
+3.5
+4.0
+4.5
+H (r.l.u.)
+Intensity (arb. units)
+0
+2
+2.0
+2.5
+1.5
+K (r.l.u.)
+(b)
+(c)
+1.86
+1.82
+1.78
+K (r.l.u.)
+(e)
+x = 0.3
+0
+2
+4
+Intensity (arb. units)
+4.16
+4.12
+H (r.l.u.)
+x = 0.3
+(d)
+4.20
+H (r.l.u.)
+(f)
+x = 0.37
+4.16
+4.20
+4.12
+K (r.l.u.)
+(g)
+x = 0.37
+1.86
+1.82
+1.78
+0
+1
+3
+Intensity (arb. units)
+2
+FIG. 2. (a) NdO0.7F0.3BiS2 (H, K, 0.5) reciprocal space map measured at 4.3 K (b) The same map where the positions of
+reﬂections from the 3 x 3 unit cell indexed with blue squares. The corresponding reciprocal basis vectors are shown in yellow
+arrows. (c) A zoom-in view around q = (4, 2) which shows the CDW satellite peaks marked with green dashed circles. The
+contribution from the inhomogeneous phase has been removed for clarity. Intensity curves of the CDW satellite q = (4 +δ, -δ)
+(d) along H and (e) along K for NdO0.7F0.3BiS2. For comparison, similar curves are shown (f) along H and (g) along K for
+NdO0.63F0.37BiS2. (h) L-dependence at q = (4 +δ, -δ). For all 1D curves, ﬁts to Gaussian are shown in sold lines. In ﬁtting
+the L-dependence, the widths of all Gaussian peaks were tied to the same value and an extra Gaussian was added to account
+for a hump, possibly from the imperfect crystallinity.
+tensity map of (H, K) plane at L = 0.5 measured at
+4.3 K. At a ﬁrst glance, we ﬁnd unexpected numer-
+ous weak reﬂections at non-integer positions.
+We no-
+tice that the positions of these reﬂections are not cor-
+related with the main Bragg peaks as expected for a
+CDW, and therefore cannot be from a superstructure
+formation.
+It turns out that they are indexed with a
+reciprocal basis vectors a∗
+1 = (cos(60◦), sin(60◦))a∗/3
+and a∗
+2 = (cos(60◦), sin(−60◦))a∗/3 (a∗: the original
+a-axis reciprocal lattice vector), which are marked with
+blue squares in Fig.
+2 (b).
+This new phase must be
+closely linked to the original structure considering that
+the lattice parameters are exactly 3 times the original
+ones and have a precise 60-degree angle with respect to
+the a∗. The hexagonal (or trigonal) reﬂections disappear
+when we decrease the beam size to tens of microns and
+scan other surface areas. It, therefore, might be induced
+from inhomogeneity in the sample, for example, by un-
+even doping concentration, defect, vacancy, local strain,
+etc. Rough estimation reveals that the volume fraction
+of the 3 × 3 phase is about 0.71 ± 0.08 %, negligible
+enough to ensure that the composition is close to the
+nominal average one42. The L-dependence is not obvious
+in this sample due to the imperfect crystallinity along the
+c-axis.
+Ruling out the contribution from the 3 x 3 phase, we
+ﬁnd the satellite reﬂections from the CDW as in Fig. 2 (c)
+around q = (4, 2). Again, the polarization dependence of
+the CDW satellites is clear and the atomic displacements
+should be unidirectional and along diagonal directions.
+The L-dependence is also peaked at half-integer positions
+consistent with x = 0.37 system.
+Furthermore, we notice that the CDW satellite peaks
+are slightly broader and weaker compared to those of
+NdO0.63F0.37BiS2. Figure 2 (d) and (e) show cuts along
+the H and K direction, respectively. The FWHM widths
+estimated from Gaussian ﬁts are 0.018(2) r.l.u. along H
+and 0.034(2) r.l.u. along K. These values can be com-
+pared with those from x = 0.37 sample, 0.014(1) r.l.u.
+and 0.017(1) r.l.u. along H and K as shown in Fig. 2
+(f) and (g), respectively. The intensity ratio with respect
+to the nearby Bragg peak, q = (4, 2), is 1/1597(197)
+compared to the ratio of 1/869(91) for x = 0.37. We es-
+timated the domain size of the CDW43,44 and obtained
+181(8) ˚A for x = 0.37 and 104(9) ˚A for x = 0.345. The
+competition of CDW and SC, demonstrated by shorter
+CDW domain size and weaker reﬂections for higher su-
+perconducting transition temperature, is very similar to
+what is observed in cuprates46,47. Considering that x =
+0.3 is the optimal doping level with the highest Tc among
+
+
+5
+K (r.l.u.)
+K (r.l.u.)
+1
+3
+2
+3
+4
+5
+H (r.l.u.)
+1
+3
+2
+3
+4
+5
+H (r.l.u.)
+4.3 K
+5.5 K
+8.0 K
+10 K
+(a)
+(b)
+Int. (arb. units)
+0.0
+-0.2
+-0.4
+1.0
+0.5
+1.5
+4.1 K
+4.5K
+4.8 K
+5.3 K
+6.0 K
+8.0 K
+0.5
+1.5
+1.0
+4.1 K
+4.5K
+4.8 K
+5.3 K
+6.0 K
+8.0 K
+0.0
+-0.2
+-0.4
+Q = (4 + δ, 1 - δ)
+Q = (4 + δ, 1)
+δ (r.l.u.)
+δ (r.l.u.)
+FIG. 3.
+(a) Thermal diﬀuse scattering intensity map of
+NdO0.7F0.3BiS2 at (H, K, 0) plane across the Tc.
+(b) In-
+tensity curves along (δ, -δ) and (δ, 0) directions around q =
+(4, 1) measured at various temperatures.
+NdO1−xFxBiS236, there could be possible competition
+between the superconductivity and charge density wave,
+though they coexist in current doping range.
+To elucidate the relationship between phonon and su-
+perconductivity in the BiS2-based superconductors, we
+examined the phonon dispersion by observing a thermal
+diﬀuse scattering (TDS), a diﬀuse scattering process by
+lattice thermal vibration. For a phonon-mediated con-
+ventional superconductor, there can be a phonon fre-
+quency softening and/or line-width broadening at a mo-
+mentum transfer q = 2kF across the superconducting
+phase transition48–53.
+To the 1st order, the intensity of TDS by unpolarized
+x-ray at a momentum transfer q can be represented as54
+I(q) ∝
+3n
+X
+j=1
+1
+ωq,j
+coth( ℏωq,j
+2kBT )
+×
+
+n
+X
+s=1
+fs
+√µs
+e−Ms(q · eq,j,s)e−iq·τs
+
+2
+,
+(2)
+where the subscripts s and j represent the atom in a
+unit cell and the phonon modes, respectively. Here, ω,
+e, f, µ, e−M, and τ refer to phonon frequency, eigen-
+vector for the phonon mode, atomic form factor, atomic
+mass, the Debye-Waller factor, and basis vector in real
+space, respectively. From this equation, we can tell that
+the main contribution to the TDS intensity will be from
+the low lying phonon modes, where signiﬁcant electron-
+phonon couplings have been estimated in BiS2-based su-
+perconductors.
+In addition, from the coth-dependence
+with 1/T, we expect the thermal change of intensity will
+be negligible in the small temperature range around Tc.
+Figure 3 (a) shows some representative intensity maps
+in the (H, K, 0) plane measured at 4.3, 5.5, 8.0, and 10 K.
+We were not able to observe any meaningful q-dependent
+or T-dependent changes in the TDS. For more careful in-
+spection, we plot intensity curves along several directions,
+for example, along diagonal (δ, -δ) and horizontal (δ, 0)
+directions in Fig. 3 (b). No clear and consistent change
+is found across Tc while some anomalous kink can be at-
+tributed to the 3 x 3 phase. It should be noted that TDS
+intensity is an energy-integrated measurement and it is
+always possible that a small thermal population at low
+temperature and/or not-enough x-ray ﬂux may hinder
+the observation of a small phonon anomaly. With these
+limitations in mind, we conclude it is likely that the the
+change of phonon frequency across the superconducting
+phase transition is small to be detected.
+IV.
+DISCUSSION
+Here we report that NdO1−xFxBiS2 (x = 0.37 and 0.3)
+develops a CDW, a long-sought structural ground state
+in the BiS2-based superconductors that coexist with su-
+perconductivity. The origin of a CDW is an interesting
+and often challenging question. It can be from FSN as in
+simple Pierels system, q-dependent electron-phonon cou-
+pling as in some TMDC, or electron-electron correlation
+in cuprates55. While the QCDW seems to be far from the
+FSN vectors known so far, electron-phonon coupling cal-
+culations were not successful to predict the wavevector
+yet. More careful studies considering the interlayer cou-
+plings and even electronic correlations could be required.
+The discrepancy between the calculations and mea-
+surements might be from the structural instability to the
+monoclinic phase in the BiS2-based system. At high pres-
+sure, LaO1−xFxBiS2 undergoes a structural phase tran-
+sition to P21/m and yields higher Tc28.
+According to
+the ﬁrst-principle calculations, in the monoclinic phase,
+the magnitude of the interlayer hopping becomes much
+larger stabilizing the electronic state56,57. Our intensity
+map at (H, K, 0) in the Supplementary show that the x-
+ray reﬂections no longer satisfy the P4/nmm extinction
+conditions, probably due to a monoclinic phase transition
+as observed in some other BiS2-based systems58.
+The
+enhanced interlayer hopping in the monoclinic structure,
+therefore, can be responsible for the L-dependence of our
+CDW wavevector. We claim that the interlayer coupling
+overlooked so far in the phonon and band calculations
+can be essential to properly describe the electron-phonon
+
+
+6
+coupling, FSN, CDW, and the nature of superconductiv-
+ity in BiS2-based superconductors.
+Lastly, the role of CDW in superconductivity has been
+an active research subject since Fr¨ohlich tried to explain
+superconductivity with sliding of CDW, a concept con-
+ceived even before BCS formalism59.
+While there is
+accumulating evidence that a CDW could be a ubiqui-
+tous phase in unconventional superconductors23,24, the
+relation with superconductivity remains elusive.
+Here,
+we suggested that the charge density wave and su-
+perconductivity might be in competition while coexist-
+ing over a certain doping range in the phase diagram.
+Like lattice vibrations in a conventional superconduc-
+tor, charge/orbital ﬂuctuation near the quantum criti-
+cal point is argued to be capable of mediating supercon-
+ductivity. Considering the absence of momentum- and
+temperature- dependent anomalies in the phonon spec-
+trum across Tc, we cannot exclude the unconventional
+pairing mechanism. The study on the interplay between
+CDW and superconductivity in BiS2-based superconduc-
+tors, by changing external perturbations like doping or
+pressure will be a fascinating topic that requires lots of
+future attention.
+V.
+CONCLUSION
+In summary, we found an intrinsic and long-range
+CDW phase in a NdO1−xFxBiS2 (x = 0.37 and 0.3) su-
+perconductor by x-ray diﬀraction measurements.
+The
+CDW wavevector is QCDW ≈(0.17, 0.17, 0.5) with clear
+L-dependence and the atomic displacements are trans-
+verse and in diagonal directions. The wavevector does
+not match theoretical estimations from phonon soften-
+ing or FSN and therefore places an important constraint
+on forthcoming studies. We measured TDS across the
+Tc and could not ﬁnd meaningful q- and T- dependent
+changes.
+VI.
+ACKNOWLEDGMENTS
+We thanks D. Louca and C. Park for fruitful discus-
+sions. Cornell High Energy Synchrotron Source was sup-
+ported by the NSF and NIH/National Institute of Gen-
+eral Medical Sciences via NSF award no. DMR-1332208.
+1 K. Deguchi, Y. Takano, and Y. Mizuguchi, Sci. Technol.
+Adv. Mater. 13, 054303 (2012).
+2 Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui,
+K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura,
+Phys. Rev. B 86, 220510(R) (2012).
+3 K. Deguchi, Y. Takano, and Y. Mizuguchi, Sci. Technol.
+Adv. Mater. 13, 054303 (2012).
+4 D. Yazici, I. Jeon, B. D. White, and M. B. Maple, Physica
+C 514, 218 (2015).
+5 H. Usui and K. Kuroki, Nov. Supercond. Mater. 1, 50
+(2015).
+6 K. Terashima, T. Wakita, and T. Yokoya, J. Phys. Soc.
+Jpn. 88, 041006 (2019).
+7 H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B 86,
+220501(R) (2012).
+8 Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kad-
+owaki, and O. Miura, J. Phys. Soc. Jpn. 83, 053704 (2014).
+9 T. Yildirim, Phys. Rev. B 87, 020506(R) (2013).
+10 X. Wan, H. -C. Ding, S. Y. Savrasov, and C. -G. Duan,
+Phys. Rev. B 87, 115124 (2013).
+11 B. Li, Z. W. Xing, and G. Q. Huang, EPL 101, 47002
+(2013).
+12 Y. Feng, H. -C Ding, Y. Du, X. Wan, B. Wang, S. Y.
+Savrasov, and C. -G. Duan, J. Appl. Phys. 115, 233901
+(2014).
+13 S. F. Wu, P. Richard, X. B. Wang, C. S. Lian, S. M. Nie,
+J. T. Wang, N. L. Wang, and H. Ding, Phys. Rev. B 90,
+054519 (2014).
+14 T. Zhou and Z. D. Wang, J. Supercond. Nov. Magn. 26,
+2735 (2013).
+15 Y. Liang, X. Wu, W. -F. Tsai, and J. Hu, Frontiers of
+Physics 9, 194 (2014).
+16 K. Suzuki, H. Usui, and K. Kuroki, Physics Procedia 45,
+21 (2013).
+17 G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B
+87, 081102(R) (2013).
+18 Y. Yang, W. S. Wang, Y. Y. Xiang, Z. Z. Li, and Q. H.
+Wang, Phys. Rev. B 88, 094519 (2013).
+19 C. Morice, R. Akashi, T. Koretsune, S. S. Saxena, and R.
+Arita, Phys. Rev. B 95, 180505 (2017).
+20 K. Suzuki, H. Usui, K. Kuroki, and H. Ikeda, Phys. Rev.
+B 96, 024513 (2017).
+21 J. Lee, M. B. Stone, A. Huq, T. Yildirim, G. Ehlers, Y.
+Mizuguchi, O. Miura, Y. Takano, K. Deguchi, S. Demura,
+and S.-H. Lee, Phys. Rev. B 87, 205134 (2013).
+22 Y. Tian, A. Zhang, J. Ji, J. Liu, X. Zhu, H.-H. Wen, F.
+Jin, X. Ma, and Q.-M. Zhang, Supercond. Sci. Technol. 29,
+015007 (2016).
+23 H. Miao, R. Fumagalli, M. Rossi, J. Lorenzana, G. Seibold,
+F. Yakhou-Harris, K. Kummer, N. B. Brookes, G. D. Gu,
+L. Braicovich, G. Ghiringhelli, and M. P. M. Dean, Phys.
+Rev. X 9, 031042 (2019).
+24 S. Manzeli, D. Ovchinnikov, D. Pasquier, O. V. Yazyev,
+and A. Kis, Nat. Rev. Mater. 2, 17033 (2017).
+25 T. Machida, Y. Fujisawa, M. Nagao, S. Demura, K.
+Deguchi, Y. Mizuguchi, Y. Takano, and H. Sakata, J. Phys.
+Soc. Jpn. 83, 113701 (2014).
+26 S. Demura, N. Ishida, Y. Fujisawa, and H. Sakata, J. Phys.
+Soc. Jpn. 86, 113701 (2017).
+27 N. Ishida, S. Demura, Y. Fujisawa, S. Ohta, K. Miyata,
+and H. Sakata, J. Phys. Conf. Ser. 1054, 012001 (2018).
+28 T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa,
+Y. Gotoh, Y. Mizuguchi, H. Izawa, O. Miura, S. Demura,
+K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 83, 063704
+(2014).
+
+
+7
+29 Q. Liu, X. Zhang, and A. Zunger, Phys. Rev. B 93, 174119
+(2016).
+30 X. Zhou, Q. Liu, J. A. Waugh, H. Li, T. Nummy, X. Zhang,
+X. Zhu, G. Cao, A. Zunger, and D. S. Dessau, Phys. Rev.
+B 95, 075118 (2017).
+31 Y. Chen, Y. Cui, A. Pham, Y. Wang, M. M. Bhadbhade,
+R. Wang, Y. Su, H. Hu, Z. Wen, C. Cheng, T. T. Tan, S.
+Li, and Y. Zhao, J. Mater. Chem. C 7, 586 (2019).
+32 A. Athauda and D. Louca, J. Phys. Soc. Jpn. 88, 041004
+(2019).
+33 A. Athauda, Y. Mizuguchi, M. Nagao, J. Neuefeind, and
+D. Louca, J. Phys. Soc. Jpn. 86, 124718 (2017).
+34 A. Athauda, C. Hoﬀmann, S. Aswartham, J. Terzic, G.
+Cao, X. Zhu, Y. Ren, and D. Louca, J. Phys. Soc. Jpn.
+86, 054701 (2017).
+35 A. Athauda, J. Yang, S.-H. Lee, Y. Mizuguchi, K. Deguchi,
+Y. Takano, O. Miura, and D. Louca, Phys. Rev. B 91,
+144112 (2015).
+36 S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H.
+Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki,
+H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya,
+and Y. Takano, J. Phys. Soc. Jpn. 82, 033708 (2013).
+37 Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fu-
+jihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc.
+Jpn. 81, 114725 (2012).
+38 S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H.
+Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki,
+H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya,
+and Y. Takano, J. Phys. Soc. Jpn. 82, 033708 (2013).
+39 F. Weber, S. Rosenkranz, J.-P. Castellan, R. Osborn, R.
+Hott, R. Heid, K.-P. Bohnen, T. Egami, A. H. Said, and
+D. Reznik, Phys. Rev. Lett. 107, 107403 (2011).
+40 G. F. Giuliani and A. W. Overhauser, Phys. Rev. B 26,
+1660 (1982).
+41 J. Lee , K. Prokes, S. Park, I. Zaliznyak, S. Dissanayake,
+M. Matsuda, M. Frontzek, S. Stoupin, G. L. Chappell, R.
+E. Baumbach, C. Park, J. A. Mydosh, G. E. Granroth, and
+J. P. C. Ruﬀ, Phys. Rev. B 102, 041112(R) (2020).
+42 See Supplementary Material for more discussion on the
+volume fraction estimation.
+43 N. Poccia, M. Fratini, A. Ricci, G. Campi, L. Barba, A.
+Vittorini-Orgeas, G. Bianconi, G. Aeppli, and A. Bianconi,
+Nat. Mater. 10, 733 (2011).
+44 N. Poccia, S. Y. F. Zhao, H. Yoo, X. Huang, H. Yan, Y.
+S. Chu, R. Zhong, G. Gu, C. Mazzoli, K. Watanabe, T.
+Taniguchi, G. Campi, V. M. Vinokur, and P. Kim, Phys.
+Rev. Mater. 4, 114007 (2020).
+45 See Supplementary Material for more discussion on the
+relationship between CDW domain size and superconduc-
+tivity.
+46 G. Campi, A. Bianconi, N. Poccia, G. Bianconi, L. Barba,
+G. Arrighetti, D. Innocenti, J. Karpinski, N. D. Zhigadlo,
+S. M. Kazakov, M. Burghammer, M. v. Zimmermann, M.
+Sprung, and A. Ricci, Nature 525, 359 (2015).
+47 N Poccia, A. Ricci, G. Campi, M. Fratini, A. Puri, D. Di
+Gioacchino, A. Marcelli, M. Reynolds, M. Burghammer,
+N. L. Saini, G. Aeppli, and A. Bianconi, Proc. Natl. Acad.
+Sci. U.S.A. 109, 15685 (2012).
+48 M. E. Flatt´e, Phys. Rev. B 50, 1190 (1994).
+49 H. Kawano, H. Yoshizawa, H. Takeya, and K. Kadowaki,
+Phys. Rev. Lett. 77, 4628 (1996).
+50 P. Aynajian, T. Keller, L. Boeri, S. M. Shapiro, K. Habicht,
+and B. Keimer, Science 319, 1509 (2008).
+51 A. D. Christianson, M. D. Lumsden, O. Delaire, M. B.
+Stone, D. L. Abernathy, M. A. McGuire, A. S. Sefat, R.
+Jin, B. C. Sales, D. Mandrus, E. D. Mun, P. C. Canﬁeld, J.
+Y. Y. Lin, M. Lucas, M. Kresch, J. B. Keith, B. Fultz, E.
+A. Goremychkin, and R. J. McQueeney, Phys. Rev. Lett.
+101, 157004 (2008).
+52 D. Phelan, J. N. Millican, E. L. Thomas, J. B. Le˜ao, Y.
+Qiu, and R. Paul, Phys. Rev. B 79, 014519 (2009).
+53 R. Chaudhury and M. P. Das, J. Phys. Condens. Matter
+25, 122202 (2013).
+54 M. Holt, Z. Wu, H. Hong, P. Zschack, P. Jemian, J. Tis-
+chler, H. Chen, and T.-C. Chiang, Phys. Rev. Lett. 83,
+3317 (1999).
+55 Xuetao Zhu, Jiandong Guo, Jiandi Zhang, and E. W.
+Plummer, Advances in Physics: X 2, 622 (2017).
+56 M. Ochi, R. Akashi, and K. Kuroki, J. Phys. Soc. Jpn. 85,
+094705 (2016).
+57 K. Suzuki, H. Usui, K. Kuroki, T. Nomoto, K. Hattori,
+and H. Ikeda, J. Phys. Soc. Jpn. 88, 041008 (2019).
+58 R. Sagayama, H. Sagayama, R. Kumai, Y. Murakami, T.
+Asano, J. Kajitani, R. Higashinaka, T. D. Matsuda, and
+Y. Aokim, J. Phys. Soc. Jpn. 84, 123703 (2015).
+59 H. Frohlich, Proc. R. Soc. Lon. Ser-A 223, 296 (1954).
+
+

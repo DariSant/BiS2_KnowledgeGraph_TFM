@@ -1,0 +1,463 @@
+ 
+1
+Superconducting and magneto-transport properties of BiS2 based 
+superconductor PrO1-xFxBiS2 (x = 0 to 0.9) 
+ 
+Rajveer Jha, Hari Kishan and V.P.S. Awana 
+ 
+CSIR-National Physical Laboratory, Dr. K.S. Krishnan Marg, New Delhi-110012, India 
+ 
+ 
+Abstract: We report superconducting properties of PrO1-xFxBiS2 compounds, synthesized by 
+the vacuum encapsulation technique. The synthesized PrO1-xFxBiS2 (x=0.1, 0.3, 0.5, 0.7 and 
+0.9) samples are crystallized in a tetragonal P4/nmm space group. Both transport and DC 
+magnetic susceptibility measurements showed bulk superconductivity below 4 K. The 
+maximum Tc is obtained for x = 0.7 sample. Under applied magnetic field both Tc onset and 
+Tc (ρ =0) decrease to lower temperatures. We estimated highest upper critical field [Hc2(0)] 
+for PrO0.3F0.7BiS2 sample to be above 4 T (Tesla). The thermally activated flux flow (TAFF) 
+activation energy (U0) is estimated 54.63 meV in 0.05 Tesla field for PrO0.3F0.7BiS2 sample. 
+Hall measurement results showed that electron charge carriers are the dominating ones in 
+these compounds. Thermoelectric effects (Thermal conductivity and Seebeck coefficient) 
+data suggest strong electron-electron correlations in this material. 
+ 
+Key Words: BiS2 based new superconductor, structure, magnetization and transport 
+properties. 
+ 
+PACS number(s): 74.10.+v, 74.70.-b, 74.70. Dd, 74.25.Fy   
+*Corresponding Author 
+Dr. V. P. S. Awana, Principal Scientist  
+E-mail: awana@mail.npindia.org 
+Ph. +91-11-45609357, Fax-+91-11-45609310 
+Homepage www.fteewebs.com/vpsawana/ 
+ 
+Introduction: 
+Very recently discovered superconductivity in BiS2 based layered compounds has 
+attracted much attention of various groups, because these compounds have similar layered 
+structure as in famous cuprates high Tc superconductors (HTSc) and iron Pnictides 
+superconductors. Superconductivity in Bi4O4S3 with Tc=8.6K and (La/Nd/Ce/Pr)O0.5F0.5BiS2 
+with Tc=3-10 K [1-11] has recently been reported. It is expected that cuprates and iron 
+pnictides compounds, containing 3d transition metals, exhibit superconductivity within their 
+layered structures. Superconducting transition temperature can be varied by the changing 
+
+
+ 
+2
+blocking layer. Here, the basic structural unit, i.e., BiS2 layer is similar to the CuO2 planes in 
+Cu–based superconductors [12] and the FeAs planes in iron pnictides [13]. The parent phase 
+of these compounds i.e., ReOBiS2 (Re= La, Nd, Ce, & Pr) is a bad metals or quasi insulator. 
+The doping of charges carriers improves the electrical conduction and exhibit 
+superconductivity at low temperatures. The doping mechanism of the BiS2 based 
+superconductors is seemingly the same as for Fe pnictides [14, 15]. It has also been suggested 
+that superconductivity emerges in close proximity to an insulating normal state [16].  
+Substituting F for O induces superconductivity in BiS2-based superconductors. 
+Superconductivity is achieved by doping of the oxide blocks (LaO), which acts as spacer 
+layer. In case of LaO1−xFxBiS2 superconductivity appears at x = 0.2, reaches a maximum at x 
+= 0.5 and is gradually suppressed and disappeared at x = 0.7 [3, 8, 17].  The superconducting 
+transition temperature is the highest at the optimal doping point of around x = 0.5. 
+Superconductivity has also been observed by electrons doping via substitution of tetravalent 
+Th+4, Hf+4, Zr+4, and Ti+4 for trivalent La+3 in LaOBiS2 [18]. Superconductivity was also 
+reported in SrFBiS2 compound, via hole doping through substitution of La at the site of Sr 
+[19]. SrFBiS2 seems to be the ground state of these BiS2 based layered superconductors [19]. 
+The pressure dependent resistivity experiments have been performed on Bi4O4S3, 
+LaO0.5F0.5BiS2, NdO0.5F0.5BiS2, CeO0.5F0.5BiS2 and Pr O0.5F0.5BiS2 samples [17, 20-22,], and 
+the results indicated the enhancement of superconductivity accompanied by the suppression 
+of semiconducting behavior with increase in pressure. Multiband behavior with dominant 
+electron carriers in these materials has been observed by both experimental and theoretical 
+studies and electron carriers are being known to be originated from the Bi 6p orbital [23]. 
+These newest layered BiS2-based superconducting systems are very sensitive to the carrier 
+doping level, as the atomic substitutions cause profound changes in their properties, and 
+superconductivity appears in the vicinity of the insulating-like state. A chance to explore 
+superconductivity and increase Tc in these new compounds has already resulted in a lot of 
+work that appeared shortly after their discovery [1-11, 18–22]. Hall effect measurements 
+revealed multiband features and suggested that superconducting pairing occurs in one 
+dimensional chains [16]. These compounds do also possess reasonably good thermoelectric 
+properties [24].  
+In this paper, we report on the synthesis and doping dependence of Tc in PrO1-xFxBiS2 
+compounds. All samples are crystallized in tetragonal P4/nmm space group, the c lattice 
+parameter decrease with the doping of F for x=0.7 and then slightly increase for higher 
+concentration. Superconducting temperature (Tc onset ~ 4.5 K) is highest for PrO0.3F0.7BiS2 
+
+
+ 
+3
+sample. Here we present structural, electrical and thermal transport properties of the PrO1-
+xFxBiS2 samples.  
+ 
+Experimental: 
+ 
+ 
+Bulk polycrystalline PrO1-xFxBiS2 (x=0.1, 0.3, 0.5, 0.7 & 0.9) samples were 
+synthesized by standard solid state reaction route via vacuum encapsulation. High purity Pr, 
+Bi, S, PrF3, and Pr6O11 are weighed in stoichiometric ratio and ground thoroughly in a glove 
+box under high purity argon atmosphere. The mixed powders are subsequently palletized and 
+vacuum-sealed (10-3 Torr) in a quartz tube. Sealed quartz ampoules were placed in box 
+furnace and heat treated at 7800C for 12h with the typical heating rate of 2oC/min., and 
+subsequently cooled down slowly to room temperature. This process was repeated twice. X-
+ray diffraction (XRD) was performed at room temperature in the scattering angular (2θ) range 
+of 10o-80o in equal 2θ step of 0.02o using Rigaku diffractometer with Cu Kα (λ = 1.54Å). 
+Rietveld analysis was performed using the standard FullProf program. Detailed dc and ac 
+transport and magnetization measurements were performed on Physical Property 
+Measurements System (PPMS-14T, Quantum Design). 
+ 
+Results and discussion: 
+ 
+ 
+Figure 1 shows the room temperature observed and Reitveld fitted XRD pattern of as 
+synthesized PrO1-xFxBiS2 (x = 0.1 to 0.9) samples. The compounds are crystallized in 
+tetragonal structure with space group P4/nmm. Small amount of Bi and Bi2S3 impurities are 
+also seen within main phase of the compound. As seen from the XRD patterns in Figure 1, 
+the impurity phases are quite small and present in all the samples. Though, we did not 
+quantify exactly the amount of impurities present in main phase of the samples, but the same 
+does not appear to have direct impact on observation of superconductivity. The Rietveld 
+fitted results show that the a axis of PrO1-xFxBiS2 is 4.014(2) Å for x = 0.1, which increases to 
+4.019(1) Å for x = 0.7, and then slightly decreases to 4.018(2) Å for x = 0.9. The c-axis lattice 
+constant decreases from 13.508(3) Å to 13.360(1) Å as x is increased from x = 0.1 to 0.7 and 
+the same increase slightly to c = 13.386(4) Å for x = 0.9. This result indicates that the layer 
+structure slightly expands in the in-plane direction and compressed in c-direction with F 
+doping, reaches a maximum at x = 0.7, and then starts to shrink at x = 0.9. Decrease of the c-
+axis lattice parameter indicate that F has been successfully substituted at the O site, as the 
+ionic radius of F is smaller than that of O. Similar trend of lattice parameters is reported for 
+NdO1-xFxBiS2 and CeO1-xFxBiS2 compounds [9, 16]. As far as increase of the c-axis lattice 
+
+
+ 
+4
+parameter for x = 0.9 sample is concerned, we believe that the doping of F at O site in 
+PrOBiS2 is successful only up to x = 0.7.  
+ 
+ 
+DC magnetic susceptibility under the applied magnetic field of 10 Oe is shown in 
+Figure 2. Magnetization measurements are performed in both ZFC (Zero Field Cooled) and 
+FC (Field Cooled) protocols for the studied PrO1-xFxBiS2 (x=0.3, 0.5, 0.7, and 0.9) samples. 
+The compounds exhibit diamagnetic transition at around 2.5 K for x = 0.3, 3.0 K for x = 0.5, 
+3.7 K for x = 0.7, and at 3.5 K for x = 0.9. A superconducting transition is observed for all the 
+F-doped samples. All samples show reasonable shielding volume fraction, indicating the 
+appearance of bulk superconductivity in these samples. Namely, the same is around 8%, 
+43%, 80% and 33% for x = 0.3, 0.5, 0.7 and 0.9 samples of PrO1-xFxBiS2 series.  The 
+PrO0.3F0.7BiS2 sample exhibits the maximum shielding volume fraction of ~ 80% and the 
+highest Tc (3.7 K) as well, among all the studied samples. Inset of Figure 2, shows the ac 
+magnetic susceptibility of PrO0.3F0.7BiS2 sample, confirming the bulk superconductivity at 
+around 3.7 K. The ac magnetic susceptibility measurements have been carried out at varying 
+amplitude from 3-10 Oe and fixed frequency 333 Hz. It can be seen that with change in 
+amplitude from 3-10 Oe the imaginary part peak height is increased along with increased 
+diamagnetism in real part of ac susceptibility. The interesting part is that with increasing AC 
+amplitude the imaginary part peak position temperature (3.7 K) is not changed. This is an 
+indication that the superconducting grains are well coupled PrO0.3F0.7BiS2 superconductor.   
+ 
+ 
+The temperature dependence of the resistance for the PrO1-xFxBiS2 (x = 0, 0.1, 0.3, 
+0.5, 0.7, and 0.9) samples is shown in Figure 3. Pure PrOBiS2 sample shows semiconducting 
+behavior at low temperatures without appearance of superconductivity down to 2 K. With 
+doping of F at O site, superconductivity appears and Tc is seen increasing till x = 0.7 further 
+the same is decreased for x = 0.9. A superconducting transition is observed for all the F 
+doped samples. The samples with x =0.7 exhibit high Tc onset of above 4.5 K, inset of the 
+figure shows the zoom part of the R-T plots from 1.5- 5 K. The superconducting transition 
+temperature (Tc) is slightly higher as being seen from the magnetization measurements 
+(Figure. 2) than the magnetization studies (Fig. 2). This may be due to the fact that the 
+transport measurements require only the percolation path for the resistance less current to 
+flow. On the other hand the magnetization measurements require reasonable diamagnetic 
+fraction for the superconductivity to be seen. However, the general trend of the variation of Tc 
+with x is the same as being seen from both transport and magnetization measurements. The x 
+dependence of lattice parameter c (Å) and Tc (magnetization) is plotted in Figure 4. The Tc of 
+the all samples varies with the lattice constant as well as x concentration. It is highest for 
+
+
+ 
+5
+lowest c lattice constant. This indicates that the chemical pressure is increasing with the F 
+concentration till x = 0.7 and at further concentration of x= 0.9, the Tc is decreased. It is 
+concluded that with decreasing lattice constant the superconducting transition Tc is increasing. 
+As mentioned in XRD results, the doping of F at O site in PrOBiS2 is seemingly successful 
+only up to x = 0.7, perhaps this is the reason that Tc is not increased beyond x = 0.7.  
+  
+ 
+ 
+The temperature dependence of resistivity under applied magnetic field is shown in 
+Figure 5 (a), (b), and (c) for the three samples i.e., x = 0.5, 0.7, and 0.9 respectively. Tc
+onset 
+decreases less compared to Tc(R=0) with the increasing magnetic field, hence the transition 
+width is broadened. Similar broadening of the transition was observed in the high-Tc layered 
+cuprate and Fe-pnictide superconductors. The upper critical field Hc2 versus T for 
+PrO0.5F0.5BiS2, PrO0.3F0.7BiS2 and PrO0.1F0.9BiS2 is shown in the Figure 6.  Hc2 is estimated 
+using the conventional one-band Werthamer–Helfand–Hohenberg (WHH) equation, i.e., 
+Hc2(0) = −0.693Tc(dHc2/dT)T=Tc. The Hc2 corresponds to the temperatures, where the 
+resistivity drops to 90% of the normal state resistivity ρn(T,H) at Tc
+onset  in applied magnetic 
+fields. The solid lines are the result of fitting of Hc2(T) to the WHH formula. The estimated 
+Hc2(0) is 2.7 Tesla for PrO0.5F0.5BiS2, 4.8 Tesla for PrO0.3F0.7BiS2, and 3.8 Tesla for 
+PrO0.1F0.9BiS2.   
+The temperature derivatives of resistivity (dρ/dT) for the superconducting samples 
+PrO0.5F0.5BiS2, PrO0.3F0.7BiS2 and PrO0.1F0.9BiS2 are shown in Figure.7 (a), (b) and (c) 
+respectively. It is clear that only a single transition peak is seen for every applied field. This 
+single superconducting transition suggests better grains coupling in these systems. Also we 
+observed some broadening of peaks with increasing applied magnetic field. The broadening 
+of dρ/dT peak for increasing applied field suggests that superconducting onset is relatively 
+less affected than the Tc (ρ=0) state. Due to the thermally activated flux flow (TAFF) there is 
+broadening of resistive transitions under applied magnetic fields [25]. The resistance in 
+broadened region is due to the creep of vortices, which are thermally activated. The resistivity 
+in this region can be given by Arrhenius equation [26, 27], 
+ρ(T,B) = ρ0 exp[ - U0/kBT] 
+Where, ρ0 is the field independent pre-exponential factor (the normal state resistance at 5K 
+i.e., ρ5K is taken as ρ0), kB is the Boltzmann’s constant and U0 is TAFF (thermally activated 
+flux flow) activation energy, which can be obtained from the slope of the linear part of an 
+Arrhenius plot in low resistivity region. We have plotted experimental data as ln(ρ/ρ5K) 
+versus T-1 in Figure 8 (a), (b) and (c)  for all three samples. The best fitted data give values of 
+
+
+ 
+6
+the activation energy, which varies from 54.63 meV to 1 meV in the magnetic field range of 
+0.05 to 1 Tesla for the PrO0.3F0.7BiS2 sample. The magnetic field dependence of activation 
+energy (U0) for PrO0.5F0.5BiS2, PrO0.3F0.7BiS2 and PrO0.1F0.9BiS2 samples is shown in Figure 
+9.  
+ 
+ 
+Hall effect measurements of superconducting PrO0.3F0.7BiS2 sample are shown in the 
+figure 10. The temperature dependence of RH has been carried out at a magnetic field of 1 
+Tesla from 300 K down to 2 K.  The negative RH signal is observed for the given temperature 
+range, indicating that the dominant charge carriers are electrons similar to that as in iron 
+based superconductors [19].  The inset of the Figure 10, depicts magnetic field dependent ρxy 
+at different temperatures from 2 – 300 K of the same sample. Hall resistivity ρxy is measured 
+with longitudinal current and perpendicular magnetic field (H = 0-5 Tesla) to the surface of 
+the sample and the voltage Vxy is measured across the direction of sample width. Here ρxy 
+remains negative for all temperatures, indicating that the electrons are the dominating current 
+carriers in the system. Further the ρxy exhibited curved transition like feature at 2 K, below 
+say 1.5 Tesla. For higher temperatures (10 K – 300 K) the resistivity remains negative and 
+linear. The curved feature below 1.5 Tesla at 2K happens due to the fact that the compound is 
+superconducting below this temperature and applied fields.  For higher fields (> 1.5 Tesla) 
+the Vxy at 2 K is again linear and negative because the compound is turned to normal 
+conductor at this field. When ρxy exhibits a linear behavior with the magnetic field, the RH can 
+be measured by RH = dρxy/dH = 1/ne, for a single band metal, where n is the charge carrier 
+density. Using a single band assumption and taking the value of RH at 5 K, we get the charge 
+carrier density of 3.84 × 1019/cm3.  Worth caution is the fact that the single band metal model 
+could not work for the BiS2 based superconductors [16] and the situation may be similar to 
+the case of Fe pnictides and hence the carrier calculation may need corrections.  
+ 
+ 
+ 
+Figure 11 shows thermal conductivity κ (T) and Seebeck coefficient S(T) results of 
+PrO0.3F0.7BiS2 sample. Thermal conductivity in the PrO0.3F0.7BiS2 compound is seemingly 
+dominated by phonons and the electron contribution being calculated by the Wiedemann–
+Franz law may be negligible. Similar situation is found for SmFeAs(O0.93F0.07) [28]. Smaller 
+κ values in PrO0.3F0.7BiS2 may represent the crystallographic disorder. An enhancement of κ 
+value above the superconducting temperature 5 K is due to the gap opening at the Fermi 
+surface, followed by carrier condensation and consequent suppression of electron-phonon 
+scattering. Seebeck coefficient S(T) is linearly dependent with temperature. The negative S(T) 
+for whole measurement temperature region, indicates the electron-like carriers. The S(T) 
+
+
+ 
+7
+results support the Hall measurements data.  Relatively larger S of around 30µV/K and low 
+thermal conductivity of 1W/mK is reminiscent of strong electron correlation in these systems. 
+Very recently the single crystals [29, 30] of ReOBiS2 (Re= La, Nd, Ce, & Pr) are being 
+grown successfully and their thermal transport data could presumably lend more authentic 
+information on these newest class of superconductors.      
+ 
+Conclusion: 
+ 
+ 
+In conclusion, the synthesized BiS2-based superconductor PrO1-xFxBiS2 (x=0.1-0.9) is 
+crystallized in a tetragonal P4/nmm space group. Reitveld refinement results indicated 
+successful substitution of F at O site. Both electrical resistivity and DC magnetic 
+susceptibility measurements showed bulk superconductivity below 4K. The upper critical 
+field [Hc2(0)] for the optimized PrO0.3F0.7BiS2 sample is estimated over 4 Tesla from ρ(T,H) 
+measurements. The flux flow activation energy is estimated to be 54.63 meV in 0.05 Tesla 
+field for PrO0.3F0.7BiS2 sample. Hall measurement and thermal transport results indicate 
+dominance of electron charge carriers along with strong electron correlation in this 
+compound. Though the Tc of F doped ReOBiS2 is relatively low (2-10K), yet their layered 
+structure, the character ground state, doping pattern, broadening of superconducting transition 
+under magnetic field along with higher S and low κ  could put them close to high Tc  cuprates 
+and Fe pinctide superconductors. 
+ 
+Acknowledgement: 
+Authors would like to thank their Director Professor R.C. Budhani for his keen 
+interest in the present work. This work is supported by DAE-SRC outstanding investigator 
+award scheme on search for new superconductors. Rajveer Jha acknowledges the CSIR for 
+the senior research fellowship. H. Kishan thanks CSIR for providing Emeritus Scientist 
+Fellowship.  
+  
+Reference: 
+1. Y. Mizuguchi, H. Fujihisa, Y. Gotoh,  K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, O. Miura, Phys. Rev. B 86, 214518 (2012). 
+ 
+2. S. K. Singh, A. Kumar, B. Gahtori, Shruti; G. Sharma, S. Patnaik,  V. P. S. Awana, J. 
+Am. Chem. Soc. 134, 16504 (2012). 
+ 
+
+
+ 
+8
+3. Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+O. Miura, J. Phys. Soc. Jpn. 81, 114725 (2012).  
+ 
+4. S. G. Tan, P. Tong, Y. Liu, W. J. Lu, L. J. Li, B. C. Zhao, and Y. P. Sun, Eur. Phys. J. 
+B 85, 414 (2012). 
+ 
+5. V.P.S. Awana,  A. Kumar, R. Jha, S. K. Singh, A. Pal, Shruti, J. Saha, S. Patnaik, 
+Solid State Communications 157,  21 (2013). 
+ 
+6. K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura and Y. Takano, 
+Euro Phys. Lett. 101, 17004 (2013). 
+ 
+7. K. Deguchi, Y. Takano, Y.  Mizuguchi, Sci. Technol. Adv. Mater. 13, 054303 (2012). 
+ 
+8. B. Li, Z. W. Xing and G. Q. Huang, Euro Phys. Lett. 101, 47002 (2013). 
+ 
+9. S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano, J. Phys. Soc. Jpn. 82,  033708 (2013). 
+ 
+10. R. Jha, A. Kumar, S. K. Singh, V.P.S. Awana, J Supercond Nov Magn. 26, 499 
+(2013). 
+ 
+11. R.  Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. App. Phy. 113, 056102 (2013). 
+ 
+12. Y. Kamihara, T. Watanabe, M. Hirano, H. Hosono, J. Am. Chem. Soc. 130, 3296 
+(2008).   
+13. J. G. Bednorz and K. A. Muller, Z. Phys. B 64, 189 (1986). 
+ 
+14. T.  Zhou, Z.D. Wang, J Supercond Nov Magn, 26, 2735 (2013). 
+ 
+15. W. A. Phelan, D. C. Wallace, K. E. Arpino,  J. R. Neilson, K. J. Livi, C. R. 
+Seabourne, A. J. Scott, and T. M. McQueen, J. Am. Chem. Soc. 135, 5372 (2013). 
+ 
+
+
+ 
+9
+16. J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B 86, 214518 (2012).  
+ 
+17. H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 81, 103702 (2012). 
+ 
+18. D. Yazici,  K. Huang,  B. D. White,  I. Jeon,  V. W. Burnett,  A. J. Friedman,  I. K. 
+Lum, M. Nallaiyan, S. Spagna,  and M. B. Maple, Phys. Rev. B 87, 174512 (2013). 
+ 
+19. X. Lin, X. Ni, B. Chen,  X. Xu, X. Yang, J. Dai, Y. Li,  X. Yang,  Y. Luo, Q. Tao,  G. 
+Cao, and Z. Xu, Phys. Rev. B 87, 020504(R) (2013). 
+ 
+20. G. Kalai Selvan, M. Kanagaraj, S. Esakki Muthu, R. Jha, V. P. S. Awana, and S. 
+Arumugam, Phys. Status Solidi RRL7, 510 (2013). 
+ 
+21. C. T. Wolowiec, D. Yazici, B. D. White, K. Huang, and M. B. Maple, Phys. Rev. B 
+88, 064503 (2013). 
+ 
+22. G. K. Selvan, M. Kanagaraj, R. Jha, V. P. S. Awana, S. Arumugam, arXiv:1307.4877 
+(2013). 
+23. X. Wan,  H. C. Ding, S. Y. Savrasov, and C. G. Duan, Phys. Rev. B 87, 115124 
+(2013). 
+ 
+24. S.G. Tan, L. J.  Li, Y. Liu, P. Tong, B.C. Zhao, W.J. Lu, Y.P. Sun, Physica C 483, 94 
+(2012). 
+ 
+25. A. Gurevich, Rep. Prog. Phys. 74, 124501 (2011). 
+ 
+26. J. Jaroszynski, F. Hunte, L. Balicas, Jo Youn-jung, I. Rai Cevic, A. Gurevich, D.C. 
+Larbalestier, F.F. Balakirev, L. Fang, P. Cheng, Y. Jia, H.H. Wen, Phys. Rev. B 78, 
+174523 (2008). 
+ 
+27. A. Pal, S.S. Mehdi, M. Husain, V.P.S. Awana, Solid State Sciences 15, 123 (2013). 
+ 
+28. M. Tropeano, A. Martinelli, A. Palenzona, E. Bellingeri, E. Galleani d’Agliano, T. D. 
+Nguyen, M. Affronte, and M. Putt Phys. Rev. B 78, 094518 (2008). 
+
+
+ 
+10 
+ 
+29. M. Nagao,  A. Miura,  S. Demura,  K. Deguchi,  S. Watauchi,  T. Takei,  Y. Takano, 
+ N. Kumada and  I. Tanaka  J. Phys. Soc. Jpn. 82, 113701 (2013).  
+ 
+30. J. Liu,  D. Fang,  Z. Wang, J. Xing,  Z. Du,  X. Zhu,  H. Yang and H. H. Wen 
+ arXiv:1310.0377.  
+ 
+Figure Captions  
+ 
+Figure 1: Observed (open circles) and calculated (solid lines) XRD patterns of PrO1-xFxBiS2 
+(x=0.1, 0.3, 0.5, 0.7 and 0.9) compound at room temperature.  
+ 
+Figure 2: DC magnetization (both ZFC and FC) plots for PrO1-xFxBiS2 (x=0.3, 0.5, 0.7 and 
+0.9) measured in the applied magnetic field, H= 10 Oe. Inset show the ac magnetic 
+susceptibility in real (M’) and imaginary(M”) situations at fixed frequency of 333 Hz in 
+varying amplitudes of 3–10 Oe for PrO0.3F0.7BiS2 sample. 
+ 
+Figure 3: Resistance versus temperature (R/R300 Vs T) plots for PrO1-xFxBiS2 (x=0, 0.1, 0.3, 
+0.5, 0.7 & 0.9) samples, inset show the same in 1.5-5.0 K temperature range. 
+ 
+ Figure 4: The concentration of F-doping (x) dependence of the lattice constants (c-axis) and 
+superconducting Tc. 
+ 
+Figure 5: Temperature dependence of the resistivity ρ(T) under magnetic fields  for the (a) 
+PrO0.5F0.5BiS2 ,  (b) PrO0.3F0.7BiS2 and (c) PrO0.1F0.9BiS2 samples. 
+ 
+Figure 6: The upper critical field Hc2 taken from 90% of the resistivity ρ(T) for the samples 
+PrO0.5F0.5BiS2 , PrO0.3F0.7BiS2 and PrO0.1F0.9BiS2. 
+ 
+Figure 7: Temperature derivative of normalized resistivity Versus T for (a) PrO0.5F0.5BiS2, 
+(b) PrO0.3F0.7BiS2 and (c) PrO0.1F0.9BiS2 samples. 
+ 
+Figure 8: Fitted Arrhenius plots of resistivity for PrO0.5F0.5BiS2, PrO0.3F0.7BiS2 and 
+PrO0.1F0.9BiS2 samples. 
+ 
+
+
+ 
+11 
+ Figure 9: Magnetic field dependent TAFF activation energy plots on log-log scale, the solid 
+lines represent power law fitting to the experimental data of all three samples. 
+ 
+Figure 10: The Hall coefficient RH of the PrO0.3F0.7BiS2 sample at 1 Tesla from 2 to 300 K. 
+inset show the Hall resistivity ρxy vs the magnetic field μ0H at 2, 10, 50, 100, 200, and 300 K 
+for the same sample.  
+Figure 11: Temperature dependence of Thermal conductivity κ (T) and Seebeck coefficient    
+S (T) for the sample PrO0.3F0.7BiS2. 
+ 
+Fig. 1  
+ 
+ 
+
+
+ 
+12 
+Fig. 2 
+ 
+Fig.3  
+ 
+
+
+ 
+13 
+Fig.4 
+ 
+Fig.5  
+ 
+ 
+
+
+ 
+14 
+Fig. 6 
+ 
+Fig.7 
+ 
+
+
+ 
+15 
+Fig.8 
+ 
+Fig.9 
+ 
+ 
+
+
+ 
+16 
+Fig.10 
+ 
+Fig.11 
+ 
+
+

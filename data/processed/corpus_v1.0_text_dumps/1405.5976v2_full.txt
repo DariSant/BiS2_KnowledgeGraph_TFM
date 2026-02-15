@@ -1,0 +1,366 @@
+1 
+ 
+Significant enhancement of superconductivity under hydrostatic pressure in 
+CeO0.5F0.5BiS2 superconductor  
+ 
+Rajveer Jha, H. Kishan and V.P.S. Awana* 
+CSIR-National Physical Laboratory, Dr. K.S. Krishnan Marg, New Delhi-110012, India 
+ 
+We report the effect of hydrostatic pressure (0 – 1.97 GPa) on the superconductivity of 
+BiS2 based CeO0.5F0.5BiS2 compound. The CeO0.5F0.5BiS2 superconductor was synthesized by 
+the solid state reaction route and the compound is crystallized in tetragonal P4/nmm space group. 
+The studied compound shows superconductivity with transition temperature of 2.5K (Tc
+onset) at 
+ambient pressure, which has been enhanced to 8 K at applied pressure of 1.97 GPa. The observed 
+normal resistivity exhibited semiconducting behavior. The data of normal state resistivity ρ(T) 
+has been fitted by activation type equation and it is found that the energy gap is significantly 
+reduced with pressure. Resistivity measurements under magnetic field for the highest applied 
+pressure of 1.97GPa (Tc
+onset = 8K) exhibits the upper critical field of above 5Tesla. The 
+observation of fourfold increase in Tc accompanied with improved normal state conduction 
+under hydrostatic pressure on CeO0.5F0.5BiS2 superconductor calls for the attention of solid state 
+physics community. 
+Key Words:  
+A. BiS2 based new superconductor 
+B. Solid State Synthesis  
+D. Superconductivity  
+E. High Pressure studies 
+ 
+*Corresponding Author 
+Dr. V. P. S. Awana, Principal Scientist  
+E-mail: awana@mail.npindia.org: Ph. +91-11-45609357, Fax-+91-11-45609310 
+Homepage www.fteewebs.com/vpsawana/ 
+ 
+ 
+
+
+2 
+ 
+Introduction 
+There has been a great interest in the scientific community after the discovery of Bi4O4S3 
+superconductor with transition temperature Tc = 8.6K [1,2] and REO0.5F0.5BiS2 (RE=La, Ce, Nd 
+and Pr) with Tc = 2.5-10K [3-10]. The parent phase, REOBiS2 (RE = La, Nd, Ce and Pr) 
+exhibited bad metal behavior [3-10]. In these compounds the superconductivity is induced by the 
+electron doping which is carried out via substitution of F-1at O-2 site in the oxide block (REO). At 
+the same time in similar structure i.e. SrFBiS2 compound, the superconductivity has been 
+observed via hole doping that is attained by the substitution of La3+ at Sr2+ site [11,12]. Therefore 
+it can be safely said that superconductivity appears via carrier doping in the vicinity of the 
+insulating-like state of the parent BiS2 based compounds. Moreover, the superconductivity has 
+also been induced via chemical substitution of the tetravalent ions such as Th4+, Hf4+, Zr4+ and 
+Ti4+ in place of trivalent lanthanum La3+, resulting in the increase of charge density in bad metal 
+LaOBiS2 compound [13]. In various REO0.5F0.5BiS2 systems, the role played by the rare earth 
+elements is noteworthy as for example replacing La with heavier rare earth elements, the Tc 
+(2.1K) of  LaO0.5F0.5BiS2 increases to 3.5K and 5K for PrO0.5F0.5BiS2 and NdO0.5F0.5BiS2 
+[3,4,10].  
+Both the experimental and theoretical studies of BiS2 based superconductors have 
+progressed well but the studies related to impact of external high pressure on the 
+superconducting properties of this compound are limited to select groups only [14-16]. The 
+application of external pressure may effectively change the superconducting properties such as 
+transition temperature Tc of these BiS2 compounds.  Also the same could effectively alter the 
+lattice constants through bond lengths and angles that would certainly affect the electronic and 
+magnetic correlations of a superconductor. In fact the REO/FBiS2 samples being prepared under 
+high pressure (HP) showed higher Tc [3]. It has been speculated that increase in Tc is due to a 
+structural phase transition under pressure. In fact later it was observed by X-ray diffraction 
+(XRD) measurements under ~1GPa pressure that a structural phase transition from tetragonal 
+phase (P4/nmm) to monoclinic phase (P21/m) takes place in LaO0.5F0.5BiS2 [17].   
+Keeping in view the importance of impact of the external pressure on the 
+superconductivity of BiS2 based superconductors we study the effect of hydrostatic pressure on 
+the superconductivity of the CeO0.5F0.5BiS2 compound having a Tc of 2.2K at ambient pressure.  
+
+
+3 
+ 
+This compound is also reported to exhibit the coexistence of superconductivity and 
+ferromagnetism either due to the possible local moments of the Ce or may be some unseen exotic 
+reasons related to the superconducting mechanism [9,18]. Worth mentioning is the fact that 
+impact of hydrostatic pressure on superconductivity of CeO0.5F0.5BiS2 has already been reported 
+very recently [14,15]. An increase in Tc from 2.2K at ambient pressure to above 6K was 
+observed at 1.64GPa, which remains nearly unaltered for studied higher pressures of up to 
+2.47GPa [14]. In the present report, the compound CeO0.5F0.5BiS2 has been subjected to pressure 
+dependent electrical resistivity in the temperature range 300 K down to 2K at several applied 
+pressures of 0 to 1.97GPa to reproduce and test the earlier reported interesting result [14,15]. Our 
+results are though qualitatively similar to that as reported earlier [14,15], yet quantitatively 
+different. In our case the Tc
+onset increases to above 7K at just 0.97GPa. Also the superconducting 
+transitions are relatively sharper in our case. We also did the magneto transport measurements 
+under high pressure with maximum Tc to estimate the upper critical field (Hc2) and compared the 
+same with our reported ambient pressure results [18]. The normal state conduction of our studied 
+compound is also seemingly better than the one being reported earlier [14,15]. This may be 
+possible due to slight change in quality of the studied samples. In any case, without ambiguity 
+the fourfold enhancement in Tc at just 0.97GPa pressure calls for the attention of solid state 
+physics community.  
+Experimental Details 
+We synthesized polycrystalline sample of CeO0.5F0.5BiS2 by standard solid state reaction 
+route via vacuum encapsulation. High purity Ce, Bi, S, CeF3 and CeO2 were weighed in 
+stoichiometric ratio and ground thoroughly in a glove box under pure argon gas atmosphere. The 
+mixed powder was subsequently palletized and vacuums sealed (10-3Torr) in a quartz tube. 
+Sealed quartz ampoule was placed in tube furnace and heat treated at 7000C for 12hours with the 
+typical heating rate of 20C/minute followed by cooling down slowly over a span of six hours to 
+ambient temperature and this entire process was repeated twice. X-ray diffraction (XRD) was 
+performed at ambient temperature in the scattering angular range of 100 – 800 (2 ) in equal step 
+of 0.020 using Rigaku Diffractometer with CuKα (λ=1.54Å). Rietveld analysis was carried out 
+using the standard FullProf program. For carrying out measurement of pressure dependent 
+electrical resistivity, HPC-33 piston type pressure cell compatible to DC resistivity Option of the 
+
+
+4 
+ 
+Quantum Design’s 14Tesla PPMS was used. The Hydrostatic pressures were generated by a 
+BeCu/NiCrAl clamped piston-cylinder cell. The sample was immersed in a fluid pressure 
+transmitting medium of Fluorinert (FC70:FC77=1:1) in a Teflon cell. Annealed Pt leads were 
+affixed to gold-sputtered contact surfaces of the sample with silver epoxy in a standard four-wire 
+configuration. The pressure at low temperature was calibrated from the superconducting 
+transition temperature of Pb. 
+Results and discussion 
+Figure 1 shows the room temperature observed and Reitveld fitted XRD patterns of 
+CeO0.5F0.5BiS2 sample. The synthesized compound is well fitted in tetragonal structure with 
+space group P4/nmm. The Rietveld refined lattice parameters are a = 4.037(2)Å and c = 
+13.407(3)Å. In the previous report [9] it has been shown that the c parameter for the parent phase 
+CeOBiS2 is 13.604Å, which is larger in comparison of CeO0.5F0.5BiS2 sample. The decrease in c 
+parameter of CeO0.5F0.5BiS2 sample is a clear indication of O-2 site F-1 doping in parent CeOBiS2 
+compound [18]. It is to be mentioned that the studied compound is contaminated with small 
+impurity of Bi, which is marked with # in Fig. 1. The small Bi impurity appears close to the main 
+peaks of CeO0.5F0.5BiS2 tetragonal structure and is reportedly seen in most of CeO1-xFxBiS2 
+samples [9].  We choose to work on x = 0.5 composition, because the Tc is near maximum at this 
+doping level [9]. Inset of the Fig 1 shows the resultant unit cell of the CeO0.5F0.5BiS2 sample with 
+P4/nmm space group.  The layered structure is composed of CeO and BiS2 layer along the c axis. 
+Various atoms with their respective positions are indicated in crystal structure. Cerium (Ce), and 
+Sulfur (S1and S2) atoms occupy the 2c (0.25, 0.25, z) site. On the other hand O/F atoms are 
+located at 2a (0.75, 0.25, 0) site. 
+The temperature dependent electrical resistivity with applied pressures from 0GPa-
+1.97GPa for CeO0.5F0.5BiS2 compound is shown in the Figure 2a. The electrical resistivity data is 
+recorded from 300K down to 2K. Without applied pressure the normal state resistivity shows the 
+semiconducting behavior down to the onset superconducting transition temperature Tc
+onset. With 
+an increase in applied pressure the normal state resistivity is though suppressed but yet exhibits 
+semiconducting behavior. Figure 2(b) shows the expanded part of the Fig. 2(a) in the temperature 
+range from 2K to 15K, to clearly visualize the superconducting transition temperature (Tc) of 
+CeO0.5F0.5BiS2 compound for the various applied pressures. At zero pressure Tc(ρ = 0) is 2.2K 
+
+
+5 
+ 
+and which is though nearly unchanged for 0.35GPa pressure, but the same increases slightly to 
+2.5K at 0.55GPa pressure. At 0.97GPa pressure the Tc(ρ = 0) increases to above 3.5K with a 
+broader transition width.  In fact the Tc
+onset increases to above 7K at just 0.97GPa. It seems there 
+is a sudden increase in onset of superconductivity at 0.97GPa. Both Tc
+onset  and Tc(ρ = 0)  are 
+marked in Figure 2b. At further higher pressure of 1.38GPa though the Tc(ρ = 0) is increased 
+sharply from 3.5K to 6K, the Tc
+onset increases to around 8K only.  For still higher applied 
+pressures of 1.68 and 1.97GPa the Tc(ρ = 0) is seen at 7K with 8K onset Tc. To clearly visualize 
+the pattern of increase in Tc
+onset and Tc(ρ = 0), in  Figure 2c we plot both the quantities against 
+applied pressure for the studied CeO0.5F0.5BiS2 compound. Seemingly though there is a sharp 
+increase in both at 0.97GPa, but the Tc
+onset is enhanced relatively more. This gives rise to an 
+increased broadening of transition at 0.97GPa, which is plotted in inset of Figure 2(c). The 
+measurements are performed with increasing the pressure. Summarily it can be seen that the 
+Tc
+onset initially increases up to 7K till 0.97GPa pressure and later saturates for the higher 
+pressures of 1.97GPa. On the other hand, the normal state resistivity keep on decreasing with 
+applied pressures up to 1.97GPa. The sharp increase in superconducting transition temperature 
+under hydrostatic pressure of just around 1GPa may happen due to structural phase 
+transformation being evident recently in these systems [17,19]. Also, there is a possibility of the 
+presence of strong electron correlations in BiS2 superconducting layers being enhanced under 
+pressure.   
+To explore quantitatively the trend of change in normal state conduction with pressure, in 
+Figure 3(a), we show the of log(ρ) vs 1/T plots for CeO0.5F0.5BiS2 compound at various applied 
+pressures. This is done to determine the values of energy gaps in semi-metallic regime. The 
+observed data of the resistivity could be described in two different regions by the activation type 
+relation ρ(T) = ρ0eΔ/2kBT where ρ0 is a constant, Δ is the energy gap and kB is the Boltzmann 
+constant. The observed resistivity versus temperature data could not be fitted for a single gap in 
+entire temperature range. Hence the fitting has been done in two distinct regions of ρ(T). Thus 
+obtained energy gaps are marked as Δ1 in the temperature range 300 to 200K and Δ2 from 20K 
+down to Tc onset. The semiconducting behavior is suppressed with pressure in a similar fashion 
+as observed earlier for another BiS2 based superconductor LaO0.5F0.5BiS2 [14, 15]. The analysis 
+of ρ(T) data at the ambient pressure gives the estimated values of the energy gaps Δ1/kB ≈
+
+
+6 
+ 
+2024.55 K and Δ2/kB ≈ 65.68 K for the CeO0.5F0.5BiS2 compound. Interestingly, the obtained 
+values are considerably less than the ones reported by Wolowiec et al. for the CeO0.5F0.5BiS2 
+compound [15]. May be the presently studied CeO0.5F0.5BiS2 compound possesses improved 
+normal state conduction than the one reported in ref. 15. Figure 3(b) shows the variation of 
+calculated energy gaps (Δ1/kB, Δ2/kB) with various applied pressures from 0-1.97GPa.  It can be 
+clearly seen from Fig. 3(b) that both energy gaps Δ1 and Δ2 decrease rapidly with applied 
+pressure of up to 1.68GPa and are almost saturated for 1.97GPa pressure. The decrease of energy 
+gaps with increasing pressure, suggests the increase of charge carriers density at the Fermi 
+surface with application of pressure. Interestingly, the first-principle calculations have suggested 
+that there could be a insulator-metal transition accompanied with superconductivity at low 
+temperature under pressure in these systems [20]. In the present study, we observed that up to 
+1.97GPa pressure though there is no insulator to metal transition, but the semiconducting 
+behavior is suppressed significantly and superconductivity onset transition temperature is 
+increased from around 2.5K to 8K. The interesting BiS2 based CeO0.5F0.5BiS2 superconductor 
+need to be studied for further higher pressures.    
+Figure 4 represents the temperature dependent resistivity under applied magnetic field up 
+to 5Tesla for CeO0.5F0.5BiS2 sample at 1.97GPa pressure. The broadening in the superconducting 
+transition Tc with increasing applied field shows the typical type II superconductivity behavior 
+for the CeO0.5F0.5BiS2 compound. With applied magnetic fields both Tc
+onset and Tc(ρ = 0) 
+decrease to lower temperatures with an increase in broadening of the transition. The trend is 
+similar to that as for high Tc layered cuprate and Fe-pnictide superconductors. The upper critical 
+field (Hc2) of CeO0.5F0.5BiS2 sample at ambient and 1.97GPa hydrostatic pressure has been 
+shown in the Figure 4b.  The Hc2 is calculated from 90% criteria of normal state resistivity (ρn) 
+by using the conventional one-band Werthamer–Helfand–Hohenberg (WHH) equation, i.e., 
+Hc2(0) = −0.693Tc(dHc2 /dT)T=Tc. The estimated values of Hc2(0) are 1.5 Tesla for 0 pressure and 
+4.8 Tesla for 1.97GPa pressure.  The Hc2 data points at ambient pressure have been taken from 
+our earlier report on CeO0.5F0.5BiS2 compound [18].  
+ 
+ 
+
+
+7 
+ 
+Conclusion 
+ 
+The phase pure tetragonal CeO0.5F0.5BiS2 superconductor with Tc=2.2 K has been 
+synthesized using solid state reaction route and studied the effect of hydrostatic pressure on its 
+normal state and superconducting properties. The superconducting transition temperature of the 
+synthesized compound is enhanced fourfold from around 2 K to 8 K at 1.97 GPa. The electrical 
+resistivity data in the entire temperature range has been fitted using activation type equation 
+revealing significant improvement in electrical conduction under pressure. The estimated value 
+of the upper critical field for this compound at 1.97 GPa is above 5 Tesla. The observation of 
+fourfold increase in Tc accompanied with improved normal state conduction under just above 
+1GPa hydrostatic pressure on CeO0.5F0.5BiS2 superconductor calls for the attention of solid state 
+physics community.  
+Acknowledgement 
+Authors would like to thank their Director NPL India for his keen interest in the present 
+work. This work is financially supported by DAE-SRC outstanding investigator award scheme on 
+search for new superconductors. Rajveer Jha acknowledges the CSIR for the senior research 
+fellowship. H. Kishan thanks CSIR for providing Emeritus Scientist Fellowship.  
+ 
+ 
+ 
+ 
+ 
+
+
+8 
+ 
+Reference 
+1. Y. Mizuguchi, H. Fujihisa, Y. Gotoh,  K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, O. Miura, Phys. Rev. B 86, 220510(R) (2012). 
+2. S. K. Singh, A. Kumar, B. Gahtori, Shruti; G. Sharma, S. Patnaik,  V. P. S. Awana, J. 
+Am. Chem. Soc., 134, 16504 (2012). 
+3. Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, O. 
+Miura, J. Phys. Soc. Japan. 81, 114725 (2012).  
+4. V.P.S. Awana,  A. Kumar, R. Jha, S. K. Singh, A. Pal, Shruti, J. Saha, S. Patnaik, Solid 
+State Communications 157,  21 (2013). 
+5. D. Yazici, K. Huang, B.D. White, A.H. Chang, A.J. Friedman and M.B. Maple 
+Philosophical Magazine  93, 673 (2013).  
+6. K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura and Y. Takano, Euro 
+Phys. Lett. 101, 17004 (2013). 
+7. S. Demura, Y. Mizuguchi, K.Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano, J. Phys. Soc. Japan. 82, 033708 (2013). 
+8. R. Jha, A. Kumar, S. K. Singh, V.P.S. Awana, J. Appl. Phys. 113, 056102 (2013). 
+9. J.  Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B 86, 214518 (2012).  
+10. R. Jha, A. Kumar, S. K. Singh, V. P. S. Awana, J Supercond Nov Magn. 26, 499 (2013). 
+11. H. Lei, K. Wang, M. Abeykoon, E. S. Bozin, and C. Petrovic, Inorg. Chem., 52, 10685 
+(2013). 
+12. X. Lin, X. Ni, B. Chen, X. Xu,  X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. 
+Cao, Z. Xu, Phys. Rev. B 87, 020504(R) (2013). 
+13. D. Yazici, K. Huang, B. D. White,  I. Jeon,  V. W. Burnett, A. J. Friedman,  I. K. Lum,  
+M. Nallaiyan, S. Spagna, and M. B. Maple Phys. Rev. B 87, 174512 (2013). 
+14. C. T. Wolowiec, D. Yazici, B. D. White, K. Huang, and M. B. Maple, Phys. Rev. B 88, 
+064503 (2013). 
+15. C. T. Wolowiec, B. D. White, I. Jeon, D. Yazici, K. Huang, and M. B. Maple, J. Phys. 
+Cond. Matt. 25, 422201 (2013). 
+
+
+9 
+ 
+16. H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura K. 
+Deguchi And Y. Takano, Journal of the Physical Society of Japan 81 103702 (2012). 
+17. T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. 
+Izawa, O. Miura, S. Demura, K. Deguchi, Y. Takano, arXiv:1309.4250. 
+18. R. Jha and V.P.S. Awana J Supercond Nov Magn 27, 1 (2014). 
+19. J. Kajitani, T. Hiroi, A. Omachi, O. Miura, and Y. Mizuguchi, arXiv:1404.6361. 
+20. C. Morice, E. Artacho, S. E. Dutton, D. Molnar, H .J. Kim, and S. S. Saxena, 
+arXiv:1312.2615v1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+10 
+ 
+ 
+ 
+Figure Captions  
+ 
+Figure 1: Observed (open circles) and calculated (solid lines) XRD patterns of 
+CeO0.5F0.5BiS2 compound at room temperature. Inset is schematic unit cell of 
+CeO0.5F0.5BiS2 compound. 
+ 
+Figure 2(a): Resistivity versus temperature (ρ Vs T) plots for CeO0.5F0.5BiS2 compound, 
+at various applied pressures in the temperature range 300K - 2.0K. 
+ 
+Figure 2(b): Resistivity versus temperature (ρ Vs T) plots for CeO0.5F0.5BiS2 compound, 
+at various applied pressures in the temperature range 15K - 2.0K. 
+ 
+Figure 2(c): Tc
+Onset and Tc(ρ = 0) versus pressure plots for CeO0.5F0.5BiS2 compound, 
+inset shows the variation of superconducting transition width with pressure. . 
+ 
+Figure 3(a): Resistivity (ρ) versus 1/T plot for up to 1.97 GPa pressure. The solid lines 
+are linear fitting of activation energy equation at high and low temperatures. 
+ 
+Figure 3(b): Energy gaps Δ1 and Δ2 plotted as a function of pressure for CeO0.5F0.5BiS2 
+compound. 
+ 
+Figure 4(a): Temperature dependence of the Resistivity ρ(T) under magnetic fields  for 
+the CeO0.5F0.5BiS2 compound under 1.97GPa hydrostatic pressure. 
+ 
+Figure 4(b): The upper critical field Hc2 taken from 90%, resistivity criterion ρ(T) of 
+CeO0.5F0.5BiS2 compound at ambient and 1.97GPa hydrostatic pressure. 
+ 
+ 
+ 
+
+
+11 
+ 
+ 
+ 
+Figure 1 
+ 
+Figure 2(a) 
+
+
+12 
+ 
+ 
+Figure 2(b) 
+ 
+Figure 2(c) 
+
+
+13 
+ 
+ 
+Figure 3(a) 
+ 
+
+
+14 
+ 
+Figure 3(b) 
+ 
+Figure 4(a) 
+ 
+Figure 4(b) 
+
+

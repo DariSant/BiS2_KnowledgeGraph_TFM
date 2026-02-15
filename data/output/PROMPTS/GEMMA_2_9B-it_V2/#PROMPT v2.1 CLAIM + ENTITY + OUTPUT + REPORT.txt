@@ -1,0 +1,450 @@
+#  PROMPT v2.1 CLAIM + EXNTITY
+
+## **Stage 1 — Epistemological Claim & Entity Extraction**
+
+*(BiS₂ / BiCh₂ Superconductors)*
+
+---
+
+## **SYSTEM ROLE**
+
+You are a **materials physicist and scientific knowledge extraction expert**, specialized in **BiS₂- and BiCh₂-based layered superconductors**.
+
+You understand:
+
+* How condensed matter physics papers encode **findings vs background**
+* How **structure–property relationships** are stated explicitly or implicitly
+* How to distinguish **causal attribution**, **correlation**, and **mechanism**
+
+Your task is **NOT summarization** and **NOT interpretation beyond the text**.
+
+Your task is **epistemological claim extraction** for **knowledge-graph construction**.
+
+---
+
+## **CORE OBJECTIVE**
+
+Given a **scientific abstract or text excerpt **:
+
+1. Extract **only scientifically meaningful claims**
+2. Each claim must encode **new knowledge** usable in a graph
+3. Claims must be **faithful to the text** — no inference, no padding
+
+Ignore:
+
+* General background statements
+* Method descriptions without outcomes
+* Review-style narrative unless a conclusion is drawn
+* Speculative future directions
+
+---
+
+## **WHAT QUALIFIES AS A CLAIM**
+
+A valid `{CLAIM}` must satisfy **at least ONE**:
+
+* A material property changes due to a controlled condition
+* A structural parameter correlates with superconductivity
+* A substitution / pressure / annealing induces or suppresses a phase
+* A mechanism is explicitly proposed to explain an observed effect
+* A general or universal relationship is concluded
+
+If removing the statement would **lose scientific knowledge**, it is likely a claim.
+
+---
+
+## **OUTPUT FORMAT (STRICT)**
+
+For each claim, use **exactly** this structure:
+
+```markdown
+- {CLAIM}: <Concise scientific statement written in your own words>
+  - {CLAIM ATTRIBUTES}:
+    - Subject:
+    - Driver:
+    - Effect:
+    - Trend:
+    - Mechanism:
+    - Scope:
+  - {ENTITIES}:
+    - {ENTITY 1}: <Name> 
+      - Type:
+      - Key Attributes:
+    - {ENTITY 2}: <Name>
+      - Type:
+      - Key Attributes:
+```
+
+---
+
+## **CLAIM ATTRIBUTE RULES**
+
+### 🔹 Mandatory (ALL claims must have)
+
+* **Subject** — the material or material family
+* **Effect** — what changed or was observed
+
+If either is missing → **do NOT extract the claim**.
+
+---
+
+### 🔸 Conditional (extract ONLY if explicitly stated)
+
+#### **Driver**
+
+Extract only if the text clearly identifies what was varied
+(e.g., pressure, substitution, annealing, composition)
+
+#### **Trend**
+
+Extract only if the text describes a **directional or comparative relationship**
+Examples:
+
+* increases with x
+* decreases under pressure
+* dome-shaped dependence
+
+⚠️ DO NOT use verbs like *induced*, *generated*, *observed* as trends.
+
+#### **Mechanism** ⚠️ **STRICT**
+
+Extract **ONLY IF** the text explicitly provides a physical explanation.
+
+✔ Allowed:
+
+* suppression of in-plane disorder
+* in-plane chemical pressure
+* orbital hybridization
+* CDW suppression
+
+❌ FORBIDDEN:
+
+* restating the Driver as a mechanism
+* speculative electronic explanations
+* “implied”, “likely”, or field-knowledge guesses
+
+If no mechanism is explicitly stated → **OMIT THIS FIELD ENTIRELY**.
+
+---
+
+### 🔹 Optional
+
+#### **Scope**
+
+Extract only if the authors state limitations or generality
+(e.g., “universal”, “specific to optimally doped samples”)
+
+---
+
+## **ENTITY EXTRACTION RULES**
+
+Entities must be **graph-relevant**, not narrative.
+At least **two entities** must be stated in each claim. (More than t
+### Entity Cardinality Rule
+
+- There is NO minimum number of entities per claim.
+- Extract ONLY the entities strictly required to represent the claim.
+- Claims with only 1 or 2 entities are valid and expected.
+- DO NOT add entities to increase count.
+
+### Valid entities include:
+
+* Materials and compositions
+* Structural parameters or planes
+* Physical properties (Tc, lattice constants)
+* Experimental treatments
+* Abstract physics concepts (chemical pressure, disorder)
+
+### Entity Attribute Constraints
+
+* Attributes must be **explicitly stated or categorical**
+* ❌ Do NOT add interpretive labels (e.g., “strain-sensitive”)
+* ❌ Do NOT add inferred properties
+
+---
+
+## **CRITICAL PROHIBITIONS**
+
+* ❌ DO NOT infer missing attributes
+* ❌ DO NOT fabricate mechanisms
+* ❌ DO NOT force completeness
+* ❌ DO NOT merge unrelated claims
+* ❌ DO NOT extract background theory as a claim
+
+If an attribute is missing:
+
+* **OMIT IT**
+* Do NOT write “not mentioned” or “unknown”
+
+---
+
+## **SELF-CHECK BEFORE OUTPUT**
+
+For each claim, verify:
+
+* It could be represented as a **node–edge–node** relation
+* The claim reflects **author findings**, not your interpretation
+* The claim survives removal of speculative language
+
+---
+
+## **BEGIN EXTRACTION**
+
+You will now receive a **scientific text excerpt**.
+
+Extract all valid claims following the rules above.
+
+---
+
+## TEXT TO PROCESS:
+
+
+### END OF PROMPT
+
+
+# OUTPUT
+
+Here are the extracted claims from the provided text:
+
+- **{CLAIM}**: High-pressure annealing generates uniaxial strain along the c-axis in LaO0.5F0.5BiS2. 
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: High-pressure annealing
+    - Effect: Uniaxial strain along the c-axis
+    - Trend: -
+    - Mechanism: -
+    - Scope: Polycrystalline samples
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO0.5F0.5BiS2
+      - Type: Material
+      - Key Attributes: BiS2-based superconductor 
+    - {ENTITY 2}: c-axis
+      - Type: Crystallographic direction
+
+- **{CLAIM}**:  Uniaxial strain along the c-axis is positively linked to enhanced superconducting properties in LaO1-xFxBiS2.
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO1-xFxBiS2 
+    - Driver: Uniaxial strain along the c-axis
+    - Effect: Enhanced superconductivity 
+    - Trend: Positive correlation
+    - Mechanism: -
+    - Scope: LaO1-xFxBiS2 system 
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO1-xFxBiS2
+      - Type: Material Family
+      - Key Attributes: BiS2-based superconductor, Strain-sensitive
+    - {ENTITY 2}: Uniaxial strain along the c-axis
+      - Type: Physical Property
+
+
+Please note that some claims could be further refined or split depending on your specific knowledge graph requirements and desired level of granularity.
+
+
+#REPORT
+
+This is an **excellent debugging example**, because it shows two *distinct* problems at once:
+
+1. **The model is still violating your epistemic rules** (hallucinated mechanism, fake trend, padded attributes).
+2. **The model’s explanation about entities is wrong**, and reveals a structural weakness in Prompt v2.1 that we can fix cleanly.
+
+I’ll walk you through this carefully and end with **precise corrective actions**.
+
+---
+
+## 1. First: the model output is still epistemically incorrect
+
+Let’s be very clear: **this output is not acceptable yet**, even under v2.1.
+
+### ❌ Persistent violations (important)
+
+Despite the fixes, the model still does all of the following:
+
+#### A. Hallucinates mechanisms
+
+* “HP annealing induces stress”
+* “Strain affects electronic/lattice interactions”
+* “Strain is beneficial for superconductivity”
+
+None of these are **explicitly stated** in 1306.3346v2.
+
+➡️ This means:
+**Gemma is still optimizing for “completeness” instead of “faithfulness”.**
+
+---
+
+#### B. Invents trends
+
+* `Trend: Induced` ❌ (not a trend)
+* “Negative correlation/degradation” ❌ (degradation ≠ quantified trend)
+
+---
+
+#### C. Adds interpretive entity attributes
+
+* “c-axis strain sensitive” ❌
+
+---
+
+So before we even talk about entity count, we must accept:
+
+> **The model is not yet respecting “OMIT if not stated”.**
+
+This is normal for Gemma-class models — but it requires **one more structural constraint**.
+
+We’ll come back to this.
+
+---
+
+## 2. Now, the core question: why did it not add entities to Claim 3?
+
+### Claim 3 (verbatim)
+
+> “Reducing the uniaxial strain along the c axis degrades superconducting properties in LaO1-xFxBiS2.”
+
+### The model’s *implicit reasoning* (even though it didn’t explain it)
+
+The model internally decided:
+
+* Subject already names the material → no need to re-add it
+* Driver and Effect are already textual → entities are “redundant”
+* Entity extraction is optional → skip it
+
+This reveals a **critical ambiguity in Prompt v2.1**.
+
+---
+
+## 3. The real problem: entity extraction is not explicitly mandatory *per claim*
+
+In v2.1, you said:
+
+> “Entities must be graph-relevant”
+
+But you never said:
+
+> **“Every claim must have at least one entity.”**
+
+Nor did you say:
+
+> **“Effects and Drivers must be entities when they represent physical concepts.”**
+
+So the model made a *reasonable but undesirable* choice.
+
+---
+
+## 4. Is the model *wrong* to extract zero entities for Claim 3?
+
+### Epistemically?
+
+❌ **Yes — it is wrong.**
+
+This claim has **at least two mandatory entities**:
+
+1. **Uniaxial strain (c axis)** → structural state
+2. **Superconducting properties / Tc** → physical property
+
+Without entities, the claim **cannot be represented in a graph**.
+
+---
+
+## 5. What the correct entity extraction SHOULD be (Claim 3)
+
+Here is the **minimal correct version**:
+
+```markdown
+- {CLAIM}: Reduction of uniaxial strain along the c axis degrades superconducting properties in LaO1-xFxBiS2.
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO1-xFxBiS2
+    - Driver: Reduction of uniaxial strain along the c axis
+    - Effect: Degradation of superconducting properties
+  - {ENTITIES}:
+    - {ENTITY 1}: Uniaxial strain (c axis)
+      - Type: Structural deformation
+    - {ENTITY 2}: Superconducting properties
+      - Type: Physical property
+```
+
+Two entities.
+No mechanism.
+No trend.
+No padding.
+
+This is **graph-safe**.
+
+---
+
+## 6. Why the model’s *explanation* is meaningless
+
+Notice something critical:
+
+> You asked *why* it didn’t add entities
+> It responded by **repeating the same output**
+
+This tells us:
+
+* The model does **not have an internal rule** for “why entities are required”
+* It is pattern-matching, not reasoning about graph sufficiency
+
+So **asking it “why” will never fix this**.
+
+You must fix the **instruction**, not interrogate the model.
+
+---
+
+## 7. The missing rule you MUST add (this is the key fix)
+
+Add this block to the prompt. This is **Prompt v2.2-level critical**.
+
+```markdown
+### Entity Requirement Rule (STRICT)
+
+- EVERY extracted claim MUST include at least one entity.
+- If a claim describes a Driver or an Effect that is a physical concept
+  (e.g., strain, Tc, disorder, lattice parameter),
+  that concept MUST be extracted as an entity.
+- Claims without entities are INVALID and must not be output.
+```
+
+This single rule will force entities in Claim 3.
+
+---
+
+## 8. One more essential fix: ban “Implied” explicitly
+
+Gemma is exploiting the word “implied”.
+
+Add this **absolute prohibition**:
+
+```markdown
+### Forbidden Language
+
+- Do NOT use words such as:
+  "implied", "likely", "suggests", "probably", "may be due to"
+  unless the original text explicitly uses them.
+- If the text does not explicitly state a mechanism, OMIT the Mechanism field.
+```
+
+Without this, Gemma will *always* sneak mechanisms back in.
+
+---
+
+## 9. Final diagnosis (important)
+
+What you are seeing is **not confusion about entity count**.
+
+It is the interaction of three things:
+
+1. Entity extraction not explicitly mandatory per claim
+2. Gemma’s bias toward “helpfulness”
+3. Lack of a hard ban on “implied” reasoning
+
+Once fixed, Claim 3 **will** consistently get 2 entities.
+
+---
+
+## 10. Bottom line (clear and actionable)
+
+* ❌ The model is still violating epistemic constraints — expected at this stage
+* ❌ Claim 3 missing entities is a **prompt-level bug**, not a model flaw
+* ✅ Two entities **are correct** for Claim 3
+* ✅ You can fix this deterministically with **one added rule**
+

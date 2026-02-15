@@ -1,0 +1,433 @@
+ 
+Anomalous impact of hydrostatic pressure on superconductivity of polycrystalline 
+LaO0.5F0.5BiSe2   
+Rajveer Jha and V.P.S. Awana*  
+CSIR-National Physical Laboratory, Dr. K. S. Krishnan Marg, New Delhi-110012, India 
+ 
+We report bulk superconductivity at 2.5K in LaO0.5F0.5BiSe2 compound through the DC 
+magnetic susceptibility and electrical resistivity measurements. The synthesized LaO0.5F0.5BiSe2 
+compound is crystallized in tetragonal structure with space group P4/nmm and Reitveld refined 
+lattice parameters are a= 4.15(1)Å and c=14.02(2)Å.  The lower critical field of Hc1= 40Oe, at 
+temperature 2K is estimated through the low field magnetization measurements. The 
+LaO0.5F0.5BiSe2 compound showed metallic normal state electrical resistivity with residual 
+resistivity value of 1.35mΩ-cm. The compound is type-II superconductor, and the estimated 
+Hc2(0) value obtained by WHH formula is above 20kOe for 90%ρn criteria. The superconducting 
+transition temperature decreases with applied pressure till around 1.68GPa and with further 
+higher pressures a high Tc phase emerges with possible onset Tc of above 5K for 2.5GPa.  
+Key words: Bismuth oxyselenide superconductors, Electrical resistivity, Hydrostatic pressure 
+and Magnetic characterization  
+*Corresponding Author  
+Dr. V. P. S. Awana,  
+Principal Scientist  
+E-mail: awana@mail.npindia.org  
+Ph. +91-11-45609357, Fax-+91-11-45609310  
+Homepage awanavps.wenbs.com 
+ 
+INTRODUCTION  
+The recent discovery of BiS2 based materials with layered structure have been studied in 
+past couple of years as a potential approach to the exploration of new superconductors. The 
+novel BiS2 based superconductivity has been reported first in Bi4O4S3 layered compound with Tc 
+
+
+value of 4.5K [1, 2].  Bi4O4S3 is composed of Bi2O2(SO4)(1−x) (x=0.5) blocking layers and BiS2 
+superconducting layers [1]. Consequently, other BiS2-based superconductors were discovered, 
+including ReO1−xFxBiS2 (Re= La, Ce, Nd, Yb, Pr), La1−xMxOBiS2 (M= Ti, Zr, Hf, Th), and 
+Sr1−xLaxFBiS2 [3-10]. The highest Tc=10.6 K has been obtained for LaO0.5F0.5BiS2 
+superconductors under hydrostatic pressure [11]. In particular, the Tc of REO1−xFxBiS2 (RE=La, 
+Ce, Nd, Pr) [11–14] and Sr1−xRExFBiS2 (RE = La, Ce, Nd, Pr, Sm) systems, enhances 
+tremendously by applying the hydrostatic pressure [15, 16]. As far as the chemical substitutions 
+are concerned the doping of Se on the S site in the Bi4O4S3-xSex and NdOFBiS2-xSex 
+superconductors showed the suppression in Tc [17, 18]. Interestingly, the superconductivity at 
+2.5K in BiSe2 based layered LaO0.5F0.5BiSe2 polycrystalline compound has recently been 
+reported by A. Krzton-Maziopa, at. el, [19].  The crystal structure of the superconducting oxy-
+selenide is similar to other layered superconducting compounds such as CuO based cuprates and 
+iron-based Pnictides with alternating stacks of blocking and superconducting layers [19]. Soon 
+after this report, superconductivity with Tc value of 3.0K was reported in LaO0.5F0.5BiSe2 single 
+crystals [20]. Also, the theoretical approaches were applied, and it was shown that the electronic 
+structure, lattice dynamics, and electron–phonon interaction of the newly discovered 
+superconductor LaO0.5F0.5BiSe2 is that same as that for LaO0.5F0.5BiS2 compound [21]. The 
+pressure effect on LaO0.5F0.5BiSe2 single crystals showed a decrease in Tc with applied pressure 
+of up to 1.75GPa and obtained high Tc phase (6K) for higher pressure (> 1.97GPa) [22]. This is 
+strikingly different than the impact of hydrostatic pressure on similar structure oxy-sulfides, 
+where Tc increases profoundly with pressure [11-16]. The external pressure effect is a 
+conventional method for structural modulation that is often used to change the superconducting 
+Tc. For example, the increase in Tc of LaO0.5F0.5BiS2 compound under pressure is due to a 
+structural phase transition from tetragonal phase (P4/nmm) to monoclinic phase (P21/m) [23].  
+Here we report the successful synthesis of polycrystalline LaO0.5F0.5BiSe2 compound 
+through the solid state reaction method. The compound is crystallized in the tetragonal structure 
+with space group P4/nmm. The bulk superconductivity at 2.5K has been observed through DC 
+magnetic and electrical resistivity measurements. Because a positive pressure effect on Tc has 
+also been reported for BiS2-based polycrystalline superconducting compounds [11-16] therefore 
+we decided to determine the hydrostatic pressure effect on Tc of polycrystalline LaO0.5F0.5BiSe2 
+
+
+compound. We applied hydrostatic pressure on the polycrystalline LaO0.5F0.5BiSe2 compound, 
+and found that Tc decreases with increasing applied pressure till around 1.68GPa and a high Tc 
+phase emerges at higher applied pressure of 2.5GPa with possible onset Tc at around 5K. It is 
+interesting to note that the impact of pressure on superconductivity of currently studied BiSe2 is 
+dramatically different to that as for BiS2 ones [11-16]. Our results are qualitatively similar with 
+the only available recent report [22] on impact of pressure on superconductivity of single 
+crystalline LaO0.5F0.5BiSe2.    
+EXPERIMENTAL DETAILS  
+The polycrystalline bulk LaO0.5F0.5BiSe2 sample was synthesized by standard solid state 
+reaction route via vacuum encapsulation. High purity (4N) La, Bi, Se, LaF3, and La2O3 are 
+weighed in stoichiometric ratio and ground thoroughly in a glove box in high purity argon 
+atmosphere. The mixed powders are subsequently palletized and vacuum-sealed (10-4 mbar) in a 
+quartz tube. The box furnace has been used to sinter the samples at 7800C for 12h with the 
+typical heating rate of 2oC/min. The sintered sample is subsequently cooled down slowly to room 
+temperature. This process has been repeated two times. X-ray diffraction (XRD) was performed 
+at room temperature in the scattering angular (2θ) range of 10o-80o in equal 2θ step of 0.02o 
+using Rigaku Diffractometer with Cu Kα (λ = 1.54Å). Rietveld analysis was performed using the 
+standard FullProf program. DC magnetic susceptibility and transport measurements were 
+performed on Physical Property Measurements System (PPMS-140kOe, Quantum Design).  
+The electrical resistivity under hydrostatic pressure measurements were carried out on 
+Physical Property Measurements System (PPMS-140kOe, Quantum Design) by using HPC-33 
+Piston type pressure cell. Hydrostatic pressures were generated by a BeCu/NiCrAl clamped 
+piston-cylinder cell. The sample was immersed in a fluid (Daphne Oil) pressure transmitting 
+medium in a Teflon cell. Annealed Pt wires were affixed to gold-sputtered contact surfaces on 
+each sample with silver epoxy in a standard four-wire configuration.  
+RESULTS AND DISCUSSION 
+ 
+ 
+Figure 1(a) demonstrates the room temperature observed and Rietveld fitted XRD pattern 
+of polycrystalline LaO0.5F0.5BiSe2 compound. The compound is crystallized in tetragonal 
+structure with the space group P4/nmm. Lattice parameters being obtained from Rietveld 
+
+
+refinement of XRD are a= 4.15(1)Å and c=14.02(2)Å, which are in good agreement with earlier 
+reports on LaO0.5F0.5BiSe2 compound [19]. Small impurity peak of Bi2Se3 has also been seen and 
+is marked as (*) in Figure 1, which is close to the background of the XRD pattern. The unit cell 
+of the LaO0.5F0.5BiSe2 compound is shown in figure 1(b). The compound has layered structure; 
+including (LaO)2 (Rare earth oxide) and BiSe2 layers. Different atoms like Bismuth (Bi), 
+Lanthanum (La), and Selenium (Se1 and Se2) occupy the 2c (0.25, 0.25, z) site, while the O/F 
+atoms are at 2a (0.75, 0.25, 0) site. Interestingly, the carrier doping mechanism is same as Iron 
+based compound LaFeAsO/F [24], where the carriers are doped from LaO/F to superconducting 
+FeAs layer. Similarly, in LaO0.5F0.5BiSe2, mobile carriers are doped from LaO/F redox layer to 
+superconducting BiSe2 layer.  
+Figure 2 depict the temperature dependent dc magnetic susceptibility measurements in 
+Zero Field Cool (ZFC) and Field Cool (FC) protocols for the LaO0.5F0.5BiSe2 compound under 
+10Oe magnetic field. The bulk superconductivity is confirmed as diamagnetic signal below 
+superconducting transition with an onset Tc at 2.5K, whereas the field-cooled susceptibility 
+exhibits only a small drop, possibly due to a strong flux pinning effect. Inset of the figure 2 
+illustrates the lower critical field Hc1(T) in low field isothermal magnetization (MH) 
+measurements.  The initial flux penetration and the deviation from linearity within the Meissner 
+state defines the Hc1(T). The lower critical field of studied LaO0.5F0.5BiSe2 compound is 40Oe at 
+temperature 2K. 
+Figure 3(a) shows the temperature dependence of electrical resistivity for LaO0.5F0.5BiSe2 
+compound in the temperature range 2K and 300K. The normal state electrical resistivity behavior 
+is metallic and comparable to the Bi4O4S3 superconductor [1, 2]. The metallic behavior of normal 
+state electrical resistivity has also been seen in BiS2 based polycrystalline Sr1−xRExFBiS2 (RE= 
+La, Ce, Nd, Pr, Sm) systems but under high pressure measurement [15, 16]. Interestingly, the 
+LaO0.5F0.5BiSe2 compound shows the metallic behavior at ambient pressure itself, which is well 
+fitted to the resistivity linear equation ρ=ρo+ AT, where ρo is the residual resistivity and A is the 
+slope of the graph. Fitting of the ρ(T) graph shows as red line in the temperature range 300K-
+50K in figure 3a and obtained residual resistivity value is 1.35mΩ-cm.  The obtained value of 
+residual resistivity is slightly higher than the one as reported for LaO0.5F0.5BiSe2 compound 
+earlier [19], suggesting possible inhomogeneity in our sample. The superconducting transition is 
+
+
+clearly seen below Tc onset of around 2.8 K, see inset of figure 3. The normal state 
+semiconducting behavior of similar superconductor REO0.5F0.5BiS2 compound has earlier been 
+seen in many reports [3-10], which is quite different from metallic character of resistivity of 
+LaO0.5F0.5BiSe2 compound. Inset of the figure 3 shows the electrical resistivity under various 
+magnetic fields in superconducting transition temperature region.  The Tc onset and Tc (ρ=0) of 
+LaO0.5F0.5BiSe2 compound shift towards the low temperature side with applied magnetic field. It 
+is the clear indication of type-II superconductivity like high Tc cuprate and Iron based Pnictides 
+superconductors. Figure 4 shows the upper critical field (Hc2) corresponding to the temperatures 
+where the resistivity drops to 90% of the normal state resistivity. The Hc2(0) is estimated by 
+using the conventional one-band Werthamer–Helfand–Hohenberg (WHH) equation, i.e., 
+Hc2(0)=-0.693Tc(dHc2/dT)T=Tc. The solid line is the result of fitting of Hc2(T) to the WHH 
+formula. The estimated Hc2(0) is above 20kOe for 90%, ρn criteria. 
+Figure 5 shows the temperature dependence of resistivity for the polycrystalline 
+LaO0.5F0.5BiSe2 compound at various hydrostatic pressures with temperatures ranging from 2K 
+to 250K. The normal state resistivity of compound is metallic at ambient pressure as well in 
+hydrostatic pressure of up to 2.5GPa.  Interestingly, the normal state resistivity first decreases 
+with increasing pressure up to 1.97GPa and then slightly increases for 2.20Gpa and 2.50GPa 
+with still having a metallic character. Inset of figure 5 shows enlarged views of the 
+superconducting transition region in the temperature range 6-2K under various pressures for 
+LaO0.5F0.5BiSe2 compound. It can be clearly seen that the Tc at ambient pressure gradually 
+decreases with increasing pressure. Interestingly, a high Tc phase emerges at applied pressure 
+above 2GPa with maximum possible onset Tc of around 5K for 2.5GPa pressure.  Interestingly, 
+we did not obtained Tc(ρ=0) for the high Tc (5K onset) phase.  The Superconducting transition 
+Tc(ρ=0) may occur for the higher applied pressures as observed in a previous report for the same 
+LaO0.5F0.5BiSe2 single crystalline compound [22].  
+Interestingly, Tc increases monotonically with applying pressure on BiS2-based similar 
+structure superconductors [11-16]. This is clear dissimilarity between the presently studied 
+BiSe2-based superconductors and the by now widely studied BiS2-based ones, particularly the 
+REO1−xFxBiS2 and Sr1−xRExFBiS2 [11-16]. It has been suggested the increase in the 
+superconducting Tc with increasing pressure for polycrystalline LaO0.5F0.5BiS2 compound is due 
+
+
+to structural phase transition from a tetragonal phase (P4/nmm) to a monoclinic phase (P21/m) 
+[23].  However, by examining available data (ref. 22, and the present results) on the relative 
+pressure effect on the Tc of LaO0.5F0.5BiSe2 superconductor, clearly negative dTc/dP is seen for 
+low pressures of up to say 2GPa, and later a high Tc (5K) phase appears for higher pressures.  
+The decrease in the superconducting transition with applied low applied pressures (<2GPa) 
+seems to be due to possible over doping, as the normal state resistivity decreases in this regime. 
+Later for higher pressures of above 2GPa, the high Tc phase might be appearing with a new 
+crystal structure as seen for LaO0.5F0.5BiS2 compound [22].  The under pressure structural details 
+at various temperatures for the studied LaO0.5F0.5BiSe2 superconductor are strictly warranted, 
+before commenting on real cause of the anomalous pressure dependence of superconducting 
+transition temperature (Tc) of the same.  
+CONCLUSION:  
+In conclusion, we have successfully synthesized the polycrystalline LaO0.5F0.5BiSe2 
+compound in single phase with superconductivity (Tc) at above 2.8K in both magnetic and 
+electrical resistivity measurements. The estimated Hc2(0) value of the compound is above 20kOe. 
+The Tc of the compound first decreases with applied pressure till around 1.68GPa and for higher 
+pressures a high Tc phase emerges with possible onset Tc of above 5K for 2.5GPa. The impact of 
+hydrostatic pressure on the presently studied LaO0.5F0.5BiSe2 is much different than the widely 
+studied LaO0.5F0.5BiS2 superconductor. Structural details under pressure for LaO0.5F0.5BiSe2 are 
+much warranted.    
+ACKNOWLEDGEMENT: 
+Authors would thank their Director NPL-CSIR, India for his consistent support and interest in 
+the present work. This work is financially supported by DAE-SRC outstanding investigator 
+award scheme on search for new superconductors.  
+ 
+ 
+ 
+
+
+REFERENCE: 
+1. Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, and O. Miura, Phys. Rev. B 86, 220510(R) (2012).  
+2. S. K. Singh, A. Kumar, B. Gahtori, G. Sharma, S. Patnaik, and V. P. S. Awana, J. Am. 
+Chem. Soc. 134, 16504 (2012). 
+3. Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and 
+O. Miura, J. Phys. Soc. Jpn. 81, 114725 (2012). 
+4. S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S.J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano,  J. Phys. Soc. Jpn. 82, 033708 (2013). 
+5. R. Jha, A. Kumar, S. K. Singh, and V.P.S. Awana,  J. Appl. Phys. 113, 056102 (2013). 
+6. R. Jha, A. Kumar, S. K. Singh, V. P. S. Awana, J Supercond Nov Magn. 26, 499 (2013). 
+7. J. Xing, S. Li, X. Ding, H. Yang, and H.H. Wen, Phys. Rev. B 86, 214518 (2012). 
+8. D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, 
+Philos. Mag. 93, 673 (2012). 
+9. D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, M. 
+Nallaiyan, S. Spagna, and M. B. Maple, Phys. Rev. B 87, 174512 (2013). 
+10. X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, 
+and Z. Xu, Phys. Rev. B 87, 020504 (2013). 
+11. H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi, and Y.Takano, J. Phys. Soc. Jpn. 81, 103702 (2012). 
+12. C. T. Wolowiec, D. Yazici, B. D. White, K. Huang, and M. B. Maple,  Phys. Rev. B 88, 
+064503 (2013). 
+13. C. T. Wolowiec, B. D. White, I. Jeon, D. Yazici, K. Huang, and M. B. Maple, J. Phys.: 
+Condens. Matter 25, 422201 (2013). 
+
+
+14. R. Jha, H. Kishan, and V. P. S. Awana, Solid State Communications 194, 6-9 (2014). 
+15. R. Jha, B. Tiwari, and V. P. S. Awana, J. Phys. Soc. Jpn. 83, 063707 (2014). 
+16. R. Jha, B. Tiwari, and V. P. S. Awana, J. Appl. Phys. 117, 013901 (2015). 
+17. T. Hiroi, J. Kajitani, A. Omachi, O. Miura, Y. Mizuguchi, J. Phys. Soc. Jpn 84, 024723 
+(2015).  
+18. R. Jha, V.P.S. Awana, Physica C 498, 45 (2014). 
+19. A. Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V.Pomjakushin, R. Khasanov, H. 
+Luetkens, P. Biswas, A. Amato, H. Keller and K. Conder, J. Phys. Condens. Matter 26, 
+215702 (2014). 
+20. M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada, and I. Tanaka, J. Phys. Soc. Jpn. 82, 13701 (2013). 
+21. Y. Feng, H. Ding, Y. Du, X. Wan, B. Wang, S. Savrasov, and C. Duan, J. Appl. Phys. 
+115, 233901 (2014). 
+22. J. Liu, S. Li, Y. Li, X. Zhu, H.-H. Wen, Phys. Rev. B 90, 094507 (2014). 
+23. T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. 
+Izawa, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 83, 063704 
+(2014). 
+24. Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc., 130, 3296 
+(2008). 
+ 
+ 
+ 
+ 
+ 
+
+
+Figure Captions  
+ 
+Figure 1: (a) Reitveld fitted room temperature XRD patterns for LaO0.5F0.5BiSe2, compound (b) 
+schematic unit cell of LaO0.5F0.5BiSe2 compound. 
+ 
+Figure 2: Temperature dependence of DC Magnetic susceptibility in ZFC and FC modes for 
+LaO0.5F0.5BiSe2, compound at 10Oe, inset shows the low field magnetization to estimate lower 
+critical field.  
+ 
+Figure 3: Temperature dependence of electrical resistivity ρ (T) plot for LaO0.5F0.5BiSe2 
+compound in the temperature range 300K-2.0 K. Inset show the ρ (T)H plot at various magnetic 
+fields in the temperature range 4-2K. 
+ 
+Figure 4: The upper critical field Hc2(0) Vs T plots of the LaO0.5F0.5BiSe2 compound for 90%, ρn 
+criteria. 
+ 
+Figure 5: ρ Vs T plots for LaO0.5F0.5BiSe2 compound, at varying pressures in the temperature 
+range 300K-2.0 K. Inset is ρ Vs T plots for LaO0.5F0.5BiSe2 compound, at varying pressures in 
+the temperature range 6K-2.0 K. 
+ 
+FIGURES:  
+                                            Fig. 1(a)                                                          Fig. 1(b) 
+10
+20
+30
+40
+50
+60
+70
+80
+ Iobs
+ Ical
+ diff
+ Bragg
+Intensity (arb.units)
+2 (degree)
+LaO0.5F0.5BiSe2
+*
+  
+
+
+Fig. 2  
+2.0
+2.5
+3.0
+3.5
+-0.0025
+-0.0020
+-0.0015
+-0.0010
+-0.0005
+0.0000
+0
+20
+40
+60
+80
+100
+-0.0008
+-0.0006
+-0.0004
+-0.0002
+0.0000
+Hc1
+LaO0.5F0.5BiSe2
+M(emu/g)
+H (Oe)
+ 2K
+FC
+ZFC
+LaO0.5F0.5BiSe2
+M (emu/g)
+T (K)
+H=10Oe
+ 
+ 
+ 
+Fig. 3  
+0
+50
+100
+150
+200
+250
+300
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+0+AT
+1.8
+2.1
+2.4
+2.7
+3.0
+3.3
+0.0
+0.5
+1.0
+1.5
+2.0
+LaO0.5F0.5BiSe2
+ (m-cm)
+T (K)
+ 0 Oe
+ 1 kOe
+ 2 kOe
+ 3 kOe
+ 4 kOe
+ 5 kOe
+ 6 kOe
+ 8 kOe
+ 10 kOe
+LaO0.5F0.5BiSe2
+ (m-cm)
+T (K)
+ 
+
+
+Fig. 4  
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+0
+5
+10
+15
+20
+Hc2 (kOe)
+T (K)
+ Experimental data
+ WHH-Fitted line
+LaO0.5F0.5BiSe2
+ 
+Fig.5  
+0
+50
+100
+150
+200
+250
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5 6.0
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+1.8
+ 0GPa
+ 0.35GPa
+ 0.55GPa
+ 0.97GPa
+ 1.38GPa
+ 1.68GPa
+ 1.97GPa
+ 2.20GPa
+ 2.50GPa
+(m-cm)
+T (K)
+LaO0.5F0.5BiSe2
+(m-cm)
+T (K)
+ 0GPa
+ 0.35GPa
+ 0.55GPa
+ 0.97GPa
+ 1.38GPa
+ 1.68GPa
+ 1.97GPa
+ 2.20GPa
+ 2.50GPa
+LaO0.5F0.5BiSe2
+ 
+
+

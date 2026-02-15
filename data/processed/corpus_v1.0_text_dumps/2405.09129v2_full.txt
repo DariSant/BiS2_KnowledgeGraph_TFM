@@ -1,0 +1,332 @@
+1 
+ 
+Aging Effects on Superconducting Properties of BiS2-Based Compounds: 
+First-12-Year Restudy 
+Poonam Rani1,2, Rajveer Jha1,2,3, V. P. S. Awana2, Yoshikazu Mizuguchi1,* 
+ 
+1Department of Physics, Tokyo Metropolitan University, Hachioji 192-0397, Japan. 
+2CSIR-National Physical Laboratory, New Delhi 110012, India. 
+3Microelectronics Research Center, The University of Texas at Austin, Austin TX 78758, USA. 
+ 
+ 
+Abstract 
+Decomposition of superconductors sometimes becomes crucial when studying essential 
+physical properties of the superconductors. For example, the cuprate superconductor YBa2Cu3O7-
+d decomposes by long-time air exposure. In this study, we investigate the aging effects on 
+superconducting properties of BiS2-based superconductors Bi4O4S3 and LaO0.5F0.5BiS2, both were 
+first synthesized in 2012, using their polycrystalline samples synthesized several years ago. We 
+find that 12-year-old Bi4O4S3 samples exhibit bulk superconductivity with a slight degradation of 
+the superconducting transition temperature (Tc) of 0.2 K. For a high-pressure-synthesized 
+LaO0.5F0.5BiS2 sample, clear decrease in Tc is observed, which suggests that high-pressure strain 
+is reduced by aging. 
+ 
+Keywords: BiS2-based superconductor, magnetization, aging effect, air exposure 
+ 
+ 
+ 
+
+
+2 
+ 
+1. Introduction 
+Superconductivity is a quantum phenomenon characterized with zero-resistivity states, 
+diamagnetism, and Josephson effects, and the superconducting states emerge at temperatures 
+below the transition temperature (Tc). Using those properties, superconductivity application has 
+been developed and will be more diverse in near future [1]. Since application of superconducting 
+devices requires stability of the components of the device, degradation of the properties and/or 
+decomposition of the compound components become crucial problems. For example, cuprate (Cu-
+oxide) high-Tc superconductor YBa2Cu3O7-d decomposes by long-time air exposure [2˗4]. In 
+addition, the use of reactive ions in the constituent elements or the presence of quasi-stable phases 
+with a formation energy comparable to the target phase results in decomposition of the obtained 
+samples by aging in the air-exposure environment [5˗7]. Knowledge on phase stability and aging 
+effects is also important when studying superconducting properties because the change in 
+superconducting properties after aging affects the conclusion of the research. For some rare cases, 
+positive aging effects are observed, and one of the examples is the improvement of Tc in Fe(Te,S) 
+by aging with air exposure [8]. 
+ 
+Here, we investigate the aging effects of BiS2-based superconductors Bi4O4S3 and 
+LaO0.5F0.5BiS2. Those superconductors were discovered in 2012 [9˗11], followed by the discovery 
+of various related superconductors [12˗22]. The crystal structure of BiS2-based compounds is 
+basically composed of alternate stacks of a blocking (insulating) layer and a BiS2 conducting layer 
+(Fig. 1), which is similar to stacking structures of cuprates and Fe-based high-Tc superconductors 
+[23˗26]. The Bi4O4S3 sample exhibits bulk superconductivity without any high-pressure treatments 
+[9,27˗30]. In contrast, the polycrystalline sample of LaO0.5F0.5BiS2 does not exhibit bulk 
+superconductivity, and high-pressure annealing or synthesis under high-pressure conditions (with 
+1˗3 GPa) is needed to induce bulk superconductivity [10,31˗35]. Furthermore, degradation of 
+superconducting properties of ambient-pressure annealing of the high-pressure-annealed (bulk-
+superconducting) LaO0.5F0.5BiS2 sample was observed [36]. The cause of the absence of bulk 
+superconductivity in La(O,F)BiS2 systems are explained by local Bi-S distance disorder [37˗42] 
+and the formation of superstructure [43]. Therefore, the high-pressure effects in the LaO0.5F0.5BiS2 
+sample should be affected by aging even at ambient temperature condition, and studying aging 
+effects after keeping the samples for long time at ambient conditions enables us to know their 
+aging effects. Here, we re-investigate the superconducting properties of the oldest Bi4O4S3 sample 
+
+
+3 
+ 
+synthesized in April of 2012 [9,27] and the Bi4O4S3 34S-isotope samples prepared in 2020 [44]. In 
+addition, the LaO0.5F0.5BiS2 sample high-pressure-synthesized in 2014 [35] is studied. In Japan, 
+the birth years are categorized with Japanese zodiac, and people use the 12-year period to celebrate 
+anniversaries. This year is the first 12 years since the discovery of BiS2-based superconductors, 
+and reinvestigations every 12 years will be useful. 
+2. Experimental 
+The polycrystalline samples of Bi4O4S3 and LaO0.5F0.5BiS2 were previously synthesized 
+and stored in a glass container with air in an office of Tokyo Metropolitan university (TMU, 
+Hachioji city). The details of sample preparation methods are reported in Refs. 9, 12, 20, and 29. 
+For the LaO0.5F0.5BiS2 sample, high-pressure sintering under 2 GPa at 700 °C was performed in 
+2014 [35]. Here, we label the Bi4O4S3 samples as follows. Bi4O4S3 (#1) was prepared by 
+Mizuguchi et al. in 2012 at TMU [9]. Bi4O4S3 (#2) was prepared by Singh et al. in 2012 at National 
+Physical Laboratory (NPL)-India [27] and send to TMU, followed by keeping in TMU. Bi4O4S3  
+(#3) with 34S was synthesized in 2020 for an isotope-effect study [44]. 
+Temperature (T) dependences of magnetization (M) after both zero-field cooling (ZFC) 
+and field cooling (FC) were measured using a superconducting quantum interference device 
+(SQUID) magnetometer with an applied magnetic field (H) of H = 10 Oe. Powder X-ray powder 
+diffraction (XRD) was carried out using RIGAKU diffractometer Miniflex-II (in 2012) and 
+Miniflex 600 (in 2024). 
+3. Results and Discussion 
+Figure 2 shows the comparison of XRD patterns of Bi4O4S3 (#1) taken in 2012 (as-
+synthesized) and 2024 (12-years old). Except for the differences in the intensity ratio, which are 
+caused by the sample setting, the observed patterns are quite similar. Therefore, the Bi4O4S3 phase 
+does not exhibits clear decomposition in the level of laboratory XRD in 12 years. Figure 3 shows 
+the T dependances of M for Bi4O4S3 (#1) measured in (a) 2012 and (b) 2024. Bulk 
+superconductivity signals are observed in both data, which is consistent with the XRD results. We 
+estimated Tconset from cross point of two lines as shown in the insets. Tconset slightly decreased from 
+5.0 to 4.8 K in 12 years. This change might be caused by slight change in crystal structure or carrier 
+concentration because the Bi4O4S3 phase possesses a complicated stacking structure. Another 
+potential reason for the Tc change is release of strain effect. Although the Bi4O4S3 (#1) sample was 
+
+
+4 
+ 
+synthesized at ambient pressure, the as-synthesized sample might have some strain effects 
+generated during the pelletizing and/or annealing processes. However, the change in Tc is quite 
+small, and we consider that there is almost no aging effect in the 12-years-old Bi4O4S3 sample. 
+Next, we see the current superconducting property of Bi4O4S3 (#2) synthesized in NPL-
+India and stored in TMU for more than 11 years. Figure 4 shows the T dependances of M for 
+Bi4O4S3 (#2) measured in 2024. Bulk superconductivity is confirmed by the large diamagnetic 
+signals, and Tconset is 4.4 K, which is comparable to Tc reported in Ref. 27. In addition, M-T for the 
+Bi4O4S3 (#3) sample with 34S is shown in Fig. 5. As well known, 32S is dominant in nature and 34S 
+is a rarer isotope that 32S. The comparison of ZFC data clearly shows that there is no degradation 
+of superconducting property. The estimated Tcs are almost same, 4.81 K (taken in 2020) and 4.80 
+K (taken in 2024). 
+Finally, we investigate the superconducting property of LaO0.5F0.5BiS2 synthesized by 
+high-pressure sintering under 2 GPa (HP-LaO0.5F0.5BiS2). Figure 6 shows the T dependances of M 
+for HP-LaO0.5F0.5BiS2 measured in (a) 2014 and (b) 2024. Clear decrease in Tc is observed after 
+10-years storage. Although bulk nature of superconductivity is maintained, the irreversibility 
+temperature (Tirr), which is estimated from the bifurcation point of ZFC and FC data, decreases 
+from 9.4 to 7.0 K. Because Tirr of the BiS2-based samples roughly corresponds to zero-resistivity 
+temperature (Tczero) in resistivity measurement, Tczero should be degraded in 10 years. Because of 
+the limitation of the original sample of HP-LaO0.5F0.5BiS2, we cannot perform resistivity 
+experiments. The aging effect, the decrease in superconducting property, in HP-LaO0.5F0.5BiS2 
+would be explained by the reduction of strain effects generated by high-pressure sintering. As 
+shown in Ref. 45, crystal structure changes from tetragonal to monoclinic by external pressure. 
+The high-pressure-synthesized samples also exhibits XRD peak broadening even after removing 
+pressure [9,34,35]. The broadened XRD peak is recovered by annealing the sample at ambient 
+pressure [36]. Therefore, the observed aging effect should be related to the release of high-pressure 
+strain effects in the sample. 
+ 
+4. Conclusion 
+We investigated the aging effects on crystal structural, decomposition, and 
+superconducting properties of BiS2-based compounds Bi4O4S3 and LaO0.5F0.5BiS2 using XRD and 
+magnetization measurements. For the Bi4O4S3 sample, no aging effect on XRD was observed, and 
+
+
+5 
+ 
+quite small decrease in Tc (0.2 K) was observed for the 12-years-old sample. As a conclusion, there 
+is almost no aging effects in Bi4O4S3. In contrast, the HP-LaO0.5F0.5BiS2 sample exhibits a clear 
+aging effect in magnetization data. Tirr decreases from 9.4 to 7.0 K. Because the high-pressure-
+synthesized sample contain high-pressure strain effects, the aging effects on superconducting 
+properties were observed in 10-years-old samples. As a conclusion, the BiS2-based compounds are 
+stable and their superconducting properties are also robust to aging in air. However, the high-
+pressure strain effects exhibit aging. 
+ 
+ 
+Acknowledgements 
+We thank all the coauthors of Refs. 9, 27, and 35. This work was partly supported by TMU 
+research project for emergent future society. 
+ 
+*E-mail: mizugu@tmu.ac.jp 
+ 
+References 
+1. 
+C. Yao and Y. Ma, iScience 24, 102541 (2021). 
+2. 
+A. Barkatt, H. Hojaji, V. R. W. Arnarakoon, J. G. Fagan, MRS Bull. 19, 45 (1993). 
+3. 
+J. J. Roa, E. Jimenez-Pique, J. Diaz, M. Morales, A. Calleja, and M. Segarra, Surf Coat 
+Technol. 206,4256 (2012). 
+4. 
+P. Diko, S. Piovarči, V. Antal, M. Kaňuchová, D. Volochová, J. Am. Ceram. Soc. 101, 3703 
+(2018). 
+5. 
+Z. Sun, A. Duchenko, G. Celentano, J. Lee, X. Hu, N. Pompeo, F. Versano, and A. Masi, 
+Supercond. 8, 100062 (2023). 
+6. 
+C. W. Chu, F. Chen, M. Gooch, A. M. Guloy, B. Lorenz, B. Lv, K. Sasmal, Z. J. Tang, J. H. 
+Tapp, Y. Y. Xue, Physica C 469, 326 (2009). 
+7. 
+T. Yajima, Condens. Matter 2, 4 (2017). 
+8. 
+Y. Mizuguchi, K. Deguchi, S. Tsuda, T. Yamaguchi, and Y. Takano, Phys. Rev. B 81, 
+214510 (2010). 
+9. 
+Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, 
+H. Izawa, and O. Miura, Phys. Rev. B 86, 220510 (2012). 
+
+
+6 
+ 
+10. Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. 
+Miura, J. Phys. Soc. Jpn. 81, 114725 (2012). 
+11. Y. Mizuguchi, J. Phys. Soc. Jpn. 88, 041001 (2019). 
+12. J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B 86, 214518 (2012). 
+13. S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. Yamaki, H. 
+Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. 
+Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. 84, 024709 (2015). 
+14. R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Supercond. Novel Magn. 26, 499 
+(2013). 
+15. S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, 
+M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. 
+Takano, J. Phys. Soc. Jpn. 82, 033708 (2013). 
+16. D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, Philos. 
+Mag. 93, 673 (2012). 
+17. T. Okada, H. Ogino, J. Shomoyama, and K. Kishio, Appl. Phys. Express 8, 023102 (2015). 
+18. H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J. K. Bao, Y. L. Sun, W. H. 
+Jiao, I. Nowik, I. Felner, Y. K. Li, X. F. Xu, Q. Tao, C. M. Feng, Z. A. Xu, and G. H. Cao, 
+Phys. Rev. B 90, 064518 (2014). 
+19. J. Shao, Z. Liu, X. Yao, L. Pi, S. Tan, C. Zhang, and Y. Zhang, Phys. Status Solidi RRL 8, 
+845 (2014). 
+20. L. Li, D. Parker, P. Babkevich, L. Yang, H. M. Ronnow, and A. S. Sefat、Phys. Rev. B 91, 
+104511 (2015). 
+21. R. Jha, Y. Goto, R. Higashinaka, T. D. Matsuda, Y. Aoki, and Y. Mizuguchi, J. Phys. Soc. 
+Jpn. 87, 083704 (2018). 
+22. B. B. Ruan, K. Zhao, Q. G. Mu, B. J. Pan, T. L., H. X. Yang, J. Q. Li, G. F. Chen, and Z. A. 
+Ren, J. Am. Chem. Soc. 141, 3404 (2019). 
+23. J. G. Bednorz and K. A. Müller, Z. Phys. B-Condens. Matter 64, 189 (1986). 
+24. M. K. Wu, J. Ashburn, C. J. Torng, P. H. Meng, L. Gao, Z. J. Huang, U. Q. Wang, and C. 
+W. Chu, Phys. Rev. Lett. 58, 908 (1987).  
+25. Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. 130, 3296 
+(2008).  
+
+
+7 
+ 
+26. K. Ishida, Y. Nakai, and H. Hosono, J. Phys. Soc. Jpn. 78, 062001 (2009). 
+27. S. K. Singh, A. Kumar, B. Gahtori, S. Kirtan, G. Sharma, S. Patnaik, and V. P. S. Awana, J. 
+Am. Chem. Soc 134, 16504 (2012). 
+28. H. Takatsu, Y. Mizuguchi, H. Izawa, O. Miura, and H. Kadowaki, J. Phys. Soc. Jpn. 81, 
+125002 (2012). 
+29. S. Li, H. Yang, D. Fang, Z. Wang, J. Tao, X. Ding, and H. H. Wen, Sci China-Phys Mech 
+Astron 56, 2019 (2013). 
+30. P. Srivatsava, Shruti, and S. Patnaik, Supercond. Sci. Technol. 27, 055001 (2014). 
+31. H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 81, 103702 (2012). 
+32. C. T. Wolowiec, D. Yazici, B. D. White, K. Huang, and M. B. Maple, Phys. Rev. B 88, 
+064503 (2013). 
+33. G. Lamura, T. Shiroka, P. Bonfa, S. Sanna, R. De Renzi, C. Baines, H. Luetkens, J. Kajitani, 
+Y. Mizuguchi, O. Miura, K. Deguchi, S. Demura, Y. Takano, and M. Putti, Phys. Rev. B 88, 
+180509 (2013). 
+34. K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, 
+H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, and Y. Takano, EPL 101, 17004 
+(2013). 
+35. Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, and O. Miura, J. Phys. Soc. 
+Jpn. 83 053704 (2014). 
+36. J. Kajitani, K. Deguchi, A. Omachi, T. Hiroi, Y. Takano, H. Takatsu, H. Kadowaki, O. 
+Miura, and Y. Mizuguchi, Solid State Commun. 181, 1 (2014).  
+37. E. Paris, Y. Mizuguchi, M. Y. Hacisalihoglu, T. Hiroi, B. Joseph, G. Aquilanti, O. Miura, T. 
+Mizokawa, and N. L. Saini, J. Phys.: Condens. Matter 29, 145603 (2017). 
+38. Y. Mizuguchi, K. Hoshi, Y. Goto, A. Miura, K. Tadanaga, C. Moriyoshi, and Y. Kuroiwa, J. 
+Phys. Soc. Jpn. 87, 023704 (2018). 
+39. K. Nagasaka, A. Nishida, R. Jha, J. Kajitani, O. Miura, R. Higashinaka, T. D. Matsuda, Y. 
+Aoki, A. Miura, C. Moriyoshi, Y. Kuroiwa, H. Usui, K. Kuroki, and Y. Mizuguchi, J. Phys. 
+Soc. Jpn. 86, 074701 (2017). 
+40. A. Athauda, J. Yang, S. Lee, Y. Mizuguchi, K. Deguchi, Y. Takano, O. Miura, and D. 
+Louca, Phys. Rev. B 91, 144112 (2014). 
+
+
+8 
+ 
+41. A. Athauda and D. Louca, J. Phys. Soc. Jpn. 88, 041004 (2019). 
+42. A. Athauda, C. Hoffman, Y. Ren, S. Aswartham, J. Terzic, G. Cao, X. Zhu, and D. Louca, J. 
+Phys. Soc. Jpn. 86, 054701 (2017). 
+43. J. Kajitani, R. Sagayama, H. Sagayama, K. Matsuura, T. Hasegawa, R. Kumai, Y. 
+Murakami, M. Mita, T. Asano, R. Higashinaka, T. D. Matsuda, and Y. Aoki, J. Phys. Soc. 
+Jpn. 90, 103601 (2021). 
+44. R. Jha and Y. Mizuguchi, Appl. Phys. Express 13, 093001 (2020). 
+45. T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. 
+Izawa, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 83, 063704 
+(2014) 
+ 
+Statements and Declarations 
+The authors declare no competing interests. 
+ 
+
+
+9 
+ 
+ 
+Table 1: Sample information and Tcs. 
+Sample 
+Ref. 
+Tc (as-synthesized) 
+Tc (2024) 
+Bi4O4S3 (#1) 
+[9] 
+Tconset = 5.0 K 
+Tconset = 4.8 K 
+Bi4O4S3 (#2) 
+[27] 
+Tconset = 4.4 K [27] 
+Tconset = 4.4 K 
+Bi4O434S3 (#3) 
+[44] 
+Tconset = 4.81 K 
+Tconset = 4.80 K 
+HP-LaO0.5F0.5BiS2 
+[35] 
+Tirr = 9.4 K 
+Tirr = 7.0 K 
+ 
+ 
+Fig. 1. Crystal structures of Bi4O4S3 and LaO0.5F0.5BiS2. 
+ 
+
+
+10 
+ 
+ 
+Fig.2. XRD patterns for Bi4O4S3 (#1) measured in 2012 (2012-04-20) and 2024 (2024-05-09). 
+ 
+ 
+
+
+11 
+ 
+ 
+Fig.3. T dependences of M for Bi4O4S3 (#1) measured in (a) 2012 and (b) 2024. The insets show 
+data near Tconset. 
+ 
+ 
+ 
+
+
+12 
+ 
+ 
+Fig.4. T dependence of M for Bi4O4S3 (#2) measured in 2024. The inset shows data near Tconset. 
+ 
+ 
+Fig.5. T dependences of M (ZFC) for Bi4O4S3 (#3) measured in 2020 and 2024. The inset shows 
+data near Tconset. 
+
+
+13 
+ 
+ 
+ 
+Fig.6. T dependences of M for HP-LaO0.5F0.5BiS2 synthesized at 2 GPa measured in (a) 2014 and 
+(b) 2024. The insets show data near Tirr. 
+ 
+
+

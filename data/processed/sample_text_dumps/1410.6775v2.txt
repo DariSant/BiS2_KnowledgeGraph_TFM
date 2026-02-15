@@ -1,0 +1,417 @@
+1 
+ 
+Evolution of Superconductivity in BiS2-Based Superconductor LaO0.5F0.5Bi(S1-xSex)2 
+ 
+Takafumi Hiroi, Joe Kajitani, Atsushi Omachi, Osuke Miura, and Yoshikazu Mizuguchi 
+ 
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, 
+Hachioji, Tokyo 192-0397, Japan 
+ 
+ 
+Abstract 
+We have systematically investigated the crystal structure, magnetic 
+susceptibility, 
+and 
+electrical 
+resistivity 
+of 
+the 
+BiS2-based 
+superconductor 
+LaO0.5F0.5Bi(S1-xSex)2 (x = 0 – 0.7). With expanding lattice volume by Se substitution, 
+bulk superconductivity was induced for x ≥ 0.2, and the highest Tc of 3.8 K was 
+observed in x = 0.5 (LaO0.5F0.5BiSSe). Metallic conductivity was observed for x ≥ 0.3 in 
+the resistivity measurement, whereas semiconducting-like behavior was observed for x 
+≤ 0.2. The induction of bulk superconductivity by the partial substitution of S by Se in 
+the LaO0.5F0.5BiS2 superconductor should be positively linked to the enhancement of 
+metallic conductivity. 
+ 
+ 
+ 
+ 
+
+
+2 
+ 
+1. Introduction 
+Since the discovery of the novel layered BiS2-based superconductor Bi4O4S3 
+[1], many studies exploring new superconductors and clarifying the mechanisms of 
+superconductivity in the BiS2 family have been carried out. Thus far, three types of 
+BiS2-based superconductor, Bi4O4S3, REOBiS2 (RE = La, Ce, Pr, Nd, Sm, and Yb) [2-9], 
+and AEFBiS2 (AE = Sr, and Eu) [10-14] have been discovered, and the highest transition 
+temperature (Tc) reaches about 11 K in LaO0.5F0.5BiS2 [15]. BiS2-based superconductors 
+have a layered structure consisting of the alternate stacking of the BiS2 superconducting 
+layer and the blocking layer. The superconducting properties of the BiS2 family can be 
+tuned by substituting the elements at the blocking layers. These characteristics resemble 
+those of cuprate and Fe-based superconductors [16,17]. In BiS2-based layered materials, 
+electron doping into the BiS2 layers is essential for the induction of superconductivity 
+[18]. For example, in the LaOBiS2 system, superconductivity is induced by a partial 
+substitution of O2- by F- or by a partial substitution of La3+ by M4+ at the blocking layers 
+[2,19]. Namely, element substitution at the blocking layer is effective for inducing 
+superconductivity 
+and 
+tuning 
+its 
+superconducting 
+properties 
+in 
+BiS2-based 
+superconductors. 
+Furthermore, 
+several 
+high-pressure 
+studies 
+revealed 
+that 
+superconducting properties are sensitive to changes in local crystal structures: the Tc can 
+be enhanced by optimal lattice contraction [20-27]. In addition, it was reported that the 
+chemical pressure effect could enhance superconducting properties in the RE(O,F)BiS2 
+system [8,28-31]. In Ce1-xNdx(O,F)BiS2 and Nd1-xSmx(O,F)BiS2, bulk superconductivity 
+was induced by the decrease in lattice volume, and the highest Tc of 5.6 K was observed 
+in Nd0.2Sm0.8O0.7F0.3BiS2 [29]. In La1-xSmxO0.5F0.5BiS2, bulk superconductivity was 
+induced by the chemical pressure effect, and the highest Tc of 5.4 K was obtained for 
+
+
+3 
+ 
+La0.2Sm0.8O0.5F0.5BiS2 [31]. These experimental results suggest that the intrinsic (bulk 
+and higher Tc) superconductivity could be induced by optimizing crystal structures in 
+the BiS2-based family. In fact, the importance of the optimization of the local structure 
+in determining superconducting or physical properties was suggested in theoretical 
+studies [32,33] and X-ray absorption spectroscopy studies [34,35]. 
+There are many reports on the element substitution effects of blocking layers in 
+REO1-xFxBiS2. On the other hand, there are only a few reports on the effect of element 
+substitution within the superconducting layer. In Bi4O4S3, a partial substitution of S by 
+Se decreased Tc [36]. The Tc of Nd(O,F)BiS2 decreased with a partial substitution of S 
+by Se as well [37]. In contrast, the observation of bulk superconductivity with a Tc of 
+3.8 K in LaO1-xFxBiSSe, in which 50% of the S sites are replaced by Se, has recently 
+been reported [38]. In this study, the effect of Se substitution at the superconducting 
+layers on the superconducting properties of LaO0.5F0.5Bi(S1-xSex)2 were systematically 
+investigated as a function of Se concentration. We synthesized polycrystalline samples 
+of Se-substituted LaO0.5F0.5Bi(S1-xSex)2, investigated their physical properties, and 
+established a superconductivity phase diagram. 
+ 
+ 
+2. Experimental Procedure 
+The polycrystalline samples of LaO0.5F0.5Bi(S1-xSex)2 (x = 0 - 0.7) were 
+prepared by a solid-state reaction method. First, powders of Bi2Se3 were presynthesized 
+from Bi (99.999%) and Se (99.99%) grains. The weighed Bi and Se grains were sealed 
+in an evacuated quartz tube and heated at 800 °C for 10 h. The starting materials for 
+LaO0.5F0.5Bi(S1-xSex)2 were La2O3 powder (99.9%), LaF3 powder (99.9%), La2S3 
+
+
+4 
+ 
+powder (99.9%), Bi2Se3 powder, Bi grains, and S grains (99.9%). The mixtures with 
+nominal compositions of LaO0.5F0.5Bi(S1-xSex)2 were mixed well, ground, pelletized, 
+sealed in an evacuated quartz tube and annealed at 700 °C for 15 h. The calcined 
+samples were ground, pelletized, and heated in an evacuated quartz tube by the same 
+process as the first heating. The obtained samples were characterized by powder X-ray 
+diffraction (XRD) analysis using the - 2 method with CuKradiation. The lattice 
+constants were estimated by the Rietveld method using RIETAN-FP [39]. The 
+temperature dependence of magnetic susceptibility was measured using a 
+superconducting quantum interface device (SQUID) magnetometer with an applied field 
+of 5 Oe after both zero-field cooling (ZFC) and field cooling (FC). The temperature 
+dependence of resistivity was measured by the four-probe method. 
+ 
+ 
+3. Results and Discussion 
+Figure 1 shows the powder XRD patterns of LaO0.5F0.5Bi(S1-xSex)2 (x = 0 - 0.7). 
+For all the samples, the obtained XRD peaks of LaO0.5F0.5BiS2 could be indexed using 
+the P4/nmm space group as indicated by Miller indices displayed with the XRD pattern 
+of x = 0. The Rietveld refinement result for the XRD pattern of LaO0.5F0.5BiSSe (x = 
+0.5) is shown in Fig. 2. Except for the tiny peak of bismuth oxide at approximately 2 = 
+27.5º, almost all the observed profiles were refined, indicating that the S/Se solution 
+system is single phase (Rwp ~ 0.16). Since LaO0.5F0.5Bi(S1-xSex)2 is a solid-solution 
+system, we carried out refinements by inputting a virtual element of S/Se: the mixing 
+ratio was fixed to the starting nominal compositions. Then, the Rietveld refinement was 
+carried out using typical crystal structure data of the REOBiS2-type materials. Having 
+
+
+5 
+ 
+considered the resolution of our laboratory-level XRD analysis with powder samples 
+containing the S/Se solution, we simply discuss the variations in the lattice constants of 
+a-axis, c-axis, and volume for the LaO0.5F0.5Bi(S1-xSex)2 system in the crystal structure 
+part of this article. 
+Figure 3 shows the Se concentration dependences of the lattice constants 
+throughout (a) a-axis, (b) c-axis and (c) volume. The lattice constants of a-axis and 
+c-axis increase with increasing Se concentration. These changes are consistent with the 
+difference in ionic radius between S2- (184 pm) and Se2- (198 pm). The a-axis 
+monotonically increases with increasing Se concentration. The c-axis slightly increases 
+up to x = 0.4 and largely increases above x = 0.5. These tendencies indicate that the Se 
+ions are selectively introduced into one site of the BiS2 superconducting layer, although 
+we cannot obtain further information within the present analysis. 
+Figure 4(a) shows the temperature dependences of the ZFC magnetic 
+susceptibility (4) with an applied magnetic field of 5 Oe for LaO0.5F0.5Bi(S1-xSex)2. 
+For x = 0 and 0.1, small diamagnetic signals were observed, indicating that the shielding 
+volume fractions were clearly as low as superconducting states of a bulk superconductor. 
+We regard these two samples as filamentary superconductors. Tc was defined as the 
+irreversible temperature (Tc
+irr) that is the bifurcation point between the ZFC and FC 
+susceptibility curves, as shown in Fig. 4(b). Tc for x = 0 is 2.5 K. Tc decreases to 2.2 K 
+at x = 0.1. Above x = 0.2, Tc increases, and the shielding volume fraction is clearly 
+enhanced. On the basis of the large shielding fraction, we regard the samples with x = 
+0.2 - 0.7 as bulk superconductors. In fact, a partial substitution of S by Se induces bulk 
+superconductivity in the LaO0.5F0.5Bi(S1-xSex)2 system. The highest Tc of 3.8 K is 
+observed for x = 0.5. For x > 0.5, Tc decreases with increasing Se concentration. 
+
+
+6 
+ 
+ 
+Figure 5(a) shows the temperature dependences of electrical resistivity for 
+LaO0.5F0.5Bi(S1-xSex)2 in the temperature range between 1.8 and 300 K. Figure 5(b) is 
+the enlargement  magnified view of Fig. 5(a) at low temperatures near Tc. For 
+LaO0.5F0.5BiS2, semiconducting-like (bad-metal-like) behavior is observed above its Tc, 
+and zero resistivity is observed at 2.5 K. Resistivity clearly decreases with increasing Se 
+concentration, and the semiconducting-like behavior disappears for x ≥ 0.3. For x = 0.3, 
+resistivity is almost constant as a function of temperature below 300 K. For x ≥ 0.4, the 
+temperature dependence of resistivity shows metallic behavior. In fact, the values of 
+resistivity at room temperature for x = 0.4 - 0.7 are 5 times as low as that for x = 0. The 
+estimated zero-resistivity temperatures (Tc
+zero) for all the samples correspond to the Tc
+irr 
+estimated by the magnetic susceptibility measurements. These results indicate that the 
+evolution of bulk superconductivity should be related to the enhancement of metallic 
+conductivity in the Se-substituted LaO0.5F0.5Bi(S1-xSex)2 system. 
+Figure 
+6 
+shows 
+the 
+superconductivity 
+phase 
+diagram 
+of 
+the 
+LaO0.5F0.5Bi(S1-xSex)2 system where Tc (Tc
+irr) is plotted as a function of Se concentration 
+(x). With increasing Se concentration, Tc firstly decreases to 2.2 K at x = 0.1. Tc 
+increases with increasing Se concentration within 0.2 ≤ x ≤ 0.5 and reaches the highest 
+Tc of 3.8 K at x = 0.5. In the Se-poor region, the samples show filamentary 
+superconductivity, and bad-metal-like conductivity is observed. With increasing Se 
+concentration, metallic conductivity is induced, and superconducting properties are 
+enhanced. The appearance of bulk superconductivity should be linked to the 
+enhancement of metallic characteristics. 
+Although we have revealed the superconductivity phase diagram of the 
+LaO0.5F0.5Bi(S1-xSex)2 system as a function of Se concentration, we should mention that 
+
+
+7 
+ 
+the highest Tc in this system is clearly lower than 11 K for the high-pressure phase of 
+LaO0.5F0.5BiS2. For the high-pressure phase of LaO0.5F0.5BiS2, Tomita et al. suggested 
+that the crystal structure is not tetragonal but monoclinic [23]. Namely, the higher-Tc 
+phase would appear in a distorted structure. In this study, we have revealed that the 
+tetragonal structure does not change with Se substitution up to x = 0.7. On the basis of 
+these facts, we assume that the partial substitution of S by Se could enhance 
+superconductivity, but it could not induce the higher-Tc phase as those revealed in 
+previous high-pressure studies of BiS2-based superconductors [21,22,26,27]. 
+ 
+4. Summary 
+We have systematically investigated the crystal structure, magnetic 
+susceptibility, 
+and 
+electrical 
+resistivity 
+of 
+polycrystalline 
+samples 
+of 
+LaO0.5F0.5Bi(S1-xSex)2. With increasing Se concentration, the lattice constants a-axis and 
+c-axis systematically increased. With expanding lattice volume by Se substitution, bulk 
+superconductivity was induced for x ≥ 0.3, and the highest Tc of 3.8 K was observed for 
+x = 0.5. One of the notable facts is that the metallic conductivity was observed for x ≥ 
+0.3 in the resistivity measurement, whereas bad-metal-like (semiconducting-like) 
+behavior was observed for x ≤ 0.2. The induction of bulk superconductivity by the 
+partial substitution of S by Se in the LaO0.5F0.5BiS2 superconductor should be positively 
+linked to the enhancement of metallic conductivity. 
+ 
+Acknowledgements 
+ We thank Dr. Y. Takano, Mr. T. Yamaki, and Dr. M. Tanaka of the National Institute for 
+Materials Science and N. L. Saini of Sapienza University of Rome for fruitful 
+discussion. This work was partly supported by JSPS KAKENHI Grant Numbers 
+25707031 and 26600077.
+
+
+8 
+ 
+References 
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, and O. Miura, Phys. Rev. B. 86, 220510 (2012). 
+[2] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+and O. Miura, J. Phys. Soc. Jpn. 81, 114725 (2012). 
+[3] J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B. 86, 214518 (2012). 
+[4] S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. Yamaki, 
+H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. 
+Yamaguchi, H. Takeya, and Y. Takano, arXiv:1311.4267 (2013). 
+[5] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Supercond. Novel Magn. 26, 
+499 (2013). 
+[6] J. Kajitani, K. Deguchi, T. Hiroi, A. Omachi, S. Demura, Y. Takano, O. Miura, and Y. 
+Mizuguchi, J. Phys. Soc. Jpn. 83, 065002 (2014). 
+[7] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano, J. Phys. Soc. Jpn. 82, 033708 (2013). 
+[8] G. S. Thakur, G. K. Selvan, Z. Haque, L. C. Gupta, S. L. Samal, S. Arumugam, and 
+A. K. Ganguli, arXiv:1410.0751 (2014). 
+[9] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, 
+Philos. Mag. 93, 673 (2012). 
+[10] X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. 
+Cao, and Z. Xu, Phys. Rev. B 87, 020504 (2013). 
+[11] H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wakisaka, M. Mizumaki, K. Nitta, Y. 
+Tokura, and S. Ishiwata, J. Phys. Soc. Jpn. 83, 014709 (2014). 
+[12] R. Jha, B. Tiwari, and V. P. S. Awana, arXiv:1407.3105 (2014). 
+[13] L. Li, Y. Li, Y. Jin, H. Huang, B. Chen, X. Xu, J. Dai, L. Zhang, X. Yang, H. Zhai, 
+G. Cao, and Z. Xu, arXiv:1407.3711 (2014). 
+[14] H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J. K. Bao, Y. L. Sun, W. 
+H. Jiao, I. Nowik, I. Felner, Y. K. Li, X. F. Xu, Q. Tao, C. M. Feng, Z. A. Xu, and G. H. 
+Cao, Phys. Rev. B 90, 064518 (2014). 
+
+
+9 
+ 
+[15] Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, and O. Miura, J. Phys. 
+Soc. Jpn. 83, 053704 (2014). 
+[16] J. G. Bednorz and K.A. Muiller, Z. Phys. B 64, 189 (1896). 
+[17] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. 130, 
+3296 (2008). 
+[18] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B 86, 220501 (2012). 
+[19] D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, 
+M. Nallaiyan, S. Spagna, and M. B. Maple, Phys. Rev. B 87, 174512 (2013). 
+[20] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 81, 103702 (2012). 
+[21] C. T. Wolowiec, D. Yazici, B.  D. White, K. Huang, and M. B. Maple, Phys. Rev. 
+B 88, 064503 (2013). 
+[22] C. T. Wolowiec, B. D. White, I. Jeon, D. Yazici, K. Huang, and M. B. Maple: J. 
+Phys.: Condens. Matter 25, 422201 (2013). 
+[23] T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, 
+H. Izawa, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 83, 
+063704 (2014). 
+[24] K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, and Y. Takano, EPL 
+101, 17004 (2013). 
+[25] J. Kajitani, K. Deguchi, A. Omachi, T. Hiroi, Y. Takano, H. Takatsu, H. Kadowaki, 
+O. Miura, and Y. Mizuguchi, Solid State Commun. 181, 1 (2014). 
+[26] M. Fujioka, M. Nagao, S. J. Denholme, M. Tanaka, H. Takeya, T. Yamaguchi and Y. 
+Takano, Appl. Phys. Lett. 105, 052601 (2014). 
+[27] R. Jha, H. Kishan, and V. P. S. Awana, arXiv:1406.4231 (2014). 
+[28] J. Kajitani, Atsushi Omachi, T. Hiroi, O. Miura, and Y. Mizuguchi, Physica C 504, 
+33 (2014). 
+[29] J. Kajitani, T. Hiroi, A. Omachi, O. Miura, and Y. Mizuguchi, arXiv:1408.2625 
+(2014). 
+[30] I. Jeon, D. Yazici, B. D. White, A. J. Friedman, and M. B. Maple, Phys. Rev. B 90, 
+054510 (2014) 
+
+
+10 
+ 
+[31] Y. Fang, D. Yazici, B. D. White, and M. B. Maple, arXiv:1410.0061 (2014). 
+[32] K. Suzuki, H. Usui, and K. Kuroki, Phys. Procedia 45, 21 (2013). 
+[33] T. Yildirim, Phys. Rev. B 87, 020506 (2013). 
+[34] T. Sugimoto, B. Joseph, E. Paris, A. Iadecola, T. Mizokawa, S. Demura, Y. 
+Mizuguchi, Y. Takano, and N. L. Saini, Phys. Rev. B 89, 201117 (2014). 
+[35] E. Paris, B. Joseph, A. Iadecola, T. Sugimoto, L. Olivi, S. Demura, Y. Mizuguchi, Y. 
+Takano, T. Mizokawa, and N. L. Saini, J. Phys.: Condens. Matter 26, 435701 (2014). 
+[36] R. Jha and V. P. S. Awana, Physica C 498, 45 (2014). 
+[37] T. Hiroi, J. Kajitani, A. Omachi, O. Miura, and Y. Mizuguchi, arXiv:1404.6359 
+(2014). 
+[38] X. C. Wang, D. Y. Chen, Q. Guo, J. Yu, B. B. Ruan, Q. G. Mu, G. F. Chen, and Z. 
+A. Ren, arXiv:1404.7562 (2014). 
+[39] F. Izumi and K. Momma, Solid State Phenom. 130, 15 (2007). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+11 
+ 
+Figure captions 
+ 
+Fig. 1. (Color online) Powder XRD patterns of LaO0.5F0.5Bi(S1-xSex)2 (x = 0 - 0.7). 
+ 
+Fig. 2. (Color online) Powder XRD pattern and Rietveld refinement result for 
+LaO0.5F0.5BiSSe (x = 0.5).  
+ 
+Fig. 3. (Color online) Se concentration dependences of the lattice constants (a) a-axis, 
+(b) c-axis, and (c) volume for LaO0.5F0.5Bi(S1-xSex)2 (x = 0 - 0.7). 
+ 
+Fig. 4. (Color online) Temperature dependences of the ZFC magnetic susceptibilities 
+(4) of LaO0.5F0.5Bi(S1-xSex)2 (x = 0 - 0.7). (b) Temperature dependence of magnetic 
+susceptibility for x = 0.5 at which the onset of the superconducting transition is 
+enlarged. 
+ 
+Fig. 5. (Color online) (a) Temperature dependences of the electrical resistivity of 
+LaO0.5F0.5Bi(S1-xSex)2 (x = 0 - 0.7). (b) Enlargement of the temperature dependences of 
+the electrical resistivity of LaO0.5F0.5Bi(S1-xSex)2 (x = 0.2 - 0.7). 
+ 
+Fig. 6. (Color online) Superconductivity phase diagram of LaO0.5F0.5Bi(S1-xSex)2 (x = 0 - 
+0.7). Tc is plotted as a function of Se concentration. On the basis of the values of -4 
+(ZFC) at 2 K, it is clear that bulk superconductivity is induced within the range of 0.2 ≤ 
+x ≤ 0.7. Metallic conductivity is observed for x ≥ 0.3, while bad-metal-like 
+(semiconducting-like) behavior is observed for x ≤ 0.2. 
+
+
+12 
+ 
+ 
+ 
+
+
+13 
+ 
+Fig. 1 
+ 
+ 
+ 
+ 
+
+
+14 
+ 
+Fig. 2 
+ 
+ 
+ 
+ 
+
+
+15 
+ 
+Fig. 3 
+ 
+ 
+ 
+ 
+
+
+16 
+ 
+Fig. 4 
+ 
+ 
+ 
+ 
+
+
+17 
+ 
+Fig. 5 
+ 
+ 
+ 
+ 
+
+
+18 
+ 
+Fig. 6 
+ 
+ 
+
+

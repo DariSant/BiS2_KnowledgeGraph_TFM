@@ -1,0 +1,710 @@
+ 
+1
+C-axis electrical resistivity of PrO1-aFaBiS2 single crystals 
+ 
+Masanori Nagao1,2*, Akira Miura3, Satoshi Watauchi1, Yoshihiko Takano2, and Isao 
+Tanaka1 
+1University of Yamanashi, Kofu 400-8511, Japan 
+2National Institute for Materials Science, Tsukuba 305-0047, Japan 
+3Hokkaido University, Sapporo 060-8628, Japan 
+ 
+*E-mail : mnagao@yamanashi.ac.jp 
+ 
+ 
+Abstract 
+The high anisotropy in RO1-aFaBiS2 (R denotes a rare-earth element) superconductors 
+demonstrates their potential use as intrinsic Josephson junctions, considering the weak 
+coupling among BiS2-PrO(F)-BiS2 (superconducting-normal-superconducting) layers 
+along the c-axis. We grew PrO1-aFaBiS2 single crystals using CsCl/KCl flux. The 
+superconducting anisotropies of the grown single crystals were estimated to be 
+approximately 40–50 from the effective mass model. The c-axis transport properties 
+
+
+ 
+2
+were characterized using single-crystal s-shaped intrinsic Josephson junctions with a 
+focused ion beam. Along the c-axis, the crystals showed zero resistivity at 2.7 K and a 
+critical current density of 1.33×103 A/cm2 at 2.0 K. The current–voltage curve along the 
+c-axis displayed hysteresis. The c-axis transport measurements under a magnetic field 
+parallel to the ab-plane revealed a “lock-in” state due to the Josephson vortex flow, 
+indicating that BiS2 superconductors are promising candidates for intrinsic Josephson 
+junctions.  
+ 
+
+
+ 
+3
+Main Text 
+ 
+1. Introduction 
+The newly developed BiS2-based layered superconductors Bi4O4S3
+1,2) and RO1-aFaBiS2 
+(R = La, Ce, Pr, Nd, or Yb)3-12) have attracted much interest. Superconductivity is 
+induced by carrier doping through the substitution of F at the O site in ROBiS2. 
+Recently, we have reported on the growth of RO1-aFaBiS2 (R = La, Ce, Nd) single 
+crystals by using the CsCl/KCl flux method. Their structures and transport properties 
+along the ab-plane were examined.13-17) The superconducting anisotropies of 
+RO1-aFaBiS2 (R = La, Nd) single crystals have been estimated to be as high as 30 using 
+an effective mass model,13-15) which demonstrates their potential use as intrinsic 
+Josephson junctions along the c-axis.18,19) Intrinsic Josephson junctions were discovered 
+in high-Tc cuprate superconductors. Such junctions emerged in the crystal structures of 
+layered superconductors. Consequently, devices based on self-assembled nano junctions 
+have been achieved. The applications of intrinsic Josephson junctions include terahertz 
+radiation sources20) and quantum bits.21,22) However, there have been no previous 
+experimental reports on intrinsic Josephson junctions along the c-axis of BiS2-based 
+layered superconductors. Thus, their c-axis transport properties have attracted much 
+
+
+ 
+4
+attention. Additionally, single crystals of RO1-aFaBiS2 (R = Pr) have not yet been 
+studied.  
+In this investigation, we grew PrO1-aFaBiS2 single crystals with different F 
+concentrations using CsCl/KCl flux and examined their transport properties parallel and 
+perpendicular to the c-axis. Furthermore, we evaluated the s-shaped junctions23,24) along 
+the c-axis of a PrO1-aFaBiS2 single crystal.  
+ 
+2. Experimental procedure 
+Single crystals of PrO1-aFaBiS2 were grown using CsCl/KCl flux.13,15) The raw materials 
+of Pr2S3, Bi, Bi2S3, Bi2O3, and BiF3 were weighed with a nominal composition of 
+PrO1-xFxBiS2 (x = 0–0.9). The molar ratio of the flux was CsCl:KCl = 5:3. 0.8 g of 
+weighed raw materials and 5.0 g of CsCl/KCl flux were mixed in a mortar and sealed in 
+a quartz tube in vacuum. The mixed powder was heated at 800 °C for 10 h, cooled 
+slowly to 600 °C at a rate of 1 °C/h, and then furnace-cooled to room temperature. The 
+quartz tube was opened in air atmosphere, and the flux was dissolved in distilled water 
+in the quartz tube. The products were filtered and washed with distilled water. The 
+structures and compositions of the grown single crystals were evaluated by X-ray 
+diffraction (XRD) analysis using CuKα radiation, scanning electron microscopy (SEM), 
+
+
+ 
+5
+and electron probe microanalysis (EPMA). The critical temperatures (Tc) of the grown 
+single crystals were estimated from the magnetization–temperature (M–T) curve under 
+zero-field cooling (ZFC) and field cooling (FC) using a superconducting quantum 
+interface device (SQUID) with an applied magnetic field of 10 Oe parallel to the c-axis. 
+The resistivity-temperature (ρ-T) and current-voltage (I-V) characteristics of the single 
+crystals were measured by the standard four-probe method in the constant current (J) 
+mode using a physical property measurement system (PPMS DynaCool; Quantum 
+Design). The electrical terminals were made of silver paste. We measured the angular 
+(θ) dependence of resistivity (ρ) in the flux liquid state under various magnetic fields 
+(H) and calculated superconducting anisotropy (γs) using the effective mass model.25-27) 
+For the c-axis transport measurement, we fabricated s-shaped junctions from a grown 
+single crystal fixed on the SrTiO3 single-crystal substrate by a three-dimensional (3D) 
+focused ion beam (FIB) etching method using a Ga-ion beam.23,24) The area of the 
+junctions was about 5.4 × 5.7 μm2 in the ab-plane. The thickness of the junctions was 
+about 1.0 μm along the c-axis. Normal-state anisotropy (γn) was estimated from the ρ-T 
+characteristics of the as-grown (J//ab-plane) and fabricated (J//c-axis) samples. The 
+sample-position (the angle between the ab-plane and the magnetic field) dependence of 
+the flow voltage (Vff) of the fabricated sample was measured under a magnetic field.  
+
+
+ 
+6
+ 
+3. Results and discussion 
+Figure 1 shows a typical SEM image of a PrO1-aFaBiS2 plate like single crystal, which is 
+around 1–3 mm in size and 20–40 μm thick. The well-developed plane was determined 
+to be the ab-plane by XRD measurement. Figure 2 shows the XRD pattern of a 
+well-developed plane in a single crystal grown from a starting powder with a nominal 
+composition of PrO0.7F0.3BiS2. The peak positions are in agreement with those of the 
+(00l) diffraction peaks of PrO1-aFaBiS2 described in the literature.6) The presence of only 
+(00l) diffraction peaks of the PrO1-aFaBiS2 structure indicates a well-developed 
+ab-plane.  
+Figure 3 shows the M–T curve for single crystals grown from a starting powder 
+with a nominal composition of PrO0.7F0.3BiS2 under ZFC and FC. The Meissner effect 
+was confirmed from the magnetization between 2 and 10 K. Tc was defined in the 
+separation temperature of FC and ZFC curves. The Tc and superconducting volume 
+fraction at 2.0 K were estimated to be 3.8 K and 75%, respectively.  
+Table I shows the F concentrations of the starting materials, c-axis lattice 
+parameters, and Tc and γs values of the single crystals. The F concentrations in the 
+starting materials and grown crystals are defined as x and y, respectively. Single crystals 
+
+
+ 
+7
+were obtained from the starting materials of 0.1 ≤ x ≤ 0.8, but only a small amount of 
+grown single crystals was obtained for x = 0.1. The chemical ratio of Pr:Bi:S in the 
+single crystals was determined to be 1.06 ± 0.02:1.02 ± 0.03:2 by EPMA, and the sulfur 
+concentration was normalized to be 2. The composition of the grown crystals was 
+almost stoichiometric, with a slightly Pr-rich composition. Cs, K, and Cl were not 
+detected in the crystals by EPMA with a minimum sensitivity limit of 0.1 wt%. The 
+value of y in the grown crystals increased to up to 0.26 with increasing x to up to 0.5, 
+and it almost saturated at x ≥ 0.5. The c-axis lattice parameters of the single crystals (x > 
+0.2) were close to those of polycrystalline samples.28) The c-axis lattice parameters of 
+the grown crystals decreased with increasing x, and they almost saturated at x ≥ 0.4. 
+These results suggest that the solubility limit of F in PrOBiS2 crystals is between 0.4 
+and 0.5, as shown in Fig. 4. The values of y and the c-axis lattice parameters are almost 
+the same between x = 0.5 and 0.8. However, the Tcs show deviations of 4.1–4.6 K. We 
+assume that the experimental error caused the deviations of Tc values. Slight changes in 
+the F concentration and/or local structure might affect the transition temperature.17) The 
+grown single crystals, except those at x = 0.1, showed superconducting transitions, and 
+the F concentration in the PrO1-aFaBiS2 grown crystals increased Tc to up to around 4.5 
+K.  
+
+
+ 
+8
+The θ dependence of ρ was measured at different H values in the flux liquid state 
+to estimate the γs values of PrO1-aFaBiS2 single crystals in accordance with the 
+experimental procedure in Refs. 25 and 26. The reduced field (Hred) was calculated 
+using the following equation for an effective mass model:  
+Hred = H(sin2θ+γs
+-2cos2θ)1/2,                  (1) 
+where θ is the angle between the ab-plane and the magnetic field,27) and Hred is 
+calculated from H and θ. γs was estimated from the best scaling of the ρ–Hred 
+relationship. Figure 5 shows the θ dependence of ρ in the grown crystal of y = 0.18 
+under different magnetic fields (H = 0.1–9.0 T) in the flux liquid state at 3.0 K. The ρ–θ 
+curve exhibits a two-fold symmetry. Figure 6 shows the ρ–Hred scaling obtained from 
+the ρ–θ curves in Fig. 5 using Eq. (1). The scaling was performed by taking γs = 58, as 
+shown in Fig. 6. Table I shows the superconducting anisotropies of PrO1-aFaBiS2 single 
+crystals with various F concentrations. The γs values of the single crystals were 
+calculated to be 20–58, and the high values of 53–58 were found in the single crystals of 
+x = 0.3. This value is higher than that of a YBa2Cu3Oa (Y-123) high-Tc cuprate 
+superconductor (γs = 45.8), which shows intrinsic Josephson junctions.29) Thus, the 
+PrO1-aFaBiS2 single crystals of x = 0.3 were employed for the fabrication of s-shaped 
+intrinsic Josephson junctions, as described below.  
+
+
+ 
+9
+Figure 7 shows a scanning ion microscopy (SIM) image of the s-shaped junctions 
+fabricated on the PrO1-aFaBiS2 single crystals of x = 0.3 along the c-axis. The 
+cross-sectional area and thickness of the junctions are 5.4 × 5.7 μm2 along the ab-plane 
+and 1.0 μm, respectively. The direction of current flow is shown in Fig. 7, which is 
+along the c-axis in the junction. This junction was used for characterizing the transport 
+properties along the c-axis. Figure 8 shows the ρ-T characteristics along the (a) ab-plane 
+(ρab) and (b) c-axis (ρc) of a Pr1.05O0.82F0.18Bi1.03S2.00 (y = 0.18) single crystal, as 
+measured by a standard four-probe method. The zero-resistivity temperature (Tc
+zero) 
+along the ab-plane was determined to be 2.95 K, whereas that along the c-axis 
+decreased slightly to 2.70 K. Ga ions were likely implanted in the fabricated sample 
+during the FIB etching, which possibly degraded the sample. This decrease in Tc
+zero may 
+be attributed to the damage caused by FIB etching. The normal-state anisotropies γn = 
+(ρc/ρab)1/2 for Pr1.05O0.82F0.18Bi1.03S2.00 single crystals at 5 and 250 K were found to be 
+39.3 and 21.1, respectively. These results suggest that this layered compound shows a 
+highly anisotropic transport even in the normal state. These γn values were lower than 
+the γs values. The ρ–T relationship along the ab-plane (J//ab-plane) exhibits an anomaly 
+at approximately 140 K and small kinks at ~70 K. The former anomaly is similar to 
+those observed in NdO1-aFaBiS2 and LaO1-aFaBiSe2 single crystals,13,30) in which 
+
+
+ 
+10
+temperature may be related to F concentration.30) Thus, those anomalies would be 
+intrinsic properties of BiS2- and BiSe2-based superconductors.30) The small kinks at ~70 
+K along the ab-plane (J//ab-plane) and c-axis (J//c-axis) are reproducible; however, in 
+origin is unclear.  
+Figure 
+9 
+shows 
+the 
+I–V 
+characteristics 
+along 
+the 
+c-axis 
+of 
+the 
+Pr1.05O0.82F0.18Bi1.03S2.00 single crystal (shown in Fig. 7) at 2.0 K when T/Tc was around 
+0.74. The critical current density (Jc) was approximately 1.33 × 103 A/cm2 in the 
+self-field. The I–V curve shows a hysteresis. However, the multi branch structure of the 
+I–V characteristics that corresponds to intrinsic Josephson junctions23,24) was not 
+observed in the s-shaped Pr1.05O0.82F0.18Bi1.03S2.00 single-crystal junctions.  
+We measured the sample-position (the angle between the ab-plane and the 
+magnetic field) dependence of the Vff characteristics under a magnetic field (H) for 
+s-shaped Pr1.05O0.82F0.18Bi1.03S2.00 single-crystal junctions (Fig. 10). We defined flow 
+resistance as Vff divided by dc bias current (I) to conduct the measurements. Figure 10 
+shows the sample-position dependence of the Vff characteristics at various Is along the 
+c-axis of the s-shaped junctions in a 1.0 T magnetic field at 2.0 K. Figure 10(b) shows 
+that Vff reaches a local maximum under a magnetic field parallel to the ab-plane. The 
+local maximum Vff increases with increasing applied current. An increase in the local 
+
+
+ 
+11
+maximum Vff is also observed in the I–V characteristics under a magnetic field parallel 
+to the ab-plane, as shown in Fig. 10(c). This phenomenon can be explained by the 
+“lock-in” state,31,32) which may originate from the Josephson vortex flow. We expect 
+that pancake vortices appear in Pr1.05O0.82F0.18Bi1.03S2.00 single crystals owing to the high 
+superconducting 
+anisotropy. 
+Vff 
+markedly 
+decreases 
+under 
+magnetic 
+fields 
+approximately parallel to the ab-plane, suggesting the dissipation of pancake vortices. 
+Subsequently, Josephson vortices appear under magnetic fields parallel to the ab-plane, 
+indicating the “lock-in” state. The lock-in state is expected to be free from pancake 
+vortices, which cross the superconducting BiS2 layers. We observed periodic 
+oscillations of Josephson-vortex flow resistance.29,33,34) The starting field of the periodic 
+oscillations (Hs) was calculated from the following equation:29,35)  
+Hs = Φ0/2πλjs,                        (2) 
+where λj = γss expresses the size of the nonlinear Josephson-vortex core along the c-axis 
+(frequently called the “Josephson penetration depth λj”), s is the length of a unit cell (= 
+c-axis lattice constant of Pr1.05O0.82F0.18Bi1.03S2.00), and Φ0 is the flux quantum (= 2.07 × 
+10-15 Wb). Hs was calculated from Eq. (2) and was estimated to be 3.12 T for the 
+s-shaped Pr1.05O0.82F0.18Bi1.03S2.00 single-crystal junctions. However, no oscillation was 
+observed until 7.0 T at 2.0 K. The absence of oscillation may be attributed to the 
+
+
+ 
+12
+measurement temperature; T/Tc is around 0.74 at 2.0 K. Although our results 
+demonstrate that Pr1.05O0.82F0.18Bi1.03S2.00 single crystals are promising candidates for 
+use as intrinsic Josephson junctions, further investigations at lower temperatures are 
+required.  
+ 
+4. Conclusions 
+We grew PrO1-aFaBiS2 single crystals with well-developed ab-planes 1–3 mm in size 
+using CsCl/KCl flux. Increasing the F concentrations of the starting materials enhanced 
+the substitution of F in the grown crystals. The superconducting Tc and γs values of 
+PrO1-yFyBiS2 (y = 0.05–0.28) single crystals were estimated to be 2.4–4.6 K and 20–58, 
+respectively. The normal-state anisotropies (γn) of Pr1.05O0.82F0.18Bi1.03S2.00 (x = 0.3, y = 
+0.18) single crystals at 5 and 250 K were found to be 39.3 and 21.1, respectively. The 
+s-shaped Pr1.05O0.82F0.18Bi1.03S2.00 single-crystal junctions under a magnetic field parallel 
+to the ab-plane exhibited a lock-in state at 2.0 K.  
+
+
+ 
+13
+ 
+References 
+1) Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, and O. Miura, Phys. Rev. B 86, 220510(R) (2012). 
+2) S. Kumar Singh, A. Kumar, B. Gahtori, G. Sharma, S. Patnaik, and V. P. S. Awana, J. 
+Am. Chem. Soc. 134, 16504 (2012). 
+3) Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+and O. Miura, J. Phys. Soc. Jpn. 81, 114725 (2012). 
+4) V. P. S. Awana, A. Kumar, R. Jha, S. Kumar Singh, A. Pal, Shruti, J. Saha, and S. 
+Patnaik, Solid State Commun. 157, 21 (2013). 
+5) J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen, Phys. Rev. B 86, 214518 (2012). 
+6) R. Jha, A. Kumar, S. Kumar Singh, and V. P. S. Awana, J. Supercond. Novel Magn. 
+26, 499 (2013). 
+7) S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J.  
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano, J. Phys. Soc. Jpn. 82, 033708 (2013). 
+8) R. Jha, A. Kumar, S. Kumar Singh, and V. P. S. Awana, J. Appl. Phys. 113, 056102 
+(2013). 
+
+
+ 
+14
+9) D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, 
+Philos. Mag. 93, 673 (2013). 
+10) G. Kalai Selvan, M. Kanagaraj, S. Esakki Muthu, R. Jha, V. P. S. Awana, and S.  
+Arumugam, Phys. Status Solidi: Rapid Res. Lett. 7, 510 (2013). 
+11) C. T. Wolowiec, D. Yazici, B. D. White, K. Huang, and M. B. Maple, Phys. Rev. B 
+88,  064503 (2013). 
+12) B. Li, Z. W. Xing, and G. Q. Huang, EPL 101, 47002 (2013). 
+13) M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N.  
+Kumada, and I. Tanaka, J. Phys. Soc. Jpn. 82, 113701 (2013). 
+14) J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, X. Zhu, H. Yang, and H.-H. Wen, EPL 106, 
+67002 (2014). 
+15) M. Nagao, A. Miura, S. Demura, K. Deguchi, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada, and I. Tanaka, Solid State Commun. 178, 33 (2014). 
+16) A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka, and N. Kumada, J. Solid State 
+Chem. 212, 213 (2014). 
+17) A. Miura, M. Nagao, T. Takei, S. Watauchi, Y. Mizuguchi, Y. Takano, I. Tanaka, and 
+N. Kumada, Cryst. Growth Des. 15, 39 (2015). 
+18) R. Kleiner, F. Steinmeyer, G. Kunkel, and P. Muller, Phys. Rev. Lett. 68, 2394 
+
+
+ 
+15
+(1992). 
+19) G. Oya, N. Aoyama, A. Irie, S. Kishida, and H. Tokutaka, Jpn. J. Appl. Phys., Part 2 
+31, L829 (1992). 
+20) L. Ozyuzer, A. E. Koshelev, C. Kurter, N. Gopalsami, Q. Li, M. Tachiki, K. 
+Kadowaki, T. Yamamoto, H. Minami, H. Yamaguchi, T. Tachiki, K. E. Gray, W.-K. 
+Kwok, and U. Welp, Science 318, 1291 (2007). 
+21) J. Clarke and F. K. Wilhelm, Nature 453, 1031 (2008). 
+22) K. Inomata, S. Sato, K. Nakajima, A. Tanaka, Y. Takano, H. B. Wang, M. Nagao, H. 
+Hatano, and S. Kawabata, Phys. Rev. Lett. 95, 107005 (2005). 
+23) S.-J. Kim, Yu. I. Latyshev, and T. Yamashita, Appl. Phys. Lett. 74, 1156 (1999). 
+24) M. Nagao, M. Sato, H. Maeda, S.-J. Kim, and T. Yamashita, Appl. Phys. Lett. 79, 
+2612 (2001). 
+25) Y. Iye, I. Oguro, T. Tamegai, W. R. Datars, N. Motohira, and K. Kitazawa, Physica 
+C 199, 154 (1992). 
+26) H. Iwasaki, O. Taniguchi, S. Kenmochi, and N. Kobayashi, Physica C 244, 71 
+(1995). 
+27) G. Blatter, V. B. Geshkenbein, and A. I. Larkin, Phys. Rev. Lett. 68, 875 (1992). 
+28) R. Jha, H. Kishan, and V. P. S. Awana, J. Appl. Phys. 115, 013902 (2014). 
+
+
+ 
+16
+29) M. Nagao, S. Urayama, S. M. Kim, H. B. Wang, K. S. Yun, Y. Takano, T. Hatano, I. 
+Iguchi, T. Yamashita, M. Tachiki, H. Maeda, and M. Sato, Phys. Rev. B 74, 054502 
+(2006). 
+30) M. Nagao, M. Tanaka, S. Watauchi, I. Tanaka, and Y. Takano, J. Phys. Soc. Jpn. 83, 
+114709 (2014). 
+31) K. Kadowaki and T. Mochiku, Physica B 194–196, 2239 (1994). 
+32) G. Hechtfischer, R. Kleiner, K. Schlenga, W. Walkenhorst, P. Muller, and H. L. 
+Johnson, Phys. Rev. B 55, 14638 (1997). 
+33) S. Ooi, T. Mochiku, and K. Hirata, Phys. Rev. Lett. 89, 247002 (2002). 
+34) P. J. W. Moll, X. Zhu, P. Cheng, H.-H. Wen, and B. Batlogg, Nat. Phys. 10, 644 
+(2014). 
+35) A. E. Koshelev, Phys. Rev. B 66, 224514 (2002). 
+ 
+ 
+
+
+ 
+17
+Figure captions 
+Fig. 1. Typical SEM image of PrO1-aFaBiS2 single crystal. The well-developed plane is 
+the ab-plane.  
+Fig. 2. XRD pattern of well-developed plane of PrO1-aFaBiS2 single crystal grown from 
+starting powder with nominal composition of PrO0.7F0.3BiS2.  
+Fig. 3. M–T curve for single crystals grown from starting powder with nominal 
+composition of PrO0.7F0.3BiS2 under ZFC and FC.  
+Fig. 4. Dependence of starting materials’ nominal F composition x on (a) analytical F 
+composition y and (b) c-axis lattice parameter.  
+Fig. 5. Angular θ dependence of resistivity ρ in flux liquid state at various magnetic 
+fields for Pr1.05O0.82F0.18Bi1.03S2.00 single crystal.  
+Fig. 6. Same data as in Fig. 5; scaling of angular θ dependence of resistivity ρ at 
+reduced magnetic field Hred = H(sin2θ+γs
+-2cos2θ)1/2.  
+Fig. 7. SIM image of s-shaped junctions. The cross-sectional area and thickness of the 
+junctions are about 30.78 μm2 and 1.0 μm, respectively.  
+Fig. 8. ρ–T characteristics of Pr1.05O0.82F0.18Bi1.03S2.00 single crystal along the (a) 
+ab-plane (ρab) and (b) c-axis (ρc). Sample for c-axis transport measurement is shown in 
+Fig. 7.  
+
+
+ 
+18
+Fig. 9. I–V characteristics of s-shaped Pr1.05O0.82F0.18Bi1.03S2.00 single-crystal junctions at 
+2.0 K and self-field. Jc is about 1.33×103 A/cm2.  
+Fig. 10. (a) Sample-position (angle between ab-plane and magnetic field) dependence of 
+flow voltage Vff at various currents (I) for s-shaped Pr1.05O0.82F0.18Bi1.03S2.00 
+single-crystal junctions under 1.0 T magnetic fields at 2.0 K. (b) Enlargement of sample 
+position approximately parallel to ab-plane. (c) I–V characteristics of s-shaped junctions 
+at 2.0 K and 1.0 T magnetic field parallel to ab-plane.  
+ 
+
+
+ 
+19
+Table I.  Dependence of nominal F concentration in the starting materials (x) on the 
+analytical F concentration (y), c-axis lattice parameter (c), superconducting transition 
+temperature (Tc), and superconducting anisotropy (γs) in the grown single crystals. The 
+ratios of F, x, and y are determined by F/(O+F).  
+a): No PrO1-aFaBiS2 single crystals were obtained. b): Unmeasurable in our system and small 
+crystals.  
+x 
+y 
+c (Å) 
+Tc (K) 
+γs 
+0 
+—a) 
+—a) 
+—a) 
+—a) 
+0.1 
+0.05 
+13.67 
+—b) 
+—b) 
+0.2 
+0.13 
+13.55 
+2.4 
+20 
+0.3 
+0.18 
+13.49 
+3.8 
+53-58 
+0.4 
+0.23 
+13.41 
+4.0 
+32-46 
+0.5 
+0.26 
+13.39 
+4.1 
+42-56 
+0.6 
+0.26 
+13.38 
+4.3 
+47 
+0.7 
+0.26 
+13.37 
+4.4 
+38-39 
+0.8 
+0.28 
+13.37 
+4.6 
+ 
+0.9 
+—a) 
+—a) 
+—a) 
+—a) 
+
+
+ 
+20
+ 
+ 
+Fig. 1  
+1.0 mm 
+ab-plane 
+
+
+ 
+21
+ 
+ 
+Fig. 2  
+0
+10
+20
+30
+40
+50
+60
+70
+80
+CuKα 2θ (deg) 
+Intensity (arb. unit) 
+(003) 
+(002) 
+(004) 
+(005) (006) 
+(008) 
+(007) 
+(0010)
+(0011) 
+(009) 
+(001) 
+(004) 
+
+
+ 
+22
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0
+2
+4
+6
+8
+10
+M (emu/cm3)
+T (K)
+ 
+ 
+-0.001
+0
+0.001
+0.002
+0.003
+0.004
+0.005
+3
+3.2
+3.4
+3.6
+3.8
+4
+M (emu/cm3)
+T (K)
+Fig. 3  
+Tc:3.8 K 
+H:10 Oe 
+H//c-axis 
+ZFC 
+FC 
+FC 
+ZFC 
+
+
+ 
+23
+ 
+ 
+  
+0
+0.1
+0.2
+0.3
+0
+0.2
+0.4
+0.6
+0.8
+1
+13.3
+13.4
+13.5
+13.6
+13.7
+0
+0.2
+0.4
+0.6
+0.8
+1
+Fig. 4  
+Nominal F concentration  x 
+Nominal F concentration  x 
+Analytical F concentration  y 
+c-axis lattice parameter (Å) 
+(a) 
+(b) 
+
+
+ 
+24
+ 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+-90
+0
+90
+180
+270
+ρab (mΩcm)
+θ (deg)
+Fig. 5  
+at 3.0 K 
+Tc:3.8 K 
+0.1 T 
+9.0 T 
+H:0.1-9.0 T 
+H//c-axis 
+
+
+ 
+25
+ 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0
+2
+4
+6
+8
+10
+Hred (T)
+ρab (mΩcm)
+Fig. 6  
+Tc:3.8 K 
+at 3.0 K 
+γs:58 
+
+
+ 
+26
+ 
+ 
+Fig. 7  
+c-axis 
+5 μm 
+Current 
+
+
+ 
+27
+ 
+ 
+Fig. 8  
+(a) 
+(b) 
+
+
+ 
+28
+ 
+ 
+Fig. 9  
+X:20mV/div 
+Y:0.2mA/div 
+Self-field 
+at 2.0K 
+Jc:1.33×10
+3
+A/cm
+2
+ 
+
+
+ 
+29
+ 
+ 
+Fig. 10  
+0
+5
+10
+15
+20
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+Sample Position (deg)
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+-2
+-1
+0
+1
+2
+Sample Position (deg)
+X:5.0mV/div 
+Y:0.05mA/div
+H:1.0T 
+H//ab-plane 
+at 2.0K 
+I:0.10 mA 
+I:0.05 mA 
+H:1.0T 
+at 2.0K 
+I:0.10 mA 
+I:0.10 mA 
+I:0.05 mA 
+I:0.05 mA 
+H//ab-plane 
+(a) 
+(b) 
+(c) 
+
+

@@ -1,0 +1,225 @@
+arXiv:1208.2796v1  [cond-mat.supr-con]  14 Aug 2012
+Typeset with jpsj2.cls <ver.1.2>
+Short Note
+Bulk superconductivity in Bi4O4S3
+revealed by speciﬁc heat measurement
+Hiroshi Takatsu1, ∗, Yoshikazu Mizuguchi2, Hiroki
+Izawa2, Osuke Miura2, and Hiroaki Kadowaki1
+1Department of Physics, Tokyo Metropolitan University,
+Hachioji-shi, Tokyo 192-0397, Japan
+2Department of Electrical and Electronic Engineering, Tokyo
+Metropolitan University, Hachioji-shi, Tokyo 192-0397,
+Japan
+(Received May 13, 2018)
+KEYWORDS: Bi4O4S3, Speciﬁc heat
+Since the recent discovery of superconductivity in
+Bi4O4S3, the BiS2-based superconducting family has at-
+tracted many researchers1–11) because of some analo-
+gies to cuprates and Fe-based superconductors.12–14) The
+parent phase of the Bi4O4S3 superconductor is Bi6O8S5
+with a crystal structure composed of a stacking of Bi2S4
+layers (two BiS2 layers) and Bi4O4(SO4) spacer layers.1)
+Band calculations1, 9) indicate that Bi6O8S5 is an insula-
+tor with Bi3+. Superconducting Bi4O4S3 is expected to
+possess 50% defects at a SO4 site, which generates elec-
+tron carriers within the BiS2 layers. In fact, supercon-
+ductivity of Bi4O4S3 is induced by electron doping into
+the BiS2 layers via the defects of the SO4 ions at the
+interlayer site.1) To date, LaOBiS2 and NdOBiS2, hav-
+ing analogous BiS2 layers, have been found to show su-
+perconductivity by electron doping as well.2, 3) Although
+the nature of superconductivity in the BiS2 family has
+not been clariﬁed so far, the relatively high transition
+temperature (Tc), for example, 10.6 K in La(O,F)BiS2,
+attracts researchers to exploring new BiS2-based super-
+conductors with a higher Tc. To elucidate the supercon-
+ductivity mechanism or design new BiS2-based supercon-
+ductors, it is important to clarify whether the observed
+superconductivity is bulk or occurred in surface. Here we
+show the evidence of bulk superconductivity in Bi4O4S3
+revealed by the speciﬁc heat measurements.
+The polycrystalline Bi4O4S3 sample was prepared by
+the conventional solid-state reaction method as described
+in Ref. 1. The sample quality was conﬁrmed by the x-ray
+diﬀraction and dc susceptibility measurements. It was
+comparable to the result reported in Ref. 1. The Tc was
+estimated to be ∼4.7 K. Speciﬁc heat was measured
+with a thermal relaxation method with a commercial
+calorimeter (PPMS, Quantum Design) down to 2 K.
+Figure 1 shows the temperature dependence of the to-
+tal speciﬁc heat CP in the superconducting state (µ0H =
+0 T) and in the normal-conducting state (µ0H = 9 T >
+µ0Hc). The CP anomaly associated with the supercon-
+ducting transition is observed, as indicated by the arrow
+(T ≃4.7 K). This result ensures that Bi4O4S3 is a bulk
+superconductor. The tiny jump is attributed to the small
+electronic-speciﬁc-heat coeﬃcient γ. Assuming the BCS
+weak coupling approximation, ∆CP /γTc = 1.43 and
+100% superconducting volume, the γ value was yielded
+∗E-mail address: takatsu@tmu.ac.jp
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+ 120
+ 0
+ 5
+ 10
+ 15
+ 20
+ 25
+CP / T (mJ/mole-K2)
+T 2 (K)
+Data run in
+zero field
+Data run with
+µ0H = 9 T
+Bi4O4S3
+polycrystal
+ 0
+ 20
+ 40
+ 0
+ 5
+ 10
+µ0H = 9 T
+Fig. 1.
+Temperature dependence of total speciﬁc heat CP of a
+polycrystalline sample of Bi4O4S3. The inset shows the same
+CP /T versus T 2 plot in the low-T region at 9 T (normal state).
+-4
+-2
+ 0
+ 2
+ 4
+ 6
+∆CP / T (mJ/mole-K2)
+Data run in
+zero field
+Data run with
+µ0H = 9 T
+Bi4O4S3
+polycrystal
+ 0
+ 0.2
+ 0.4
+ 0.6
+ 0.8
+ρ (mΩ cm)
+µ0H = 0 T
+-1.5
+-1
+-0.5
+ 0
+0
+1
+2
+3
+4
+5
+6
+4π χ (emu/cm3)
+T (K)
+µ0H = 0.93 mT
+FC
+ZFC
+Fig. 2.
+Temperature dependence of (a) the diﬀerence in the elec-
+tronic speciﬁc heat between the superconducting state and the
+normal-conducting state, ∆CP = CP (0T) −CP (9T), (b) resis-
+tivity ρ, and (c) dc magnetic susceptibility χ. The lines in (a) are
+entropy-conserving constructions in order to estimate the intrin-
+sic jump height of ∆CP . The transition temperature estimated
+by CP is consistent with that from ρ and χ.
+to be about 2.8 mJ/(f.u. mol K2). The inset of Fig. 1
+presents the ﬁtting result by a conventional relation,
+CP /T = γ + βT 2, with the estimated γ and the coef-
+ﬁcient of the phononic contribution β. Although lower-T
+data need to evaluate the certain γ value, the data is
+fairly ﬁtted by the relation with β = 3.0 mJ/(f.u. mol
+K4) yielding the Debye temperature ΘD = 192 K. We
+expect that the small γ and low carrier4) are essential
+
+
+2
+J. Phys. Soc. Jpn.
+Short Note
+Online-Journal Subcommittee
+for the superconducting mechanism of the BiS2-based
+superconductor.
+From the intrinsic jump of CP , we deﬁne the transi-
+tion temperature Tc = 4.4 K in zero ﬁeld, which agrees
+well with the temperature of the zero-resistivity and the
+starting temperature of the bifurcation between χFC and
+χZFC. In Fig. 2, comparisons between those results are
+presented. For the CP data, the diﬀerence in the elec-
+tronic speciﬁc heat between the superconducting and
+normal-conducting states is estimated by a relation of
+∆CP = CP (0T) −CP (9T), since the phononic contri-
+bution in CP is usually H independent. We have ﬁtted
+the 9 T data to a polynomial, and used it in calculat-
+ing ∆CP . We obtained the intrinsic jump height at Tc
+as ∆CP /Tc = 4.0 mJ/(f.u. mol K2). We note that there
+is a small discrepancy between CP data of the supercon-
+ducting and normal-conducting states above Tc. How-
+ever, this is only 2% of the total speciﬁc heat. There-
+fore, we think that this is not intrinsic in the nature of
+Bi4O4S3, instead it is attributable to a small error of
+measurements or of the subtraction of the normal state
+contribution, because of the small speciﬁc heat jump.
+In conclusion, our speciﬁc heat experiments on a
+polycrystalline sample of the BiS2-based superconduc-
+tor Bi4O4S3 demonstrate that the superconductivity of
+it is bulk in nature. The Tc is estimated by the spe-
+ciﬁc heat measurements to be Tc = 4.4 K, consistent
+with that of the resistivity and dc susceptibility. In or-
+der to further discuss the superconductivity mechanism
+of Bi4O4S3, lower temperature speciﬁc heat experiments
+below 2 K is essential.
+Acknowledgment
+We acknowledge Yusuke Nakai and Yoshihiko Takano
+for fruitful discussions and experimental supports. This
+work was partly supported by Grant-in-Aid for Research
+Activity Startup (23860042) from the Ministry of Edu-
+cation.
+1) Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K.
+Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura: ,
+arXiv:1207.3145 (2012).
+2) Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa,
+Y. Gotoh, H. Izawa, and O. Miura: , arXiv:1207.3558 (2012).
+3) S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T.
+Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa,
+Y. Goto, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano:
+, arXiv:1207.5248 (2012).
+4) S. Li,
+H. Yang,
+J. Tao,
+X. Ding,
+and
+H.
+H. Wen:
+,
+arXiv1207.4955 (2012).
+5) S. G. Tan, L. J. Li, Y. Liu, P. Tong, B. C. Zhao, W. J. Lu,
+and Y. P. Sun: , arXiv:1207.5395 (2012).
+6) V. P. S. Awana, A. Kumar, R. Jha, S. Kumar, J. Kumar, A.
+Pal, Shruti, J. Saha, and S. Patnaik: , arXiv:1207.6845 (2012).
+7) S. K. Singh, A. Kumar, B. Gahtori, Shruti, G. Sharma, S.
+Patnaik, and V. P. S. Awana: , arXiv:1207.5428 (2012).
+8) Y. T. H Kotegawa, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura,
+S. Demura, K. Deguchi, and Y. Takano: , to be published in
+J. Phys. Soc. Jpn. (arXiv:1207.6935) (2012).
+9) H. Usui, K. Suzuki, and K. Kuroki: , arXiv1207.3888 (2012).
+10) T. Zhou and Z. D. Wang: , arXiv:1208.1101 (2012).
+11) S. Y. S. X Wan, H C Ding and C. G. Duan: , arXiv:1208.1807
+(2012).
+12) J. G.Bednorz and K. A.M¨uller: Z Physik B Condensed Matter
+64 (1986) 189.
+13) K. Ishida, Y. Nakai, and H. Hosono: J. Phys. Soc. Jpn. 78
+(2009) 062001.
+14) Y. Mizuguchi, , and Y. Takano: J. Phys. Soc. Jpn. 79 (2010)
+102001.
+
+

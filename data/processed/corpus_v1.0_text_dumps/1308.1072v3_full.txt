@@ -1,0 +1,787 @@
+Enhancement of superconductivity near the
+pressure-induced semiconductor-metal transition in
+BiS2-based superconductors LnO0.5F0.5BiS2 (Ln =
+La, Ce, Pr, Nd)
+C T Wolowiec1,2, B D White1,2, I Jeon1,2,3, D Yazici1,2,
+K Huang1,2,3 and M B Maple1,2,3
+1 Department of Physics, University of California, San Diego, La Jolla, California
+92093, USA
+2 Center for Advanced Nanoscience, University of California, San Diego, La Jolla,
+California 92093, USA
+3 Materials Science and Engineering Program, University of California, San Diego, La
+Jolla, California 92093, USA
+E-mail: mbmaple@.ucsd
+Abstract.
+Measurements of electrical resistivity were performed between 3 and
+300 K at various pressures up to 2.8 GPa on the BiS2-based superconductors
+LnO0.5F0.5BiS2
+(Ln
+=
+Pr,
+Nd).
+At
+lower
+pressures,
+PrO0.5F0.5BiS2
+and
+NdO0.5F0.5BiS2 exhibit superconductivity with critical temperatures Tc of 3.5 and
+3.9 K, respectively. As pressure is increased, both compounds undergo a transition
+at a pressure Pt from a low Tc superconducting phase to a high Tc superconducting
+phase in which Tc reaches maximum values of 7.6 and 6.4 K for PrO0.5F0.5BiS2 and
+NdO0.5F0.5BiS2, respectively. The pressure-induced transition is characterized by a
+rapid increase in Tc within a small range in pressure of ∼0.3 GPa for both compounds.
+In the normal state of PrO0.5F0.5BiS2, the transition pressure Pt correlates with the
+pressure where the suppression of semiconducting behaviour saturates. In the normal
+state of NdO0.5F0.5BiS2, Pt is coincident with a semiconductor-metal transition. This
+behaviour is similar to the results recently reported for the LnO0.5F 0.5BiS2 (Ln = La,
+Ce) compounds. We observe that Pt and the size of the jump in Tc between the two
+superconducting phases both scale with the lanthanide element in LnO0.5F0.5BiS2 (Ln
+= La, Ce, Pr, Nd).
+PACS numbers: 61.50.Ks, 74.25.F-, 74.62.Bf, 74.62.Fj, 74.70.Dd
+Submitted to: J. Phys.: Condens. Matter
+arXiv:1308.1072v3  [cond-mat.supr-con]  22 Sep 2013
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+2
+1. Introduction
+The recent discovery of the BiS2-based superconductor Bi4O4S3 by Mizuguchi et al. [1, 2]
+with a superconducting critical temperature T onset
+c
+of 8.6 K has generated much interest
+in a new family of BiS2-based superconductors. The members of the class of novel BiS2-
+based superconductors have layered crystal structures that consist of superconducting
+BiS2 layers separated by blocking layers which act as charge reservoirs that dope the
+BiS2 layers with charge carriers.[1] Experimental eﬀorts on the BiS2-based materials
+have focused on increasing the charge carrier concentration via chemical substitution
+within the blocking layer [3, 4, 5, 6, 7, 8, 9, 10, 11, 12] as well as through a reduction of
+the unit cell volume via the application of an external pressure.[13, 14, 15, 16]
+Recent studies of the BiS2-based compounds involving chemical substitution
+within the blocking layers have lead to the discovery of the related superconductors
+LnO0.5F0.5BiS2 (Ln = La, Ce, Pr, Nd, Yb).[4, 8, 9, 10, 11, 15] The compound
+LaO0.5F0.5BiS2, synthesized under high pressure, has been reported by Mizuguchi et
+al. to have a Tc of 10.6 K which exceeds that of Bi4O4S3.[9] In addition, the compounds
+with Ln = Ce, Pr, Nd, and Yb exhibit T onset
+c
+values of ∼3.0 , 5.6 , 4.3 , and 5.3 K,
+respectively.[4, 8, 10, 11] More recent work demonstrates that chemical substitution of
+the tetravalent ions Th+4, Hf+4, Zr+4 and Ti+4 for trivalent La+3 in LaOBiS2 increases
+the charge-carrier density and induces superconductivity.[12]
+Measurements of the pressure dependence of the electrical resistivity ρ and the
+superconducting critical temperature Tc have also recently been reported for several
+of these new compounds.[13, 14, 15, 16] In this paper, we report the temperature
+dependence of the electrical resistivity ρ from 3 to 300 K for the LnO0.5F0.5BiS2
+(Ln = Pr, Nd) compounds under applied quasi-hydrostatic pressure up to ∼2.8 GPa.
+Both compounds exhibit the same qualitative evolution of Tc in which they undergo
+a pressure-induced transition at Pt from a low Tc superconducting phase to a high Tc
+superconducting phase. This transition region is characterized by a rapid increase of Tc
+in a narrow range of pressure ∼0.3 GPa. In the high Tc phase at ∼2.5 GPa, we observed
+a maximum Tc of 7.6 K for PrO0.5F0.5BiS2 and 6.4 K for NdO0.5F0.5BiS2. In the normal
+state of both materials, there is a signiﬁcant suppression of semiconducting behaviour
+with pressure which is continuous up to the pressure Pt. A rapid increase of the charge
+carrier density is inferred from both the suppression of the semiconducting behaviour
+and the rapid increase of Tc in this region.[17]
+The pressure dependence of ρ and the evolution of Tc reported in this article for
+the LnO0.5F0.5BiS2 (Ln = Pr, Nd) compounds are qualitatively similar to the behaviour
+we recently reported for the LnO0.5F0.5BiS2 (Ln = La, Ce) compounds.[14] For the
+four BiS2-based layered superconductors, LnO0.5F0.5BiS2 (Ln = La, Ce, Pr, Nd), the
+transition pressure Pt and the size of the “jump” in Tc between the two superconducting
+phases both scale with the lanthanide element Ln; speciﬁcally, as the atomic number of
+Ln increases, Pt increases while the “jump” in Tc decreases.
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+3
+2. Experimental section
+Polycrystalline samples of LnO1−xFxBiS2 (Ln = Pr, Nd) with x = 0.5 were prepared by
+solid-state reaction using powders of Pr2O3 (99.9%), PrF3 (99.9%), Pr2S3 (99.9%), and
+Bi2S3 (99.9%) for PrO1−xFxBiS2, and powders of Nd2O3 (99.9%), NdF3 (99.9%), Nd2S3
+(99.9%), and Bi2S3 (99.9%) for NdO1−xFxBiS2. Bi2S3 precursor powder was prepared in
+an evacuated quartz tube by reacting Bi (99.99%) and S (99.9%) at 500◦C for 10 hours.
+The Ln2S3 (Ln = Pr, Nd) precursor powders were prepared in an evacuated quartz tube
+by reacting chunks of Pr and Nd with S grains at 800◦C for 10 hours. The starting mate-
+rials with nominal composition LnO0.5F0.5BiS2 (Ln = Pr, Nd) were weighed, thoroughly
+mixed, pressed into pellets, sealed in evacuated quartz tubes, and annealed at 800◦C for
+48 hours. The products were ground, mixed for homogenization, pressed into pellets,
+and annealed again in evacuated quartz tubes at 800◦C for 48 hours. This last step was
+repeated again to promote phase homogeneity. X-ray powder diﬀraction measurements
+(not shown) were made using an X-ray diﬀractometer with a Cu Kα source to assess
+phase purity and to determine the lattice parameters of the LnO0.5F0.5BiS2 (Ln = Pr,
+Nd) compounds. The main diﬀraction peaks for the two samples can be well indexed to
+a tetragonal structure with space group P4/nmm conforming to the CeOBiS2 structure.
+The lattice parameters for PrO0.5F0.5BiS2 were determined to be a = b = 4.0192 ˚A and
+c = 13.4238 ˚A, while for NdO0.5F0.5BiS2 the lattice parameters are a = b = 4.0102 ˚A
+and c = 13.4468 ˚A.[11]
+Measurements of ρ(T) under applied pressure were performed up to ∼2.8 GPa in
+a clamped piston cylinder pressure cell between ∼3 K and 300 K in a pumped 4He
+dewar. A 1:1 by volume mixture of n-pentane and isoamyl alcohol was used to provide
+a quasi-hydrostatic pressure transmitting medium. Annealed Pt leads were aﬃxed to
+gold-sputtered contact surfaces on each sample with silver epoxy in a standard four-
+wire conﬁguration. The pressure dependence of Tc for high purity Sn (99.999%) was
+measured inductively and used as a manometer for the experiments. The pressure was
+determined by calibrating our Tc data for Sn against data used in [18]. The width of
+the superconducting transition of the Sn manometer was used as a measure of the error
+in pressure, which was found to be on the order ∆P ∼± 0.05 GPa.
+3. Results
+Plots of the temperature dependence of the electrical resistivity ρ below 300 K for
+PrO0.5F0.5BiS2 and NdO0.5F0.5BiS2 at various pressures up to 2.8 GPa are shown in Fig-
+ure 1 (a) and (b), respectively. Both compounds exhibit semiconducting behaviour at
+low pressure (indicated by a negative temperature coeﬃcient of resistivity (dρ/dT < 0)).
+The semiconducting behaviour is strongly suppressed at lower pressures. As pressure
+is increased, the electrical resistivity ρ of PrO0.5F0.5BiS2 becomes weakly temperature
+dependent above ∼1.5 GPa, but remains semiconducting (dρ/dT < 0). In contrast, the
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+4
+0
+50
+100
+150
+200
+250
+300
+0
+5
+10
+15
+20
+25
+30
+ 0.37 GPa
+ 0.45
+ 0.69
+ 1.47
+ 1.80
+ 2.09
+ 2.55
+ 2.80 
+(m
+cm)
+Temperature
+(K)
+PrO
+0.5
+F
+0.5
+BiS
+2
+(a)
+0
+50
+100
+150
+200
+250
+300
+0
+1
+2
+3
+ 0.37 GPa
+ 0.45
+ 0.69
+ 1.47
+ 1.80
+ 2.09
+ 2.55
+ 2.80
+ 
+(m
+cm)
+Temperature
+(K)
+NdO
+0.5
+F
+0.5
+BiS
+2
+(b)
+0
+2
+4
+6
+8
+10
+0
+10
+20
+30
+ 0.37 GPa
+ 0.45
+ 0.69
+ 1.47
+ 1.80
+ 2.09
+ 2.55
+ 2.80
+(m
+cm)
+Temperature
+(K)
+PrO
+0.5
+F
+0.5
+BiS
+(c)
+T
+ onset
+c
+0
+2
+4
+6
+8
+10
+0
+1
+2
+3
+ 0.37 GPa
+ 0.45
+ 0.69
+ 1.47
+ 1.80
+ 2.09
+ 2.55
+ 2.80
+ 
+(m
+cm)
+Temperature
+(K)
+ NdO
+0.5
+F
+0.5
+BiS
+2
+(d)
+Figure 1:
+(colour online) (a),(b) Temperature dependence of the electrical resistivity
+ρ at various pressures for (a) PrO0.5F0.5BiS2 and (b) NdO0.5F0.5BiS2.
+At lower
+pressures, both compounds exhibit semiconducting behaviour which is suppressed with
+increasing pressure. NdO0.5F0.5BiS2 becomes completely metallic at ∼2 GPa (dρ/dT >
+0). (c),(d) Resistive superconducting transition curves for (c) PrO0.5F0.5BiS2 and (d)
+NdO0.5F0.5BiS2 at various pressures. In PrO0.5F0.5BiS2, Tc increases from 3.5 K to a
+maximum of 7.6 K while in NdO0.5F0.5BiS2, Tc increases from 3.9 K to a maximum of
+6.4 K.
+NdO0.5F0.5BiS2 sample becomes metallic at ∼2 GPa (indicated by a positive tempera-
+ture coeﬃcient of resistivity (dρ/dT > 0) in Figure 1(b)).
+Superconducting transitions for PrO0.5F0.5BiS2 and NdO0.5F0.5BiS2 are displayed
+in Figure 1(c) and (d), respectively. At lower pressures up to ∼1 GPa, the supercon-
+ducting transitions in PrO0.5F0.5BiS2 are grouped near 3.5 K. As pressure is increased,
+there is a slight broadening of the width of the superconducting transition ∆Tc at ∼1.5
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+5
+GPa which is immediately followed by a dramatic increase in Tc from ∼3.9 to 7.4 K in
+the narrow range ∼1.5 - 1.8 GPa. Above 1.8 GPa, Tc passes through a maximum of
+7.6 K at ∼2.5 GPa and then gradually decreases with increasing pressure. We observed
+0
+1
+2
+3
+400 K
+500 K
+1000 K
+1
+ / k
+B
+ 
+PrO
+0.5
+F
+0.5
+BiS
+2
+Pressure (GPa)
+Semiconducting
+Superconducting
+(a)
+2000 K
+3
+4
+5
+6
+7
+8
+T
+c
+ (K)
+ 
+0
+1
+2
+3
+1
+ / k
+B
+NdO
+0.5
+F
+0.5
+BiS
+2
+Pressure (GPa)
+Superconducting
+Semiconducting
+Metallic
+(b)
+60 K
+30 K
+0 K
+ 
+ 
+3
+4
+5
+6
+7
+T
+c
+ (K)
+Figure 2: (colour online) Temperature-pressure phase diagrams for (a) PrO0.5F0.5BiS2
+and (b) NdO0.5F0.5BiS2 under pressure. Vertical bar lengths represent the transition
+width ∆Tc and vertical bar caps represent T onset
+c
+(upper) and T0 (lower). The colour in
+the semiconducting region represents the energy gap ∆1. Values for ∆1 are indicated in
+the false colour legend. (b) The green region to the right of the crosshatching corresponds
+to the metallization of NdO0.5F0.5BiS2 (∆1 = 0). The solid black curves are guides to
+the eye.
+similar behaviour in the NdO0.5F0.5BiS2 compound. Sharp superconducting transitions
+near 4.0 K were observed at low pressures up to ∼1.5 GPa. The width ∆Tc of the
+superconducting transition then appears to broaden near ∼1.8 GPa. In the small range
+∼1.8 - 2.1 GPa, there is a sizable increase in Tc from ∼3.9 to 6.3 K. In NdO0.5F0.5BiS2,
+Tc passes through a maximum of 6.4 K at ∼2.5 GPa and then gradually decreases at
+higher pressures up to ∼2.8 GPa, similar to the behaviour observed for PrO0.5F0.5BiS2.
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+6
+The temperature-pressure phase diagrams for the PrO0.5F0.5BiS2 and NdO0.5F0.5BiS2
+compounds are displayed in Figure 2(a) and (b), respectively. In the superconducting
+state, both compounds exhibit a low Tc phase which is characterized by a gradual in-
+crease in Tc with pressure. In the PrO0.5F0.5BiS2 sample, Tc increases monotonically
+from 3.5 to 3.9 K at pressures up to ∼1.5 GPa (dTc/dP = 0.40 K GPa−1). In the
+NdO0.5F0.5BiS2 sample, there was a non-monotonic decrease in Tc from 4.1 to 3.9 K at
+pressures up to ∼1.8 GPa. As pressure is increased, both compounds exhibit a rapid
+increase in Tc within a narrow range ∼0.3 GPa. For the PrO0.5F0.5BiS2 compound, Tc
+increases dramatically from 3.9 to 7.4 K as pressure is increased from ∼1.5 to 1.8 GPa
+(dTc/dP = 11.7 K GPa−1). In the NdO0.5F0.5BiS2 compound, there is a signiﬁcant
+jump in Tc from 3.9 to 6.3 K as pressure is increased from ∼1.8 to 2.1 GPa (dTc/dP =
+8.0 K GPa−1). Following the rapid increase in Tc, both compounds exhibit a high Tc
+superconducting phase, in which the evolution of Tc exhibits a domelike behaviour; i.e.,
+Tc gradually increases to its maximum value and then slowly decreases with pressure.
+In the PrO0.5F0.5BiS2 compound, Tc increases to a maximum value of 7.6 K at 2.5 GPa
+and then steadily decreases with pressure, while in the NdO0.5F0.5BiS2 compound, Tc
+increases to a maximum Tc of 6.4 K at ∼2.5 GPa and then decreases slowly with pres-
+sure.
+In the normal state (above the Tc(P) curves shown in Figure 2), the semiconducting
+behaviour in both compounds is continuously suppressed with pressure as manifested
+by the decrease of the energy gap ∆1 (deﬁned below) with pressure, the values of which
+are indicated in the false colour legend of Figure 2(a) and (b) for PrO0.5F0.5BiS2 and
+NdO0.5F0.5BiS2, respectively. The NdO0.5F0.5BiS2 sample exhibits a fully metallic state
+at ∼2 GPa (where ∆1 vanishes), represented by the green region to the right of the
+crosshatching in Figure 2(b).
+From the plot of log(ρ) vs. P displayed in Figure 3(a), there is a noticeable change
+in the magnitude of the suppression rate, dlog(ρ)/dP, for both the PrO0.5F0.5BiS2 and
+NdO0.5F0.5BiS2 compounds. The ρ(P) data for PrO0.5F0.5BiS2 and NdO0.5F0.5BiS2 were
+taken in the normal state at 8.5 K and 7.5 K, respectively. These temperatures occur
+just above the onset of the superconducting transition at T onset
+c
+. In both compounds,
+there is a strong suppression of electrical resistivity up to ∼2.1 GPa, followed by a
+weaker suppression at higher pressures. The dotted lines in Figure 3(a) are guides to
+the eye for the rates of suppression. The change in the suppression rate near 2.1 GPa
+(emphasized by the vertical arrows in Figure 3(a)) is coincident with Pt.
+The semiconducting behaviour of the ρ(T) data and its rapid suppression with
+pressure was noted by Kotegawa et al. in their study of the LaO0.5F0.5BiS2 compound
+synthesized under high pressure.[13] They observed that ρ(T) could be described over
+two distinct temperature regions by the relation ρ(T) = ρ0e∆/2kBT where ρ0 is a con-
+stant and ∆is an energy gap. In a recent paper, we applied this analysis to extract the
+high and low temperature energy gaps ∆1 and ∆2 for the LnO0.5F0.5BiS2 (Ln = La,
+Ce) compounds.[14] We used the same analysis in the current study to determine the
+value of the high temperature energy gap ∆1 for both compounds LnO0.5F0.5BiS2 (Ln
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+7
+0
+1
+2
+3
+10
+15
+20
+25
+30
+0
+1
+2
+3
+1.7
+2
+2.5
+3
+3.5
+(m
+cm)
+(m
+cm)
+Pressure (GPa)
+(a)
+ PrO
+0.5
+F
+0.5
+BiS
+2 
+(8.5 K)
+ NdO
+0.5
+F
+0.5
+BiS
+2
+ 
+(7.5 K)
+0
+1
+2
+3
+0
+10
+20
+30
+40
+50
+60
+70
+400
+800
+1200
+1600
+2000
+NdO
+0.5
+F
+0.5
+BiS
+ 1
+ / k
+B
+   (K)
+Pressure (GPa)
+ 
+ 1
+ / k
+B
+   (K)
+PrO
+0.5
+F
+0.5
+BiS
+(b)
+Figure 3:
+(colour online) (a) Electrical resistivity ρ vs pressure in the normal state
+(plotted on a log scale). Values of ρ for PrO0.5F0.5BiS2 and NdO0.5F0.5BiS2 were taken at
+T = 8.5 and 7.5 K, respectively. Dotted lines reﬂect the slopes (suppression rates), and
+arrows point to changing slopes at ∼2.1 GPa. The breaks in slope occur at the transition
+pressure Pt. (b) Energy gap ∆1 (∼100 - 200 K) vs pressure for both compounds. The
+rate of decrease in ∆1 with pressure ﬂattens at ∼2 GPa in both compounds. Above
+∼1.9 GPa, ∆1/kB = 0 K in NdO0.5F0.5BiS2.
+= Pr, Nd). The energy gap ∆1 in NdO0.5F0.5BiS2 was determined using the ρ(T) data
+from the region 100 - 200 K for lower pressures 0.37 - 0.69 GPa and ρ(T) data from the
+region 20 - 100 K for higher pressures 1.47 - 2.80 GPa. For PrO0.5F0.5BiS2, the energy
+gap ∆1 was extracted using ρ(T) data in the region 200 - 280 K for all pressures up to
+2.80 GPa.
+The pressure dependence of the energy gap ∆1 for both compounds is shown in Fig-
+ure 3(b). The energy gap ∆1 decreases rapidly with pressure up to ∼2 GPa. Above ∼2
+GPa, ∆1 exhibits relatively little pressure dependence. This is consistent with the tran-
+sition to a weaker suppression rate shown in Figure 3(a) which also sets in at ∼2 GPa.
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+8
+In NdO0.5F0.5BiS2, the energy gap ∆1/kB = 0 K above 1.8 GPa. This is consistent with
+the semiconductor-metal transition near 2 GPa indicated by a positive temperature co-
+eﬃcient of electrical resistivity (dρ/dT > 0) seen in the ρ(T) data shown in Figure 1(b).
+The rapid decrease in the energy gap ∆1 for P < Pt in both the LnO0.5F0.5BiS2 (Ln =
+Pr, Nd) compounds is similar to behaviour observed previously in the LnO0.5F0.5BiS2
+(Ln = La, Ce) compounds.[13, 14]
+4. Discussion
+0
+1
+2
+3
+0
+2
+4
+6
+8
+10
+ 
+ 
+T
+c
+ (K)
+Pressure
+(GPa)
+ LaO
+0.5
+F
+0.5
+BiS
+2
+ CeO
+0.5
+F
+0.5
+BiS
+2
+ PrO
+0.5
+F
+0.5
+BiS
+2
+ NdO
+0.5
+F
+0.5
+BiS
+2
+(a)
+P
+t
+0
+1
+2
+0
+2
+4
+6
+8
+ 
+ 
+ 
+ 
+  LaO
+0.5
+F
+0.5
+BiS
+2
+  CeO
+0.5
+F
+0.5
+BiS
+2
+  PrO
+0.5
+F
+0.5
+BiS
+2
+  NdO
+0.5
+F
+0.5
+BiS
+2
+P
+t
+    (GPa)
+Ln in (Ln)O
+0.5
+F
+0.5
+BiS
+2
+La
+Ce
+Pr
+Nd
+(b)
+La
+Ce
+Pr
+Nd
+Increase in T
+c
+  (K)
+Figure 4:
+(colour online) (a) Tc vs pressure plotted for the four compounds
+LnO0.5F0.5BiS2 (Ln = La, Ce, Pr, Nd). The black arrows emphasize the transition
+pressure Pt which is deﬁned in the text. (b) Transition pressure Pt plotted as a function
+of Ln in LnO0.5F0.5BiS2. The inset displays the increase in Tc at Pt as a function of Ln.
+Dashed lines are guides to the eye.
+Both the temperature dependence of the electrical resistivity ρ and the evolution
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+9
+Table 1: Tc data for LnO0.5F0.5BiS2 (Ln = La, Ce, Pr, Nd).
+Ln
+low Tc (K)
+max. Tc (K)
+increase in Tc (K)
+Pt (GPa)
+La
+2.9
+10.1
+7.2
+0.56
+Ce
+1.9
+6.7
+4.8
+1.25
+Pr
+3.5
+7.6
+4.1
+1.59
+Nd
+3.9
+6.4
+2.5
+1.91
+of Tc under applied pressure for the LnO0.5F0.5BiS2 (Ln = Pr, Nd) samples reported
+in section 3 of this paper are markedly similar to the results we recently reported for
+the LnO0.5F0.5BiS2 (Ln = La, Ce) compounds.[14] As shown in the phase diagrams
+displayed in Figure 4(a), each of the four compounds LnO0.5F0.5BiS2 (Ln = La, Ce,
+Pr, Nd) exhibits an abrupt pressure-induced transition from a low Tc superconducting
+phase at lower pressure to a high Tc superconducting phase at higher pressure.
+In the four compounds, the pressure-induced transition observed in the supercon-
+ducting state is coincident with changes in the suppression of the electrical resistivity ρ
+in the normal state. The rate of suppression of semiconducting behaviour (Figure 3(a))
+and the rate of decrease in the energy gap ∆1 (Figure 3(b)) both saturate at pressures
+that correlate with the transition pressure into the high Tc superconducting phase. In
+the speciﬁc case of the NdO0.5F0.5BiS2 compound, a semiconductor-metal transition oc-
+curs at Pt. These changes in the normal state electrical resistivity indicate there may
+be signiﬁcant increases in the charge carrier density during the rapid increase in Tc that
+occurs between the two superconducting phases.[17]
+The transition pressures Pt, indicated by the black arrows in the temperature-
+pressure phase diagrams of Figure 4(a), were deﬁned as the pressure corresponding to
+the value of Tc at the midpoint between the values of Tc in the low and high Tc phases
+immediately preceding and following the transition. Pt is plotted as a function of lan-
+thanide element (Ln = La, Ce, Pr, Nd) in LnO0.5F0.5BiS2 in Figure 4(b). There is a
+clear linear relationship between the increasing atomic number of Ln and an increase in
+Pt. The magnitude of the “jump” in Tc also scales with the atomic number of the Ln
+element in LnO0.5F0.5BiS2 as clearly shown in the inset of Figure 4(b). The pressure-
+induced increase in Tc decreases in magnitude as the atomic number of the lanthanide
+element increases. The lengths of the vertical bars in Figure 4(b) represent the respec-
+tive pressure windows over which the transitions from the low Tc phase to the high
+Tc phase occurred in each of the four compounds. The pressure range over which the
+transition occurs also decreases with increasing atomic number of Ln in LnO0.5F0.5BiS2.
+Table 1 contains values of low Tc, maximum Tc, overall increase in Tc (max. Tc - low
+Tc), and transition pressure Pt, for each compound.
+The evolution of Tc with pressure in the low Tc phase has recently been reported
+for the LnO0.5F0.5BiS2 (Ln = Pr, Nd) compounds in two studies by Selvan et al.[15, 16]
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+10
+For PrO0.5F0.5BiS2, they observed a gradual increase of Tc from 3.7 to 4.7 K with pres-
+sure up to ∼2.2 GPa.[16] For NdO0.5F0.5BiS2, they found a gradual evolution of Tc with
+pressure from 4.6 to 5.0 K up to a pressure of ∼1.3 GPa and then down from 5.0 to 4.8
+K upon further application of pressure up to ∼1.8 GPa.[15] In both reports, however,
+there was no evidence of a transition characterized by a rapid increase in Tc. It is pos-
+sible that slight variations in the chemical composition of the samples in their studies
+compared to those studied by us may be responsible for diﬀerences in the material’s
+response to applied pressure. Furthermore, the pressure transmitting media used in
+this study (see section 2) and the transmitting ﬂuid used in their studies [15, 16] may
+have diﬀerent properties with regard to pressure gradients that can aﬀect the measured
+pressure at which a transition occurs.[19] It is also possible that the pressures reached
+in their studies were lower than the pressure required to induce the transitions that we
+observed in this report.
+5. Concluding remarks
+We have observed markedly similar behaviour in the temperature dependence of the nor-
+mal state electrical resistivity and evolution of the superconducting critical temperature
+Tc under applied pressure for the two BiS2-based superconductors LnO0.5F0.5BiS2 (Ln
+= Pr, Nd). The qualitative behaviour observed for the two compounds in this study is
+strikingly similar to the results we recently reported for the two BiS2-based superconduc-
+tors LnO0.5F0.5BiS2 (Ln = La, Ce).[14] In each of the four compounds LnO0.5F0.5BiS2
+(Ln = La, Ce, Pr, Nd), there is a sizable enhancement of Tc in the superconducting state
+accompanying the suppression of semiconducting behaviour with pressure in the normal
+state. The suppression of the semiconducting behaviour in the normal state saturates
+at a critical pressure Pt which corresponds to the pressure where there is a transition
+between a low Tc superconducting phase and a high Tc superconducting phase. The
+semiconducting behaviour of the electrical resistivity in the normal state is consistent
+with an energy gap that is suppressed with pressure in a similar way. In the particular
+case of the NdO0.5F0.5BiS2 compound, there is a pressure-induced semiconductor-metal
+transition at Pt ≈2 GPa.
+The coincidence of the saturation of the suppression of semiconducting behaviour
+in the normal state electrical resistivity with the rapid increase in Tc indicates there
+may be signiﬁcant increases in the charge carrier density in the vicinity of the pressure-
+induced transition. We found that the transition pressure Pt (see section 4) increases
+with increasing atomic number of the lanthanide element (Ln = La, Ce, Pr, Nd) in
+LnO0.5F0.5BiS2. However, the size of the increase in Tc between the two superconduct-
+ing phases decreases as lanthanide atomic number increases. The scaling of both the
+transition pressure Pt and the size of the “jump” in Tc with the atomic number of the
+lanthanide element suggests that the pressure-induced transition between the two su-
+perconducting phases may be a structural transition; however, at present, the precise
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+11
+mechanism driving the enhancement of Tc with pressure is unknown. X-ray diﬀraction
+experiments under pressure on the LaO0.5F0.5BiS2 compound are currently underway to
+help determine whether the pressure-induced enhancement of Tc and the suppression of
+semiconducting behaviour are related to a structural transition.
+Acknowledgments
+The authors thank A. J. Friedman for his helpful work in the synthesis of the
+LnO0.5F0.5BiS2 (Ln = La, Ce, Pr, Nd) compounds.
+High pressure research at the
+University of California, San Diego (UCSD) was supported by the National Nuclear
+Security Administration under the Stewardship Science Academic Alliance Program
+through the U.S. Department of Energy (DOE) under Grant No. de-na0001841. Sample
+synthesis at UCSD was sponsored by the U.S. Air Force Oﬃce of Scientiﬁc Research
+under MURI Grant No. FA9550-09-1-0603. Characterization of samples at ambient
+pressure was supported by the U.S. DOE Grant No. DE-FG02-04-ER46105.
+References
+[1] Mizuguchi Y, Fujihisa H, Gotoh Y, Suzuki K, Usui H, Kuroki K, Demura S, Takano Y, Izawa H
+and Miura O 2012 Phys. Rev. B 86 220510(R)
+[2] Singh S K, Kumar A, Gahtori B, Kirtan S, Sharma G, Patnaik S and Awana V P S 2012 J. Am.
+Chem. Soc. 134 16504-7
+[3] Li B, Xing Z W and Huang G Q 2013 Europhys. Lett. 101 47002
+[4] Jha R, Kumar A, Singh S K and Awana V P S 2013 J. Sup. and Novel Mag. 26 499-502
+[5] Jha R, Kumar A, Singh S K and Awana V P S 2013 J. Appl. Phys. 113 056102
+[6] Deguchi K, Mizuguchi Y, Demura S, Hara H, Watanabe T, Denholme S J, Fujioka M, Okazaki H,
+Ozaki T and Takeya H 2013 Europhys. Lett. 101 17004
+[7] Awana V P S, Kumar A, Jha R, Kumar S, Pal A, Shruti, Saha J and Patnaik S 2013 Solid State
+Commun. 157 21-23
+[8] Demura S, Mizuguchi Y, Deguchi K, Okazaki H, Hara H, Watanabe T, Denholme S J, Fujioka M,
+Ozaki T and Fujihisa H 2013 J. Phys. Soc. Japan. 82 033708
+[9] Mizuguchi Y, Demura S, Deguchi K, Takano Y, Fujihisa H, Gotoh Y, Izawa H and Miura O 2012
+J. Phys. Soc. Japan 81 114725
+[10] Xing J, Li S, Ding X, Yang H and Wen H-H 2012 Phys. Rev. B 86 214518
+[11] Yazici D, Huang K, White B D, Chang A H, Friedman A J and Maple M B 2012 Philos. Mag. 93
+673-80
+[12] Yazici D, Huang K, White B D, Jeon I, Burnett V W, Friedman A J, Lum I K, Nallaiyan M,
+Spagna S and Maple M B 2013 Phys. Rev. B 87 174512
+[13] Kotegawa H, Tomita Y, Tou H, Izawa H, Mizuguchi Y, Miura O, Demura S, Deguchi K and Takano
+Y 2012 J. Phys. Soc. Japan 81 103702
+[14] Wolowiec C T, Yazici D, White B D, Huang K and Maple M B 2013 Phys. Rev. B 88 064503
+[15] Selvan G K, Kanagaraj M, Muthu S E, Jha R, Awana V P S and Arumugam S 2013 Phys. Status
+Solidi RRL 7 510-3
+[16] Selvan G K, Kanagaraj M, Jha R, Awana V P S and Arumugam S 2013 Preprint arXiv/1307.4877
+[17] Igawa K, Okada H, Takahashi H, Matsuishi S, Kamihara Y, Hirano M, Hosono H, Matsubayashi
+K and Uwatoko Y 2009 J. Phys. Soc. Japan 78 025001
+[18] Smith T F, Chu C W and Maple M B 1969 Cryogenics 9 53-6
+
+
+Enhancement of superconductivity in BiS2-based superconductors
+12
+[19] Butch N P, Jeﬀries J R, Zocco D A and Maple M B 2009 High Pressure Research 29 335-43
+
+

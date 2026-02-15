@@ -1,0 +1,13 @@
+{
+  "source_meta": {
+    "source_id": "1712.06815v1_v3_ext.txt",
+    "primary_material_family": "REO0.5F0.5BiS2"
+  },
+  "extracted_samples": [],
+  "general_conclusions": [
+    "Decrease of RE3+ ionic radius monotonically decreases lattice constant a and in-plane Bi-S1 distance.",
+    "Decrease of RE3+ radius significantly decreases in-plane disorder of S1 sites.",
+    "Emergence of bulk superconductivity upon suppression of in-plane disorder is a universal scenario for BiCh2-based superconductors.",
+    "Amplitude of one-dimensional vibration of S1 along c-axis is correlated with Tc."
+  ]
+}

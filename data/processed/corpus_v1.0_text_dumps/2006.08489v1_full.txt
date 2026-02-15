@@ -1,0 +1,413 @@
+Evolution of two bulk-superconducting phases in Sr0.5RE0.5FBiS2 (RE: La, Ce, Pr, 
+Nd, Sm) by external hydrostatic pressure effect 
+ 
+ 
+Aichi Yamashita1, Rajveer Jha1, Yosuke Goto1, Akira Miura2, Chikako Moriyoshi3, Yoshihiro 
+Kuroiwa3, Chizuru Kawashima4, Kouhei Ishida4, Hiroki Takahashi4 and Yoshikazu Mizuguchi1,* 
+1Department of Physics, Tokyo Metropolitan University, 1-1 Minami-Osawa, Hachioji, Tokyo, 192-
+0397, Japan 
+2Faculty of Engineering, Hokkaido University, Kita-13, Nishi-8, Kita-ku, Sapporo, Hokkaido 060-8628, 
+Japan 
+3Graduate School of Advanced Science and Engineering, Hiroshima University, 1-3-1 Kagamiyama, 
+Higashihiroshima, Hiroshima 739-8526, Japan 
+4Department of Physics, College of Humanities and Sciences, Nihon University, Setagaya, Tokyo 156-
+8550, Japan 
+ 
+ 
+Polycrystalline samples of Sr1-xRExFBiS2 (RE: La, Ce, Pr, Nd, and Sm) were synthesized via the solid-
+state reaction and characterized using synchrotron X-ray diffraction. Although all the Sr0.5RE0.5FBiS2 
+samples exhibited superconductivity at transition temperatures (Tc) within the range of 2.1–2.7 K under 
+ambient pressure, the estimated superconducting volume fraction was small. This indicated the non-
+bulk nature of superconductivity in these samples under ambient pressure. A dramatic evolution of the 
+bulk superconducting phases was achieved on applying an external hydrostatic pressure. Near 
+pressures below 1 GPa, bulk superconductivity was induced with a Tc of 2.5–2.8 K, which is termed 
+as the low-P phase. Moreover, the high-P phase (Tc = 10.0–10.8 K) featuring bulk characteristics was 
+observed at higher pressures. Pressure-Tc phase diagrams indicated that the critical pressure for the 
+emergence of the high-P phase tends to increase with decreasing ionic radius of the doped RE ions. 
+According to the high-pressure X-ray diffraction measurements of Sr0.5La0.5FBiS2, a structural phase 
+transition from tetragonal to monoclinic also occurred at approximately 1.1 GPa. Thus, this phase 
+transition indicates a pressure-induced superconducting–superconducting transition similar to the 
+transition in LaO0.5F0.5BiS2. Bulk superconducting phases in Sr0.5RE0.5FBiS2 induced by the external 
+hydrostatic pressure effect are expected to be useful for evaluating the mechanisms of 
+superconductivity in BiCh2-based superconductors. 
+ 
+ 
+ 
+ 
+
+
+Introduction 
+The discovery of superconductivity in BiS2-based compounds such as Bi4O4S3 and REO1-xFxBiS2 has 
+triggered numerous studies focusing on identifying new superconductors featuring a higher transition 
+temperatures (Tc) and elucidating the mechanisms of superconductivity in BiS2-based compounds. Due 
+to the similarity between the crystal structures of cuprates and iron-based compounds1,2, BiS2-based 
+compounds have been considered as a type of layered superconductors. Thus far, various types of BiS2-
+based compounds have been synthesized by replacing different blocking layers3-14, such as the 
+Bi4O4(SO4)1-x or (REO) (RE: La, Ce, Pr, Nd, and Sm) layers. By manipulating the layered structures, 
+the replacement of (REO) blocking layers with the SrF blocking layers enabled the development of a 
+new class of BiS2-based Sr1-xRExFBiS2 (RE: La, Ce, Pr, Nd, and Sm) compounds12, 15–21. The parent 
+compound is SrFBiS2, which is a semiconductor with a band gap. The substitution of Sr2+ with RE3+ 
+induces electron carriers in the BiS2 layer, and filamentary superconductivity appears at approximately 
+2.8 K in La-, Pr-, and Ce-doped compounds12, 17–19.  
+Notably, some BiS2-based compounds do not exhibit bulk superconductivity even after electron 
+doping. To induce bulk superconductivity in BiS2-based compounds, various chemical substitutions 
+have been attempted22–24. Among these, the iso-valent substitutions, such as Nd3+ substitutions for La3+ 
+or Se2- substitutions for S2-, were found to be effective for inducing bulk superconductivity. Based on 
+systematic structural analyses, we have revealed that the in-plane chemical pressure is one of the 
+essential parameters that facilitate the emergence of bulk superconductivity in BiCh2-based (Ch: S, Se) 
+systems25,26. 
+Regarding the superconducting mechanisms, unconventional pairing mechanisms were suggested 
+based on the recent first principal calculations27–29. In addition, angle-resolved photoemission 
+spectroscopy (ARPES) has revealed a strongly anisotropic superconducting gap or the possibility of 
+sign changes in the superconducting gap30. Recently, we have reported the absence of isotope effects 
+on Tc in LaO0.6F0.4BiSSe31, and the two-fold-symmetric in-plane anisotropy of magnetoresistance in 
+the superconducting states in tetragonal LaO0.5F0.5BiSSe with a four-fold-symmetric in-plane 
+structure32. This is likely related to nematic superconductivity states, which have been observed in 
+several unconventional superconductors33. These findings indicate the emergence of unconventional 
+superconducting states in the RE(O,F)BiCh2 system. Therefore, in order to further investigate the 
+superconducting mechanisms of BiCh2-based compounds, it is essential to develop a new BiCh2-based 
+system. 
+In this study, we focus on the Sr0.5RE0.5FBiS2 (RE: La, Ce, Pr, Nd, and Sm) system. Based on 
+electrical resistivity measurements conducted under high pressures, a considerable increase in Tc was 
+observed in previous pressure experiments15–17. The highest Tc in Sr0.5RE0.5FBiS2 is approximately 10 
+K, and the pressure dependences of Tc exhibits a sharp increase at the critical pressure (~ 1 GPa). It 
+was suggested that the significant increase in Tc under pressure in BiS2-based systems was associated 
+with a structural transition from tetragonal to monoclinic, which was revealed via structural analyses 
+of LaO0.5F0.5BiS2 and EuFBiS234,35. Although there has been no further report on the pressure-induced 
+
+
+superconductivity in Sr0.5RE0.5FBiS2, we assumed that a similar structural transition occurs in its case 
+as well. Considering these facts and assumptions regarding the Sr0.5RE0.5FBiS2 system, we performed 
+magnetization measurements on the system under high pressures in order to obtain information 
+regarding the superconducting characteristics of both the low-P and high-P phases. Here, we present 
+the evolution of two bulk superconducting phases: the low-P and high-P phases. Furthermore, we 
+characterized the crystal structure of Sr0.5La0.5FBiS2 under high pressures; accordingly, a possible 
+structural transition from tetragonal to monoclinic was observed at approximately 1.1 GPa.  
+  
+Results 
+Sample characterization and physical properties at ambient pressure 
+Fig. 1 depicts the powder synchrotron X-ray diffraction (XRD) patterns for Sr0.5La0.5FBiS2. For Sr1-
+xRExFBiS2 (RE = Ce, Pr, Nd, and Sm), see supplemental Fig. S1 (a-d). The crystal structure of the 
+obtained samples was well refined using the Rietveld method. They were well refined using a 
+tetragonal structure with the P4/nmm space group. Small impurity peaks due to REF3 (RE: La, Ce) and 
+Bi2S3 were also detected in the case of the Pr, Nd, Sm-based samples. As shown in Fig. 2, we observed 
+that the lattice constant a decreased with decreasing RE ionic radius; however, the lattice constant c 
+increased under these conditions. The obtained values were in agreement with previous reports12, 16. 
+The chemical composition ratios of the samples were determined using energy dispersive X-ray 
+spectroscopy (EDX). These results showed that the chemical compositions of the obtained samples 
+were in reasonable agreement with the nominal compositions (Table 1). The electrical resistivity of the 
+samples at ambient pressure was measured to be 1.6 K (Fig. 3). The semiconducting behaviour in all 
+the samples was observed; moreover, the ρ-T curve indicated a slight increase in ρ on cooling, which 
+implied that the conduction electrons were weakly localized due to the in-plane local disorder in the 
+BiS2 layer. A superconducting transition was observed at Tc = 2.7, 2.7, 2.6, 2.6, and 2.1 K for RE = La, 
+Ce, Pr, Nd, and Sm, respectively (Fig. 3 inset). In addition, a superconducting transition was also 
+observed in the temperature dependence of magnetization, as plotted in Fig. 4. The Tc estimated based 
+on magnetization was in agreement with that obtained based on the resistivity measurements. This is 
+the first study to report on the observation of superconductivity in Sr0.5Nd0.5FBiS2 and Sr0.5Sm0.5FBiS2 
+under ambient pressure. However, in these samples, the estimated shielding volume fraction was less 
+than 6%. To obtain bulk superconductivity, which is essentially important for describing intrinsic 
+superconducting properties, we applied external pressure on the samples. 
+ 
+External pressure effect 
+Fig. 5 (a) shows the temperature dependences of the magnetization of Sr0.5La0.5FBiS2 when 
+increasing the applied pressure to 1.15 GPa. The superconducting transition temperature of 
+approximately 2.7 K (low-P phase) remained almost unchanged up to 0.84 GPa; alternatively, there 
+was an evident increase in the shielding volume fraction. This result indicates that the external pressure 
+effectively enhances the shielding volume fraction, which corresponds to the bulk nature of the 
+
+
+superconducting states in the Sr0.5La0.5FBiS2 samples. A remarkable increase in Tc up to Tcmax = 10.8 
+K (high-P phase) was observed at P > 0.95 GPa. This maximum value of Tc is comparable to that 
+obtained for a high-P phase of LaO0.5F0.5BiS234,37–39 and Sr0.5La0.5FBiS215,40 through resistivity 
+measurements under high pressure. The enhancement in the shielding volume fraction was also 
+observed in the high-P phase, which was achieved by increasing the applied pressure to the maximum 
+pressure, without a noticeable change in the Tc. Moreover, a similar trend was observed in the low-P 
+region. The drastic increase in Tc is likely related to the structural transition from a tetragonal to a 
+monoclinic phase, which was suggested for the related superconductor LaO0.5F0.5BiS2 based on the 
+XRD under high pressure34. The pressure dependence of Tc is summarized in Fig. 5 (f); the light blue, 
+blue, and pink regions indicate the filamentary superconductivity, bulk superconductivity in the low-
+P phase, and bulk superconductivity in the high-P phase, respectively. The low-P phase shifts to the 
+high-P phase when a pressure slightly exceeding the critical pressure (Pc) for the high-P phase is 
+applied. In regard to this, a phase diagram was created using the shielding volume fraction of 20% or 
+more as a bulk state in order to discuss the phase transition. In the pressure range of 0–0.84 GPa, Tc(P) 
+remains almost constant (~ 2.7 K). The bulk superconductivity of the sample was induced by the 
+pressure for the low-P phase region; eventually, the high-P phase region emerged at approximately P 
+= 0.95 GPa with the bulk superconducting states. The Tc(P) for the high-P phase region is almost 
+constant (10.8 K). The temperature dependence of magnetization under pressure and the pressure 
+dependence of Tc phases for all the samples are summarized in Fig. 5 (a-e) and (f-j), respectively. The 
+high-P phase of Sr0.5Sm0.5FBiS2 was not observed up to 1.28 GPa, which is nearly the upper limit of 
+the pressure measurement apparatus used in this experiment. This is the first report offering evidence 
+of the bulk nature of two different (low- and high-P) phases of the Sr1-xRExFBiS2 (RE: La, Ce, Pr, Nd, 
+and Sm) superconductors when subjected to pressure.  
+ 
+Discussion 
+In this section, we discuss the relationship between external pressure effects, chemical pressure 
+effects, and evolution of superconductivity in Sr0.5RE0.5FBiS2. On comparing the evolutions of 
+superconductivity for RE = Ce–Sm and that for RE = La, a slight decrease in Tc for the low-P phase 
+was observed with increasing pressure for the RE = Ce, Pr, Nd and, Sm samples. This deviation in the 
+behaviour might be explained by the effect of coexistence of both the external as well as chemical 
+pressures25. Moreover, we observed that the Tc of the high-P phase varied slightly with the RE ionic 
+radius. On the contrary, the Pc for the high-P phase increased with decreasing RE ionic radius. 
+Specifically, assuming a coordination number of 8, Pc was roughly estimated as 0.95, 1.11, 1.17, and 
+1.33 GPa for La3+ (with an ionic radius of 1.16 Å), Ce3+ (with an ionic radius of 1.14 Å), Pr3+ (with an 
+ionic radius of 1.13 Å), and Nd3+ (with an ionic radius of 1.11 Å), respectively. The tendency of the 
+increase in Pc and the decrease in Tc with a decrease in RE ionic radius was also observed for 
+REO0.5F0.5BiS2 compounds38,39,40; specifically, the Tc varied from approximately 10 K to 6 K, and a 
+significantly higher Pc was required with decreasing RE ionic radius. These observations highlight the 
+
+
+relationship between the structural transition to monoclinic and the packing density in the BiS2 
+conducting layers34. It is possible that the larger space along the BiS conduction plane with a larger RE 
+ionic radius possibly transmits the pressure, thereby inducing structural transition. As shown in Fig. 6, 
+Tcmag of all samples for the low- and high-P phases were plotted with respect to the lattice constant a. 
+Tc of the high-P phase was defined as the highest Tc for the range of applied pressures, whereas Tc of 
+the low-P phase was defined as the value of Tc when the applied pressure is lower than the pressure 
+for the emergency of the high-P phase. A slightly increasing trend in Tc was observed for both low- 
+and high-P phases with increasing lattice constant a estimated under an ambient pressure. 
+Fig. 7 (a) presents the X-ray diffraction patterns of Sr0.5La0.5FBiS2 at room temperature under 
+various applied pressures of up to 3.4 GPa. Shifts of the (001) and (004) peaks to higher angles clearly 
+indicate the shrinkage of the lattice along the c-axis due to the pressure. In contrast, a relatively smaller 
+shift of the (110) peak was detected, which indicates that the in-plane size remains almost unchanged. 
+Strong peak broadening was observed for the (200) peak above 1.1 GPa, indicating peak splitting due 
+to the lowering of in-plane structural symmetry. Similar peak splitting on the (200) peak was observed 
+for isostructural LaO0.5F0.5BiS2 and EuFBiS2 samples under high pressure34,35,41, and a resultant 
+structural transition from a tetragonal to monoclinic phase was detected. We noticed that the (200) 
+peak asymmetrically split into two or more peaks, as depicted in Fig. 7 (b). This may be due to the 
+inhomogeneity of applied pressure and the flexible nature of the in-plane structure of BiS2-based 
+compounds. The critical pressure of 1.1 GPa estimated from the XRD corresponds satisfactorily with 
+the Pc estimated from the magnetization measurements. 
+ 
+Conclusion 
+Herein, we report on the results of the crystal structure, resistivity, and magnetic susceptibility under 
+pressure for (Sr,RE)FBiS2 (RE: La, Ce, Pr, Nd, and Sm). The effects of external pressure on 
+magnetization resulted in abrupt increments in Tc up to 10–10.8 K, for samples with RE = La, Ce, Pr, 
+and Nd. Based on analyses of the shielding volume fraction estimated via magnetic susceptibility 
+measurements, we found that two bulk superconductivity phases (low-P and high-P phases) existed 
+for (Sr,RE)FBiS2. The common features were that the bulk low-P phase was induced by external 
+pressure, whereas the bulk high-P phase was induced at pressures exceeding a critical pressure. 
+Moreover, at the critical pressure, Tc sharply increased to the high-P phase as our experiment shifted 
+to higher pressures with decreasing RE ionic radius; this implied that both the external as well as 
+chemical pressures were affecting Tc. In addition, we investigated the variations in the crystal structure 
+under pressure. By analysing the splitting of the (200) peak, we concluded that the high-P phase was 
+a monoclinic structure. Various bulk superconducting phases with different space group induced via 
+external pressure effects in (Sr,RE)FBiS2 need to be further investigated in order to elucidate the 
+mechanisms of superconductivity in BiCh2-based systems.  
+Methods 
+Polycrystalline Sr0.5RE0.5FBiS (RE: La, Ce, Pr, Nd, and Sm) samples were synthesized by solid state 
+
+
+reaction method in an evacuated quartz tube. Powders of RE2S3(RE: La (99.9%), Ce (99.9%), Pr (99%), 
+Nd (99%), and Sm (99.9%)), SrF2 (99%), Bi (99.999%), and S (99.9999%) were weighed for 
+Sr0.5RE0.5FBiS2. The mixed powder was subsequently pelletized, sintered in an evacuated quartz tube 
+at 700oC for 20 hours, followed by furnace cooling to room temperature. The obtained compounds 
+were thoroughly mixed and ground, then sintered in the same conditions at the first sintering. 
+The phase purity and the crystal structure of the Sr1-xRExFBiS2 (RE: La, Ce, Pr, Nd, and Sm) samples 
+were examined by powder synchrotron XRD with an energy of 25 keV (λ = 0.49657 Å) at the beamline 
+BL02B2 of SPring-8 under a proposal No. 2019A1101. The synchrotron XRD experiments were 
+performed at room temperature with a sample rotator system, and the diffraction data were collected 
+using a high-resolution one-dimensional semiconductor detector MYTHEN [Multiple mythen system] 
+with a step of 2θ = 0.006o. To investigate the crystal structure of Sr0.5La0.5FBiS2, XRD experiments 
+under high pressure up to 3.4 GPa were performed at room temperature using a Mo-Kα radiation on a 
+Rigaku (MicroMax-007HF) rotating anode generator equipped with a 100 µm collimator. Daphne 
+7474 was used as a pressure medium. 
+The crystal structure parameters were refined using the Rietveld method with a RIETAN-FP 
+software36. The actual compositions of the obtained samples were analyzed using an energy dispersive 
+X-ray spectroscopy (EDX) on TM-3030 (Hitachi).  
+The temperature dependence of magnetic susceptibility at ambient pressure and under high 
+pressures were measured using a superconducting quantum interference devise (SQUID) with MPMS-
+3 (Quantum Design). Hydrostatic pressures were generated by the MPMS high pressure Capsule Cell. 
+The sample was immersed in a pressure transmitting medium (Daphene 7373) covered with a Teflon 
+cell. The pressure at low temperature was calibrated from the superconducting transition temperature 
+of Pb manometer. The electrical resistivity was measured on a GM refrigerator system (Made by Axis) 
+using a conventional four-probe method. For the resistivity measurements, gold wires were connected 
+to the samples with a silver paste. 
+ 
+References 
+1. Bednorz, J. G. & Müller, K. A. Possible high Tc superconductivity in the Ba-La-Cu-O system. Z. 
+Phys. B 64, 189–193 (1986). 
+2. Kamihara, Y., Watanabe, T., Hirano, M. & Hosono, H. Iron-based layered superconductor 
+La[O1−xFx]FeAs (x = 0.05–0.12) with Tc = 26 K. J. Am. Chem. Soc. 130, 3296–3297 (2008). 
+3. Mizuguchi, Y. et al. BiS2-based layered superconductor Bi4O4S3. Phys. Rev. B 86, 220510(R) 
+(2012). 
+4. Mizuguchi, Y. et al. Superconductivity in novel BiS2-based layered superconductor LaO1-xFxBiS2. 
+J. Phys. Soc. Jpn. 81, 114725 (2012). 
+5. Singh, S. K. et al. Bulk superconductivity in bismuth oxysulfide Bi4O4S3. J. Am. Chem. Soc. 134, 
+16504–16507 (2012). 
+6. Demura, S. et al. BiS2-based superconductivity in F-substituted NdOBiS2. J. Phys. Soc. Jpn. 82, 
+
+
+1–3 (2013). 
+7. Jha, R., Kumar, A., Singh, S. K. & Awana, V. P. S. Synthesis and superconductivity of new 
+BiS2 based superconductor PrO0.5F0.5BiS2. J. Supercond. Nov. Magn. 26, 499–502 (2013). 
+8. Jha, R., Kumar, A., Singh, S. K. & Awana, V. P. S. Superconductivity at 5 K in NdO0.5F0.5BiS2. J. 
+Appl. Phys. 113, 056102 (2013). 
+9. Xing, J., Li, S. Ding, X., Yang, H. & Wen, H. H. Superconductivity appears in the vicinity of an 
+insulating-like behavior in CeO1-xFxBiS2. Phys. Rev. B 86, 214518 (2012). 
+10. Yazici, D. et al. Superconductivity of F-substituted LnOBiS2 (Ln = La, Ce, Pr, Nd, Yb) 
+compounds. Philos. Mag. 93, 673 (2012). 
+11. Yazici, D. et al. Superconductivity induced by electron doping in La1-xMxOBiS2 (M = Ti, Zr, Hf, 
+Th). Phys. Rev. B 87, 174512 (2013). 
+12. Lin, X. et al. Superconductivity induced by La doping in Sr1-xLaxFBiS2. Phys. Rev. B 87, 020504 
+(2013). 
+13. Mizuguchi, Y. Review of superconductivity in BiS2-based layered materials. J. Phys. Chem. 
+Solids 84, 34–48 (2015). 
+14. Mizuguchi, Y., Material Development and physical properties of BiS2-based layered Compounds. 
+J. Phys. Soc. Jpn. 88, 041001 (2019). 
+15. Jha, R., Tiwari, B. & Awana, V. P. S. Impact of hydrostatic pressure on superconductivity of 
+Sr0.5La0.5FBiS2. J. Phys. Soc. Jpn. 83, 063707 (2014). 
+16. Jha, R., Tiwari, B. & Awana, V. P. S. Appearance of bulk superconductivity under hydrostatic 
+pressure in Sr0.5RE0.5FBiS2 (RE = Ce, Nd, Pr, and Sm) compounds. J. Appl. Phys. 117, 013901 
+(2015). 
+17. Jha, R. & Awana V.P.S. Effect of hydrostatic pressure on BiS2-based layered superconductors: a 
+review. Nov. Supercond. Mater. 2, 16-31 (2016). 
+18. You, W. et al. Superconductivity, electronic phase diagram, and pressure effect in Sr1-xPrxFBiS2. 
+Sci. China-Phys. Mech. Astron. 62, 957411 (2019). 
+19. Li, L. et al. Coexistence of superconductivity and ferromagnetism in Sr0.5Ce0.5FBiS2. Phys. Rev. 
+B 91, 014508 (2015). 
+20. Hideaki, S.et al. Insulator-to-superconductor transition upon electron doping in a BiS2-based 
+superconductor Sr1-xLaxFBiS2. J. Phys. Soc. Jpn. 83, 014709 (2014). 
+21. Lei, H., Wang, K., Abeykoon, M., Bozin, E. S. & Petrovic C. New layered fluorosulfide SrFBiS2. 
+Inorg. Chem. 52, 10685-10689 (2013). 
+22. Goto, Y., Sogabe, R. & Mizuguchi, Y. Bulk superconductivity induced by Se substitution in 
+BiCh2-based layered compounds Eu0.5Ce0.5FBiS2-xSex. J. Phys. Soc. Jpn. 86, 104712 (2017). 
+23. Jinno, Y. et al. Bulk superconductivity induced by in-plane chemical pressure effect in 
+Eu0.5La0.5FBiS2-xSex. J. Phys. Soc. Jpn. 85, 124708 (2016). 
+24. Li, L. et al. Superconductivity and abnormal pressure effect in Sr0.5La0.5FBiSe2 superconductor. 
+Supercond. Sci. Technol. 29, 04LT03 (2016). 
+
+
+25. Mizuguchi, Y. et al., In-plane chemical pressure essential for superconductivity in BiCh2-based 
+(Ch: S, Se) layered structure. Sci. Rep. 5, 14968 (2015). 
+26. Mizuguchi Y. Material development and physical properties of BiS2-based layered compounds. J. 
+Phys. Soc. Jpn. 88, 041001 (2019). 
+27. Morice, C., Akashi, R., Koretsune, T., Saxena, S. S. & Arita, R. Weak phonon-mediated pairing 
+in BiS2 superconductor from first principles. Phys. Rev. B 95, 180505 (R) (2017). 
+28. Suzuki, K., Usui, H., Kuroki, K. & Ikeda H. Charge and quadrupole fluctuations and gap 
+anisotropy in BiS2-based superconductors. Phys. Rev. B 96, 024513 (2017). 
+29. Suzuki, K. et al. Electronic structure and superconducting gap structure in BiS2-based layered 
+superconductors. J. Phys. Soc. Jpn. 88, 041008 (2019). 
+30. Ota, Y. et al. Unconventional superconductivity in the BiS2-based layered superconductor 
+NdO0.71F0.29BiS2. Phys. Rev. Lett. 118, 167002 (2017). 
+31. Hoshi, K., Goto, Y. & Mizuguchi, Y. Selenium isotope effect in layered bismuth chalcogenide 
+superconductor LaO0.6F0.4Bi(S,Se)2. Phys. Rev. B 97, 094509 (2018). 
+32. Hoshi, K., Kimata, M., Goto, Y., Matsuda, T. D. & Mizuguchi, Y. Two-fold-symmetric 
+magnetoresistance in single crystals of tetragonal BiCh2-based superconductor LaO0.5F0.5BiSSe. J. 
+Phys. Soc. Jpn. 88, 033704 (2019). 
+33. Shingo, Y. Nematic superconductivity in doped Bi2Se3 topological superconductors. Condens. 
+Matter 4, 2 (2019). 
+34. Tomita, T. et al. Pressure-induced enhancement of superconductivity and structural transition in 
+BiS2-layered LaO1-xFxBiS2. J. Phys. Soc. Jpn. 83, 063704 (2014). 
+35. Guo, C.Y. et al. Evidence for two distinct superconducting phases in EuBiS2F under pressure. 
+Phys. Rev. B 91, 214512 (2015). 
+36. Izumi, F. & Momma, K. Three-dimensional visualization in powder diffraction. Solid State 
+Phenom. 130, 15-20 (2007). 
+37. Hisashi, K. et al. Pressure study of BiS2-based superconductors Bi4O4S3 and La(O,F)BiS2. J. 
+Phys. Soc. Jpn. 81, 103702 (2012). 
+38. Wolowiec, C.T., Yazici, D., White, B. D., Huang, K. & Maple, M. B. Pressure-induced 
+enhancement of superconductivity and suppression of semiconducting behavior in LnO0.5F0.5BiS2 
+(Ln = La, Ce) compounds. Phys. Rev. B 88, 064503 (2013). 
+39. Jha, R., Kishan H. & Awana V.P.S. Effect of hydrostatic pressures on the superconductivity of 
+new BiS2 based REO0.5F0.5BiS2 (RE=La, Pr and Nd) superconductors. Journal of Physics and 
+Chemistry of Solid 84, 17-23 (2015). 
+40. Wolowiec, C. T. et al. Enhancement of superconductivity near the pressure-induced 
+semiconductor–metal transition in the BiS2-based superconductors LnO0.5F0.5BiS2 (Ln = La, Ce, 
+Pr, Nd). J. Phys.: Condens. Matter 25, 422201 (2013). 
+41. Mizuguchi, Y. et al. Stabilization of high-Tc phase of BiS2-based superconductor LaO0.5F0.5BiS2 
+using high-pressure synthesis. J. Phys. Soc. Jpn. 83, 053704 (2014). 
+
+
+ 
+ 
+Acknowledgments 
+The authors thank O. Miura for experimental supports. This work was partly supported by JSPS 
+KAKENHI (Grant No. 18KK0076, 15H05886, and 19K15291) and Advanced Research Program 
+under the Human Resources Funds of Tokyo (Grant Number: H31-1) and Nihon University President 
+Grant Initiative. 
+ 
+Author Contributions 
+ A.Y. prepared all samples and did compositional analysis, resistivity, magnetization measurements. 
+A.Y. measured magnetization under high pressure with the help of R.J. A.M., C.M. and Y.K. 
+conducted powder synchrotron XRD measurements. C.K., K.I. and H.T. conducted the high-pressure 
+XRD measurements. A.Y. wrote the manuscript and prepared all figures. Y.G. and Y.M. provided 
+valuable suggestion for data analysis and corrected the manuscript. All authors contributed to 
+discussion and reviewed the manuscript. 
+ 
+Additional Information 
+Competing Interests: The authors declare no competing interests. 
+Publishing’s note Springer Nature remains neutral with regard to jurisdictional claims in published 
+maps and institutional affiliations. 
+ 
+ 
+
+
+Figures 
+ 
+ 
+Fig.1 SXRD patterns for Sr0.5La0.5FBiS2. Symbol of + indicates the impurity of LaF3. 
+ 
+ 
+ 
+ 
+ 
+Fig.2 Dependences of the lattice constants a and c as a function of the RE3+ (RE: La, Ce, Pr, Nd, and 
+Sm) ionic radius. 
+
+
+ 
+Nominal composition 
+Actual composition 
+Sr0.50La0.50FBiS2 
+Sr0.52La0.48FBi1.00S2.00 
+Sr0.50Ce0.50FBiS2 
+Sr0.54Ce0.48FBi0.98S2.00 
+Sr0.50Pr0.50FBiS2 
+Sr0.56Pr0.41FBi0.99S2.04 
+Sr0.50Nd0.50FBiS2 
+Sr0.60Nd0.39FBi0.98S2.03 
+Sr0.50Sm0.50FBiS2 
+Sr0.64Sm0.39FBi0.97S2.01 
+ 
+Table 1 Actual composition (mol%) from the EDX analysis against the nominal composition (mol%). 
+Fluorine amount is regarded as 1. 
+ 
+ 
+ 
+ 
+ 
+Fig. 3 Temperature dependence of resistivity for Sr1-xRExFBiS2 (RE: La, Ce, Pr, Nd, and Sm) at 
+ambient pressure. 
+ 
+ 
+
+
+ 
+Fig.4 Temperature dependence of magnetization for Sr1-xRExFBiS2 (RE: La, Ce, Pr, Nd, and Sm) at 
+ambient pressure. Dashed and dotted lines indicate a field cooling (FC) and zero field cooling (ZFC), 
+respectively. 
+
+
+     
+ 
+Fig.5 (a-e) Temperature dependence of magnetization under various pressure(PLa = 0, 0.01, 0.19, 0.51, 
+0.836, 0.840, 0.95, 1.02, 1.15 GPa; PCe = 0, 0.28, 0. 53 0.94, 1.11, 1.15 GPa; PPr = 0.0, 0.40, 0.64, 0.93, 
+1.17, 1.43 GPa; PNdr = 0.0, 0.20, 0.44, 0.87, 1.17, 1.33 GPa; PSm = 0.0, 0.375, 0.716, 1.03, 1.12, 1.28 
+GPa) for Sr0.5RE0.5FBiS2 (RE: La, Ce, Pr, Nd, and Sm), (f-j) Pressure dependence of Tc for 
+Sr0.5RE0.5FBiS2 (RE: La, Ce, Pr, Nd, and Sm). Magnetic fields of 10 Oe are applied for all 
+samples.Transition around 7 K indicates the superconducting transition of Pb manometer. 
+ 
+ 
+ 
+  
+ 
+
+
+ 
+Fig.6 Tc for both low- and high-P phases against the lattice constant a at an ambient pressure. 
+ 
+ 
+ 
+Fig. 7(a) XRD patterns (Mo Kα) of Sr0.5La0.5FBiS2 under various pressure at room temperature. (b) 
+Zoomed XRD patterns near the 020 and 200 peaks. 
+ 
+
+

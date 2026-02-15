@@ -1,0 +1,422 @@
+Role of valence changes and nanoscale atomic displacements in BiS2-based 
+superconductors  
+Jie Cheng1*, Huifei Zhai2, Yu Wang3, Wei Xu4,5, Shengli Liu1,6 and Guanghan Cao2 
+1Center of Advanced Functional Ceramics, College of Science, Nanjing University of Posts 
+and Telecommunications, Nanjing, Jiangsu 210023, China 2Department of Physics, 
+Zhejiang University, Hangzhou 310027, China 3Shanghai Synchrotron Radiation Facility, 
+Shanghai Institute of Applied Physics, Chinese Academy of Sciences, Shanghai 201204, 
+China 4Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese 
+Academy of Sciences, Beijing 100049, China 5Rome International Center for Materials 
+Science, Superstripes, RICMASS, via dei Sabelli 119A, I-00185 Roma, Italy 6Nanjing 
+University 
+(Suzhou) 
+High-Tech 
+Institute, 
+Suzhou, 
+215123, 
+China 
+(email:chengj@njupt.edu.cn) 
+ 
+Superconductivity within layered crystal structures has attracted sustained 
+interest among condensed matter community, primarily due to their exotic 
+superconducting properties. EuBiS2F is a newly discovered member in the 
+BiS2-based superconducting family, which shows superconductivity at 0.3 K 
+without 
+extrinsic 
+doping. 
+With 
+50 
+at.% 
+Ce 
+substitution 
+for 
+Eu,  
+superconductivity is enhanced with Tc increased up to 2.2 K. However, the 
+mechanisms for the Tc enhancement have not yet been elucidated. In this 
+study, the Ce-doping effect on the self-electron-doped superconductor EuBiS2F 
+was investigated by X-ray absorption spectroscopy (XAS). We have 
+established a relationship between Ce-doping and the Tc enhancement in 
+terms of Eu valence changes and nanoscale atomic displacements. The new 
+finding sheds light on the interplay among superconductivity, charge and local 
+structure in BiS2-based superconductors. 
+ 
+Superconductivity in quasi-two-dimensional crystal structures has attracted sustained 
+interest in the past decades. The most outstanding examples include high-Tc cuprates 
+with CuO2 superconducting layers1 and Fe-based superconductors with a Fe-square 
+lattice2. Very recently, superconductivity of BiS2-based compounds which have similar 
+layered crystal structure as those of cuprates and Fe-based materials has been reported. 
+The first member of the BiS2-based superconducting family is Bi4O4S3 with a Tc of 8.6 K3. 
+It was found that the characteristic BiS2 layers are responsible for the superconductivity3. 
+
+
+So far, several ReBiS2O1-xFx (Re = La, Ce, Pr and Nd) and doped SrBiS2F superconductors 
+have been discovered with the highest Tc of 10.6 K4-10. Band structure calculations 
+indicate that the undoped parent compounds such as LaBiS2O and SrBiS2F are insulators 
+with an energy gap of 0.82 and 0.80 eV, respectively11,12. Upon electron doping, both 
+compounds exhibit metallic conducting behavior and a superconducting transition at low 
+temperatures4,10. On the other hand, recent works demonstrate that the isostructural 
+compounds EuBiS2F and Eu3Bi2S4F4 are metallic, and they even exhibit superconductivity 
+without extrinsic doping, at temperatures below 0.3 K and 1.5 K respectively13,14, 
+different from the other analogues. By various experimental approaches, it is pointed 
+out that the self-doping nature of the observed superconductivity in both EuBiS2F and 
+Eu3Bi2S4F4 is due to the mixed valence of Eu13,14. Currently, with 50 at.% Ce substitution 
+for Eu in EuBiS2F, the Tc is enhanced up to 2.2 K15. It was suggested that the Eu valence 
+is essentially divalent in Ce-doped system15. On the contrary, the average Eu valence 
+with respect to the parent compound increases with the Se doping in Eu3Bi2S4-xSexF4 
+which has the highest Tc of 3.35 K16. How the Eu valence changes and its consequence 
+on superconductivity in the parent and doped BiS2-based superconductors still remain 
+unresolved.  
+Moreover, one of the important problems in the layered systems is the inter- and 
+intra-layer interactions. Similar to Fe-based superconductors, the interactions between 
+superconducting BiS2 layers and blocking layers can be revealed via the nanoscale 
+atomic displacements17,18. Hence, in order to understand the origin of superconductivity, 
+it is critical to investigate the Eu valence and the local atomic displacements in the 
+
+
+parent and doped Eu-containing BiS2-based superconductors. 
+The X-ray absorption spectroscopy (XAS), consisting of the X-ray absorption near 
+edge spectroscopy (XANES) and extended X-ray absorption fine structure (EXAFS) 
+spectroscopy, is an ideal technique to retrieve the substantial information of both 
+valence transition and nanoscale atomic displacements, thus XAS has been widely 
+applied in physics and chemistry19-21. For example, based on the “fingerprint effect”, Eu 
+L3-edge XANES for EuFe2As2 presents the visually experimental evidence for the 
+pressure-induced valence changes of Eu ions22. In addition, Bi L3-edge EXAFS were 
+performed to probe the local atomic structure of BiS2-based systems18. In this 
+contribution, we investigated the local structure of EuBiS2F-based system as a function 
+of Ce-doping by XAS, providing the atomic site-selective information of valence changes 
+and nanoscale atomic displacements. 
+Results  
+Role of Eu valence changes in the parent and Ce-doped EuBiS2F. For the 
+Eu-containing superconductors, detailed investigations of the Eu valence change may 
+provide valuable information on the electronic structure, which is fundamental for a 
+better understanding of their superconductivity22,23. Figure 1a shows normalized Eu 
+L3-edge XANES data for EuBiS2F and Eu0.5Ce0.5BiS2F. The main peak (6975 eV) and the  
+other feature (6983 eV) in the Fig. 1a are associated respectively to Eu2+ (4f 7) and Eu3+ 
+(4f 6)22.  
+Now we  determine quantitatively the valence of Eu for the parent and Ce-doped 
+EuBiS2F by fitting the XANES spectra to an arctangent step function and a Lorentzian 
+
+
+peak for each valence state. The mean valence was determined by using a widely used 
+method24,25: 
+                   𝑣= 2 + [𝐼3+/(𝐼2+ + 𝐼3+)]                              (1) 
+where 𝐼2+ and 𝐼3+ is integrated intensity of peaks corresponding to Eu2+ and Eu3+ on 
+XANES spectrum. Based on the best curve fit in Fig. 1, we estimated the mean valence 
+of Eu ions in EuBiS2F is +2.16(1), instead of +2, demonstrating the self-electron-doping 
+nature in parent compound without any extrinsic doping. The mean valence of Eu in 
+Ce-doped EuBiS2F is +2.05(1), basically  consistent with previous crystallographic and 
+magnetic structure data15. Therefore, these data confirm the Eu valence change, 
+suggesting a potential relationship between the Eu valence and superconductivity.  
+In Fig. 2 we focus on the normalized Ce L3-edge XANES in Eu0.5Ce0.5BiS2F, in which 
+three main structures A, B and C can be identified. The first peak A around 5728 eV is 
+associated to the transition from the Ce 2p core level to the vacant Ce 5d state mixed 
+with the Ce 4f 1 final state, i.e. Ce3+ state26. On the other hand, the weak feature B 
+around 5745 eV is a characteristic feature of layered rare-earth systems26, and its 
+intensity is generally sensitive to the F atom order/disorder in the Eu/CeF layers. The 
+third peak C is the so-called continuum resonance, providing the information on the local 
+lattice structures. It should be noted that the energy difference between the 
+characteristic Ce3+ (4f 1) and Ce4+ (4f 0) absorption peaks is approximately 12 eV, which 
+is independent and is mainly determined by the Ce 2p-4f Coulomb interaction26. But in 
+Fig. 2 we found no obvious evidence of Ce4+ feature around 5740 eV, demonstrating that 
+the Ce valence in the Eu0.5Ce0.5BiS2F sample is essentially trivalent. Considering the 
+
+
+valence of Eu, 50 at.% Ce-doping could cause an increment of mean valence for Eu/Ce 
+ions, which increases from +2.16 of parent EuBiS2F to +2.53 of Ce-doped system. 
+Consequently, additional 17% charges were induced upon Ce-doping in EuBiS2F, which is 
+believed to be crucial for the superconductivity enhancement.  
+Nanoscale atomic displacements in EuBiS2F and Eu0.5Ce0.5BiS2F. As is well known, 
+material properties are in a close relationship with its nanoscale atomic structure. 
+Analogous to cuprates and Fe-based superconductors, Ce impurity could alter the local 
+atomic displacements of both blocking layers and BiS2 superconducting layers. 
+Therefore, to gain an insight into the atomic displacements induced by Ce-doping, we 
+have undertaken detailed structural study by means of Eu and Bi L3-edge EXAFS 
+measurements. Figure 3 and 4 display the Fourier transform (FT) magnitudes of the 
+EXAFS oscillations providing real space information at Eu and Bi L3-edge, respectively. 
+We have to underline that the positions of the peaks in the FT are shifted a few tenths of 
+Å from the actual interatomic distances because of the EXAFS phase shift27. In the BiS2 
+layer the in-plane and out-of-plane S atoms are denoted as S1 and S2, respectively. The 
+Eu atom is coordinated with four nearest F atoms at ~ 2.52 Å and four S2 atoms at ~ 
+3.04 Å. Therefore, the broad structure (R = 1.5 ~ 3.0 Å) in the FT of Eu L3-edge EXAFS 
+corresponds to the contributions of Eu-F and Eu-S2 bonds. On the other hand, the 
+near-neighbor of Bi atoms are one out-of-plane S2 atom at ~ 2.50 Å and four in-plane S1 
+atoms at ~ 2.87 Å. Therefore, the broad structure (R = 1.4 ~ 2.6 Å) in Fig. 4 contains 
+information on the Bi-S2 and Bi-S1 bonds. Obviously, large changes in the FTs of both Eu 
+and Bi L3-edge can be seen with Ce-doping, indicating the atomic displacements in 
+
+
+blocking layers and also in the electronically active BiS2 layers.  
+The EXAFS amplitude depends on several factors and is given by the following general 
+equation 28: 
+      𝜒(𝑘) = ∑
+𝑁𝑗𝑆0
+2
+𝑘𝑅𝑗
+2
+𝑗
+𝑓𝑗(𝑘, 𝑅𝑗)exp [−2𝑘2𝜎𝑗
+2]exp [
+−2𝑅𝑗
+𝜆]sin [2𝑘𝑅𝑗+ 𝛿𝑗(𝑘)]            (2) 
+where 𝑁𝑗 is the number of neighboring atoms at a distance 𝑅𝑗, 𝑆0
+2  is the passive 
+electron reduction factor, 𝑓𝑗(𝑘, 𝑅𝑗)  is the backscattering amplitude, 𝜆 is the 
+photoelectron mean free path, 𝛿𝑗(𝑘)  is the phase shift and 𝜎𝑗
+2  is the correlated 
+Debye-Waller factor.  
+In order to obtain quantitative results, we firstly fit the peaks of EXAFS spectra at Eu 
+L3-edge involving contributions of four Eu-F and four Eu-S2 bonds, which were isolated 
+from the FTs with a rectangular window. The range in k space was 3 ~ 12 Å-1 and that in 
+R space was 1.5 ~ 3.0 Å. Considering the absorption energy at Eu L3 (6977 eV) and 
+L2-edge (7617 eV), the maximum wave-vector k for Eu L3-edge EXAFS is up to 12 Å-1. 
+The spatial resolution ∆𝑅=  π/2𝑘𝑚𝑎𝑥
+28 is about 0.13 Å with the 𝑘𝑚𝑎𝑥= 12 Å-1, which is 
+sufficient to distinguish between Eu-F and Eu-S2 bonds. For the least-squares fits, 
+average structure measured by diffraction on EuBiS2F system13 is used as the starting 
+model. The backscattering amplitudes and phase shift were calculated using the FEFF 
+code29. Only the radial distances 𝑅𝑗 and the corresponding 𝜎𝑗
+2 were allowed to vary, 
+with coordination numbers 𝑁𝑗 fixed to the nominal values. The passive electrons 
+reduction factor 𝑆0
+2 and photoelectron energy zero E0 were also fixed after fit trials on 
+different scans. The best values for the 𝑆0
+2 were found to be 0.9 and fixed to this value 
+for all the shells. The number of independent parameters which could be determined by 
+
+
+EXAFS is limited by the number of the independent data points Nind ~ (2△k△R)/π, where△k 
+and △R are respectively the ranges of the fit in the k and R space28. In our case, Nind is 8 
+(△k = 9 Å-1, △R = 1.5 Å), sufficient to obtain all parameters.  
+As shown in Table 1, upon Ce-doping the distance of Eu-S2 bond is essentially 
+unchanged within the errors, while the Eu-F distance becomes slightly elongated from 
+2.51(1) Å to 2.54(1) Å, suggesting a thicker EuF layer induced by Ce-doping. Now we 
+resort to the bond valence sum30 of Eu (Eu-BVS) using the formula ∑exp (
+𝑅0−𝑑𝑖𝑗
+0.37 ), where 
+𝑅0 is an empirical parameter (2.04 and 2.53 Å for Eu-F and Eu-S bonds30, respectively) 
+and 𝑑𝑖𝑗 denotes the measured bond distances between Eu and coordinate anions. Here, 
+eight coordinate atoms (four F and four S2 atoms) were considered. Considering the 
+bondlengths achieved from EXAFS fitting, the Eu-BVS value are +2.14(2) and +2.07(2) 
+in EuBiS2F and Eu0.5Ce0.5BiS2F respectively, essentially in agreement with the valence 
+information retrieved from our XANES data.   
+Meanwhile, Ce-doping also affects the local atomic structure of superconducting BiS2 
+layers. In Fig. 4 the broad peaks at Bi L3-edge were modelled by two shells, involving 
+contributions of one Bi-S2 and four Bi-S1 bonds, which were isolated from the FTs with 
+a rectangular window. The range in k space was 3 ~ 15 Å-1 and that in R space was 1.4 
+~ 2.6 Å. Spatial resolution ∆𝑅=  π/2𝑘𝑚𝑎𝑥 is about 0.10 Å, while the number of 
+independent parameters Nind is 9, sufficient to distinguish between Bi-S2 and Bi-S1 
+bonds and obtain all parameters.  
+Recently, it was reported that the enhancement of in-plane chemical pressure is 
+responsible for the superconductivity in BiS2-based compounds31. Upon Ce-doping the 
+
+
+sharp contraction of the in-plane Bi-S1 bond (∆𝑅 ~ 0.11Å, i.e. a higher in-plane chemical 
+pressure) results in an enhancement of the packing density of Bi and S1 ions within the 
+superconducting plane, which would enhance the hybridization of Bi 6px/6py-S 3p 
+orbitals and result in an increase of Tc. In addition, the fact that in-plane Bi-S1 
+bondlength decreases with Ce-doping, while the Bi-Bi distance (i.e. a-axis, from 
+4.0508(1) to 4.0697(1) Å) showing a small increase, indicating the puckering and large 
+in-plane disorder of the Bi-S1 layer. Further information on the atomic disorder can be 
+provided by the correlated Debye-Waller factors (σ2), measuring the mean square 
+relative displacement (MSRD) of the photoabsorber-backscatterer pairs32. Data point 
+out that the σ2  for the in-plane Bi-S1 distance in EuBiS2F is anomalously large, 
+demonstrating a large configurational disorder within the Bi-S1 plane. Here, it is worth 
+recalling that the large configurational disorder in BiS2 plane is quite common in 
+BiS2-based superconductors, consistent with the anomalously large diffraction thermal 
+factor of in-plane S1 atom33. Upon Ce-doping, the σ2 for the Bi-S1 bond reduces by 25% 
+with respect to the parent compound, demonstrating that puckering of the Bi-S1 layer 
+seems to be getting reduced; that is to say, a flatter Bi-S1 plane is also responsible for 
+a higher Tc. By contrast, the σ2 for the Bi-S2 bond is quite small and remains unchanged 
+upon Ce-doping, indicating robust Bi 6pz-S 3p hybridizations. All these results suggest 
+that Ce-doping can effectively tune the atomic displacements of BiS2 superconducting 
+layers.  
+Discussion 
+The Ce-doping effect on the valence state and local atomic displacement in the EuBiS2F 
+
+
+system is investigated by using XAS measurements. First of all, the valence of Eu ions in 
+EuBiS2F is estimated to be about +2.16(1), demonstrating the self-electron-doping 
+nature without any extrinsic doping. Upon 50 at.% Ce-doping, the mean valence of Eu 
+reduces to +2.05(1) and that of Ce ions are essentially trivalent. The main effect of 
+Ce-doping is to provide additional 17% electrons into the system, beneficial for the 
+superconductivity enhancement. The local atomic displacements can be revealed by Eu 
+and Bi L3-edge EXAFS: 1) the in-plane Bi-S1 distance is characterized by a large 
+configurational disorder in EuBiS2F-based system, which is quite common in BiS2-based 
+superconductors; 2) both the shortening of the in-plane Bi-S1 bond (i.e. a higher 
+in-plane chemical pressure) and the flatter Bi-S1 plane are responsible for an 
+enhancement of superconductivity.  
+In summary, we established a relationship between Ce-doping and the Tc 
+enhancement in EuBiS2F-based superconductors, in terms of valence changes and 
+nanoscale atomic displacements. The new findings are promising for providing insights 
+on the interplay of charge, local structure and superconductivity. 
+Methods 
+Polycrystalline compounds of EuBiS2F and Eu0.5Ce0.5BiS2F were synthesized by 
+solid-state reaction method13,15. The samples were well characterized for their phase 
+purity, superconducting and other properties prior to the XAS measurements. The XAS 
+spectra were collected at the BL-14W1 beamline of Shanghai Synchrotron Radiation 
+Facility (SSRF). The storage ring was working at electron energy of 3.5 GeV, and the 
+maximum stored current was about 250mA. The energy of the incident energy was 
+tuned by scanning a Si (111) double crystal monochromator with energy resolution 
+about 10-4. The XAS spectra at Ce L3-edge, Eu L3-edge, and Bi L3-edge were collected 
+with several scans in transmission mode at room temperature. Data reduction was 
+performed using the IFEFFIT program package34. 
+
+
+References 
+1. Bednorz, J. G. & Müller, K. A. Possible high Tc superconductivity in the Ba-La-Cu-O 
+system. Z. Physik B Condensed Matter 64, 189-193 (1986). 
+2. Kamihara, Y. et al. Iron-Based Layered Superconductor La[O1-xFx]FeAs (x = 
+0.05-0.12) with Tc = 26K. J. Am. Chem. Soc. 130, 3296-3297 (2008). 
+3. Mizuguchi, Y. et al. BiS2-based layered superconductor Bi4O4S3. Phys. Rev. B 86, 
+220510 (2012). 
+4. Mizuguchi, Y. et al. Superconductivity in Novel BiS2-Based Layered Superconductor 
+LaO1-xFxBiS2. J. Phys. Soc. Jpn. 81, 114725 (2012). 
+5. Xing, J., Li, S., Ding, X. X., Yang, H. & Wen, H. H. Superconductivity appears in the 
+vicinity of semiconducting-like behavior in CeO1-xFxBiS2. Phys. Rev. B 86, 214518 
+(2012). 
+6. Jha, R. et al. Synthesis and Superconductivity of New BiS2 Based Superconductor 
+PrO0.5F0.5BiS2. J. Supercond. Nov. Magn. 26, 499-502 (2013). 
+7. Demura, S. et al. New Member of BiS2-Based Superconductor NdO1-xFxBiS2. J. Phys. 
+Soc. Jpn. 82, 033708 (2013). 
+8. Awana, V. P. S. et al. Appearance of superconductivity in layered LaO0.5F0.5BiS2. Solid 
+State Commun. 157, 21-23 (2013). 
+9. Lin, X. et al. Superconductivity induced by La doping in Sr1-xLaxFBiS2. Phys. Rev. B 
+87, 020504 (2013). 
+10. Li, L. et al. Coexistence of superconductivity and ferromagnetism in Sr0.5Ce0.5FBiS2. 
+Phys. Rev. B 91, 014508 (2015). 
+11. Li, B., Xing, Z. W. & Huang, G. Q. Phonon spectra and superconductivity of the 
+BiS2-based compounds LaO1-xFxBiS2. Europhys. Lett. 101, 47002 (2013). 
+12. Lei, H., Wang, K., Abeykoon, M., Bozin, E. S. & Petrovic, C. New Layered 
+Fluorosulfide SrFBiS2. Inorg. Chem. 52, 10685 (2013) 
+13. Zhai, H. F. et al. Possible charge-density wave, superconductivity, and f-electron 
+valence instability in EuBiS2F. Phys. Rev. B 90, 064518 (2014). 
+14. Zhai, H. F. et al. Anomalous Eu Valence State and Superconductivity in Undoped 
+Eu3Bi2S4F4. J. Am. Chem. Soc.136, 15386 (2014). 
+15. Zhai, H. F. et al. Coexistence of superconductivity and complex 4f magnetism in 
+Eu0.5Ce0.5BiS2F. J. Phys.: Condens. Matter 27, 385701 (2015). 
+16. Zhang, P. et al. Superconductivity enhanced by Se doping in Eu3Bi2(S,Se)4F4. 
+Europhys. Lett. 111, 27002 (2015). 
+17. Paris, E. et al. Determination of local atomic displacements in CeO1-xFxBiS2 system. J. 
+Phys.: Condens. Matter 26, 435701 (2015). 
+18. Mizuguchi, Y. et al. The effect of RE substitution in layered REO0.5F0.5BiS2: chemical 
+pressure, local disorder and superconductivity. Phys. Chem. Chem. Phys. 17, 
+22090-22096 (2015). 
+19. Rueff, J. P. et al. Pressure-Induced Valence Crossover in Superconducting CeCu2Si2. 
+Phys. Rev. Lett. 106, 186405 (2011). 
+20. Chu, W. S. et al. Iron Isotope Effect and Local Lattice Dynamics in the (Ba, K)Fe2As2 
+Superconductor Studied by Temperature-Dependent EXAFS. Sci. Rep. 3, 1750 
+
+
+(2013). 
+21. Cheng, J. et al. Charge redistribution and a shortening of the Fe-As bond at the 
+quantum critical point of SmO1-xFxFeAs. J. Synchrotron Rad. 22, 1030-1034 (2015). 
+22. Sun, L. L. et al. Valence change of europium in EuFe2As1.4P0.6 and compressed 
+EuFe2As2 and its relation to superconductivity. Phys. Rev. B 82, 134509 (2010). 
+23. Matsubayashi, K. et al. Pressure-induced changes in the magnetic and valence state 
+of EuFe2As2. Phys. Rev. B 84, 024502 (2011). 
+24. Dallera, C. et al. α−γ transition in metallic Ce studied by resonant x-ray 
+spectroscopies. Phys. Rev. B 70, 085112 (2004). 
+25. Grazioli, C. et al. Characteristic temperature dependence of the 4f occupancy in the 
+Kondo system CeSi2. Phys. Rev. B 63, 115107 (2001). 
+26. Sugimoto, T. et al. Role of the Ce valence in the coexistence of superconductivity and 
+ferromagnetism of CeO1-xFxBiS2 revealed by Ce L3-edge x-ray absorption 
+spectroscopy. Phys. Rev. B 89, 201117(R) (2014). 
+27. Rehr, J. J. & Albers, R. C. Theoretical approaches to x-ray absorption fine structure. 
+Rev. Mod. Phys. 72, 621-654 (2000). 
+28. Sayers, D. E. & Bunker, B. in X-Ray Absorption: Principles, Applications, Techniques 
+of EXAFS, SEXAFS, and XANES (ed. Koningsberger, D. C. and Prins, R.) 216 (New 
+York,1988). 
+29. Ankudinov, A. L., Ravel, B., Rehr, J. J. & Conradson, S. D. Real-space 
+multiple-scattering calculation and interpretation of x-ray-absorption near-edge 
+structure. Phys. Rev. B 58, 7565(1998). 
+30. Brese, N. E. & O'Keeffe, M. Bond-Valence Parameters for Solids. Acta Cryst. 47, 
+192-197 (1991).  
+31. Mizuguchi, Y. et al. In-plane chemical pressure essential for superconductivity in 
+BiCh2-based (Ch: S, Se) layered structure. Sci. Rep. 5, 14968 (2015). 
+32. Dalba, G. & Fornasini, P. EXAFS Debye-Waller Factor and Thermal Vibrations of 
+Crystals. J. Synchrotron Rad. 4, 243-255 (1997). 
+33. Miura, A. et al. Crystal structures of LaO1−xFxBiS2 (x ~ 0.23, 0.46): Effect of F doping 
+on distortion of Bi–S plane. J. Solid State Chem. 212, 213-217 (2014). 
+34. Newville, M. IFEFFIT: interactive XAFS analysis and FEFF fitting. J. Synchrotron Rad. 
+8, 322-324 (2001). 
+Acknowledgement 
+This work was partly supported by the National Natural Science Foundation of China 
+(NSFC 11405089 and U1532128), the Natural Science Foundation of Jiangsu Province of 
+China (No. BK20130855), the “Six Talents Peak” Foundation of Jiangsu Province 
+(2014-XCL-015), the Nanotechnology Foundation of Suzhou Bureau of Science and 
+Technology (ZXG201444) and the Scientific Research Foundation of Nanjing University 
+of Posts and Telecommunications (No. NY213053). 
+Author contribution statement  
+
+
+J.C. performed the experiment and analyzed the data. Y. W. and W. X. provided the 
+support for the data collection and analysis. G. H. C and H. F. Z. provided the samples 
+and discussed the results. J.C. and S. L. L. wrote the paper. All of the authors reviewed 
+on the manuscript.  
+Additional Information 
+Competing financial interests: The authors declare no competing financial interests. 
+ 
+Figure caption 
+ 
+Figure 1. Eu L3-edge XANES spectra and curve fitting for EuBiS2F and Eu0.5Ce0.5BiS2F. (a) 
+Normalized Eu L3-edge XANES spectra for EuBiS2F and Eu0.5Ce0.5BiS2F; (b) curve fitting 
+for EuBiS2F; (c) curve fitting for Eu0.5Ce0.5BiS2F. The solid black line and red open circles 
+correspond to the experimental data and the best fit, respectively.   
+ 
+ 
+ 
+
+
+ 
+Figure 2. Normalized Ce L3-edge XANES data for Eu0.5Ce0.5BiS2F.  
+ 
+ 
+ 
+Figure 3. Fourier transform (FT) magnitudes of the Eu L3-edge EXAFS measured on 
+EuBiS2F and Eu0.5Ce0.5BiS2F. Models fits to the FTs are also shown as triangles. The inset 
+shows the local coordinate atomic clusters around Eu in cross-section view.  
+ 
+
+
+ 
+ 
+Figure 4. Fourier transform (FT) magnitudes of the Bi L3-edge EXAFS measured on 
+EuBiS2F and Eu0.5Ce0.5BiS2F. Models fits to the FTs are also shown as triangles. The inset 
+shows the local coordinate atomic clusters encircled around Bi in cross-section view.  
+ 
+System  
+EuBiS2F 
+Eu0.5Ce0.5BiS2F 
+Eu-F 
+R (Å) 
+2.51(1) 
+2.54(1) 
+2(10-3 Ǻ2) 
+15.1(1) 
+12.5(2) 
+Eu-S2 
+R (Å) 
+3.04(2) 
+3.03(1) 
+2(10-3 Ǻ2) 
+10.3(2) 
+12.6(1) 
+Bi-S2 
+R (Å) 
+2.49(2) 
+2.48(1) 
+2(10-3 Ǻ2) 
+2.5(3) 
+2.6(1) 
+Bi-S1 
+R (Å) 
+2.79(2) 
+2.68(1) 
+2(10-3 Ǻ2) 
+31.2(2) 
+23.4(1) 
+Table 1 The fitting result at Eu and Bi L3-edge EXAFS upon Ce-doping. The errors 
+represent maximum uncertainty, determined using correlation maps between different 
+parameters and by analysing different EXAFS scans. 
+
+

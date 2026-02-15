@@ -1,0 +1,474 @@
+ 
+1
+Suppression of superconductivity by Sb-substitution into CeOBiS2 single crystals 
+ 
+Tatsuya Suzuki1, Yuji Hanada1, Masanori Nagao1*, Yuki Maruyama1, Satoshi Watauchi1, 
+and Isao Tanaka1 
+ 
+1University of Yamanashi, 7-32 Miyamae, Kofu, Yamanashi 400-0021, Japan 
+ 
+*Corresponding Author  
+Masanori Nagao  
+Postal address: University of Yamanashi, Center for Crystal Science and Technology 
+Miyamae 7-32, Kofu, Yamanashi 400-0021, Japan 
+Telephone number: (+81)55-220-8610 
+Fax number: (+81)55-220-8270 
+E-mail address: mnagao@yamanashi.ac.jp 
+ 
+ 
+
+
+ 
+2
+Highlights 
+We have successfully grown Sb-doped CeOBiS2 single crystals.  
+Superconductivity in CeOBiS2 disappeared by 4-5 atomic percent Sb-doping.  
+The correlations between Ce valence state and superconductivity were not observed.  
+ 
+
+
+ 
+3
+Abstract 
+Sb-substituted CeOBiS2 single crystals with 0.2-1.0 mm size have been successfully 
+grown using CsCl/KCl flux. Sb substitution strongly suppressed the superconductivity 
+in CeOBiS2, and the substitution of more than approximately 4 at% in Bi-site 
+disappeared the superconductivity at a measurement range of above 0.36 K. 
+Furthermore, the drastic change of c-axis lattice parameter was observed in a 
+neighborhood to Sb substitution amount, which maybe suggests the structural transition 
+in CeOBiS2. The Ce valence state of the obtained single crystals was evaluated. 
+However, the established correlations between Ce valence state and superconductivity 
+could not be revealed.  
+ 
+ 
+Keywords 
+A. Superconducting materials; B. Single crystal growth; C. Valence state; E. Electrical 
+resistivity;  
+ 
+ 
+
+
+ 
+4
+Main text 
+Introduction 
+Layered compounds often exhibited superconductivity with high transition 
+temperatures, which were commencing with cuprate superconductors [1,2] and 
+iron-based superconductors [3]. BiS2-based layered superconductors were formed from 
+superconducting layer and block layers which were similar layered structures to 
+iron-based superconductors [4]. La(O,F)BiS2 and La(O,F)FeAs were one of the 
+BiS2-based and iron-based superconductors, respectively. The difference of those 
+superconductors was only superconducting layers which are between BiS2-layer and 
+FeAs-layer. However, the superconducting transition temperature of La(O,F)BiS2 
+superconductors was extremely lower than that of La(O,F)FeAs superconductors. The 
+clarification of that reason is important for the mechanism of high transition temperature 
+superconducting phenomena. We focused on La(O,F)BiS2 which is a typical BiS2-based 
+superconductor. La-site in La(O,F)BiS2 can be substituted by each/several rare earth 
+elements (RE: Ce, Pr, Nd, Sm, Yb) [5-11]. The O-site was partially substituted by F in 
+the block layers of those compounds which were RE(O,F)-layers. In consequence, the 
+electron carriers were supplied to the BiS2-layer (superconducting layer), resulting in 
+the inducement of superconductivity. Ag [12], Cu [13], Pb [14], and Cd [15] were 
+
+
+ 
+5
+performed to substitute with partially Bi-site, or S-site was substituted by Se [16,17] in 
+the BiS2-layer which was the superconducting layer. Especially, Pb and Se substitutions 
+enhanced 
+the 
+superconducting 
+transition 
+temperature. 
+In 
+contrast, 
+La-site 
+perfectly/partially substituted with Ce (CeOBiS2) exhibited superconductivity without 
+F-substitution [18-21]. The origin of this superconductivity was the supply of carriers 
+from the valence fluctuation of Ce [22]. On the other hand, The Bi-site can be perfectly 
+replaced by Sb, which was a CeOSbS2 compound. Despite this compound was observed 
+Ce valence fluctuations, it exhibited no superconductivity [23]. Moreover, the crystal 
+system becomes the change between CeOBiS2 and CeOSbS2. CeOBiS2 and CeOSbS2 
+were tetragonal and monoclinic crystal systems, respectively. In focusing on other 
+superconductors, Sb substitution in Bi-site suppressed the superconductivity such as 
+RhX2 [24] and LaNiX2 (X = Bi, Sb) [25]. Sb substituted with Bi-site in superconductors 
+may be an important role in superconductivity.  
+In this paper, a systematic investigation between Sb substitution and superconductivity 
+for CeOBiS2 superconductor was performed using single crystals grown by CsCl/KCl 
+flux method [26,27]. The relationship between Sb substitution and Ce valence state was 
+also investigated. The boundary Sb concentration of superconductivity was revealed in 
+CeO(Bi,Sb)S2 single crystals which were partially substituted with Sb in CeOBiS2.  
+
+
+ 
+6
+ 
+Methods 
+Sb-substituted CeOBiS2 single crystals were grown using CsCl/KCl flux [18,23]. The 
+raw materials of Ce2S3, Bi2O3, Bi2S3, Sb2O3, Sb2S3 were weighed to have a nominal 
+composition of CeOBi1-xSbxS2 (0.02 ≤ x ≤ 0.40). The molar ratio of the CsCl/KCl flux 
+was CsCl:KCl = 5:3. The mixture of the raw materials (0.8 g) and CsCl/KCl flux (5.0 g) 
+was ground using a mortar and then sealed in an evacuated quartz tube (~10 Pa). The 
+prepared quartz tube was heated at 950 °C for 10 h, followed by cooling to 600 °C at a 
+rate of 1 °C/h, then the sample was cooled down to room temperature (~30 °C) in the 
+furnace. The heated quartz tube was opened to air and the obtained materials were 
+washed and filtered to remove the CsCl/KCl flux using distilled water.  
+The compositional ratio of the grown crystals was evaluated using energy dispersive 
+X-ray spectrometry (EDS) (Bruker; Quantax 70) associated with the observation of the 
+microstructure, 
+based 
+on 
+scanning 
+electron 
+microscopy 
+(SEM) 
+(Hitachi 
+High-Technologies; TM3030). Analytical compositions of each element were defined as 
+CXX (XX: Ce, O, Bi, Sb, S). The obtained compositional values were normalized using 
+CBi + CSb = 1.0 (Bi + Sb analytical composition was 1.0), and then Ce, O, and S 
+compositions (CCe, CO, and CS) were determined. The crystal structure and the c-axis 
+
+
+ 
+7
+lattice parameters of the grown crystals were identified using X-ray diffraction (XRD) 
+(Rigaku; MultiFlex) with CuKα radiation.  
+The resistivity-temperature (ρ-T) characteristics of the grown single crystals were 
+determined using the standard four-probe method with a constant current density (J) 
+mode using a physical property measurement system (Quantum Design; PPMS 
+DynaCool). The electrical terminals were fabricated using Ag paste (DuPont; 4922N). 
+The ρ–T characteristics in the temperature range of 0.36-15 K were determined based 
+using the adiabatic demagnetization refrigerator (ADR) option for the PPMS. A 
+magnetic field of 3.0 T at 1.9 K was utilized to operate the ADR, which was 
+subsequently removed. Consequently, the temperature of the sample decreased to 
+approximately 0.36 K. The measurement of ρ–T characteristics were initiated at the 
+lowest temperature (~0.36 K), which was spontaneously increased to 15 K. The 
+superconducting transition temperature (Tc) was estimated from the resistivity 
+measurement. The zero resistivity (Tczero) is determined as the temperature at which the 
+resistivity is below approximately 100 µΩ cm. The obtained resistivity values were 
+normalized by ρ/ρ15K. (ρ15K: the resistivity value at 15 K). The transition temperature 
+corresponding to the onset of superconductivity (Tconset) is defined as the temperature at 
+which deviation from linear behavior is observed in the normal conducting state for the 
+
+
+ 
+8
+temperature dependence of normalized resistivity value (ρ/ρ15K–T).  
+The valence state of the Ce and Bi component in the grown single crystals was 
+estimated using X-ray absorption fine structure (XAFS) spectroscopy analysis of Ce-L3 
+and Bi-L3 edges using an Aichi XAS beamline with synchrotron X-ray radiation 
+(BL5S1: Proposal No. 202104005 and 2022D3006). To prepare samples for the XAFS 
+spectroscopy measurements, the obtained single crystals were ground and mixed with 
+boron nitride (BN) powder, before being pressed into a pellet of 4 mm diameter. The 
+ratios of Ce3+ and Ce4+ in the grown single crystals were calculated using linear 
+combination fitting of the Ce2S3(Ce3+) and CeO2(Ce4+) reference samples. For the Bi 
+valence state, reference samples were Bi2S3(Bi3+) and NaBiO3(Bi5+).  
+ 
+Results and Discussion 
+Figure 1 shows a typical SEM image of a CeO(Bi,Sb)S2 single crystal which was a 
+plate-like shape with a size of 0.2-1.0 mm and a thickness of approximately 150 µm. 
+Table I shows the nominal Sb contents (x) and analytical compositions of each element 
+(Ce, O, Bi, Sb, and S) for the obtained crystals. Analytical Sb compositions (CSb) were 
+lower than the nominal Sb contents (x). The CSb values of the obtained crystals with x = 
+0.05-0.08 exhibited similar values within the analytical error using EDS analysis. The 
+
+
+ 
+9
+values of analytical compositions for other elements (CCe, CO, and CS) were higher than 
+the stoichiometric compositions which were Ce:O:S = 1:1:2. In other words, the total of 
+the Bi and Sb compositions was lower than the stoichiometric composition. It suggested 
+that Bi-site becomes a slight deficiency. Previous reports indicated the Bi-site deficiency 
+in the parent compounds [28,29].  
+Figure 2 (a) shows XRD patterns of a well-developed plane in the grown 
+CeO(Bi,Sb)S2 single crystals. The obtained XRD patterns corresponded to only (00l) 
+diffraction peaks of CeOBiS2 structure [18]. It indicated that CeO(Bi,Sb)S2 single 
+crystals were grown and the c-plane is well-developed. The c-axis lattice parameters 
+were calculated from (0011) diffraction peaks. Analytical Sb compositions (CSb) 
+dependence of the c-axis lattice parameters was shown in Figure 2 (b). The c-axis lattice 
+parameters were almost decreased with increasing CSb except for CSb = 0. It indicated 
+that the Bi-site was substituted by Sb which is small ionic radii. However, the c-axis 
+lattice parameters of the non-Sb substitution sample (CSb = 0) were smaller than those of 
+CSb ≤ 0.043 samples. That reason is unclear. The decreasing rate of the c-axis lattice 
+parameters was drastically changed at the boundary between CSb = 0.043 and 0.045. We 
+presumed that the crystal system was changed to a monoclinic crystal system. CeOBiS2 
+is tetragonal crystal system [22]. On the other hand, CeOSbS2 exhibited the monoclinic 
+
+
+ 
+10
+crystal system [23], which is completely Sb substitution in Bi-site. Approximately 5 at% 
+Sb substitution in the Bi-site may change the crystal system of CeOBiS2.  
+The superconductivity in various Sb substituted CeO(Bi,Sb)S2 single crystals was 
+investigated. Figure 3 (a) shows the temperature dependence of the normalized at 15 K 
+resistivity (ρ/ρ15K) for the grown CeO(Bi,Sb)S2 single crystals. Superconducting 
+transitions were observed in the CeO(Bi,Sb)S2 single crystals with CSb = 0.015, 0.023, 
+0.035, and 0.043 at above 0.36 K. The resistivity in the normal state (above the Tc) was 
+slightly decreased with an increasing temperature, exhibiting the semiconducting 
+behavior. On the other hand, the single crystals with CSb ≥ 0.045 showed 
+non-superconductivity with only semiconducting behavior. Therefore, we simply 
+presumed that the carrier concentration of CeO(Bi,Sb)S2 has decreased with the increase 
+in Sb substitution. In the previous report [22], CeOBiS2 superconductivity originated 
+from the carrier supply which was provided from the Ce mixed valence state (Ce3+ and 
+Ce4+). The investigation of the Ce valence state in the grown CeO(Bi,Sb)S2 single 
+crystals will be shown in Figure 4. The CSb dependence of the superconducting 
+transition temperature (Tconset and Tczero) was summarized in Figure 3 (b). The Sb 
+substitution drastically decreased the superconducting transition temperature compared 
+to the single crystal without Sb substitution (CSb = 0). It indicates that Sb substitution 
+
+
+ 
+11
+strongly suppresses the superconductivity in CeOBiS2. CeO(Bi,Sb)S2 single crystals 
+with CSb ≤ 0.043 exhibited superconductivity. However, the CSb values range of 
+0.043-0.045 was the same within the analytical error (See in Table I). Therefore, we 
+considered that the boundary of superconductivity and non-superconductivity for the Sb 
+substitution amount in CeOBiS2 was approximately 0.04 (approximately 4 at% Sb 
+substitution in the Bi-site).  
+Figure 4 (a) shows the Ce L3-edge XAFS spectra at room temperature of some grown 
+CeO(Bi,Sb)S2 single crystals, Ce2S3 (Ce3+ reference sample), and CeO2 (Ce4+ reference 
+sample). The obtained Ce L3-edge XAFS spectra demonstrated a peak at around 5725 
+eV and were assigned to trivalent electronic configuration (Ce3+) [30]. Moreover, the 
+peaks around 5730 eV and 5737 eV were assigned to tetravalent electronic 
+configuration (Ce4+) [31]. All evaluated CeO(Bi,Sb)S2 single crystals exhibited a Ce 
+valence fluctuation caused by a mixture state of Ce3+ and Ce4+. The ratios of Ce3+ and 
+Ce4+ were estimated using linear combination fitting of Ce2S3 (Ce3+) and CeO2 (Ce4+) 
+through XAFS spectra. Ce4+ ion concentration ratios of each analytical Sb composition 
+(CSb) for the grown CeO(Bi,Sb)S2 single crystals were shown in Figure 4 (b). The Ce4+ 
+ion concentration ratios were increased with the increase CSb, except for the CSb = 0. 
+However, no clear signature difference was observed at the boundary between 
+
+
+ 
+12
+superconductivity and non-superconductivity corresponding to CSb = 0.043 and 0.045, 
+respectively. Therefore, there was no clear correlation of Ce4+ ion concentration ratios 
+with CSb. It indicates that the superconductivity in CeO(Bi,Sb)S2 may not be affected by 
+the Ce mixed valence state. On the other hand, the Bi valence state of Bi3+ and Bi5+ for 
+the grown CeO(Bi,Sb)S2 single crystals was evaluated using Bi L3-edge XAFS spectra. 
+Only the Bi3+ state was observed in all evaluated samples which were the same samples 
+in Figure 4. The Sb valence state was not able to be evaluated by an Aichi XAS 
+beamline for the X-ray energy. Further characterizations of these single crystals are 
+therefore necessary to clarify the superconductivity suppression from the Sb substitution. 
+Additional experiments such as Sb valence state and precise single crystal structure 
+analysis are also required.  
+ 
+Conclusions 
+CeO(Bi,Sb)S2 single crystals with a size of 0.2-1.0 mm and approximately 150 µm 
+thickness were successfully grown using CsCl/KCl flux. The Sb substitution strongly 
+suppressed the superconductivity in CeOBiS2, and Sb concentration between 
+superconductivity and non-superconductivity was estimated to be approximately 4 at% 
+in the Bi-site. A drastic change in the c-axis lattice parameters was observed around this 
+
+
+ 
+13
+Sb concentration. On the other hand, no relationship between Ce4+ ion concentrations 
+and superconductivity for CeO(Bi,Sb)S2 superconductors was found.  
+ 
+Acknowledgments 
+This work was supported by JSPS KAKENHI (Grant-in-Aid for Scientific Research 
+(B) and (C): Grant Number 21H02022, 19K05248, and 23K03358, Grant-in-Aid for 
+Challenging Exploratory Research: Grant Number 21K18834). The XAFS spectroscopy 
+experiments were conducted at the BL5S1 of the Aichi Synchrotron Radiation Center, 
+Aichi Science & Technology Foundation, Aichi, Japan (Experimental No. 202104005 
+and 2022D3006).  
+ 
+
+
+
+
+ 
+15
+ 
+Table I. Nominal Sb content (x), and analytical composition (CCe, CO, CBi ,CSb, and CS) in the obtained crystals.  
+CCe, CO, and CS compositions were normalized by CBi + CSb = 1.  
+Nominal Sb content (x) 
+Analytical composition (Normalized using CBi + CSb = 1) 
+CCe 
+CO 
+CBi 
+CSb 
+CS 
+0.02 
+1.12±0.09 
+1.1±0.2 
+0.985±0.005 
+0.015±0.005 
+2.14±0.05 
+0.03 
+1.10±0.10 
+1.14±0.12 
+0.977±0.007 
+0.023±0.007 
+2.16±0.05 
+0.05 
+1.20±0.19 
+1.3±0.3 
+0.965±0.011 
+0.035±0.011 
+2.13±0.09 
+0.06 
+1.24±0.15 
+1.5±0.2 
+0.957±0.018 
+0.043±0.018 
+2.19±0.05 
+0.08 
+1.14±0.12 
+1.3±0.3 
+0.955±0.010 
+0.045±0.010 
+2.13±0.08 
+0.10 
+1.06±0.03 
+1.14±0.13 
+0.916±0.010 
+0.084±0.010 
+2.13±0.08 
+0.25 
+1.20±0.19 
+1.23±0.14 
+0.811±0.019 
+0.189±0.019 
+2.20±0.08 
+0.40 
+1.13±0.17 
+1.00±0.12 
+0.70±0.03 
+0.30±0.03 
+2.16±0.12 
+
+
+ 
+16
+References 
+[1] J. B. Bednorz and K. Müller, Z. Phys. B 64 (1986) 189-193.  
+[2] H. Maeda, Y. Tanaka, M. Fukutomi, and T. Asano, Jpn. J. Appl. Phys. 27 (1988) 
+L209-L210. 
+[3] Y. Kamihara, T. Watanabe, M. Hirano,H. Hosono, J. Am. Chem. Soc. 130 (2008) 
+3296-3297.  
+[4] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+O. Miura, J. Phys. Soc. Jpn. 81 (2012) 114725.  
+[5] J. Xing, S. Li, X. Ding, H. Yang, H.-H. Wen, Phys. Rev. B 86 (2012) 214518.  
+[6] R. Jha, A. Kumar, S.K. Singh, V.P.S. Awana, J. Supercond. Nov. Magn. 26 (2013) 
+499–502. 
+[7] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, Y. Takano, J. Phys. Soc. Jpn. 82 (2013) 033708.  
+[8] D. Yazici, K. Huang, B.D. White, A.H. Chang, A.J. Friedman, M.B. Maple, Philos. 
+Mag. 93 (2013) 673–680. 
+[9] G. S. Thakur, G. Kalai Selvan, Z. Haque, L. C. Gupta, S. L. Samal, S. Arumugam 
+and A. K. Ganguli, Inorg. Chem. 54 (2015) 1076–1081. 
+
+
+ 
+17
+[10] K. Kinami, Y. Hanada, M. Nagao, A. Miura, Y. Goto, Y. Maruyama, S. Watauchi, 
+and I. Tanaka, Cryst. Growth Des. 19 (2019) 6136–6140.  
+[11] K. Kinami, Y. Hanada, M. Nagao, A. Miura, S. Hirai, Y. Maruyama, S. Watauchi, 
+and Isao Tanaka, J. Alloy Compd. 883 (2021) 160812.  
+[12] S. G. Tan, P. Tong, Y. Liu, W. J. Lu, L. J. Li, B. C. Zhao, and Y. P. Sun, Eur. Phys. J. 
+B 85 (2012) 414. 
+[13] Y. Liu, P. Tong, S. G. Tan, W. J. Lu, L. J. Li, B. C. Zhao, S. B. Zhang, and Y. P. Sun, 
+Physica B 412 (2013) 119–121. 
+[14] S. Demura, Y. Fujisawa, S. Otsuki, R. Ishio, Y. Takano, and H. Sakata, Solid State 
+Commun. 223 (2015) 40–44. 
+[15] M. Nagao, M. Tanaka, S. Watauchi, Y. Takano, and I. Tanaka, Solid State Commun. 
+261 (2017) 32–36.  
+[16] A. Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V. Pomjakushin, R. Khasanov, 
+H. Luetkens, P. Biswas, A. Amato, H. Keller, and K. Conder, J. Phys. Condens. Matter 
+26 (2014) 215702. 
+[17] X.-.C. Wang, D.-.Y. Chen, Q. Guo, J. Yu, B.-.B. Ruan, Q.-.G. Mu, G.-.F. Chen, 
+Z.-.A. Ren, arXiv:1404.7562. 
+[18] M. Nagao, A. Miura, I. Ueta, S. Watauchi, and I. Tanaka, Solid State Commun. 245 
+
+
+ 
+18
+(2016) 11-14.  
+[19] A. Miura, M. Nagao, Y. Goto, Y. Mizuguchi, T. D. Matsuda, Y. Aoki, C. Moriyoshi, 
+Y. Kuroiwa, Y. Takano, S. Watauchi, I. Tanaka, N. C. Rosero-Navarro, and K. Tadanaga 
+Inorg. Chem. 57 (2018) 5364–5370.  
+[20] Y. Fujita, K. Kinami, Y. Hanada, M. Nagao, A. Miura, S. Hirai, Y. Maruyama, S. 
+Watauchi, Y. Takano, and I. Tanaka, ACS Omega. 5 (2020) 16819–16825.  
+[21] Y. Fujita, M. Nagao, A. Miura, D. Urushihara, Y. Mizuguchi, Y. Maruyama, S. 
+Watauchi, Y. Takano, and I. Tanaka, Physica C 15 (2023) 1354254.  
+[22] M. Tanaka, M. Nagao, R. Matsumoto, N. Kataoka, I. Ueta, H. Tanaka, S.Watauchi, 
+I. Tanaka, and Y. Takano, J. Alloy Compd. 722 (2017) 467-473.  
+[23] M. Nagao, M. Tanaka, R. Matsumoto, H. Tanaka, S. Watauchi, Y. Takan, and I. 
+Tanaka, Cryst. Growth Des. 16 (2016) 3037−3042.  
+[24] X. Yang and Y. Li, Physica B 650 (2023) 414569.  
+[25] J. Kurian, A. Buckow, R. Retzlaff, and L. Alff, Physica C 484 (2013) 171-174. 
+[26] M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada, and I. Tanaka, J. Phys. Soc. Jpn. 82 (2013) 113701.  
+[27] M. Nagao, Nov. Supercond. Mater. 1 (2015) 64–74.  
+[28] A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka, and N. Kumada, J. Solid 
+
+
+ 
+19
+Chem. 212 (2014) 213-217.  
+[29] T. Machida, Y. Fujisawa, M. Nagao, S. Demura, K. Deguchi, Y. Mizuguchi, Y. 
+Takano, and H. Sakata, J. Phys. Soc. Jpn. 83 (2014) 113701.  
+[30] A. Yaroslavtsev, A. Menushenkov, R. Chernikov, E. Clementyev, V. Lazukov, Y. 
+Zubavichus, A. Veligzhanin, N. Efremova, A. Gribanov, and A. Kuchin, Z. Krist. Cryst. 
+Mater. 225 (2010) 482-486. 
+[31] S. Yamazaki, T. Matsui, T. Ohashi, and Y. Arita, Solid State Ion. 136–137 (2000) 
+913–920.  
+ 
+ 
+
+
+ 
+20
+Figure captions 
+Figure 1. Typical SEM image of Sb-substituted CeOBiS2 single crystal. 
+Figure 2. (a) XRD patterns of a well-developed plane of the grown single crystals. (b) 
+Analytical Sb composition (CSb) dependence of the c-axis lattice parameters. The data 
+for CSb = 0 is from Ref. 18.  
+Figure 3. (a) Temperature dependence of normalized resistivity value (ρ/ρ15K–T) along 
+the c-plane of the grown single crystals. The inset is an enlargement around the 
+superconducting transition. (b) Analytical Sb composition (CSb) dependence of the 
+superconducting transition temperature (Tconset and Tczero). The data for CSb = 0 is from 
+Ref. 22.  
+Figure 4. (a) Ce L3-edge, XAFS spectra obtained at room temperature for the grown 
+single crystals, Ce2S3 (Ce3+ reference sample) and CeO2 (Ce4+ reference sample). (b) 
+Analytical Sb composition (CSb) dependence of Ce4+ ion concentration ratio. The ratios 
+of Ce3+ and Ce4+ in the samples were calculated using linear combination fitting of the 
+reference samples.  
+ 
+
+
+ 
+21
+ 
+ 
+Figure 1 
+
+
+ 
+22
+ 
+ 
+Figure 2 
+
+
+ 
+23
+ 
+ 
+Figure 3 
+
+
+ 
+24
+ 
+ 
+Figure 4 
+
+
+ 
+25
+ 
+
+

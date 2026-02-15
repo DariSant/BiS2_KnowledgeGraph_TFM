@@ -1,0 +1,419 @@
+Superconducting phase diagram of Sb and Se substitution in CeOBiS2 single crystals 
+ 
+Tatsuya Suzuki1, Masanori Nagao1*, Yuki Maruyama1, Satoshi Watauchi1, and Isao 
+Tanaka1 
+ 
+1University of Yamanashi, 7-32 Miyamae, Kofu, Yamanashi 400-0021, Japan 
+ 
+*Corresponding Author  
+Masanori Nagao  
+Postal address: University of Yamanashi, Center for Crystal Science and Technology 
+Miyamae 7-32, Kofu, Yamanashi 400-0021, Japan 
+Telephone number: (+81)55-220-8610 
+Fax number: (+81)55-220-8270 
+E-mail address: mnagao@yamanashi.ac.jp 
+ 
+ 
+
+
+Abstract 
+Sb- and Se-substituted CeOBiS2 single crystals have been successfully grown using 
+CsCl/KCl flux. Sb and Se substitution dependence of the superconductivity on CeOBiS2 
+was investigated and the superconducting phase diagram at above 0.3 K was described. 
+The non-linear boundary between superconductivity and non-superconductivity was 
+revealed.  
+ 
+
+
+Main text 
+ 
+1. Introduction 
+Layered superconductors exhibited high transition temperatures such as cuprate1) and 
+iron-based 
+superconductors.2) 
+CeOBiS2 
+is 
+one 
+of 
+the 
+BiS2-based 
+layered 
+superconductors such as La(O,F)BiS2 3) which is a layered superconductor. Several 
+BiS2-based layered compounds with superconductivity require the F substitution in the 
+O-site for the electron carrier introduction. Among them, CeOBiS2 without F 
+substitution exhibits superconductivity by the Ce valence fluctuation.4,5) The Ce valence 
+fluctuation formed at of Ce3+ and Ce4+ mixing valence state was observed by X-ray 
+photoelectron spectroscopy (XPS)5) and X-ray absorption spectroscopy (XAS).6) 
+Furthermore, the temperature dependence of resistivity at a normal state was reported 
+weak semiconducting-like behavior.4,5) On the other hand, the CeOBiS2 with 
+Arrhenius-type 
+behavior 
+at 
+a 
+normal 
+state 
+resistivity 
+was 
+reported 
+no 
+superconductivity.7) This difference was explained by the existence of two kinds of local 
+structure configurations in the CeOBiS2 which intrinsically exhibited semiconducting 
+behavior, but a metallic phase appeared due to the local distortions.8) Therefore, we 
+focused on the superconducting CeOBiS2 which was a simple chemical formulation in 
+BiS2-based layered superconductors. Previously we found the superconductivity was 
+
+
+suppressed with Sb substitution into the Bi-site, which is presumed to originate from the 
+change of the crystal system.9) In contrast, the CeOBiS2 superconductor with Se 
+substitution into the S-site exhibited enhancement of in-plane chemical pressure10), 
+suppression of in-plane disorder, and decrease of Ce ions valence. As a result, an 
+increase in superconducting transition temperature was observed.11) Especially, the 
+in-plane chemical pressure increases the density of states at the Fermi level, which may 
+increase the phonon frequency. The possibility of the enhancement of superconductivity 
+by these phenomena was suggested.10)  
+In this paper, the effect of both Sb and Se substitutions for superconductivity at 
+above 0.3 K was systematically investigated using the Sb- and Se-substituted CeOBiS2 
+[CeO(Bi,Sb)(S,Se)2] single crystals. Then superconducting phase diagram of Sb and Se 
+substitution in CeOBiS2 was revealed.  
+ 
+2. Experimental Details 
+Sb- and Se-substituted CeOBiS2 [CeO(Bi,Sb)(S,Se)2] single crystals were grown 
+using CsCl/KCl flux.4,12,13) The raw materials of Ce2S3, Bi2O3, Bi2S3, Bi, Sb (or Sb2O3), 
+and Se were weighed to a total amount of 0.8 g for a nominal composition of 
+CeOBi1-xSbxS2-ySey (0 ≤ x ≤ 0.20, 0.125 ≤ y ≤ 0.500). The molar ratio of the CsCl/KCl 
+
+
+flux was CsCl:KCl = 5:3 with a total amount of 5.0 g. The raw materials (0.8 g) and 
+CsCl/KCl flux (5.0 g) were mixed and ground using a mortar and then sealed in an 
+evacuated quartz tube (~10 Pa). The prepared quartz tube was heated at 950 °C (Except 
+for x = 0, y = 0.500, which was performed at 1000 °C.) for 10 h, followed by cooling to 
+600 °C at a rate of 1 °C/h, then the sample was spontaneously cooled down to room 
+temperature (~30 °C) in the furnace. The heated quartz tube was opened to air and the 
+obtained materials were washed and filtered to remove the CsCl/KCl flux using distilled 
+water.  
+The obtained crystals confirmed the CeOBiS2 structure5) by X-ray diffraction (XRD) 
+(Rigaku; MultiFlex) with CuKα radiation. The compositional ratio of the grown crystals 
+was evaluated using energy dispersive X-ray spectrometry (EDS) (Bruker; Quantax 70) 
+associated with the observation of the microstructure, based on scanning electron 
+microscopy (SEM) (Hitachi High-Technologies; TM3030). Analytical compositions of 
+each element were defined as CXX (XX: Bi, Sb, S, and Se). The obtained compositional 
+values were normalized using CS + CSe = 2 (S + Se analytical composition was 2), and 
+then Bi, and Sb compositions (CBi, and CSb) were determined.  
+The picked single crystals at random from each sample lot were measured the 
+resistivity−temperature (ρ−T) characteristics. The ρ−T characteristics of the picked 
+
+
+single crystals were determined using the standard four-probe method with a constant 
+current density mode range of 20−50 mA/cm2 using a physical property measurement 
+system (Quantum Design; PPMS DynaCool). The electrical terminals were fabricated 
+using Ag paste (DuPont; 4922N). The ρ–T characteristics in the temperature range of 
+0.3−15 K were evaluated based using the adiabatic demagnetization refrigerator (ADR) 
+option for the PPMS. A magnetic field of 3.0 T at 1.9 K was applied to operate the ADR, 
+which was subsequently removed. Consequently, the temperature of the sample 
+decreased to approximately 0.3 K. The measurement of ρ−T characteristics was initiated 
+at the lowest temperature (~0.3 K), which was spontaneously increased to 15 K. The 
+superconducting transition temperature with zero resistivity (Tczero) was estimated from 
+the ρ–T characteristics. The Tczero was determined as the temperature at which the 
+resistivity is below approximately 300 µΩcm (Except for CSb = 0.068, CSe = 0.28, which 
+was determined at 3.0 mΩcm due to a technical problem.). The compositional ratio of 
+the ρ−T characteristics measured samples had been evaluated by EDS, and then they 
+were employed for the superconducting phase diagram.  
+ 
+3. Results and Discussion 
+The obtained CeO(Bi,Sb)(S,Se)2 single crystals exhibited a plate-like shape with a 
+
+
+size of approximately 1.0 mm and a thickness of 100−200 µm, which were similar in 
+shape to Sb-substituted CeOBiS2 [CeO(Bi,Sb)S2] single crystals.9) However, the 
+well-developed plane in CeO(Bi,Sb)(S,Se)2 single crystals was rougher than that of 
+CeO(Bi,Sb)S2 
+single 
+crystals. 
+A 
+well-developed 
+plane 
+in 
+the 
+obtained 
+CeO(Bi,Sb)(S,Se)2 single crystals corresponded to the c-plane of CeOBiS2 structure4) by 
+the XRD patterns. The c-axis lattice parameters for the obtained CeO(Bi,Sb)(S,Se)2 
+single crystals were range of 13.53−13.62 Å with depending on both Sb and Se 
+substitution amount. Analytical compositions of Sb and Se in the obtained 
+CeO(Bi,Sb)(S,Se)2 single crystals were lower than those of the nominal compositions, 
+and these analytical compositions exhibited dispersion in the same grown lot. Table I 
+summarized the nominal (x and y) and analytical (CBi, CSb, CS, and CSe) compositions 
+with normalized using CS + CSe = 2 for the CeO(Bi,Sb)(S,Se)2 single crystals. All 
+samples exhibited the Bi-site deficiency which was observed CBi + CSb < 1. The amount 
+of Bi-site deficiency was in the range of 4−9 at% which was a similar range of the only 
+Sb-substituted CeOBiS2 [CeO(Bi,Sb)S2] single crystals.9) The Bi-site deficiency values 
+were higher than CeOBiS2 without Sb substitution,14,15) this indicated that Sb 
+substitution enhanced the Bi-site deficiency in the CeOBiS2 structure. Besides, we 
+investigated the compositions of the obtained CeO(Bi,Sb)(S,Se)2 single crystals into the 
+
+
+difference of Sb source which was Sb or Sb2O3. And then this result hardly changed.  
+The CeO(Bi,Sb)(S,Se)2 single crystals at random in each lot grown from each 
+nominal composition were picked, and the ρ–T measurements and compositional 
+analysis were performed for the superconducting phase diagram investigation. The ρ−T 
+characteristics of some typical CeO(Bi,Sb)(S,Se)2 single crystals were shown in Figure 
+1. Weak semiconducting-like behavior at near above superconducting transition 
+temperature in a normal state was observed. At first glance, a correlation between 
+normal state resistivity and superconducting transition temperature seems to exist. 
+However, in the case of the samples without superconducting transition (Ex. CSb = 0.05, 
+CSe = 0.09), the normal state resistivity was lower than that of superconducting samples. 
+Then the relationship between normal state resistivity and superconductivity was 
+unclear in this experiment. Figure 2 shows the superconducting phase diagram of Sb 
+and Se substitution dependence for CeO(Bi,Sb)(S,Se)2 single crystals. The data of 
+CeO(Bi,Sb)S2 single crystals were referred from Ref. 9. The superconducting transition 
+temperature with zero resistivity (Tczero) was decreased with the increase in Sb 
+substitution and increased with the increase in Se substitution. Superconductivity in 
+CeOBiS2 was suppressed as the Sb substitution, enhanced by the Se substitution. Those 
+behaviors exhibited the same trend as previous reports.9,11) In other words, the Sb 
+
+
+substitution region with superconducting observation was spread by the Se substitution. 
+The boundary between superconductivity and non-superconductivity at above 0.3 K 
+showed non-linear which is plotted in the dashed line in Figure 2 (b). That boundary 
+showed the dome shape at CSe = 0.15−0.30 region which increased the Tczero. 
+Se-substituted CeOBiS2 [CeOBi(S,Se)2] superconducting phase diagram showed a 
+similar dome shape which originated from the in-plane chemical pressure effects10) and 
+decrease of carrier concentration due to the Ce valence state.11) We assumed that the 
+dome shape behavior of superconducting transition temperature in Figure 2 (b) 
+originated from the same phenomena.  
+ 
+4. Conclusion 
+Sb- and Se-substituted CeOBiS2 [CeO(Bi,Sb)(S,Se)2] single crystals were grown and 
+measured the superconducting transition temperature. A superconducting phase diagram 
+with CSb < 0.18, CSe < 0.45 for CeOBiS2 was revealed. The boundary between 
+superconductivity and non-superconductivity at above 0.3 K showed a non-linear line 
+with the dome shape at CSe = 0.15−0.30 region.  
+ 
+Acknowledgments 
+
+
+This work was supported by JSPS KAKENHI (Grant-in-Aid for Scientific Research 
+(B) and (C): Grant Number 21H02022, 19K05248, and 23K03358, Grant-in-Aid for 
+Challenging Exploratory Research: Grant Number 21K18834).  
+ 
+
+
+References 
+1) J. B. Bednorz and K. Müller, Z. Phys. B 64, 189−193 (1986).  
+2) Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. 130, 
+3296−3297 (2008).  
+3) Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+and O. Miura, J. Phys. Soc. Jpn. 81, 114725 (2012).  
+4) M. Nagao, A. Miura, I. Ueta, S. Watauchi, and I. Tanaka, Solid State Commun. 245, 
+11−14 (2016).  
+5) M. Tanaka, M. Nagao, R. Matsumoto, N. Kataoka, I. Ueta, H. Tanaka, S. Watauchi, I. 
+Tanaka, and Y. Takano, J. Alloys Compd. 722, 467−473 (2017).  
+6) T. Sugimoto, B. Joseph, E. Paris, A. Iadecola, T. Mizokawa, S. Demura, Y. 
+Mizuguchi, Y. Takano, and N. L. Saini, Phys. Rev. B 89, 201117(R) (2014).  
+7) R. Higashinaka, T. Asano, T. Nakashima, K. Fushiya, Y. Mizuguchi, O. Miura, T. D. 
+Matsuda, and Y. Aoki, J. Phys. Soc. Jpn. 84, 023702 (2015).  
+8) T. Sugimoto, E. Paris, T. Wakita, K. Terashima, T. Yokoya, A. Barinov, J. Kajitani, R. 
+Higashinaka, T. D. Matsuda, Y. Aoki, T. Mizokawa, and N. L. Saini, Sci Rep 8, 2011 
+(2018).  
+9) T. Suzuki, Y. Hanada, M. Nagao, Y. Maruyama, S. Watauchi, and I. Tanaka, Solid 
+
+
+State Commun. 378, 115414 (2024).  
+10) Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, E. 
+Magome, C. Moriyoshi, and Y. Kuroiwa, Sci. Rep. 5, 14968 (2015). 
+11) R. Kiyama, Y. Goto, K. Hoshi, R. Jha, A. Miura, C. Moriyoshi, Y. Kuroiwa, T. D. 
+Matsuda, Y. Aoki, and Y. Mizuguchi, J. Phys. Soc. Jpn. 89, 064702 (2020).  
+12) M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada, and I. Tanaka, J. Phys. Soc. Jpn. 82, 113701 (2013).  
+13) M. Nagao, M. Tanaka, R. Matsumoto, H. Tanaka, S. Watauchi, Y. Takan, and I. 
+Tanaka, Cryst. Growth Des. 16, 3037−3042 (2016).  
+14) A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka, and N. Kumada, J. Solid 
+Chem. 212, 213−217 (2014).  
+15) T. Machida, Y. Fujisawa, M. Nagao, S. Demura, K. Deguchi, Y. Mizuguchi, Y. 
+Takano, and H. Sakata, J. Phys. Soc. Jpn. 83, 113701 (2014).  
+ 
+
+
+Figure caption 
+Figure 1 (Color online) Resistivity−temperature (ρ−T) characteristics of typical 
+CeO(Bi,Sb)(S,Se)2 single crystals.  
+Figure 2 (Color online) (a) Superconducting phase diagram of Sb- and Se-substituted 
+composition (CSb and CSe) for CeOBiS2 single crystals (b) projection of CSb−CSe plane. 
+The data of CeO(Bi,Sb)S2 single crystals were referred from Ref. 9.  
+ 
+ 
+
+
+Table I  Nominal Sb and Se composition (x and y), and analytical composition (CBi, 
+CSb, CS, and CSe) in the obtained crystals. (CBi, CSb, CS, and CSe compositions were 
+normalized by CS + CSe = 2.)  
+Nominal composition 
+Analytical composition (Normalized using CSb + CSe = 2) 
+Sb:x 
+Se:y 
+CBi 
+CSb 
+CS 
+CSe 
+0 
+0.125 
+0.95±0.02 
+0.00±0.00 
+1.89±0.02 
+0.11±0.02 
+0.050 
+0.125 
+0.92±0.02 
+0.02±0.01 
+1.91±0.02 
+0.09±0.02 
+0.050* 
+0.125 
+0.93±0.04 
+0.03±0.02 
+1.92±0.03 
+0.08±0.03 
+0.075 
+0.125 
+0.89±0.04 
+0.05±0.01 
+1.91±0.02 
+0.09±0.02 
+0.100 
+0.125 
+0.85±0.01 
+0.08±0.03 
+1.87±0.01 
+0.13±0.01 
+0.100* 
+0.125 
+0.87±0.02 
+0.05±0.02 
+1.91±0.02 
+0.09±0.02 
+0.150* 
+0.125 
+0.82±0.02 
+0.11±0.02 
+1.90±0.01 
+0.10±0.01 
+0 
+0.250 
+0.96±0.02 
+0.00±0.00 
+1.79±0.02 
+0.21±0.02 
+0.050 
+0.250 
+0.90±0.03 
+0.02±0.01 
+1.80±0.02 
+0.20±0.02 
+0.075 
+0.250 
+0.88±0.04 
+0.05±0.01 
+1.81±0.01 
+0.19±0.01 
+0.100 
+0.250 
+0.87±0.04 
+0.09±0.05 
+1.84±0.02 
+0.16±0.02 
+0.150 
+0.250 
+0.84±0.06 
+0.11±0.05 
+1.83±0.06 
+0.17±0.06 
+0 
+0.375 
+0.95±0.01 
+0.00±0.00 
+1.70±0.01 
+0.31±0.01 
+0.050 
+0.375 
+0.93±0.02 
+0.02±0.01 
+1.72±0.02 
+0.29±0.02 
+0.075 
+0.375 
+0.86±0.04 
+0.06±0.04 
+1.63±0.05 
+0.37±0.05 
+0.100 
+0.375 
+0.89±0.02 
+0.04±0.01 
+1.70±0.02 
+0.29±0.02 
+0.125 
+0.375 
+0.82±0.09 
+0.09±0.05 
+1.72±0.04 
+0.28±0.04 
+0.150 
+0.375 
+0.83±0.05 
+0.11±0.06 
+1.66±0.02 
+0.34±0.02 
+0 
+0.500 
+0.94±0.01 
+0.00±0.00 
+1.59±0.03 
+0.41±0.03 
+0.050 
+0.500 
+0.90±0.02 
+0.04±0.02 
+1.63±0.02 
+0.37±0.02 
+0.100 
+0.500 
+0.88±0.04 
+0.06±0.01 
+1.60±0.02 
+0.40±0.02 
+0.125 
+0.500 
+0.86±0.02 
+0.08±0.01 
+1.59±0.03 
+0.41±0.03 
+0.150 
+0.500 
+0.84±0.06 
+0.11±0.03 
+1.60±0.03 
+0.40±0.03 
+0.200 
+0.500 
+0.77±0.04 
+0.15±0.02 
+1.57±0.03 
+0.43±0.03 
+*: Sb source was employed as Sb2O3.  
+ 
+
+
+ 
+ 
+Figure 1 
+(CSb, CSe) = (0.08, 0.41) 
+(CSb, CSe) = (0.08, 0.17) 
+(CSb, CSe) = (0, 0.21) 
+(CSb, CSe) = (0.05, 0.09) 
+(CSb, CSe) = (0.02, 0.29) 
+
+
+ 
+ 
+Figure 2 
+
+

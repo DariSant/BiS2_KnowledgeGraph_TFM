@@ -1,0 +1,479 @@
+ 
+1
+Superconductivity in CeOBiS2 with cerium valence fluctuation 
+ 
+Masanori Nagaoa,*, Akira Miurab, Ikuo Uetaa, Satoshi Watauchia, and Isao Tanakaa 
+ 
+aUniversity of Yamanashi, 7-32 Miyamae, Kofu, Yamanashi 400-8511, Japan 
+bHokkaido University, Kita13 Nishi8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan 
+ 
+(Received 
+*Corresponding Author  
+Masanori Nagao  
+Postal address: University of Yamanashi, Center for Crystal Science and Technology 
+Miyamae 7-32, Kofu 400-8511, Japan 
+Telephone number: (+81)55-220-8610 
+Fax number: (+81)55-254-3035 
+E-mail address: mnagao@yamanashi.ac.jp 
+ 
+
+
+ 
+2
+Abstract 
+Resistivities of single-crystalline as well as poly-crystalline samples of CeOBiS2 
+without fluorine doping were measured at temperatures down to 0.13 K, and were 
+compared with those of poly-crystalline LaOBiS2 and PrOBiS2. Both poly-crystalline 
+and single-crystalline CeOBiS2 exhibited zero resistivity below 1.2 K while 
+poly-crystalline LaOBiS2 and PrOBiS2 did not show zero resistivity down to 0.13 K. 
+Superconducting transition temperature of CeOBiS2 was reduced by increasing the 
+applied current density. The superconductivity of CeOBiS2 without chemical doping is 
+likely triggered by the carriers induced by the valence fluctuation between Ce3+ and 
+Ce4+.  
+ 
+Keywords 
+A. BiS2-based superconductor; D. Superconductivity; Valence fluctuation; E. Adiabatic 
+demagnetization refrigerator;  
+ 
+
+
+ 
+3
+ 
+Main text 
+ 
+1. Introduction 
+Chemical doping of semiconductors is a method used to induce superconductivity in 
+them. The superconductivity of diamond [1,2], Si [3], and SiC [4-6] is induced by 
+introducing carriers through chemical doping. R(O,F)BiS2 (R = La, Ce, Pr, Nd, Yb) 
+[7-11] are layered semiconductors with a band gap of around 1 eV [12], and 
+superconductivity is induced in them through electron carrier doping by substituting 
+oxygen (O) with fluorine (F). This doping induces electron carriers into the BiS2 
+superconducting layer. Recently, it was discovered that the fluctuation of Eu valence 
+between Eu2+ and Eu3+ induces carriers and produces superconductivity in EuFBiS2 and 
+Eu3Bi2S4F4 without chemical doping [13,14]. Thus, Eu-based compounds are examples 
+in which superconductivity is induced by the fluctuation of valence. As suggested in Ref. 
+15 and 16, for R = Ce, the Ce valence in CeOBiS2 also fluctuates between Ce3+ and Ce4+. 
+However, its zero resistivity has not been reported at a temperature down to 1.8 K in 
+F-free CeOBiS2. This motivated us to examine superconductivity in non-chemically 
+doped CeOBiS2 to investigate whether a valence fluctuation can induce 
+
+
+ 
+4
+superconductivity in general. In this paper, we measured the temperature dependence of 
+electrical resistivity for chemically non-doped ROBiS2 (R = La, Ce, Pr) poly crystals 
+and CeOBiS2 single crystals down to 0.13 K using an adiabatic demagnetization 
+refrigerator (ADR). In contrast to LaOBiS2 and PrOBiS2, only CeOBiS2 showed 
+superconducting transition below 1.2 K, indicating that the valence fluctuation of Ce 
+induces superconductivity.  
+ 
+2. Experimental 
+Poly-crystalline samples of ROBiS2 (R = La, Ce, Pr) were synthesized by a solid state 
+reaction in a vacuumed quartz tube using R2S3 (99.9 wt%), Bi2S3 (99.9 wt%), and Bi2O3 
+(99.9 wt%) as raw materials. The raw materials were mixed in a nominal composition of 
+ROBiS2 using a mortar, and sealed into a quartz tube in vacuum (~10 Pa). Then, the 
+sample was heated at 700 °C for 10 h. The calcined mixture was ground to homogenize 
+it and pressed into a pellet of 10 mm diameter and about 1-2 mm thickness, and then 
+sealed in a quartz tube under vacuum (~10 Pa). This pellet in the quartz tube was heated 
+at 700 °C for 20 h, and then furnace-cooled to room temperature. The quartz tube was 
+opened in air. Poly-crystalline samples of ROBiS2 were obtained as products.  
+Single crystals of CeOBiS2 were grown by the CsCl flux method in a vacuumed quartz 
+
+
+ 
+5
+tube using Ce2S3 (99.9 wt%), Bi2S3 (99.9 wt%), Bi2O3 (99.9 wt%), and CsCl (99.8 wt%) 
+as raw materials [17-20]. The raw materials were weighed to obtain the nominal 
+composition of CeOBiS2. A mixture of these raw materials (0.8 g) and CsCl flux (5.0 g) 
+was combined using a mortar, and then sealed in a quartz tube under vacuum (~10 Pa). 
+This mixed powder in the quartz tube was heated at 950 °C for 10 h, cooled slowly to 
+650 °C at a rate of 1 °C/h, and then furnace-cooled to room temperature. The quartz 
+tube was opened in air, and the flux was dissolved in the quartz tube using distilled 
+water. The product obtained was filtered and washed with distilled water.  
+The crystal structures of the poly-crystalline and single-crystalline products were 
+evaluated by X-ray diffraction (XRD) analysis using CuKα radiation. The 
+resistivity–temperature 
+(ρ–T) 
+characteristics 
+of 
+these 
+poly-crystalline 
+and 
+single-crystalline samples were measured by the standard four-probe method at a 
+constant current density (J) using an ADR option for quantum design physical property 
+measurement system (PPMS). The magnetic field applied for operating the ADR was 3 
+T at 1.9 K; subsequently, it was removed. Consequently, the temperature of sample 
+decreased to around 0.13 K. The measurement of ρ–T characteristics was started at the 
+lowest temperature (around 0.13 K), which was spontaneously increased to around 15 K. 
+The ρ–T characteristics were measured while the temperature was increased. The 
+
+
+ 
+6
+dependence of applied current density on the ρ–T characteristics was also observed. The 
+superconducting transition temperature (Tc) was estimated from the ρ–T characteristics. 
+The transition temperature corresponding to the onset of superconductivity (Tc
+onset) is 
+defined as the temperature at which deviation from linear behavior is observed in the 
+normal conducting state in the ρ–T characteristics. The zero resistivity (Tc
+zero) is 
+determined as the temperature at which resistivity is below 5 μΩ cm. ρ–T characteristics 
+under a magnetic field (H) range of 0-0.3 T parallel to the ab-plane and the c-axis of 
+CeOBiS2 single crystal were measured without ADR option in the temperature range of 
+2.0-5.0 K.  
+ 
+3. Results and discussion 
+Figure 1 shows the XRD patterns of ROBiS2 poly-crystalline samples where (a) R = La, 
+(b) R = Ce, and (c) R = Pr. The major diffraction peaks of the obtained poly-crystalline 
+samples were indexed as ROBiS2 phases. Figure 2 shows the ρ–T characteristics of 
+ROBiS2 poly-crystalline samples in the temperature range of 0.13-15 K. LaOBiS2 and 
+PrOBiS2 poly-crystalline samples did not exhibit zero resistivity down to around 0.13 K. 
+In contrast, for R = Ce, the resistivity drops in the range 1.3-1.9 K; the Tc
+onset and Tc
+zero 
+were estimated to be 1.9 K and 1.3 K, respectively. The transport properties of the 
+
+
+ 
+7
+ROBiS2 poly-crystalline samples exhibited semiconducting behavior. LaOBiS2 showed 
+a significantly higher resistivity compared to CeOBiS2 and PrOBiS2. The resistivity of 
+PrOBiS2 was lower than that of CeOBiS2 at the normal state. However, superconducting 
+transition was not observed in PrOBiS2 down to 0.13 K.  
+Figure 3 shows the XRD pattern of a well-developed plane of CeOBiS2 single crystal. 
+The presence of only 00l diffraction peaks of the CeOBiS2 structure indicates that the 
+ab-plane is well developed. Four terminals for the ρ–T characteristics measurement 
+were fabricated on the well-developed plane using silver paste. In consequence, the 
+applied current was along the ab-plane. The ρ–T characteristics of the CeOBiS2 single 
+crystal sample were measured in the temperature range of 0.13-15 K. Figure 4 shows 
+the applied current density dependence of ρ–T characteristics for a CeOBiS2 single 
+crystal. Superconducting transition was observed in the CeOBiS2 single crystal, and the 
+superconducting transition temperature was reduced by increasing the applied current 
+density (J). The Tc
+zero was not observed down to 0.13 K, when J was more than 6.33 
+A/cm2. For J = 1.05 A/cm2, the Tc
+onset and Tc
+zero were estimated to be 3.1 K and 1.2 K, 
+respectively. Similar Tc
+zero found in poly-crystalline and single-crystalline samples 
+suggests that CeOBiS2 without intentional doping displays superconductivity below 1.2 
+K. Nonetheless, there are minor differences in transition temperatures between 
+
+
+ 
+8
+poly-crystalline and single-crystalline samples. The Tc
+zero of single-crystal sample (1.2 
+K) was slightly lower than that of the poly-crystalline sample (1.3 K) because of the 
+high applied current density associated with the smaller cross-section area of a single 
+crystal. The Tc
+onset and ΔTc (Tc
+onset - Tc
+zero) of single-crystalline sample increased in 
+comparison with the poly-crystalline sample. We cannot deny the possibility of 
+contamination by F detected in the CsCl flux, because the fluorine content in CsCl was 
+determined to be 0.11 mol% by ion chromatography analysis. Nonetheless, F detection 
+in CeOBiS2 single crystals was very difficult by spectroscopic analysis. For 
+spectroscopic analysis such as electron probe microanalysis (EPMA), F-Kα (677 eV) 
+characteristic X-ray is overlapped with Ce-Mζ (676 eV) characteristic X-ray [21]. On 
+the other hand, for ion chromatography analysis, dissolution of the CeOBiS2 single 
+crystals into a solution was found to be difficult.  
+The ρ–T characteristics for the CeOBiS2 single crystal in the range of 2.0-5.0 K under 
+a magnetic field (H) range of 0-0.3 T parallel to the ab-plane and c-axis using PPMS 
+without ADR option are shown in Figure 5. The resistivity dropped at around 3.5 K by 
+the self-field (H = 0 T), and the temperature at which resistivity dropped decreased with 
+the increase in magnetic field (H). This result is evidence that superconducting 
+transition (Tc
+onset) occurs at around 3.5 K. This Tc
+onset is higher than that measured using 
+
+
+ 
+9
+ADR option (3.1 K). This phenomenon may be explained as follows: the measurement 
+of Tc
+onset without ADR option was performed in zero field cooling; on the other hand, 
+the measurement with ADR option was performed with field cooling. The decrease in 
+Tc
+onset under the magnetic field applied parallel to the c-axis is more significant than that 
+of the ab-plane, which corresponds to F-doped CeOBiS2 single crystals [20].  
+In both poly-crystalline and single-crystalline samples, CeOBiS2 shows zero resistivity 
+below 1.2 K. We assumed that the carrier for initiating superconductivity in CeOBiS2 
+originated from the valence fluctuations between Ce3+ and Ce4+ states [22]. This is 
+further supported by the absence of superconducting transition down to 0.13 K in 
+LaOBiS2 and PrOBiS2. The valence of La is probably La3+ in LaOBiS2. In the case of 
+PrOBiS2, it was observed using X-ray photoelectron spectroscopy (XPS) analysis and 
+magnetization-temperature (M-T) characterization that valence fluctuations between 
+Pr3+ and Pr4+ states hardly exist [23]. Therefore, the multivalence state of Ce3+ and Ce4+ 
+induced superconductivity in CeOBiS2 without chemically doping it.  
+ 
+4. Conclusion 
+The superconductivity of CeOBiS2 without fluorine doping was examined down to 
+0.13 K. Poly-crystalline CeOBiS2 showed zero resistivity below 1.3 K while LaOBiS2 
+
+
+ 
+10
+and PrOBiS2 poly-crystalline samples did not show superconductivity down to 0.13 K. 
+The superconductivity of the CeOBiS2 single crystal was also observed at around 1.2 K, 
+and it was similar to that found in the poly-crystalline sample. Therefore, the valence 
+fluctuations between Ce3+ and Ce4+ states can induce superconducting transition without 
+chemical doping, showing the potential of such valence fluctuations for exploring new 
+superconductors.  
+ 
+ 
+Acknowledgments 
+This work was supported by JSPS KAKENHI (Grant-in-Aid for challenging 
+Exploratory Research) Grant Number 15K14113.  
+We would like to thank Editage (www.editage.jp) for English language editing.  
+ 
+
+
+ 
+11
+References 
+[1]  E. A. Ekimov, V. A. Sidorov, E. D. Bauer, N. N. Mel’nik, N. J. Curro, J. D. 
+Thompson, S. M. Stishov, Nature 428 (2004) 542.  
+[2]  Y. Takano, M. Nagao, I. Sakaguchi, M. Tachiki, T. Hatano, K. Kobayashi, H. 
+Umezawa, H. Kawarada, Appl. Phys. Lett. 78 (2001) 2914.  
+[3]  E. Bustarret, C. Marcenat, P. Achatz, J. Kacmarcik, F. Levy, A. Huxley, L. Ortega, 
+E. Bourgeois, X. Blase, D. Debarre, J. Boulmer, Nature 444 (2006) 465.  
+[4]  Z.-A. Ren, J. Kato, T. Muranaka, J. Akimitsu, M. Kriener, Y. Maeno, J. Phys. Soc. 
+Jpn. 76 (2007) 103710.  
+[5]  M. Kriener, Y. Maeno, T. Oguchi, Z.-A. Ren, J. Kato, T. Muranaka, J. Akimitsu, 
+Phys. Rev. B 78 (2008) 024517.  
+[6]  T. Muranaka, Y. Kikuchi, T. Yoshizawa, N. Shirakawa, J. Akimitsu, Sci. Technol. 
+Adv. Mater. 9 (2008) 044204.  
+[7]  Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+O. Miura, J. Phys. Soc. Jpn. 81 (2012) 114725.  
+[8]  J. Xing, S. Li, X. Ding, H. Yang, H.-H. Wen, Phys. Rev. B 86 (2012) 214518.  
+[9]  R. Jha, A. Kumar, S. Kumar Singh, V. P. S. Awana, J. Supercond. Novel Magn. 26 
+(2013) 499.  
+
+
+ 
+12
+[10]  S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, Y. Takano, J. Phys. Soc. Jpn. 82 (2013) 033708.  
+[11]  D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, M. B. Maple, 
+Philos. Mag. 93 (2013) 673.  
+[12]  A. Miura, Y. Mizuguchi, T. Takei, N. Kumada, E. Magome, C. Moriyoshi, Y. 
+Kuroiwa, K. Tadanaga, Solid State Commun. 227 (2016) 19.  
+[13]  H.-F. Zhai, Z.-T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J.-K. Bao, Y.-L. Sun, 
+W.-H. Jiao, I. Nowik, I. Felner, Y.-K. Li, X.-F. Xu, Q. Tao, C.-M. Feng, Z.-A. Xu, G.-H. 
+Cao, Phys. Rev. B 90 (2014) 064518.  
+[14]  H.-F. Zhai, P. Zhang, S.-Q. Wu, C.-Y. He, Z.-T. Tang, H. Jiang, Y.-L. Sun, J.-K. 
+Bao, I. Nowik, I. Felner, Y.-W. Zeng, Y.-K. Li, X.-F. Xu, Q. Tao, Z.-A. Xu, G.-H. Cao, J. 
+Am. Chem. Soc. 136 (2014) 15386.  
+[15]  T. Sugimoto, B. Joseph, E. Paris, A. Iadecola, T. Mizokawa, S. Demura, Y. 
+Mizuguchi, Y. Takano, N. L. Saini, Phys. Rev. B 89 (2014) 201117(R).  
+[16]  A. Miura, M. Nagao, T. Takei, S. Watauchi, Y. Mizuguchi, Y. Takano, I. Tanaka, 
+N. Kumada, Cryst. Growth Des. 15 (2015) 39.  
+[17]  M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. 
+
+
+ 
+13
+Kumada, I. Tanaka, J. Phys. Soc. Jpn. 82 (2013) 113701.  
+[18]  M. Nagao, A. Miura, S. Demura, K. Deguchi, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada, I. Tanaka, Solid State Commun. 178 (2014) 33.  
+[19]  R. Higashinaka, T. Asano, T. Nakashima, K. Fushiya, Y. Mizuguchi, O. Miura, T. 
+D. Matsuda, Y. Aoki, J. Phys. Soc. Jpn. 84 (2015) 023702.  
+[20]  M. Nagao, Nov. Supercond. Mater. 1 (2015) 64.  
+[21]  A. Aßmann, M. Wendt, Spectrochimica Acta Part B 58 (2003) 711.  
+[22]  M. Nagao, M. Tanaka, R. Matsumoto, H. Tanaka, S. Watauchi, Y. Takano, I. 
+Tanaka, Cryst. Growth Des. 16 (2016) 3037.  
+[23]  S. Ishii, Y. Hongu, A. Miura, M. Nagao, Appl. Phys. Express 9 (2016) 063101.  
+ 
+
+
+ 
+14
+Figure captions 
+Figure 1. XRD pattern of ROBiS2 poly-crystalline samples where (a) R = La, (b) R = Ce 
+and (c) R = Pr.  
+Figure 2. ρ–T characteristics of ROBiS2 poly-crystalline samples at 0.13-15 K using 
+ADR option.  
+Figure 3. XRD pattern of well-developed plane of CeOBiS2 single crystal.  
+Figure 4. Applied current density dependence of ρ–T characteristics for the CeOBiS2 
+single crystal at 0.13-15 K using ADR option.  
+Figure 5. ρ–T characteristics for the CeOBiS2 single crystal at 2.0-5.0 K under a 
+magnetic field (H) of 0-0.3 T parallel to the (a) ab-plane and (b) c-axis without ADR 
+option.  
+ 
+ 
+ 
+ 
+
+
+ 
+15
+0
+10
+20
+30
+40
+50
+60
+70
+80
+2θ (deg)
+(a)
+ ●：LaOBiS2
+(b)
+ ●：CeOBiS2
+(c)
+ ●：PrOBiS2
+●●
+●
+●
+●
+●
+●
+●
+●●
+●
+●●●
+●●
+●
+●●
+●
+●
+●
+●
+●
+●
+●●
+●
+●●●
+●●●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●●
+●
+●●●
+●●
+●
+ 
+ 
+Figure 1  
+
+
+ 
+16
+0
+500
+1000
+1500
+2000
+2500
+0
+5
+10
+15
+：R=La J=6.58×10-3 A/cm2
+：R=Ce J=4.26×10-3 A/cm2
+：R=Pr J=3.15×10-3 A/cm2
+T (K)
+ 
+ 
+Figure 2  
+
+
+ 
+17
+0
+10
+20
+30
+40
+50
+60
+70
+80
+2θ (deg)
+(002)
+(003)
+(004)
+(005)(006)
+(007)
+(008)
+(009)(0010)
+(0011)
+ 
+ 
+Figure 3 
+
+
+ 
+18
+0
+0.5
+1
+1.5
+0
+5
+10
+15
+T (K)
+：J=1.05 A/cm2
+：J=4.22 A/cm2
+：J=6.33 A/cm2
+：J=10.55 A/cm2
+ 
+ 
+Figure 4  
+
+
+ 
+19
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+T (K)
+●：H=0 T
+●：H=0.1 T
+●：H=0.2 T
+●：H=0.3 T
+J=2.04 A/cm2
+H//c-axis
+(b)
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+T (K)
+●：H=0 T
+●：H=0.1 T
+●：H=0.2 T
+●：H=0.3 T
+H//ab-plane
+J=2.04 A/cm2
+(a)
+ 
+ 
+Figure 5  
+
+

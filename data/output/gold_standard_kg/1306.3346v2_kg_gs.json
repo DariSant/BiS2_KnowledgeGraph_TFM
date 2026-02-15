@@ -1,0 +1,34 @@
+{
+  "source_meta": {
+    "source_id": "1306.3346v2_v3_ext.txt",
+    "primary_material_family": "LaO0.5F0.5BiS2"
+  },
+  "extracted_samples": [
+    {
+      "formula": "LaO0.5F0.5BiS2",
+      "composition_variables": [],
+      "synthesis_profile": {
+        "method": "High Pressure Annealing",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Crystallography",
+          "conditions": {},
+          "data": {
+            "generic_value": {
+              "property_name": "Strain",
+              "value": 1,
+              "unit": "Uniaxial c-axis"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "Enhancement of superconductivity in LaO1-xFxBiS2 by HP annealing is caused by the generation of uniaxial strain along the c-axis.",
+    "Reducing uniaxial strain degrades superconducting properties."
+  ]
+}

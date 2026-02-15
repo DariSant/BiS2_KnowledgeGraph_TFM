@@ -1,0 +1,125 @@
+{
+  "source_meta": {
+    "source_id": "1409.2189v2_v3_ext.txt",
+    "primary_material_family": "LaOBiS2-xSex"
+  },
+  "extracted_samples": [
+    {
+      "formula": "LaOBiS2",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": {
+            "single_value": 0.0,
+            "variable_name": "x"
+          }
+        }
+      ],
+      "synthesis_profile": {
+        "method": "Solid State Reaction",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Not Discussed",
+      "measurements": [
+        {
+          "measurement_type": "Transport",
+          "conditions": {
+            "temperature_K": 300
+          },
+          "data": {
+            "generic_value": {
+              "property_name": "Thermal Conductivity",
+              "value": 2.0,
+              "unit": "W/mK"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "LaOBiSSe",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": {
+            "single_value": 1.0,
+            "variable_name": "x"
+          }
+        }
+      ],
+      "synthesis_profile": {
+        "method": "Solid State Reaction",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Not Discussed",
+      "measurements": [
+        {
+          "measurement_type": "Transport",
+          "conditions": {
+            "temperature_K": 300
+          },
+          "data": {
+            "generic_value": {
+              "property_name": "Thermal Conductivity",
+              "value": 2.0,
+              "unit": "W/mK"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "LaOBiS1.2Se0.8",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": {
+            "single_value": 0.8,
+            "variable_name": "x"
+          }
+        }
+      ],
+      "synthesis_profile": {
+        "method": "Solid State Reaction",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Not Discussed",
+      "measurements": [
+        {
+          "measurement_type": "Transport",
+          "conditions": {
+            "temperature_K": 743.15
+          },
+          "data": {
+            "generic_value": {
+              "property_name": "Dimensionless Figure-of-Merit (ZT)",
+              "value": 0.17,
+              "unit": "dimensionless"
+            }
+          }
+        },
+        {
+          "measurement_type": "Transport",
+          "conditions": {
+            "temperature_K": 743.15
+          },
+          "data": {
+            "generic_value": {
+              "property_name": "Power Factor",
+              "value": 4.5,
+              "unit": "uW/cmK2"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "Thermal conductivity for LaOBiS2-xSex is independent of temperature and Se concentration.",
+    "Partial substitution of S by Se enhances metallic conductivity.",
+    "The system is a potential thermoelectric material for high-temperature use."
+  ]
+}

@@ -1,0 +1,890 @@
+Evidence for Fully Gapped Strong Coupling S-wave 
+Superconductivity in Bi4O4S3 
+ 
+Shruti, P. Srivastava and S. Patnaik 
+School of Physical Sciences, Jawaharlal Nehru University, New Delhi-110067, India. 
+e-mail: spatnaik@mail.jnu.ac.in 
+PACS:74.25.N- Response to electromagnetic fields. 
+PACS:74.70.-b Superconducting materials other than cuprates. 
+ 
+Abstract 
+We report on the superconducting gap and pairing symmetry in layered superconductor 
+Bi4O4S3. The measurement of temperature dependence of magnetic penetration depth was 
+carried out using tunnel diode oscillator technique.  It is observed that Bi4O4S3 is a 
+conventional s-wave type superconductor with fully developed gap. The zero-temperature 
+value of the superconducting energy gap Δ0 was found to be 1.54 meV, corresponding to the 
+ratio 2Δ0/kBTc=7.2 which is much higher than the BCS value of 3.53.  In the superconducting 
+range, superfluid density is very well described by single gap s- wave model.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Introduction 
+ 
+Superconductivity involves macroscopic quantum condensation of paired electrons. 
+Such pairing could originate from a variety of quantum interactions.  Thus, when a new 
+superconducting system is discovered, the first challenge is attained towards deciphering the 
+interaction leading to the pairing mechanism.  In this context, the recent discovery of 
+superconductivity in layered sulphide Bi4O4S3 by Mizuguchi et al. [1] has once again 
+reignited the field of superconductivity. Its transition temperature (Tc0) is ~4.5K [1,2].  With 
+high pressure synthesis, a substantial increase in Tc ~10.6 K has been observed for LaOBiS2 
+[3]. A series of ReOBiS2 compounds have been reported with constituent BiS2 conducting 
+layers [4,5]. Theoretical works based on the first principle band structure calculations [1,6] 
+predict that the dominating bands for the electron conduction as well as for the 
+superconductivity are derived from the Bi 6px and 6py orbitals where the electrons typically 
+exhibit weak correlation effects.  Interestingly, the structure of these sulfides comprising of 
+BiS2 layers is similar to the layered cuprates and pnictide superconductors. In Bi4O4S3, it is 
+the BiS2 layer where superconductivity is achieved by carrier doping either by substitution [3] 
+or by creating deficiency [2].   
+There have been a variety of reports on the origin of superconducting mechanism in 
+BiS2 based compounds. While nesting of the Fermi surface and large electron phonon 
+coupling constant are predicted for LaO1−xFxBiS2 [7,8], there are some indication that even 
+for Bi4O4S3, the coupling strength could exceed the conventional BCS prediction [9]. There 
+are theories that predict structural instabilities [7,8]  in close proximity to competing 
+ferroelectric and charge density wave (CDW) phases [8]. This instability is possibly due to 
+anharmonic potential of the S ions lying on the same plane as the Bi ions. In parallel to the 
+spin-density wave (SDW) instability in Fe-based superconductors, a CDW instability from 
+
+
+negative phonon modes at or around the M point, (π, π), is suggested to be essential to the 
+superconductivity in LaO1−xFxBiS2 [8]. Thus, theoretically, spin fluctuation may also account 
+for the superconducting pairing in these compounds.  
+Towards this end, the magnetic penetration depth is very important for the 
+determination of the magnitude of the superconducting order parameter and pairing 
+symmetry.  In conventional BCS theory, this pairing is attained between two electrons with 
+opposite momenta through exchange of phonons. In the weak electron – phonon coupling 
+scenario, a constant ratio of superconducting gap and superconducting transition temperature 
+0
+2
+/
+ 3.53
+(
+)
+B
+c
+k T
+
+
+is predicted. This can be accessed through the penetration depth 
+
+T
+
+ 
+measurements as it is directly related to the superfluid density 
+2
+1/
+
+
+
+ and hence to the 
+magnitude of the superconducting order parameter 
+
+T
+
+which is the activation energy for 
+quasi-particle excitations of the superconducting ground state and equivalently termed as the 
+superconducting gap. It is an extremely useful probe for distinguishing between different 
+possible superconducting gap structures on the Fermi surface and to reflect on the 
+superconducting pairing mechanism.  Several examples are pertinent. Temperature variation 
+in the superfluid density consistent with weak-coupled d wave superconductor has been 
+observed in hole doped cuprates such as YBa2CuO7−δ [10], Bi2Sr2CaCu2O8+δ [11].  Quadratic 
+power law dependence of superfluid density on temperature consistent with a d-wave pairing 
+state exhibiting unitary limit impurity scattering was confirmed in Pr2−xCexCuO4−y (PCCO) 
+[12]. d-wave pairing with 
+1.5
+T
+
+
+ was observed in organic superconductors κ-
+(ET)2Cu[N(CN)2]Br [13] and such dependence was also seen in heavy fermion compound 
+CeCoIn5 [14]. Similarly various experiments have provided quantitative evidence for the two-
+gap nature of superconductivity in MgB2 [15]. It was found that the smaller gap is on the π 
+sheet with Δs=2.5meV ≈ 0.42ΔBCS and larger gap is on σ sheets with Δl=6.45meV ≈ 1.1ΔBCS 
+(ΔBCS represents weak coupling BCS value) [15].  In CaAlSi, an anisotrpic 3D s-wave 
+
+
+superconductivity was observed [16]. Further, superconducting state in oxypnictides has been 
+found to be consistent with the fully gapped s± pairing symmetry[17]. Some other techniques 
+such as Angle-Resolved Photoemission Spectroscopy (ARPES) [18], Scanning Tunnelling 
+Spectroscopy(STS)[19], Muon Spin Rotation and Mutual Coil Induction [20] have also been 
+used to ascertain pairing symmetry, but these techniques are extremely sensitive to the 
+surface state.  The tunnel diode oscillator technique that we have used, is also surface 
+sensitive but it is less susceptible to impurities since the length scale probed is much larger 
+(for type – II superconductors) than the coherence length as probed in a STS.  Also because 
+of limited directional resolution it is difficult to use the other techniques in three dimensional 
+anisotropic Fermi surfaces. The magnetic penetration depth on the other hand is a bulk probe 
+where a high degree of resolution can be achieved. 
+In this paper, we report a detailed penetration depth study on polycrystalline samples 
+of recently discovered superconductor Bi4O4S3. We have successfully synthesized this new 
+superconductor with enhanced superconducting transition temperature (Tconset ~ 5.3K). The 
+low temperature data of penetration depth measurement were fitted to the BCS equation that 
+yielded a gap ratio 
+0
+B c
+2
+/
+ 6.7
+k T
+
+
+which is larger than BCS value of 3.53. Moreover, the 
+gap obtained from the fitting of superfluid density in full temperature range (upto Tc) is 7.2 
+which is almost twice of the weak coupling BCS value suggesting surprisingly strong 
+coupling in Bi4O4S3 superconductor. 
+ 
+Experimental 
+Polycrystalline sample of Bi4O4S3 was prepared using a conventional solid state 
+reaction method. Bi2S3, Bi2O3 powders and S grains were ground, pelletized, sealed into an 
+evacuated quartz tube and heated at 510 ºC for 12 h. The product was well-ground, pelletized 
+and again annealed at 510 ºC for 10 h. Transport and magnetic measurements were 
+
+
+undertaken in a Cryogenic low temperature and high magnetic field Cryogen Free system in 
+conjunction with variable temperature insert. 
+The London penetration measurement was carried out using tunnel diode resonator 
+technique which consisted of a copper coil connected parallel to a capacitor and driven to 
+resonance due to a tunnel diode oscillator at radio frequency (2.3MHz at room temperature).  
+The sample was placed inside in this copper solenoid coil which formed the part of the 
+inductor. The amplitude of the rf field generated by coil is ~1 µT which is much less than the 
+lower critical field Hc1 of BiS2 based superconductors [2]. Hence the sample was in Meissner 
+state in zero applied external dc field. The most important feature of this measurement is the 
+stability of the oscillator. With a proper choice of circuit elements and by taking care of 
+shielding, we were able to obtain a stability of one part in 107 Hz. An oven stabilized 
+frequency counter was used for measurements of frequency.  The sample temperature was 
+measured and regulated with a 340 Lakeshore temperature controller. The sample was kept 
+inside the inductor such that the plane of the platelet was perpendicular to the axis of the 
+inductor that formed a part of LC component of the ultra-stable oscillator. A change in the 
+magnetic state of the sample results in a change in the inductance of the coil which is 
+reflected as a shift in oscillator frequency that was measured using an Agilent 53131A 
+counter.  Moreover, the shift in the resonant frequency (
+s
+0
+0
+) /
+F
+F
+F
+
+ is proportional to sample 
+linear susceptibility (F is the frequency in the presence of superconducting sample and F0 
+is the resonance frequency in the absence of a sample) and for a sample in perpendicular to rf 
+magnetic field, the susceptibility is given by, 
+                        
+1
+4
+[1
+tanh(
+)]
+1
+R
+N
+R
+
+
+
+
+
+
+
+                                                              (1) 
+ 
+ 
+where R the effective sample dimension and N is is the effective demagnetization factor [21] 
+
+
+For penetration depth  << R as in the present case; 
+                                        
+S
+0
+0
+(1
+)
+2
+(1
+N)
+V
+F
+F
+V
+R
+
+
+
+
+
+                                                                  (2)   
+where Vs and V0 are the sample and effective coil volume  respectively. Thus a change 
+in the penetration depth 
+
+
+
+
+min
+T
+T
+T
+
+
+
+
+
+
+from the lowest temperature Tmin is given by 
+the shift in oscillator frequency as 
+
+
+T
+G F T
+
+
+
+
+.  Here, 
+0
+0
+/[2
+(1
+)]
+s
+G
+RV F
+V
+N
+
+
+is the 
+calibration constant of the set up that depends on sample and coil geometries and 
+demagnetization factor and 
+min
+( )
+(
+)
+F
+F T
+F T
+
+
+
+[21]. We found that the value of G 
+estimated from this technique for pure niobium platelet (of almost identical shape and size of 
+our Bi4O4S3 specimen) overestimates the change in
+
+T
+
+
+. The possible source of error may 
+be in determining the effective coil volume and demagnetization factor. Instead we followed 
+the procedure where the zero field frequency shift was fitted with the temperature 
+dependence of BCS s-wave equation. Taking 
+
+
+T
+G F T
+
+
+
+
+, the best fit for the  
+experimental data yielded G=2.27 Å/Hz for our set up.  
+ 
+Results and Discussion 
+ 
+The Rietveld refined room-temperature XRD patterns for Bi4O4S3 sample is reported 
+elsewhere [22] that confirms the I4/mmm phase purity of the specimen. Figure 1 shows the 
+resistivity behaviour near transition temperature for Bi4O4S3 and the inset shows dependence 
+of resistivity from 300 K to 2 K for the same. The resistivity varies in a T2 dependence as 
+appropriate for a Fermi liquid state within a narrow window of 25 K to 50 K. The resistivity 
+behaviour for the undoped sample Bi6O8S5 on the other hand, exhibits semiconducting 
+
+
+behaviour down to the lowest measured temperature [22]. Superconductivity is optimized for 
+50% deficiency in SO4 concentration that is the equivalent Bi4O4S3 phase.  
+The inset of Figure 2 shows the change of the penetration depth 
+
+T
+
+
+ down to 
+1.68K, and reveals a sharp superconducting transition at Tc ~ 5.0 K .  This is slightly lower 
+than onset of resistive transition.  The main panel of Figure 2 plots the variation in 
+penetration depth as a function of reduced temperature. In the following, we discuss the  low 
+temperature behavior of 
+( )
+(0)
+T
+
+
+
+
+
+and the superfluid density, 
+
+
+2
+s( )
+(0) / ( )
+T
+T
+
+
+
+
+, 
+towards determining the symmetry and magnitude of gap for the superconducting state[23].   
+In the BCS theory, for a fully gapped s-wave superconductor, the behavior of 
+
+T
+
+asymptotically approaches to  
+                 
+
+
+0
+0
+B
+B
+exp(-
+2
+)
+0
+T
+k T
+k T
+
+
+
+
+
+
+
+,                                                               (3)                         
+at low temperature. Here λ(0) and Δ0 are the values of penetration depth  and the 
+superconducting energy gap Δ at T=0. This exponential dependence is fairly applicable to the 
+for T/Tc ≤ 0.5 [24]. In case of a nodeless anisotropic energy gap or distinct gaps on different 
+Fermi-surface sheets, 
+
+T
+
+follows the exponential law but in that case, Δ0 approximately 
+equals to the minimum energy gap in the system, and 
+0
+
+gives effective value that depends 
+on the details of the gap anisotropy [23]. For d-wave pairing in the clean limit, on the other 
+hand,  
+                             
+
+0
+2ln2
+Δ
+(0)
+T
+T
+
+
+
+
+
+                                                                               (4) 
+where
+
+1
+0
+/
+node
+d
+d
+
+
+
+
+
+
+
+
+
+
+ and 
+( )
+ is the angle dependent gap function [23]. In 
+the presence of impurity scattering, d-wave gap is suppressed and the temperature 
+dependence changes from linear behaviour to power law; 
+2
+~ T
+
+
+[25]. 
+
+
+Qualitatively, the observed weak temperature dependence below 2.5 K in Figure 2 is 
+consistent with s-wave BCS theory.  This also marks the signature of a fully developed 
+superconducting gap. Fitting the low temperature data with power law Tn yields a very high 
+value of n ~ 7 which rules out the possibility of d wave pairing. At low temperature
+c
+/
+0.5
+T T 
+, the data are best fitted to the BCS Eq.(3) that yields gap ratio  
+0
+B c
+2
+/
+6.7
+k T 
+
+±0.3 and the corresponding value of energy gap Δ0~1.43 meV. This gap ratio is very high 
+compared to the weak coupling limit of 3.53. This suggests that Bi4O4S3 is a strongly coupled 
+superconductor. Such possible strong coupling in this material has been made in a detailed 
+theoretical analysis by Yildirim [26].  Evidence for strong coupling is also seen in STS 
+measurement [9], although the value of gap ratio reported is much higher; 2Δ0/kBTc ≈ 17.  To 
+bring in a prospective, the observed gap value from our experiments can be compared with 
+some of the other strong coupling superconductors such as 4.8 in KOs2O6 [27,24], 5.2 in 
+PrOs4Sb12 [28], 4.4 in SrPd2Ge2 [29], 3.87 in RbOs2O6 [27], ~5 in SrPt3P [30], ~ 8 in 
+PuCoGa5 [31] and 7.74 in YBa2Cu3O6.98 [32].  
+A  s-wave pairing with sign reversal is suggested if spin fluctuations play main role in 
+cooper pairing [6]. With regard to Bi4O4S3, Y.Gio has formulated a theory base on two orbital 
+model for the pairing symmetry on the basis of three possibilities, the isotropic s-wave, the 
+anisotropic s-wave and the d-wave pairing [33]. To analyze our data in the light of these 
+possibilities, in Figure 3 we plot the normalized superfluid density, 
+
+
+
+2
+0 /
+T
+T
+
+
+
+
+
+
+
+
+as 
+a function of reduced temperature over full temperature range.  Best fits to the superfluid 
+density over the entire temperature range allows one to detect the existence of multiple gaps 
+as well as their temperature dependences [34], 
+ or the anisotropies of the superconducting 
+gap(s).  But this method requires 
+0
+
+ , the zero temperature London penetration depth data, 
+that are not available for Bi4O4S3. We estimated the value of 
+0
+
+ from lower critical field 
+
+
+         
+0
+c1
+2
+ln
+(
+ 
+.4 5)
+4
+0 8
+H
+
+
+
+
+
+
+                                                                            (5) 
+where the value of Hc1(0) and  (0) are given by ~ 15 Oe and 110 Å respectively [2, 22], and 
+Φ0 is magnetic flux quantum = 2  10-7 G cm2. The value of 
+
+0
+
+as calculated from the 
+above formula is ~734nm.  Further, in the dirty limit case
+
+l
+
+
+ and in the clean limit
+
+
+l
+
+
+, where l is mean free path, the super fluid density 
+
+T
+
+has the form [36],  
+                 
+2
+2
+0
+B
+(0)
+( )
+( )
+ 
+ tanh 
+( )
+2
+dirty
+T
+T
+T
+k T
+
+
+
+
+
+
+
+
+
+
+
+
+,                                                                              (6) 
+2
+2
+2
+2
+( )
+(0)  
+ 1 
+2
+  
+( )
+- ( )
+T
+clean
+f
+E
+dE
+T
+E
+E
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,                                               (7) 
+where  f =[1+exp(E/kBT)]-1 is the Fermi function with temperature dependent gap function, 
+
+c
+B
+0
+0
+ 
+tanh
+1
+[ 
+(
+)]
+T
+k T
+T
+a T
+
+
+
+
+
+                                                                        (8) 
+Here Δ0 is the gap magnitude at zero temperature and ‘a’ is a free parameter that 
+depends on the particular pairing state and    is Boltzmann constant.  The integration is over 
+the entire quasi-particle energies measured from the chemical potential [23]. As shown in 
+Figure 3, for the estimated value of 
+
+0
+
+= 734nm a comparison is attempted for the two 
+fluid model [35], and the clean and dirty s-wave models [36]. Evidently, the superfluid 
+density for Bi4O4S3 does not fit at all to the two weak coupling BCS s–wave curves 
+corresponding to dirty and clean limits and neither do the data follow the two fluid Gorter and 
+Casimir model. Subsequently, the 
+
+T
+
+ data were fitted using eq. (7) and gap function (8) 
+taking ‘Δ0’ and ‘a’ as free parameter using Mathematica. As is evident, the superfluid density 
+data show excellent fitting for a single s-wave equation for 2∆0 /kBTc= 7.18 ± 0.17 with the 
+corresponding energy gap value Δ0 ~ 1.54 meV and a = 1.23 ± 0.007 . This value of gap ratio 
+
+
+0
+B c
+2
+7.2k T
+
+ is almost double of weak coupling BCS value of 3.53 which again underlines 
+the strong electron – phonon coupling in Bi4O4S3. It should be noted that the gap values 
+estimated from raw fitting of BCS equation would be less accurate than the gap estimated 
+from the full temperature range super fluid density since the BCS equation is applicable at 
+asymptotically approached lowest temperature.  The value of ‘a’ however is higher than its 
+value for isotropic s-wave gap (a ~ 1) for weak coupling. The value of ‘a’ relates to the 
+specific heat transition [23].  Since we don’t have specific heat data, no conclusive comment 
+can be made on the obtained best fit value of ‘a’.  An attempt to ascertain two gap fitting 
+using alfa model for two gap superconductivity [15], was also undertaken.  The technique 
+involved letting the values of constants get determined self consistently, and the results 
+indicated convergence to a single gap that convincingly exclude the possibility of two gaps in 
+the present case.   
+  
+Conclusion 
+ 
+In conclusion, a study of temperature dependent magnetic penetration depth and super 
+fluid density in the newly discovered layered sulphide Bi4O4S3 superconductor confirms a 
+fully gapped s-wave pairing in the strong coupling limit.  The low temperature 
+T
+
+ values 
+show exponential temperature dependence.  
+
+tends to be rather fIat below 0.5Tc and marks 
+the signature of fully developed superconducting gap. Superfluid density is very best fitted 
+with single gap s-wave equation with gap ratio 2Δ0=7.2kBTc that indicates the existence of 
+strong electron phonon coupling in this primary BiS2 based layered superconductor. 
+ 
+ 
+ 
+
+
+Acknowledgment  
+Shruti acknowledge UGC for providing her the JRF fellowship. PS is grateful to 
+UGC, India for the award of a Dr D S Kothari postdoctoral fellowship.  Technical support 
+from AIRF is gratefully acknowledged.  SP acknowledges support under DST – FIST 
+program of Govt. of India. 
+ 
+ 
+
+
+References: 
+[1]   Mizuguchi Y., Fujihisa H., Gotoh Y., Suzuki K., Usui H., Kuroki K., Demura S., Takano 
+Y., Izawa H. and Miura O., Phys. Rev. B, 86 , (2012) 0220510(R). 
+[2]   Singh S. K., Kumar A., Gahtori B., Shruti, Sharma G., Patnaik S. and Awana V. P. S., J. 
+Am. Chem. Soc., 134 , (2012) 16504. 
+[3]    Mizuguchi Y., Demura S., Deguchi K., Takano Y., Fujihisa H., Gotoh Y., Izawa H., and 
+Miura O., J. Phys. Soc. Jpn., 81 , (2012) 114725. 
+[4]   Demura S., Mizuguchi Y., Deguchi K., Okazaki H., Hara H., Watanabe T., Denholme 
+S., Fujioka M., Ozaki T. and Fujihisa H., arXiv:1207.5248 (2012). 
+[5]     Jha R., Kumar A., Singh S. K. and Awana V. P. S., J. Appl. Phys., 113 , (2013) 056102. 
+[6]     Usui H., Suzuki K. and Kuroki K., Phys. Rev. B , 86 , (2012) 220501(R). 
+[7]     Wan X., Ding H. C., Savrasov S. Y. and Duan C. G., arXiv: 1208.1807v2(2012). 
+[8]      Li B. and Xing Z. W., arXiv:1210.1743(2012). 
+[9]  Li S., Yang H., Fang D., Wang Z., Tao J., Ding X. and Wen H.-H.,  
+arXiv:1304.3354v1(2013) 
+[10]   Hardy W. N., Bonn D. A., Morgan D. C., Liang R. and Zhang K., Phys. Rev. Lett., 70 ,  
+(1993) 3999. 
+[11]    Jacobs T., Sridhar S., Li Q., Gu G. D. and Koshizuka N., Phys. Rev. Lett., 75 , (1995) 
+4516. 
+[12]     Hirschfeld P.  J. and N. Goldenfeld , Phys. Rev. B , 48 , (1993) 4219. 
+[13]     Carrington A., Bonalde I. J., Prozorov R.  , Giannetta R. W., Kini A.  M., Schlueter J.,  
+Wang H. H., Geiser U. and Williams J.  M.  , Phys. Rev. Lett., 83 , (1999) 4172. 
+[14]     Özcan S.,  Broun D.  M.,  Morgan B., Haselwimmer R. K. W., Sarrao J. L., Kamal S.,    
+Bidinosti C. P. and Turner M. P. J., Europhys. Lett. , 62 , (2003)  412. 
+
+
+[15]    Manzano F., Carrington A., Hussey N. E., Lee S., Yamamoto A., Tajima S., Phys. Rev. 
+Lett., 88 , (2002) 047002. 
+[16]    Prozorov R.,  Olheiser T. A.,  Giannetta R. W., Uozato K. and Tamegai T., Phys. Rev. 
+B , 73 , (2006) 184523. 
+[17]      Johnston D. C., Advances in Physics, 59 , (2010) , 803. 
+[18]     Damascelli A., Hussain Z. and Shen Z.-X., Rev. Mod. Phys., 75 , (2003) 473. 
+[19]    Chi S.,  Grothe S.,  Liang R.,  Dosanjh P., Hardy W. N.,  Burke S. A.,  Bonn D. A., 
+and  Pennec Y., Phys. Rev. Lett., 109, (2012) 087002.  
+[20]     Fischer O., Kugler M., Maggio-Aprile I., Berthod C. and Renner C., Rev. Mod. Phys., 
+79 , (2007) 353. 
+[21]       Prozorov R. and  Giannetta R. W. , Phys. Rev. B , 62, (2000) 115. 
+[22]     Srivastava P., Shruti and  Patnaik S., arXiv:1304.4386(2013). 
+[23]     Prozorov R. and Giannetta R.W., Supercond. Sci.Technol. , 19 , (2006) R41. 
+[24]    Bonalde I., Ribeiro R., Bra¨mer-Escamilla W., Yamaura J., Nagao Y., and Hiroi Z., 
+Phys. Rev. Lett., 98 , (2007) 227003. 
+[25]     Gordon R. T., Ni N., Martin C., Tanatar M. A., Vannette M.D., Kim H., Samolyuk G. 
+D., Schmalian J., Nandi S., Kreyssig A., Goldman A. I., Yan J. Q.,. Bud’ko S. L, 
+Canfield P. C., and Prozorov R., Phys. Rev. Lett., 102 , (2009) 127004. 
+[26]     Yildirim T., Phys. Rev. B , 87 , (2013) 020506(R). 
+[27]    Brühwiler M. , Kazakov S. M., Karpinski, J.  and  Batlogg B., Phys. Rev. B, 73 , (2006) 
+094518. 
+
+
+[28]   Chia E. E. M., Salamon M. B., Sugawara H. and H. Sato, Phys. Rev. Lett., 91 , 
+(2003)247003. 
+[29]    Kim H., Sung N. H., Cho B. K.,  Tanatar M. A. and Prozorov R., Phys. Rev. B, 87 ,  
+(2013) 094515. 
+[30]   Takayama T., Kuwano K., Hirai D., Katsura Y., Yamamoto A. and Takagi H., Phys. 
+Rev. Lett , 108 , (2012) 237001. 
+ [31]     Curro N. J., Caldwell T., Bauer E. D., Morales L. A., Graf M. J., Bang Y., Balatsky A. 
+V., Thompson J. D. and Sarrao J. L., Nature , 434 , (2005) 622. 
+[32]    Maisuradze A., Shengelaya A., Amato A., Pomjakushina E., and Keller H., Phys. Rev. 
+B , 84 , (2011) 184523. 
+[33]      Gao Y., arXiv:1304.2102v1(2013). 
+[34]      Bang Y., Choi H.-Y. and Won H.,  Phys. Rev. B , 79 , (2009) 054529. 
+[35]      Tinkham  M., Introduction to Superconductivity, 2nd ed.  
+[36]      Khasanov R., Klamut P. W., Shengelaya A., Bukowski Z., Savić I. M., Baines C., and 
+Keller H., Phys. Rev. B , 78 , (2008) 014502.      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Figure Captions: 
+Figure 1. Temperature dependence of resistivity showing superconducting transition 
+temperature of 5.3K. Inset shows metallic behaviour of resistivity upto room temperature. 
+ 
+Figure 2. Change in penetration depth Δλ(T) showing exponential fitting(red line) using 
+Eq.(3). Inset shows temperature dependence of normalized Δλ(T) with superconducting 
+transition at 5.0K . 
+ 
+Figure 3. Comparison of temperature dependence of superfluid density of Bi4O4S3 with clean 
+s-wave, dirty s-wave and two fluid models. Red line shows the best fitting for a single s-wave 
+equation with fitting parameter 2∆0 /kBTc= 7.18 ± 0.17 and a = 1.230 ± 0.007. 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+3
+4
+5
+6
+7
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+50 100 150 200 250 300
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+ (m-cm)
+T(K)
+ (m-cm)
+T(K)
+Bi4O4S3
+5.3K
+Figure1. 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. 
+ 
+0.0
+0.2
+0.4
+0.6
+0
+50
+100
+150
+200
+ 
+ 
+nm
+T/TC(K)
+0
+1
+2
+3
+4
+5
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+ 
+ 
+Normalized 
+T(K)
+Tc=5.0K
+
+
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+
+T/TC
+Bi4O4S3
+ Clean s-wave
+ Dirty s-wave
+ Two fluid model
+ Fit, 0/kBTC~ 7.2 
+ 
+Figure 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

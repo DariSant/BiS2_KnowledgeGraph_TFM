@@ -1,0 +1,631 @@
+arXiv:1310.1695v2  [cond-mat.supr-con]  12 Feb 2014
+Electronic phase diagram in the new BiS2-based
+Sr1−xLaxFBiS2 system
+Yuke Li1,2 †, Xi Lin1, Lin Li1, Nan Zhou1, Xiaofeng Xu1 ‡, Chao
+Cao1, Jianhui Dai1, Li Zhang3, Yongkang Luo2, Wenhe Jiao2,
+Qian Tao2, Guanghan Cao2 and Zhuan Xu2
+1Department of Physics and Hangzhou Key Laboratory of Quantum Matters,
+Hangzhou Normal University, Hangzhou 310036, China
+2State Key Lab of Silicon Materials and Department of Physics, Zhejiang University,
+Hangzhou 310027, China
+3Department of Physics, China Jiliang University, Hangzhou 310018, China
+Abstract.
+In this paper, we systematically study the electron doping eﬀect in a new
+BiS2-based system Sr1−xLaxFBiS2(0 ≤x ≤0.7) through multiple techniques of X-ray
+diﬀraction, electrical transport, magnetic susceptibility, and Hall eﬀect measurements.
+The parent compound SrFBiS2 is found to possess a semiconducting-like ground state,
+with thermally activation energy Eg ∼38 meV. By the partial substitution of La for
+Sr, superconductivity emerges when x > 0.3, reaching its maximal superconducting
+transition temperature Tc ∼3.5 K at x = 0.55. In the normal state of superconducting
+samples, it is clearly seen that there exists a crossover from metallic to semiconducting
+state below a temperature Tmin, which shifts to lower temperatures with increasing
+La content. Based on these measurements, the associated electronic phase diagram of
+Sr1−xLaxFBiS2 system has thus been established.
+PACS numbers: 74.70.Dd; 74.25.F-; 74.70.Xa
+† Electronic address: yklee@hznu.edu.cn
+‡ Electronic address: xiaofeng.xu@hznu.edu.cn
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+2
+1. Introduction
+In the last couple of decades, the discovery of a series of new superconducting
+compounds with relatively low transition temperatures Tc yet displaying some unique
+properties, has triggered sustained research interest in the community of condensed
+matter physics[1, 2, 3].
+In particular, these compounds in some cases have led to
+the unveiling of entire new families of surperconducting materials[3, 4, 5] with Tc far
+above the Bardeen-Cooper-Schrieﬀer (BCS) limit[6]. Interestingly, with few exceptions,
+these compounds possess a layered crystal structure, and exhibit exotic superconducting
+properties and complex physical features.
+Very recently, a novel superconductor Bi4O4S3 with Tc of 8.6 K has been
+reported[7, 8], which consists of a layered crystal structure built from the stacking
+of Bi2S4 superconducting layers and Bi4O4(SO4)1−x block layers.
+Immediately after
+this work, several new BiS2-based superconductors, LnO1−xFxBiS2(Ln=La, Ce, Pr,
+Nd)[9, 10, 11, 12, 13], which are composed of Bi2S4 layers and Ln2O2 layers, have thus
+been discovered, with Tc as high as 10 K. Evidently, these compounds share a common
+BiS2 layer, which serves as the basic building blocks of this new superconducting family.
+This feature is reminiscent of the situation encountered in the cuprate and pnictides
+superconductors, in which superconductivity arises predominantly from the CuO2 planes
+and Fe2Pn2 layers, respectively.
+However these BiS2-based layered superconductors
+display a wealth of similarities to the iron pnictides, the diﬀerences are also manifest.
+For instance, the parent compound of LnFeAsO shows an antiferromagnetic (AFM)
+transition and/or a structural phase transition[14] and superconductivity emerges from
+the suppression of this AFM order by chemical doping or pressure. In contrast, the
+parent compound LnOBiS2 displays no magnetic/structural transition, implying that
+magnetism is of less relevance to superconductivity in BiS2-based systems.
+On the
+other hand, it is noted that superconductivity is in close proximity to an insulating
+normal state for the BiS2-based compounds [12]. Yet for the discovered superconducting
+materials, superconductivity grows from a metallic normal state.
+More recently, a new BiS2 based superconductor Sr1−xLaxFBiS2 (x=0.5) has been
+synthesized and studied[15, 16]. This compound is iso-structural to LaOBiS2, where
+the [Ln2O2]2−layer is replaced by iso-charged [Sr2F2]2−block, in analogy to the case
+of LaOFeAs and SrFFeAs. The parent compound SrFBiS2 is a semiconductor, and the
+50% substitution of La for Sr induces superconductivity with Tc of 2.8 K.
+To
+date,
+most
+studies
+about
+BiS2-based
+systems
+have
+focused
+on
+their
+electronic structures[17], superconducting transition temperature[18] and the pairing
+symmetry[19, 20], with only few reports on the study of their electronic phase diagrams.
+In this paper, we report the successful synthesis and the detailed characterization
+of a series of La-doped Sr1−xLaxFBiS2 samples.
+We ﬁnd that superconductivity is
+successfully induced by La doping when x > 0.3, with maximal Tc of 3.5 K at x = 0.55,
+above which Tc shows less doping dependence. Interestingly, for the superconducting
+samples, their normal state undergoes a metal to semiconductor transition/crossover
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+3
+at Tmin, which shifts to lower temperatures with increasing La content.
+For all
+superconducting samples studied, a strong diamagnetic signal was observed, conﬁrming
+the bulk superconductivity.
+As a consequence, we established the electronic phase
+diagram of this Sr1−xLaxFBiS2 system based on our experimental data.
+2. Experiment
+The polycrystalline samples of Sr1−xLaxFBiS2 (0≤x≤0.7) used in this study were
+synthesized by two-step solid state reaction method. The detailed synthesis procedures
+can be found in our previous report[15].
+Crystal structure characterization was
+performed by powder X-ray diﬀraction (XRD) at room temperature using a D/Max-rA
+diﬀractometer with CuKα radiation and a graphite monochromator. Lattice parameters
+were obtained by Rietveld reﬁnements. The electrical resistivity was measured with a
+standard four-terminal method between 300 K to 0.4 K in a commercial Quantum
+Design PPMS-9 system with a 3He refrigeration insert. The Hall eﬀect measurements
+were also performed in this system. The temperature dependence of d.c. magnetization
+was measured by a Quantum Design MPMS-5.
+3. Results and Discussion
+Figure 1 (a) shows the room temperature powder XRD patterns of the Sr1−xLaxFBiS2
+samples. The main diﬀraction peaks of these samples can be well indexed based on a
+tetragonal cell structure with the P4/nmm space group, expect for some extra minor
+peaks arising from the possible impurity phase of Bi2S3 (note that x =0.4 sample
+shows a single phase only). Fig. 1(b) displays the (102) and (004) diﬀraction peaks
+on an enlarged scale. It is clearly seen that the (004) peak for La-doped samples shifts
+systematically towards higher 2θ angles with respect to that in the parent compound
+(x = 0), while the (102) peak exhibits much less doping dependence. This observation
+is consistent with the variation of the lattice parameters at room temperature, as shown
+in Fig. 1(c), where the c-axis decreases quickly as x grows, while the a-axis is nearly
+independent of the La content. These suggest that La atoms are indeed incorporated into
+the lattice, resulting in the decrease in the cell volume. Similar feature was also reported
+in the case of LaO1−xFxBiS2[11]. To obtain the actual content of La impurities, the EDX
+measurements (not shown here) are performed in a single crystal grain of polycrystalline
+sample for all La-doped samples. Those results suggest that the real La content in all
+doped samples is very close to the nominal La concentration.
+The temperature evolution of the resistivity ρ(T) for all samples studied is
+summarized in Fig.
+2.
+The parent compound SrFBiS2, which has been broadly
+studied in the literature[15, 16], is a semiconductor with room temperature resistivity
+of ∼5×102mΩ·cm. This room temperature value is about two orders of magnitude
+larger than that of iron-based superconductors with semi-metallicity[4]. No anomaly
+in resistivity is observed down to 2 K, contrasting with the prominent kink structure
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+4
+associated with the AFM phase transition in LnFeAsO systems[14].
+Remarkably,
+the thermal energy Eg extracted from the ﬁtting to the thermal activation formula
+ρ(T) = ρ0 exp(Eg/kBT) at the temperature range from 100 K to 300 K, is about 38.2
+meV for the parent compound. When 30% of La is introduced, however, the resistivity
+decreases sharply yet remains semiconducting-like with its negative T-coeﬃcient of
+the resistivity.
+Note that the thermal activation energy Eg increases to 58 meV,
+which was ascribed to the impurity phase of Bi2S3 with sulfur deﬁciency[21].
+As
+x further increases to 0.4, resistivity shows semiconducting behavior before a sharp
+superconducting transition with T onset
+c
+(the onset temperature at which the resistivity
+starts to drop) ∼2.0 K sets up, as clearly seen in the low-T enlarged plot in Fig. 2(b).
+This result is comparable to the case of LaO0.5F0.5BiS2, where the normal state shows
+semiconducting behavior, and it undergoes a superconducting transition below 10 K[9].
+The Eg ﬁtted from high temperature decreases from 30 meV for x =0.4 to 8.6 meV for
+x =0.5, suggesting the decrease of gap size due to electron doping. The highest T onset
+c
+is observed to be 3.5 K at x = 0.55. Interestingly, for the superconducting samples,
+there occurs a crossover from a metallic to semiconducting state as the temperature is
+lowered below Tmin. While the Tmin shifts progressively towards lower temperatures with
+increasing La concentration up to x=0.7, superconducting Tc remains almost unchanged
+above the doping level of 0.55, as observed in the Fig. 2(b).
+To further conﬁrm the bulk nature of the observed superconductivity, we performed
+the d.c.
+magnetic susceptibility measurement with both zero ﬁeld cooling (ZFC)
+and ﬁeld cooling (FC) modes under 5 Oe magnetic ﬁeld for the superconducting
+samples, as depicted in Fig. 3. For all superconducting samples, strong diamagnetic
+signals are observed and the Tc values determined from the magnetic susceptibility
+are overall consistent well with the resistivity data. The estimated volume fraction of
+superconducting shielding from ZFC data is close to 30%. Note that the Meissner volume
+fraction estimated by FC data also exceeds 15%, which is larger than the previous report
+in LaO1−xFxBiS2 system[22].
+Fig. 4 shows the temperature dependence of resistivity for x =0.55 sample under
+various magnetic ﬁelds below 5 K. It can be seen that T onset
+c
+is about 3.5 K at zero ﬁeld.
+With increasing magnetic ﬁelds, T onset
+c
+is gradually suppressed and the superconducting
+transition becomes obviously broader. Above 0.3 T, T onset
+c
+becomes robust in ﬁelds and
+its value shows nearly no changes at around 2.6 K. For B = 2 T, however, the low
+temperature resistivity increases rapidly, but a slight drop at 2.6 K is still detectable.
+The inset shows the temperature dependence of upper critical ﬁeld µ0Hc(T) below 5
+K, determined by using 99% normal state resistivity criterion. The µ0Hc(T) is nearly
+linear with temperature decreasing at low ﬁeld but becomes constant as H is over 0.4
+T. This may be ascribed to the residual Cooper pairs existing in the BiS2-based system,
+where similar behaviors were also reported in the Bi4O4S3 system[23]. According to
+the conventional one band WHH formula[24] µ0Hc2(0) = −0.69Tc0(∂Hc2/∂T)|Tc0, the
+upper critical ﬁeld µ0Hc2 estimated is about 1.44 T. Apparently, this result from one
+band WHH model does not match to our experimental data, indicating the mutilband
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+5
+superconductivity in the Sr1−xLaxFBiS2 system.
+Recently, the calculations[25] have
+claimed that in BiS2 systems, the triplet pairing interaction is so strong that it may
+become dominant. Therefore, it would be intriguing to study its low-lying quasiparticle
+excitations in the present system[26, 27].
+Recently, the ﬁrst principles calculations[20] suggested a charge density wave
+instability or an enhanced correlation eﬀect in this system. In order to study its normal
+state properties and obtain some useful insights into such a putative instability, the Hall
+eﬀect measurement was performed. Fig. 5 shows the temperature dependence of RH for
+the superconducting samples as x ≥0.4. The inset gives the magnetic ﬁeld dependence
+of the transverse resistivity ρxy at various temperatures for the representative x =0.55
+sample. In the main panel of Fig. 5, the positive RH throughout the entire temperature
+range is observed and displays a weak temperature dependence above 50 K for x
+=0.4 sample, suggesting the dominant hole-carriers regardless of electron doping in
+this compound.
+In contrast, as x ≥0.5, the RH in the whole temperature region
+is negative and indicates that the electron-type charge carriers is dominant for those
+compounds. Moreover, their RH are seen to be T-independent at high temperatures
+and drop drastically below 100 K. The sign change of RH from positive to negative
+may be ascribed to the suddenly topology change of the Fermi Surface according to the
+calculations[28, 29]. On the other hand, as shown in the inset of Fig. 5, the magnetic
+ﬁeld dependence of ρxy shows weak nonlinear behaviors at low temperatures for x =0.55.
+The results are consistent with the multi-band eﬀects in the present system, similar to
+the case of CeOFBiS2[12]. However, another possibility of the spin (charge) density wave
+(SDW/CDW) formation[30] can not be ruled out at this stage, as the similar sharp drop
+in RH was also observed in the iron-based superconductors below AFM transition[31].
+On the basis of the above experimental ﬁndings, the electronic phase diagram
+of Sr1−xLaxFBiS2 system is mapped out in Fig. 6. The parent compound SrFBiS2
+is a semiconductor.
+With La doping on Sr sites, superconductivity emerges as x
+≥0.3 and it reaches a maximal Tc ∼3.5 K at x=0.55.
+Meanwhile, a crossover
+from metallic to semiconducting-like behavior is observed in the normal state of the
+superconducting samples, with the resistivity minimum Tmin shifting progressively
+towards lower temperatures with doping.
+The above phase diagram of Sr1−xLaxFBiS2 system distinguishes itself from those of
+LnO1−xFxBiS2 systems in several aspects. First, the parent compound of the former is
+a semiconductor[15] while the latter is a bad metal[12]. Second, by electron doping,
+the resistivity decreases with the doping concentration in Sr1−xLaxFBiS2, which is
+distinct from LnO1−xFxBiS2[12] and La1−xMxOBiS2 (M=Ti, Zr, Hf, Th) systems[32],
+where resistivity shows the opposite trend with the electron concentration. Third, no
+metal to semiconductor transition/crossover has been observed in LnO1−xFxBiS2 and
+La1−xMxOBiS2 systems.
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+6
+4. Conclusion
+In summary, we have successfully synthesized a series of BiS2-based Sr1−xLaxFBiS2
+polycrystalline samples.
+Through the measurements of resistivity and magnetic
+susceptibility, the parent compound was found to be semiconducting-like with an
+thermal activation energy Eg ∼38 meV. Via the partial La doping on Sr sites, however,
+the resistivity decreases sharply, and ultimately superconductivity emerges as x > 0.3
+and it reaches Tc of 3.5 K at the optimal level of x = 0.55. The superconducting samples
+undergo a metal to semiconductor transition/crossover below Tmin, which is seen to be
+gradually suppressed with further doping whilst Tc remains nearly unchanged above the
+optimal doping. Hall eﬀect measurements for the La-doped samples conﬁrm that the
+sign change of RH from positive to negative may be ascribed to the suddenly topology
+change of the Fermi Surface. A drop in RH and the non-linear transverse resistivity ρxy
+with ﬁeld are associated with the multi-band eﬀect or a CDW instability. According to
+these measurements, an electronic phase diagram is thus established.
+Acknowledgments
+Y. K. Li would like to thank Bin Chen, Jinhu Yang, Hangdong Wang for useful
+discussions, and Xuxin Yang, Quanlin Ye for collaborative support.
+This work is
+supported by the National Basic Research Program of China (Grant No. 2011CBA00103
+and 2012CB821404), NSFC (Grant No. 11174247, 11104053, 61376094, 11104051).
+References
+[1] Maeno Y, Hashimoto H, Yoshida K, Nishizaki S, Fujita T, Bednorz J G, Lichtenberg F, 1994
+Nature 372 532
+[2] Takada K, Sakurai H, Muromachi T, Izumi E, Dilanian F, Sasaki R A T 2003 Nature 422 53
+[3] Kamihara Y, Hiramatsu H, Hirano M, Kawamura R, Yanagi H, Kamiya T, and Hosono H 2006 J.
+Am. Chem. Soc. 128 10012
+[4] Kamihara Y, Watanabe T, Hirano M, and Hosono H 2006 J. Am. Chem. Soc. 130 3296
+[5] Chen X H, Wu T, Wu G, Liu R H, Chen H, and Fang D F 2008 Nature 453 761
+[6] McMillan W L 1968 Phys. Rev. 167 331.
+[7] Mizuguchi Y, Fujihisa H, Gotoh Y, Suzuki K, Usui H, Kuroki K, Demura S, Takano Y, Izawa H,
+Miura O 2012 Phys. Rev. B 86 220510(R)
+[8] Singh S K, Kumar A, Gahtori B, Sharma G, Patnaik S, and Awana V P S 2012 J. Am. Chem.
+Soc. 134 16504
+[9] Mizuguchi Y, Demura S, Deguchi K, Takano Y, Fujihisa H, Gotoh Y, Izawa H, and Miura O 2012
+J. Phys. Soc. Jpn. 81 114725
+[10] Demura S, Mizuguchi Y, Deguchi K, Okazaki H, Hara H, Watanabe T, Denholme S J, Fujioka M,
+Ozaki T, Fujihisa H, Gotoh Y, Miura O, Yamaguchi T, Takeya H, and Takano Y 2013 J. Phys.
+Soc. Jpn. 82 033708
+[11] AwanaV P S, Kumar A, Jha R, Kumar S, Kumar J, and Pal A 2013 Solid State Commun. 157,
+31
+[12] Xing J, Li S, Ding X, Yang H and Wen H H 2012 Phys. Rev. B 86 214518
+[13] Jha R, Singh S K, and Awana V P S 2013 J. Sup. and Novel Mag. 26 499
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+7
+[14] Cruz C, Huang Q, Lynn J W, Li J Y, RatcliﬀW, Zarestky J L, Mook H A, Chen G F, Luo J L,
+Wang N L, and Dai P C 2008 Nature 453 899
+[15] Lin X, Ni X X, Chen B, Xu X F, Yang X X, Dai J H, Li Y K, Yang X J, Luo Y K, Tao Q, Cao G
+H, and Xu Z A 2013 Phys. Rev. B 87 020504
+[16] Lei H C, Wang K F, Abeykoon M, Bozin E S, and Petrovic C 2013 Inorg. Chem. 52 10685
+[17] Li B, Xing Z W, and Huang G Q, arXiv: 1210.1743
+[18] Yazici D, Huang K, White B D, Jeon I, Burnett V W, Friedman A J, Lum I K, Nallaiyan M,
+Spagna S, and Maple M B 2013 Phys. Rev. B 87 174512
+[19] Liang Y, Wu X X, Tsai W F, and Hu J P arXiv: 1211.5435
+[20] Yildirim T 2013 Phys. Rev. B 87 020506(R)
+[21] Chen B, Uher C,Iordanidis L, and Kanatzidis M G 1997 Chem. Mater. 9 1655
+[22] Deguchi K, Mizuguchi Y, Demura S, Hara H, Watanabe T, Denholme S J, Fujioka M, Okazaki H,
+Ozaki T, Takeya H, Yamaguchi T, Miura O and Takano Y2013 Europhys. Lett. 101 17004
+[23] Li S, Yang H, Tao J, Ding X, and Wen H H arXiv: 1207.4955
+[24] Werthamer N R, Helfand E, and Hohemberg P C 1966 Phys. Rev. 147 295
+[25] Yang Y, Wang W S, Xiang Y Y, Li Z Z, and Wang Q H arXiv: 1307.2394
+[26] Xu X F, Chen B, Jiao W H, Chen B, Niu C Q, Li Y K, Yang J H, Bangura A F, Ye Q L, Cao C,
+Dai J H, Cao G H, and Hussey N E 2013 Phys. Rev. B 87 224507
+[27] Niu C Q, Yang J H, Li Y K, Chen B, Zhou N, Chen J, Jiang L L, Chen B, Yang X X, Cao C, Dai
+J H, and Xu X F 2013 Phys. Rev. B 88, 104507
+[28] Usiui H, Suzuki K, and Kuroki K 2012 Phys. Rev. B 86 220501(R)
+[29] Martins G B, Moreo A, and Dagotto E 2013 Phys. Rev. B 87 081102(R)
+[30] McGuire M A, Christianson A D, Sefat A S, Sales B C, Lumsden M D,Jin R, Payzant E A, Mandrus
+D, Luan Y, Keppens V,Varadarajan V, Brill J W, Hermann R P, Sougrati M T, Grandjean F,
+and Long G J 2008 Phys. Rev. B 78, 094517
+[31] Sefat A S, McGuire M A, Sales B C, Jin R, Howe J Y, and Mandrus D 2008 Phys. Rev. B 77
+174503
+[32] Yazici D, Huang K, White B D, Jeon I, Burnett V W, Friedman A J, Lum I K, Nallaiyan M,
+Spagna S, Maple M B 2013 Phys. Rev. B 87 174512
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+8
+10
+20
+30
+40
+50
+60
+25
+26
+27
+28
+0.0
+0.2
+0.4
+0.6
+0.405
+0.408
+0.411
+1.335
+1.350
+1.365
+1.380
+c (nm )
+a (nm )
+0.7
+0.6
+0.5
+0.3
+#
+#
+113
+111
+008
+212
+204
+200
+106
+114
+104
+005
+101
+007
+110
+102
+004
+003
+ 
+ 
+Intensity (a. u.)
+2
+deg.
+Sr
+1-x
+La
+x
+FBiS
+2
+001
+#
+(a)
+(b)
+#
+#
+102
+004
+0.4
+ 
+ 
+2
+deg.
+x=0
+(c)
+ 
+ 
+ 
+x, La content
+ a 
+ c
+Figure 1. (color online). Crystal structure of Sr1−xLaxFBiS2 (a)Room temperature
+powder X-ray diﬀraction patterns of Sr1−xLaxFBiS2 (0≤x≤0.7) samples. The # peak
+positions designate the impurity phase of Bi2S3. (b) An enlarged plot of the XRD
+diﬀraction peaks around (102) and (004). (c) Lattice parameter as a function of La
+content x.
+0
+100
+200
+300
+10
+0
+10
+2
+10
+4
+0
+1
+2
+3
+4
+5
+6
+0
+20
+40
+m
+cm
+0.7
+0.4
+0.3
+m
+cm
+ 
+T (K)
+(a)
+x = 0
+(b)
+0.55
+T (K)
+0.7
+0.6
+0.5
+0.4
+ 
+ 
+ 
+Figure 2.
+(color online).
+(a) Temperature dependence of resistivity ρ(T ) for the
+Sr1−xLaxFBiS2 (0≤x≤0.7) samples. (b) A close-up view of the resistivity around Tc
+for the superconducting samples.
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+9
+2.0
+2.5
+3.0
+3.5
+4.0
+-0.3
+-0.2
+-0.1
+0.0
+ 
+ 
+4
+T (K)
+        x =
+ 0.5    ZFC
+ 0.5    FC
+ 0.55  ZFC
+ 0.55  FC
+ 0.6    ZFC
+ 0.6    FC
+ 0.7    ZFC
+ 0.7    FC
+H = 5 Oe
+Figure 3.
+(color online).
+Temperature dependence of the magnetic susceptibility
+under 5 Oe magnetic ﬁeld with ZFC(Solid) and FC(Open) modes for x = 0.5, 0.55, 0.6,
+0.7 samples. The Meissner volume fraction for those samples is over 15%, conﬁrming
+the bulk superconductivity.
+2
+3
+4
+5
+13
+14
+15
+16
+17
+0
+1
+2
+3
+0.0
+0.5
+1.0
+T (K)
+ 2 T
+ 1
+ 0.8
+ 0.6
+ 0.5
+ 0.4
+ 0.3
+ 0.2
+ 0.1
+ B = 0 T
+ 
+ 
+ 
+m
+cm
+T (K)
+x =0.55
+x =0.55
+ H
+c2
+ (99%
+n
+)
+ 
+ 
+ 
+ 
+Figure 4.
+(color online) Temperature dependence of resistivity below 5 K under
+several magnetic ﬁelds for x = 0.55 sample.
+The inset: µ0H(T) as a function of
+temperature.
+
+
+Electronic phase diagram in the new BiS2-based Sr1−xLaxFBiS2 system
+10
+0
+100
+200
+300
+-8
+-6
+-4
+-2
+0
+2
+0
+2
+4
+6
+8
+-0.020
+-0.015
+-0.010
+-0.005
+0.000
+0.7
+0.6
+0.55
+0.5
+ 
+ 
+ 
+R
+H
+(10
+-8
+m
+3
+C
+-1
+)
+ T (K)
+x = 0.55
+R
+H
+/10
+x = 0.4
+300
+150
+100
+60
+40
+20
+10
+H (T)
+ 
+ 
+ 
+ 
+x y
+m
+ cm
+5 K
+Figure 5. (color online) Temperature dependence of Hall coeﬃcient RH measured at
+5 T for the diﬀerent La doping samples. RH shows weak temperature dependence at
+the high temperature and drops at low temperature. The inset gives the Hall resistivity
+ρxy as a function of ﬁelds at several representative temperature as x = 0.55. The ρxy
+vs. magnetic ﬁeld with weak nonlinear behaviors suggests the multi-band eﬀect in this
+system.
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0
+1
+2
+3
+4
+150
+200
+250
+300
+Superconductor
+Metal
+ 
+ 
+T
+c
+ (K)
+x,  La content
+Semiconductor
+Figure 6. (color online) The electronic phase diagram extracted from the resistivity
+measurements.
+
+

@@ -1,0 +1,450 @@
+1 
+ 
+Two-Fold-Symmetric Magnetoresistance in Single Crystals of Tetragonal BiCh2-
+Based Superconductor LaO0.5F0.5BiSSe 
+ 
+Kazuhisa Hoshi1, Motoi Kimata2, Yosuke Goto1, Tatsuma D Matsuda1, Yoshikazu Mizuguchi1 
+ 
+1 Department of Physics, Tokyo Metropolitan University, 1-1, Minami-osawa, Hachioji 192-0397, 
+Japan 
+2 High Field Laboratory for Superconducting Materials, Institute for Materials Research, Tohoku 
+University, Sendai 980-8577, Japan 
+ 
+ 
+Abstract  
+We have investigated the in-plane anisotropy of the c-axis magnetoresistance for single crystals 
+of a BiCh2-based superconductor LaO0.5F0.5BiSSe under in-plane magnetic fields. We observed 
+two-fold symmetry in the c-axis magnetoresistance in the ab-plane of LaO0.5F0.5BiSSe while the 
+crystal possessed a tetragonal square plane with four-fold symmetry. The observed symmetry 
+lowering in magnetoresistance from the structural symmetry may be related to the nematic states, 
+which have been observed in the superconducting states of several unconventional 
+superconductors. 
+ 
+ 
+Keywords: BiCh2-based superconductor, anisotropy of superconducting properties, structural 
+symmetry breaking in magnetoresistance  
+ 
+
+
+2 
+ 
+The BiCh2-based (Ch: S, Se) superconductor family was discovered in 2012 [1–3], and 
+it has been extensively studied because of the layered crystal structure similar to those of the 
+cuprate and iron-based high-transition-temperature (high-Tc) superconductors: all those layered 
+superconductors have a square network of conduction planes [4,5]. The typical REOBiCh2 (RE: 
+La, Ce, Pr, Nd) system has a layered structure composed of alternate stacks of REO insulating 
+layers and BiCh2 conducting layers [2,3]. F substitutions at the O site generate electron carriers 
+in the BiCh2 layers, which results in the emergence of metallicity and superconductivity. The 
+highest Tc among the BiCh2-based superconductors is 11 K for LaO0.5F0.5BiS2 prepared under high 
+pressure [6,7]. Although the material variation has been widely developed, the pairing 
+mechanisms of the superconductivity of BiCh2-based superconductors have not been completely 
+clarified. Recent theoretical calculations and angle-resolved photoemission spectroscopy 
+(ARPES), however, have suggested that unconventional mechanisms are essential for the 
+superconductivity of BiCh2-based superconductors [8,9]. In the ARPES study, an anisotropic 
+superconducting gap with nodes was observed in Nd(O,F)BiS2 [9]. In addition, from a study of 
+the selenium isotope effect on a BiCh2-based superconductor LaO0.6F0.4BiSSe, the isotope effect 
+exponent  was found to be close to zero (-0.04 < 0.04) [10]. This is inconsistent with the 
+conventional electron-phonon mechanism, which generally gives  ~ 0.5. 
+Recently, for layered superconductors, nematicity (or nematic state) has been a hot topic 
+owing to the its possible relation to the unconventional superconductivity states. Nematicity has 
+been originally used for liquid crystals, and nematicity in a layered compound can be described 
+as the spontaneous unidirectional state in which rotational symmetry breaking (lowering) is 
+observed. Electronical nematicity has been observed in various unconventional superconductors 
+such as cuprate and iron-based superconductors. Those superconductors show a rotational 
+symmetry breaking of the electronic structure while the original (four-fold) lattice symmetry is 
+maintained [11,12]. Furthermore, nematic superconductivity has been observed in CuxBi2Se3 [13–
+15]. The CuxBi2Se3 superconductor is known as an odd-parity superconductor, and the odd-parity 
+states can be regarded as topological superconductivity states [14]. In the superconducting states 
+of CuxBi2Se3, two-fold symmetry of a superconducting gap was observed while the conducting 
+layer possessed a hexagonal network. In addition, similar symmetry breaking in the 
+superconducting state was observed in SrxBi2Se3 as well [16]. Moreover, the superconductivity in 
+Sr2RuO4, which is widely considered to be a chiral p wave, has been proposed as the nematic 
+superconductivity state [17]. 
+Since recent studies on BiCh2-based compounds have proposed unconventional pairing 
+mechanisms, we expected the observation of nematic or related exotic phenomena in the 
+superconducting states of BiCh2-based compounds. In this study, we investigated the in-plane 
+anisotropy of the c-axis magnetoresistance of LaO0.5F0.5BiSSe single crystals under in-plane 
+
+
+3 
+ 
+magnetic fields. From in-plane anisotropy measurements on the c-axis magnetoresistance, we 
+observed the appearance of two-fold symmetry with in-plane azimuth field angles while the 
+crystal structure (the conducting plane) possessed a tetragonal square plane with four-fold 
+symmetry. 
+ 
+LaO0.5F0.5BiSSe single crystals were grown by using a high-temperature flux method in 
+an evacuated quartz tube. First, polycrystalline samples of LaO0.5F0.5BiSSe were prepared by the 
+solid-state-reaction method using powders of La2O3 (99.9%), La2S3 (99.9%), Bi2O3 (99.999%), 
+and BiF3 (99.9%) and grains of Bi (99.999%) and Se (99.999%), as described in Ref. 18. A 
+mixture of the starting materials with a nominal ratio of LaO0.5F0.5BiSSe was mixed, pressed into 
+a pellet, and annealed at 700 ºC for 20 h in an evacuated quartz tube. The polycrystalline powder 
+of LaO0.5F0.5BiSSe (0.62 g) was mixed with CsCl flux (2.2 g), and the mixture was sealed into an 
+evacuated quartz tube. The tube was heated at 900 ºC for 12 h and slowly cooled to 645 ºC at a 
+rate of -1.0 ºC /h, followed by furnace cooling to room temperature. At room temperature, the 
+quartz tube was opened under air atmosphere, and the product was filtered and washed with pure 
+water. The single crystals were analyzed by scanning electron microscopy (SEM). As shown in 
+the inset of Fig. 1(a), plate-like crystals were obtained. The plate surface with a square shape 
+corresponds to the ab-plane of tetragonal LaO0.5F0.5BiSSe. The chemical composition of the 
+obtained crystal was investigated by energy-dispersive X-ray spectroscopy (EDX). The average 
+ratio of the constituent elements (except for O and F) was estimated to be La : Bi : S : Se = 1 : 
+0.98 : 1 : 0.98, which was normalized by the La value. The analyzed atomic ratio is almost 
+consistent with the nominal composition of LaO0.5F0.5BiSSe. Considering the error in the EDX 
+analysis, we regard the S : Se composition of the examined crystal as 1 : 1. 
+Powder X-ray diffraction (XRD) experiment was performed at room temperature by 
+using RIGAKU Miniflex600 equipped with a D/teX-Ultra detector with a Cu-K radiation. 
+Figure 1(a) shows the powder XRD pattern of the LaO0.5F0.5BiSSe single crystals. Only 00l peaks 
+were observed, which confirms that the ab-plane is well developed. The c-axis lattice constant is 
+roughly estimated as 13.565(7) Å. Figure 1(b) shows the F concentration dependences of the c-
+axis lattice constant for the polycrystalline and single-crystal samples of LaO1-xFxBiSSe. Figure 1 
+(b) shows the F concentration dependences of the c-axis lattice constant for the polycrystalline 
+(open rectangles [18]) and single-crystal (black diamond [23], blue triangle[24], and red circles 
+(this work)) samples of LaO1-xFxBiSSe. The estimated c for the present crystal is close to that for 
+the polycrystalline sample with x = 0.5 [18]. Therefore, in this study, we call the examined crystal 
+LaO0.5F0.5BiSSe using the nominal composition. In addition, we performed single-crystal X-ray 
+structure analysis at room temperature on a LaO0.5F0.5BiSSe single crystal taken from the same 
+batch of crystals used in this study. The structural parameters were refined with the tetragonal 
+
+
+4 
+ 
+(P4/nmm) structural model using the refinement program of SHELXL [19]. The analysis results 
+are summarized in Tables S1 and S2 (Supplemental Materials [20]). 
+The magnetoresistance measurement was performed using a superconducting magnet 
+and the 25 T cryogen-free superconducting magnet [21] at the high field laboratory of the Institute 
+for Materials Research (IMR), Tohoku University. Figure S1 (Supplemental Materials [20]) shows 
+the field dependence of the electrical resistance and the temperature dependence of the Hc2 for our 
+single crystal of LaO0.5F0.5BiSSe. The Hc2 (H//ab) obtained from the Werthamer-Helfand-Hohenberg 
+(WHH) model fitting [22] was 29.5 T for our single crystal. The large in-plane Hc2 is consistent with 
+the results of previous reports [23,24]. The extremely high Hc2 could be originating from the breaking 
+of local inversion symmetry at the conducting layers in the BiCh2-based superconductors [25]. Hence, 
+we used a high field for investigating the in-plane anisotropy of Hc2. To control the magnetic field 
+direction precisely, a two-axis rotational probe was used. Figure 2(a) shows a schematic image of 
+the terminal configuration (made using Au wires and Ag pastes) for the c-axis resistivity 
+measurements. The angles  and are defined as show in Fig. 3 (a). The angle  is measured from 
+the c-axis, and  is the azimuth angle measured from the a-axis to the b-axis, although the a-axis 
+and the b-axis are equivalent in a tetragonal crystal. Note that the charge current is always 
+perpendicular to the magnetic field when the magnetic field is in the conducting plane, since the 
+c-axis resistivity was measured. Figure 2(b) shows the temperature dependence of the c-axis 
+electrical resistivity for LaO0.5F0.5BiSSe single crystal. The Tconset is 4.3 K, and Tczero is 3.7 K.  
+Figure 3(c) shows the  angle dependence of the c-axis resistivity at the conditions of  
+= 90º, 0H = 15 T, and T = 2.5 K. min is defined as the minimum c-axis resistivity at which the 
+magnetic field is exactly parallel to the conducting plane. Figure 3(d) shows the  dependences 
+of min at several temperatures in the range 2.0–5.0 K for Sample A shown in Fig. 3 (b). Below 
+3.0 K, the  dependence of min shows dips at  = ±90º, indicating two-fold symmetry of min. 
+With decreasing temperature, the amplitude of the two-fold-symmetric min() becomes apparent. 
+At 2.0 K, the two-fold symmetry of min() is still observed while min approaches zero resistivity; 
+the noisy data is due to the low resistivity close to our measurement limit. The observation of the 
+two-fold symmetry of min() in the superconducting states was unexpected because the crystal 
+structure (the conducting plane) possesses a tetragonal (four-fold) symmetry. Furthermore, the 
+two-fold symmetry was observed in the  dependence of min for another sample (Sample B in 
+Fig. 3 (b)) obtained from a different batch (See Fig. S2 of Supplemental Materials [20]). We 
+confirmed that the two-fold symmetric behavior in min is similarly observed when the electrode 
+configuration is changed (rotated by 90°) in the distinct sample. Therefore, the two-fold symmetry in 
+min() is not originating from the possible inhomogeneous current flow (See Fig. 3(b)). At 5.0 K, min 
+is almost independent of , which suggests that the observed two-fold symmetry appears in 
+superconducting states but not in normal states. 
+
+
+5 
+ 
+ 
+Now, we discuss the possible origins of the observed two-fold symmetry of min () in 
+the superconducting states of LaO0.5F0.5BiSSe. First, it should be noted that there is a possibility 
+of symmetry lowering of the conducting plane structure because some of the parent compounds 
+of BiCh2-based superconductors show structural instability and a structural transition from 
+tetragonal (P4/nmm) to monoclinic (P21/m). However, the structural transition is typical for parent 
+(non-doped) phases and is suppressed by carrier doping. In fact, our single-crystal structural 
+analysis showed that the space group of our LaO0.5F0.5BiSSe crystal at room temperature was 
+tetragonal, which is consistent with the results of previous studies [18,23]. In addition, as shown 
+in Fig. S4 of Supplemental Materials [20], the temperature scan of the synchrotron powder X-ray 
+diffraction pattern for the polycrystalline sample of LaO0.5F0.5BiSSe (not single crystal) confirmed 
+no structural transition down to 100 K. The split of the 200 peak was observed when the transition 
+from tetragonal to monoclinic (or orthorhombic) occurred. Furthermore, no anomaly was 
+observed in the temperature dependence of resistivity from 300 to 5 K (See Fig. S3 of 
+Supplemental Materials [20]). Therefore, we consider that the observed two-fold symmetry is due 
+to electronic (or orbital) origins and not due to structural origins. Then, the possible scenario is 
+the appearance of nematic states as observed in other unconventional layered superconductors 
+such as the cuprate, Fe-based, and doped Bi2Se3 superconductors [13–16]. Although there has 
+been no theoretical prediction about nematicity in the superconducting states of BiCh2-based 
+compounds, we can expect that unconventional mechanisms of superconductivity are emerging 
+in the examined crystal, on the basis of recent theoretical and experimental studies on the BiCh2-
+based system [8–10]. Hence, the observed two-fold symmetry of the c-axis magnetoresistance 
+may be related to the unconventional superconductivity linked with fluctuations of electronic 
+states. To obtain further knowledge on the superconductivity mechanisms and the anisotropic 
+(possibly nematic) states, studies of anisotropy on thermodynamic parameters for BiCh2-based 
+superconductors are desired. 
+ 
+In conclusion, we have investigated the in-plane anisotropy of the c-axis 
+magnetoresistance of single crystals of a BiCh2-based superconductor LaO0.5F0.5BiSSe under in-
+plane field configuration. We observed two-fold symmetry of the c-axis magnetoresistance in the 
+ab plane of LaO0.5F0.5BiSSe while the conducting plane possessed a tetragonal square plane with 
+four-fold symmetry. We consider that the observed in-plane anisotropy of the c-axis 
+magnetoresistance would be due to electronic (or orbital) origins and not due to structural origins. 
+The observed two-fold symmetry is possibly related to the nematic states, which have been 
+observed in the superconducting states of several unconventional superconductors with a layered 
+structure. 
+
+
+6 
+ 
+ 
+ 
+Acknowledgement 
+We would like to thank C. Moriyoshi, Y. Kuroiwa, A. Miura, and O. Miura for their 
+experimental support and fruitful discussions. This work was partly supported by Collaborative 
+Research with IMR, Tohoku Univ. (proposal number: 17H0074) and Grants-in-Aid for Scientific 
+Research (Nos. 15H05886, 16H04493, 17K19058). 
+ 
+
+
+7 
+ 
+Reference 
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, 
+H. Izawa, O. Miura, Phys. Rev. B 86, 220510 (2012). 
+[2] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, O. Miura, 
+J. Phys. Soc. Jpn. 81, 114725 (2012). 
+[3] Y. Mizuguchi, J. Phys. Chem. Solids, 84, 34 (2015). 
+[4] J. G. Bednorz, K. A. Müller, Z. Phys. B-Condens. Matter 64, 189 (1986). 
+[5] Y. Kamihara, T. Watanabe, M. Hirano, H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+[6] K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. 
+Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, Y. Takano, EPL 101, 17004 (2013). 
+[7] Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, O. Miura, J. Phys. Soc. Jpn. 83, 
+053704 (2014). 
+[8] C. Morice, R. Akashi, T. Koretsune, S. S. Saxena, R. Arita, Phys. Rev. B 95, 180505 (2017). 
+[9] Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S. Watanabe, C. Chen, M. Nagao, S. 
+Watauchi, I. Tanaka, Y. Takano, S. Shin, Phys. Rev. Lett. 118, 167002 (2017). 
+[10] K. Hoshi, Y. Goto, Y. Mizuguchi, Phys. Rev. B 97, 094509 (2018). 
+[11] J. Wu, A. T. Bollinger, X. He, I. Božović, Nature 547, 432 (2017). 
+[12] S. Kasahara, H. J. Shi, K. Hashimoto, S. Tonegawa, Y. Mizukami, T. Shibauchi, K. Sugimoto, 
+T. Fukuda, T. Terashima, Andriy H. Nevidomskyy, Y. Matsuda, Nature 486, 382 (2012). 
+[13] Y. S. Hor, A. J. Williams, J. G. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. W. Zandbergen, A. 
+Yazdani, N. P. Ong, R. J. Cava, Phys. Rev. Lett. 104, 057001 (2010). 
+[14] S. Yonezawa, K. Tajiri, S. Nakata, Y. Nagai, Z. Wang, K. Segawa, Y. Ando, Y. Maeno, Nature 
+Phys. 13, 123 (2017). 
+[15] K. Matano, M. Kriener, K. Segawa, Y. Ando, G. Zheng, Nat. Phys. 12, 852 (2016).  
+[16] Y. Pan, A. M. Nikitin, G. K.Araizi, Y. K. Huang, Y. Matsushita, T. Naka, A. de Visser, Sci. 
+Rep. 6, 28632 (2016). 
+[17] W. Huang and H. Yao, Phys. Rev. Lett. 121, 157002 (2018). 
+[18] K. Nagasaka, A. Nishida, R. Jha, J. Kajitani, O. Miura, R. Higashinaka, T. D. Matsuda, Y. 
+Aoki, A. Miura, C. Moriyoshi, Y. Kuroiwa, H. Usui, K. Kuroki, Y. Mizuguchi, J. Phys. Soc. Jpn. 
+86, 074701 (2017). 
+[19] G. M. Sheldrick, Acta Cryst. C71, 3 (2015). 
+[20] (Supplemental Materials) Experimental data obtained with a different crystal grown from a 
+different precursor and the temperature dependence of electrical resistivity and synchrotron X-
+ray data (200 peak) for LaO0.5F0.5BiSSe are shown. Single crystal structural analysis result and 
+the temperature dependence of the Hc2 are also displayed.  
+ 
+
+
+8 
+ 
+[21] S. Awaji, K. Watanabe, H. Oguro, H. Miyazaki, S. Hanai, T. Tosaka, and S. Ioka, Sci. Technol. 
+30, 065001 (2017). 
+[22] N. R. Werthamer, E. Helfand and P. C. Hohemberg, Phys. Rev. 147, 295 (1966). 
+[23] M. Tanaka, T. Yamaki, Y. Matsushita, M. Fujioka, S. J. Denholme, T. Yamaguchi, H. Takeya, Y. 
+Takano, Appl. Phys. Lett. 106, 112601 (2015). 
+[24] N. Kase, Y. Terui, T. Nakano, N. Takeda, Phys. Rev. B 96, 214506 (2017). 
+[25] Y. C. Chan, K. Y. Yip, Y. W. Cheung, Y. T. Chan, Q. Niu, J. Kajitani, R. Higashinaka, T. D. 
+Matsuda, Y. Yanase, Y. Aoki, K. T. Lai, and S. K. Goh, Phys. Rev. B 97, 104509 (2018). 
+
+
+9 
+ 
+ 
+ 
+ 
+ 
+Fig. 1. (color online) (a) XRD pattern of LaO0.5F0.5BiSSe single crystals. The inset shows an SEM 
+image of a LaO0.5F0.5BiSSe single crystal. (b) F concentration (x) dependences of the c-axis lattice 
+constant for single crystals and polycrystalline samples of LaO0.5F0.5BiSSe [18, 23, 24].  
+ 
+ 
+ 
+
+
+10 
+ 
+ 
+ 
+ 
+Fig. 2. (color online) (a) Schematic image of the terminal configuration (Au wires and Ag pastes) 
+for the c-axis electrical resistivity measurements. (b) Temperature dependence of the c-axis 
+electrical resistivity for a LaO0.5F0.5BiSSe single crystal from 2.5 to 7.0 K.  
+ 
+
+
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 3. (color online) (a) Schematic image of the rotation angles for the anisotropy measurement. 
+(b) Photograph of samples and terminals used in the measurements. The in-plane anisotropy 
+measurements of sample A and B are shown in the Fig. 3 (d) and Fig. S2 (Supplemental Materials 
+[20]), respectively. (c)  angle dependence of the c-axis electrical resistivity at  = 90º, 0H = 15 
+T, and T = 2.5 K. (d)  dependences of min at several temperatures in the range 2.0-5.0 K. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+12 
+ 
+[Supplemental Materials] 
+Two-Fold-Symmetric Magnetoresistance in Single Crystals of Tetragonal BiCh2-
+Based Superconductor LaO0.5F0.5BiSSe 
+ 
+ 
+ 
+Fig. S1(a). The field dependence of the electrical resistance with various temperature for our 
+single crystal of LaO0.5F0.5BiSSe obtained from the same batch of the investigated crystal. Fig. 
+S1(b). The temperature dependence of the Hc2. The Hc2 is defined as the mid-points at which the 
+resistance drop is half of normal state. 
+ 
+ 
+ 
+ 
+
+
+13 
+ 
+ 
+ 
+Fig. S2. angle dependences of the min at T = 2.3 K and 2.5 K for a crystal of LaO0.5F0.5BiSSe 
+obtained from a different batch (Sample B in Fig. 3 (b)).  
+ 
+ 
+ 
+      
+ 
+Fig. S3. Temperature dependence of electrical resistivity for the LaO0.5F0.5BiSSe crystal. 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+0
+50
+100
+150
+200
+250
+300
+c (m cm)
+T (K)
+
+
+14 
+ 
+ 
+ 
+ 
+ 
+Fig. S4. The temperature dependence of the 200 peak of powder synchrotron X-ray diffraction 
+for the polycrystalline sample of LaO0.5F0.5BiSSe. A structural transition from tetragonal to lower-
+symmetry (monoclinic or orthorhombic) was not observed at T > 100 K. The data was corrected 
+with synchrotron X-ray [ = 0.495586(1) Å] at BL02B2, SPring-8 under a proposal of No. 
+2017B1211. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+15 
+ 
+ 
+ 
+ 
+Table S1. Refined atomic coordinates and Beq. 
+site 
+x 
+y 
+z 
+Beq (Å2) 
+Bi 
+0.25000 
+0.25000 
+0.87293(6) 
+1.22(3) 
+La 
+- 0.25000 
+- 0.25000 
+0.59611(9) 
+0.77(3) 
+Ch1 (Se) 
+- 0.25000 
+- 0.25000 
+0.87578(19) 
+1.50(5) 
+Ch2 (S) 
+0.25000 
+0.25000 
+0.6861(3) 
+0.36(7) 
+O/F 
+- 0.25000 
+0.25000 
+0.50000 
+0.35(19) 
+ 
+ 
+Table S2. Refined structural parameters and analysis condition. 
+Formula 
+LaOBiSSe 
+Formula weight 
+474.91 
+Space group 
+Tetragonal P4/nmm (#129) 
+Lattice type 
+Primitive 
+Z value 
+2 
+a (Å) 
+4.1348(6) 
+c (Å) 
+13.569(3) 
+V (Å3) 
+231.98(7) 
+R 
+0.0280 
+wR2 
+0.0808 
+Crystal dimensions 
+0.100 × 0.080 × 0.040 mm 
+Diffractometer 
+XtaLAB mini (RIGAKU) 
+Radiation 
+MoK (λ = 0.71075 Å) 
+(graphite monochromated) 
+Temperature (K) 
+293 
+ 
+ 
+ 
+
+

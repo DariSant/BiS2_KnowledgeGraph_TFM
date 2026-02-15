@@ -1,0 +1,406 @@
+ 
+1
+Growth and transport properties under high pressure of PrOBiS2 single crystals 
+ 
+Masanori Nagaoa,c*, Akira Miurab, Ryo Matsumotoc, Yuki Maruyamaa, Satoshi 
+Watauchia, Yoshihiko Takanoc, Kiyoharu Tadanagab, and Isao Tanakaa 
+ 
+aUniversity of Yamanashi, 7-32 Miyamae, Kofu, Yamanashi 400-8511, Japan 
+bHokkaido University, Kita-13 Nishi-8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan 
+cNational Institute for Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, 
+Japan 
+ 
+*Corresponding Author  
+Masanori Nagao  
+Postal address: University of Yamanashi, Center for Crystal Science and Technology 
+Miyamae 7-32, Kofu 400-8511, Japan 
+Telephone number: (+81)55-220-8610 
+Fax number: (+81)55-254-3035 
+E-mail address: mnagao@yamanashi.ac.jp 
+ 
+
+
+ 
+2
+Abstract 
+PrOBiS2 single crystals were successfully grown using a KCl flux. The obtained 
+crystals had a plate-like shape with a typical size of 0.5–1.0 mm and well-developed 
+ab-plane. The Pr valence of the grown crystals, as determined by an X-ray absorption 
+fine structure spectroscopy analysis, was almost trivalent. The PrOBiS2 single crystals 
+did not exhibit superconductivity down to 0.25 K. The transport properties under high 
+pressures up to 50 GPa ensured semiconducting behavior for 2–300 K using a diamond 
+anvil cell.  
+ 
+Keywords 
+A. Superconducting related materials; B. Single crystal growth; C. Valence state; E. 
+Electrical resistivity under high pressure.  
+ 
+ 
+
+
+ 
+3
+Main text 
+1. Introduction 
+The superconductivity of ROBiS2 (R: rare earth elements) have been intensively 
+studied [1-5]. Superconductivity is triggered by carrier doping, which can be induced by 
+anion doping, by substituting F at the O site. However, CeOBiS2 without F-doping 
+exhibits superconductivity due to the valence fluctuation between Ce3+ and Ce4+ [6,7]. 
+F-free ROBiS2 compounds are important for understanding the superconductivity 
+mechanism; it is important to know the properties of the mother compounds even 
+without superconductivity. The crystal growth of F-free ROBiS2 with R=La, Ce, and 
+(Ce0.5Pr0.5) have been reported previously [6-10]. However, F-free PrOBiS2 single 
+crystals have not been grown. Additionally, the superconductivity of F-free BiS2-based 
+materials is enhanced under high pressure [8].  
+In this paper, we successfully grew F-free PrOBiS2 single crystals using a KCl flux. 
+The obtained single crystals of PrOBiS2 were characterized by X-ray absorption fine 
+structure spectroscopy for the Pr valence, and the electrical transport properties down to 
+0.25 K, under high pressures up to 50 GPa.  
+ 
+2. Experimental 
+
+
+ 
+4
+The PrOBiS2 single crystals were grown by a high-temperature flux method [11–13]. 
+The raw materials; Pr2S3 (99.9 wt%), Bi2O3 (99.9 wt%), and Bi2S3 (99.9 wt%), were 
+weighed for a nominal composition of PrOBiS2. The mixture of the raw materials (0.8 
+g) and KCl (99.5 wt%) flux (5.0 g) were ground using a mortar, and then sealed into an 
+evacuated quartz tube. The quartz tube was heated at 1050 °C for 10 h, followed by 
+cooling to 750 °C at a rate of 1 °C/h. The sample was then cooled to room temperature 
+in the furnace. The resulting quartz tube was opened in air, and the obtained materials 
+were washed and filtered by distilled water to remove the KCl flux.  
+The compositional ratio of the single crystals was evaluated by energy dispersive 
+X-ray spectrometry (EDS) (Bruker, Quantax 70) associated with the observation of the 
+microstructure 
+using 
+a 
+scanning 
+electron 
+microscope 
+(SEM) 
+(Hitachi 
+High-Technologies, TM3030). The obtained compositional values were normalized 
+using S = 2.00, with the Pr, O, and Bi values measured to a precision of two decimal 
+places. The identification and orientation of the grown crystals were performed by 
+X-ray diffraction (XRD) using Rigaku MultiFlex with CuKα radiation. The valence 
+state of the Praseodymium component in the grown crystals was estimated by an X-ray 
+absorption fine structure (XAFS) spectroscopy analysis with an Aichi XAS beamline 
+and synchrotron X-ray radiation (BL11S2: Experimental No.201801025). For the XAFS 
+
+
+ 
+5
+spectroscopy sample, the obtained single crystals were grinded and mixed with boron 
+nitride (BN) powder, and pressed into a pellet with a 4 mm diameter and total weight of 
+approximately 31 mg.  
+The resistivity–temperature (ρ–T) characteristics were measured by the standard 
+four-probe method with a constant current density (J) mode and a physical property 
+measurement system (Quantum Design; PPMS DynaCool). The electrical terminals 
+were fabricated by Ag paste. The ρ–T characteristics in the temperature range 0.25–15 
+K were measured with an adiabatic demagnetization refrigerator (ADR) option for 
+PPMS. The magnetic field for the operation of the ADR, 3 T at 1.9 K, was applied; and 
+subsequently removed. The temperature of the sample consequently decreased to 
+approximately 0.25 K. The measurement of the ρ–T characteristics was started at the 
+lowest temperature (~0.25 K), which was spontaneously increased to approximately 15 
+K. The resistance under high pressure in the temperature range 2–300 K was measured 
+by the four-probe method using a diamond anvil cell (DAC) with boron-doped diamond 
+electrodes [14–16] on the bottom anvil of the nanopolycrystalline diamond [17]. Each 
+electrode was at a distance of 5 µm with a 200 nm thickness. The plate-shaped crystal 
+settled on the bottom, and therefore the resistance parallel to the flat-plane was 
+measured. The cubic boron nitride powders with a ruby manometer were used as the 
+
+
+ 
+6
+pressure-transmitting medium. The applied pressure values were estimated by the 
+fluorescence from the ruby powders [18]. The Raman spectrum from the culet on the 
+top diamond anvil [19] was measured by an inVia Raman Microscope (RENISHAW). 
+The resistance–temperature (R–T) characteristics with a constant current (I) mode under 
+high pressure were measured by a physical property measurement system (Quantum 
+Design: PPMS) with the DAC equipment.  
+ 
+3. Results and discussion 
+Figure 1 shows a typical SEM image of the PrOBiS2 single crystal. The obtained 
+single crystals had plate-like shapes with sizes and thickness in the ranges 0.5–1.0 mm 
+and 10–30 µm, respectively. The estimated atomic ratio of the obtained single crystals 
+was Pr:O:Bi:S=1.03:0.96:0.99:2.00, which agreed with the nearly stoichiometric ratio. 
+On the other hand, K and Cl from the flux were not detected in the single crystals with a 
+minimum sensitivity limit of approximately 1 wt%.  
+Figure 2 shows the XRD pattern of a well-developed plane in the single crystals. The 
+presence of only the 00l diffraction peaks, similar to F-doped PrOBiS2 compound 
+structures [13] , indicated a well-developed ab-plane. The c-axis lattice constant was 
+approximately 13.78(3) Å.  
+
+
+ 
+7
+Figure 3 shows Pr L3-edge absorption spectra of the PrOBiS2 single crystals using an 
+XAFS spectroscopy analysis at room temperature. The Pr L3-edge of the PrOBiS2 single 
+crystals exhibited a peak at approximately 5968 eV, which was assigned to Pr3+. This is 
+consistent with the other XAFS spectroscopy results for the trivalent electronic 
+configuration (Pr3+) [20,21]. On the other hand, the peak position of the tetravalent 
+electronic configuration (Pr4+) is approximately 5979 eV, which was assigned to Pr6O11 
+[20,22]. We analyzed the Pr valence state in the PrOBiS2 single crystals using a linear 
+combination fitting from the Pr2S3 and Pr6O11 XAFS spectroscopy spectra. The ratios of 
+the compounds Pr2S3 (Pr3+) and Pr6O11 (one-third Pr3+ and two-thirds Pr4+) were 97 and 
+3%, respectively. Thus, Pr4+/(Pr3++Pr4+) was estimated at 2%. Therefore, the trivalent 
+electronic structure was a major contributor, with only a small amount of the tetravalent 
+electronic configuration.  
+Figure 4 shows the ρ–T characteristics parallel to the ab-plane for the PrOBiS2 single 
+crystal. The electrical resistivity decreased with decreasing temperature, indicating 
+metallic behavior in the range 50–300 K. In contrast, semiconducting behavior occurred 
+below 50 K, and the reason for this is unclear. Further investigation is required to clarify 
+the origin of this phenomenon. The ρ–T characteristics for the PrOBiS2 single crystal in 
+the temperature range 0.25–15 K had a non-zero resistivity, indicating that there were 
+
+
+ 
+8
+no superconducting transitions down to 0.25 K. This result is consistent with 
+poly-crystalline samples [6].  
+An X-ray photoelectron spectroscopy analysis of the F-doped PrOBiS2 
+(PrO1-xFxBiS2: x = 0.13 and 0.23) single crystals showed that the Pr valence state was 
+almost three [23]. This valence was close to that obtained for PrOBiS2, although the 
+XAFS spectroscopy spectra suggested approximately 2% of Pr4+. Assuming that all of 
+the detected F- and Pr4+ content contributed to the electron carrier, the carrier 
+concentration was the lowest in PrOBiS2, higher in PrO1-xFxBiS2 (x = 0.13), and the 
+highest in PrO1-xFxBiS2 (x = 0.23). The metallic conduction of all of the compounds can 
+be explained by these electron carriers. The appearance of superconductivity in 
+PrO1-xFxBiS2 (x = 0.13 and 0.23) can be understood by the high concentration of carrier 
+doping from the high concentrations of F.  
+Applying pressure is another approach to induce carriers and trigger 
+superconductivity. Figure 5 shows the temperature dependence of the resistance for the 
+PrOBiS2 single crystal under various pressures from 1.7 to 50 GPa. The resistance 
+continued to decrease with the increase of the applied pressure up to 45 GPa, before 
+increasing under 50 GPa. Therefore, up to 50 GPa, the PrOBiS2 single crystal 
+maintained semiconducting behavior under a high pressure and became neither metallic 
+
+
+ 
+9
+nor superconducting behaviors in the range 2–300 K. Even at 50 GPa, the carrier 
+concentration induced by the high pressure would not sufficient to trigger 
+superconductivity. This semiconducting behavior under applied pressures is inconsistent 
+with the metallic behavior observed in the same crystal without an applied pressure (Fig. 
+4). Although the reason for this is unknown, the non-hydrostatic pressure via DAC 
+usually degrades the crystallinity of a sample, possibly resulting in mixed transport 
+properties along the ab-plane and parallel to the c-axis due to the thickness of the 
+boron-doped diamond electrodes.  
+ 
+4. Conclusion 
+F-free PrOBiS2 single crystals were successfully grown by a KCl flux. The XAFS 
+spectroscopy analysis showed that the Pr chemical state had a small amount of 
+tetravalent. The electrical resistivity of the PrOBiS2 single crystals exhibited metallic 
+and semiconducting behaviors above and below 50 K, respectively. The resistance with 
+an applied pressure showed semiconducting behavior in the range 2–300 K. No 
+superconductivity in the PrOBiS2 single crystals was observed down to 0.25 K, or under 
+high pressure up to 50 GPa and down to 2 K.  
+ 
+
+
+ 
+10
+Acknowledgments 
+The authors would like to thank Dr. K. Fujii (Tokyo Institute of Technology) for 
+useful discussion and valuable advice. The XAFS spectroscopy experiments were 
+conducted at the BL11S2 of Aichi Synchrotron Radiation Center, Aichi Science & 
+Technology Foundation, Aichi, Japan (Experimental No.201801025).  
+We would like to thank Editage (www.editage.jp) for English language editing.  
+
+
+ 
+11
+References 
+[1] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+O. Miura, J. Phys. Soc. Jpn. 81 (2012) 114725.  
+[2] J. Xing, S. Li, X. Ding, H. Yang, H.-H. Wen, Phys. Rev. B 86 (2012) 214518.  
+[3] R. Jha, A. Kumar, S. Kumar Singh, V. P. S. Awana, J. Supercond. Novel Magn. 26 
+(2013) 499.  
+[4] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, Y. Takano, J. Phys. Soc. Jpn. 82 (2013) 033708.  
+[5] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, M. B. Maple, 
+Philos. Mag. 93 (2013) 673.  
+[6] M. Nagao, A. Miura, I. Ueta, S. Watauchi, I. Tanaka, Solid State Commun. 245 
+(2016) 11.  
+[7] A. Miura, M. Nagao, Y. Goto, Y. Mizuguchi, T. D. Matsuda, Y. Aoki, C. Moriyoshi, 
+Y. Kuroiwa, Y. Takano, S. Watauchi, I. Tanaka, N. C. Rosero-Navarro, K. Tadanaga, 
+Inorg. Chem., 57 (2018) 5364.  
+[8] M. Tanaka, M. Nagao, R. Matsumoto, N. Kataoka, I. Ueta, H. Tanaka, S. Watauchi, 
+I. Tanaka, Y. Takano, J. Alloys and Compd. 722 (2017) 467.  
+
+
+ 
+12
+[9] R. Higashinaka, T. Asano, T. Nakashima, K. Fushiya, Y. Mizuguchi, O. Miura, T. D. 
+Matsuda, Yuji Aoki, J. Phys. Soc. Jpn. 84 (2015) 023702.  
+[10] R. Sagayama, H. Sagayama, R. Kumai, Y. Murakami, T. Asano, J. Kajitani, R. 
+Higashinaka, T. D. Matsuda, Y. Aoki, J. Phys. Soc. Jpn. 84 (2015) 123703.  
+[11] M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada, I. Tanaka, J. Phys. Soc. Jpn., 82 (2013) 113701.  
+[12] M. Nagao, A. Miura, S. Demura, K. Deguchi, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada, I. Tanaka, Solid State Commun., 178 (2014) 33.  
+[13] M. Nagao, A. Miura, S. Watauchi, Y. Takano, I. Tanaka, Jpn. J. Appl. Phys., 54 
+(2015) 083101.  
+[14] R. Matsumoto, Y. Sasama, M. Fujioka, T. Irifune, M. Tanaka, T. Yamaguchi, H. 
+Takeya, and Y. Takano, Rev. Sci. Instrum. 87 (2016) 076103.  
+[15] R. Matsumoto, A. Yamashita, H. Hara, T. Irifune, S. Adachi, H. Takeya, and Y. 
+Takano, Appl. Phys. Express 11 (2018) 053101.  
+[16] R. Matsumoto, H. Hara, H. Tanaka, K. Nakamura, N. Kataoka, S. Yamamoto, T. 
+Irifune, A. Yamashita, S. Adachi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. 87 
+(2018) 124706.  
+
+
+ 
+13
+[17] T. Irifune, A. Kurio, S. Sakamoto, T. Inoue, and H. Sumiya, Nature 421 (2003) 
+599.  
+[18] G. J. Piermarini, S. Block, J. D. Barnett, and R. A. Forman, J. Appl. Phys. 46 
+(1975) 2774.  
+[19] Y. Akahama and H. Kawamura, J. Appl. Phys. 96 (2004) 3748.  
+[20] H. C. Ku, B. N. Lin, Y. X. Lin, Y. Y. Hsu, J. Appl. Phys., 91 (2002) 7128.  
+[21] B. N. Lin, Y. X. Lin, Y. Y. Hsu, J. D. Liao, W. H. Cheng, J. F. Lee, L. Y. Jang, H. 
+C. Ku, J. Low Temp. Phys., 131 (2003) 803.  
+[22] H. Fujishiro, T. Naito, S. Ogawa, N. Yoshida, K. Nitta, J. Hejtmánek, K. Knížek, Z. 
+Jirák, J. Phys. Soc. Jpn. 81 (2012) 064709.  
+[23] S. Ishii, Y. Hongu, A. Miura, M. Nagao, Appl. Phys. Express 9 (2016) 063101.  
+ 
+ 
+
+
+ 
+14
+Figure captions 
+Figure 1. Typical SEM image of a PrOBiS2 single crystal.  
+Figure 2. XRD pattern of a well-developed plane of a PrOBiS2 single crystal.  
+Figure 3. Pr L3-edge; XAFS spectroscopy obtained at room temperature for the PrOBiS2 
+single crystals, Pr2S3 and Pr6O11.  
+Figure 4. Temperature dependence of the resistivity (ρ–T characteristics) parallel to the 
+ab-plane for the PrOBiS2 single crystal at 1.8–300 K. The inset shows the ρ–T 
+characteristics at 0.25–15 K using an ADR option.  
+Figure 5. Temperature dependence of the resistance in the PrOBiS2 single crystal under 
+various pressures from 1.7 to 50 GPa.  
+ 
+ 
+
+
+ 
+15
+ 
+ 
+Figure 1  
+500 μm 
+
+
+ 
+16
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Intensity (arbitrary unit)
+CuKα2θ (deg)
+(003)
+(002)
+(004)
+(006)
+(0011)
+(0010)
+(009)
+(008)
+(007)
+(005)
+ 
+ 
+Figure 2  
+
+
+ 
+17
+ 
+ 
+Figure 3 (Color online) 
+5900
+5950
+6000
+6050
+Normalized absorption (arbitrary unit)
+Energy (eV)
+Pr2S3
+Pr6O11
+PrOBiS2
+Pr3+ Pr4+ 
+
+
+ 
+18
+0
+5
+10
+15
+20
+25
+0
+50
+100
+150
+200
+250
+300
+ρ(mΩcm)
+T(K)
+ 
+ 
+Figure 4  
+0
+5
+10
+15
+20
+0
+5
+10
+15
+ρ(mΩcm)
+T(K)
+J : 3.44 A/cm2 
+J : 3.44 A/cm2 
+J//ab-plane 
+J//ab-plane 
+
+
+ 
+19
+ 
+ 
+Figure 5 (Color online) 
+I : 0.01 mA 
+I//ab-plane 
+1
+10
+100
+1000
+0
+50
+100
+150
+200
+250
+300
+R(Ω)
+T(K)
+1.7 GPa
+6.2 GPa
+14.4 GPa
+20 GPa
+27 GPa
+45 GPa
+50 GPa
+
+

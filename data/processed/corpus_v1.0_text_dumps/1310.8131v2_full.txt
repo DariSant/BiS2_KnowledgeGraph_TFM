@@ -1,0 +1,411 @@
+1 
+ 
+Superconductivity in a new layered bismuth oxyselenide: 
+LaO0.5F0.5BiSe2  
+A. Krzton-Maziopa1, Z. Guguchia2,3, E. Pomjakushina4,  V. Pomjakushin5, R. Khasanov3, H. 
+Luetkens3, P.K. Biswas3, A. Amato3, H. Keller2 and K. Conder4 
+1Faculty of Chemistry, Warsaw University of Technology, Noakowskiego 3, 00-664 
+Warsaw, Poland 
+2Physik-Institut der Universität Zürich, Winterthurerstrasse 190, CH-8057 Zürich, 
+Switzerland  
+3Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institute, 5232 Villigen PSI, 
+Switzerland 
+4Laboratory for Developments and Methods, Paul Scherrer Institute, 5232Villigen 
+PSI, Switzerland 
+5Laboratory for Neutron Scattering, Paul Scherrer Institute, 5232 Villigen PSI, 
+Switzerland 
+E-mail: anka@ch.pw.edu.pl 
+Abstract 
+    We report superconductivity in a new layered bismuth oxyselenide LaO0.5F0.5BiSe2 with the 
+ZrCuSiAs-type structure composed of alternating superconducting BiSe2 and blocking LaO 
+layers. The superconducting transition temperature is TC = 2.6K, as revealed from DC 
+magnetization, resistivity and muon spin rotation (µSR) experiments. DC magnetization 
+measurements indicate  a superconducting volume fraction of approximately 80%, which is at 
+least twice higher in comparison to that found in corresponding sulphide LaO0.5F0.5BiS2. 
+Importantly, the bulk character of superconductivity in LaO0.5F0.5BiSe2 was confirmed by 
+µSR. 
+I. Introduction 
+Recent discovery of superconductivity with TC around 8.6K in layered bismuth 
+oxysulphide Bi4O4S3 with ZrCuSiAs - structure type1, 2 evoked intensive studies 
+concerning the improvement of their superconducting properties. This material has a 
+layered structure composed of superconducting (SC) BiS2 layers and blocking layers 
+of Bi4O4(SO4)1−x , where x indicates the defects of SO2− ions at the interlayer sites. 
+
+
+2 
+ 
+The sandwich structure of the SC and blocking layer is analogous to those of high 
+temperature (high-Tc ) cuprates and Fe-based superconductors. In both systems, Tc can 
+be enhanced by varying the blocking layers. The changing the blocking layer in 
+Bi4O4S3 resulted in a new BiS2 based superconductor LaO0.5F0.5BiS2. LaO0.5F0.5BiS2 
+shows a small SC volume fraction for ambient pressure but achieves bulk 
+superconductivity under high pressure with Tc as high as 10.6 K. Those findings 
+stimulated the scientific community for further investigations on different dopings and 
+shortly after the first report on LaO0.5F0.5BiS2  a set of new superconductors different 
+substitutions with Ce, Pr, Nd, Yb for lanthanum appeared. 3, 4, 5, 6  
+Superconducting LnO1-xFxBiS2 materials are structurally related to the well-
+known layered iron based superconductor: LaO1-xFxFeAs7, with the appearance of 
+superconductivity after doping with fluorine. It has been found also that 
+superconductivity in the LaOBiS2 system can be induced not only by substituting 
+oxygen for fluorine but also by increasing charge-carrier density (electron doping) 
+through substitution of tetravalent elements, i.e. Th, Hf, Zr, and Ti for trivalent La8. 
+By electron doping the parent phases of LaOBiS2 and ThOBiS2, considered as bad 
+metals, become superconducting with Tc of up to 2.85 K. On the other hand, an hole 
+doping realized by substitution of divalent Sr for trivalent La did not induce 
+superconductivity in those materials. 
+Another similarity of the LnO0.5F0.5BiS2 compounds to the abovementioned 
+layered pnictide and chalcogenide systems is the sensitivity of their SC properties to 
+the change of structural parameters. The structure compression realized by an 
+application of external pressure results in suppression of semiconducting behavior and 
+enhances Tc of LaO0.5F0.5BiS2 to 10.6K, PrO0.5F0.5BiS2 to 7.6K and 6.4K for 
+NdO0.5F0.5BiS2  in the same way as layered pnictides and chalcogenides do. With 
+
+
+3 
+ 
+increasing pressure all the BiS2 – type compounds show qualitatively similar 
+evolution of superconducting transition temperature – an abrupt transformation from 
+low Tc phase to a high Tc one with a characteristic maximum at pressures within the 
+range from ca. 1.5  to about 2.5 GPa9,10. 
+The existence of many common features related to crystal and band structure 
+between BiS2 – based superconductors and pnictides/chalcogenides  raised the 
+question about the mechanisms of superconductivity in the newly discovered system. 
+Theoretical considerations of density of states, band structure and Fermi surface 
+nesting studied  by means of the first principles calculations indicated that the 
+insulating LaOBiS2 parent phase (band gap of 0.15eV) transforms into metallic state 
+after doping with fluorine11. At the optimal dopant content (x=0.5) there are four 
+bands originating from the px and py orbitals of Bi, which cross the Fermi level. The 
+surface nesting of LaO1-xFxBiS2 was found to be weaker than that of  corresponding 
+pnictide LaOFeAs.  
+Superconductivity in the BiS2-based compounds seems to be still under debate 
+and even one of the reports indicates that superconducting response in Bi4O4S3 is not a 
+bulk phenomenon and might be impurity driven12. On the other hand recent 
+publication about single crystals of NdO1-xFxBiS2 grown by flux method13 confirms 
+clearly the bulk nature of superconductivity in BiS- type layered materials. An 
+intensive work performed on different substitutions brought new BiS2 – based 
+materials with different substitutions for rare earth metals and in LnO – layer, 
+however no attempts with substitutions in BiS2 layer were tried up today. In the 
+present 
+work 
+the 
+new 
+compounds 
+LaO0.5F0.5BiSe2, 
+LaO0.5F0.5BiTe2, 
+and 
+LaO0.5F0.5SbS2 were synthesized and characterized using X-ray powder diﬀraction, 
+neutron powder diffraction, resistivity, and magnetization experiments. 
+
+
+4 
+ 
+It was observed that replacement of sulfur by isovalent selenium results in a new 
+superconductor LaO0.5F0.5BiSe2. Superconducting properties of this compound was 
+further investigated by means of µSR technique, which strongly indicates bulk 
+superconductivity in 
+LaO0.5F0.5BiSe2. The compounds LaO0.5F0.5BiTe2 and 
+LaO0.5F0.5SbS2 do not reveal superconductivity down to T=1.7K. 
+II. Experimental 
+Polycrystalline samples of LaO0.5F0.5BiSe2 were obtained via solid state reaction from 
+high purity (at least 99.99%, Alfa) powders of La2O3, LaF3 and Se. Appropriate 
+amounts of lanthanum metal and bismuth pieces were used to keep the proper molar 
+ratio of reacting species. Starting materials with nominal composition LaO0.5F0.5BiSe2 
+were weighted in the He-filled glove box, carefully mixed, pressed into pellets, sealed 
+in evacuated quartz ampoules and preheated at 800ºC for 15 hours. Afterwards the 
+products were transferred to glove-box, thoroughly ground in the mortar under helium 
+atmosphere, pressed again into pellets and re-sealed under vacuum in quartz 
+ampoules. Next the ampoules were heated again at 800ºC for 48h followed by cooling 
+to 300ºC and quenching  in air. To avoid any contamination form environment the as 
+synthesized materials were transferred to glove-box and kept in inert atmosphere. 
+The phase purity of the as prepared materials  was characterized by powder X-ray 
+diffraction (XRD) using a D8 Advance Bruker AXS diffractometer with Cu Kα 
+radiation. For these measurements a low background airtight specimen holder was 
+used. The samples were additionally studied by means of neutron powder diffraction 
+(NPD) at the SINQ spallation source of the Paul Scherrer Institute (PSI, Switzerland) 
+using the high-resolution diffractometer for thermal neutrons, HRPT,14 with the 
+neutron wavelengths λ = 1.494 and 1.886 Å. To avoid degradation in air  the samples 
+
+
+5 
+ 
+were loaded into a vanadium containers with an indium seal in an He glove box. The 
+Rietveld refinements of the crystal structure parameters were done using the FullProf 
+package15 with the use of its internal tables. 
+The magnetic susceptibility was measured by a SQUID magnetometer (Quantum 
+Design MPMS-XL). Temperature dependent measurements of the resistivity were 
+carried out using a standard four-probe method in a Physical Property Measurement 
+System (Quantum Design PPMS). 
+ Transverse-field (TF) µSR experiments were performed at the πM3 beamline of the 
+Paul Scherrer Institute (Villigen, Switzerland), using the general purpose instrument 
+(GPS). The sample was mounted inside of a gas-flow 4He cryostat on a sample holder 
+with a standard veto setup providing essentially a low-background µSR signal.  
+III. Results and discussion 
+A. Crystal structure and sample quality 
+The samples after sintering are black in color and hard in nature. X-ray powder 
+diffraction and neutron powder diffraction studies of the as sintered material revealed 
+that except a main phase LaO0.5F0.5BiSe2 with tetragonal ZrCuSiAs –type structure 
+fitted to  P4/nmm crystal metric with a = 4.15941(7) and c = 14.01567(34) Å. The as 
+grown samples contain also impurity phases such as traces of unreacted starting 
+materials i.e. La2O3 and Bi, and possibly Bi2Se3 or other binary Bi-Se compounds. 
+Layered structure of the new compound resembles similar features as those of sulphur 
+analogue  and  consists of  alternating La2(OF)2 (fluorine doped rare earth oxide layer) 
+and BiSe2 (fluorite type) sheets. Atomic coordinates, Wyckoff positions and site 
+occupancies for studied samples are listed in Table1.  
+
+
+6 
+ 
+Table 1. Atomic coordinates, Wyckoff positions, atomic displacement parameters B, and site 
+occupancy of LaO0.5F0.5BiSe2. Space group P4/nmm  
+LaO0.5F0.5BiSe2 x 
+y 
+z 
+B, (Å2) 
+site 
+occupancy  
+La 
+O 
+F 
+Bi 
+Se1 
+Se2 
+0.2500 
+0.7500 
+0.7500 
+0.2500 
+0.2500 
+0.2500 
+0.2500 
+0.2500 
+0.2500 
+0.2500 
+0.2500 
+0.2500 
+0.0943(4) 
+0.0000(0) 
+0.0000(0) 
+0.6206(4) 
+0.3847(4) 
+0.8115(3) 
+1.3(1) 
+1.3(1) 
+1.3(1) 
+0.8(1) 
+1.2(9) 
+1.2(9) 
+2c 
+2a 
+2a 
+2c 
+2c 
+2c 
+1 
+0.5 
+0.5 
+1 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. Electrical resistivity 
+  Fig. 1a shows the temperature dependence of resistivity for LaO0.5F0.5BiSe2 in the 
+temperature range between 1.8 K and 300 K.   
+
+
+7 
+ 
+ 
+FIG. 1. (Color online) (a) Temperature dependence of the electrical resistivity ρ of 
+polycrystalline LaO0.5F0.5BiSe2 sample. The inset shows the data near Tc at low temperatures. 
+(b) Low temperature resistivity data under magnetic fields up to 1 T.  
+ The metallic behavior is observed above 5 K state with the residual resistivity value 
+of 0.12 mΩcm. The transition to the superconducting state is clearly visible below 
+Tc
+onset ≈ 2.7 K, as illustrated in the inset of Fig. 1a.  Note that the metallic behavior of 
+the normal state was also observed in the superconductor Bi4O4S3. However, for this 
+compound much higher value for the residual resistivity 2 mΩcm was reported. The 
+metallic character of resistivity in LaO0.5F0.5BiSe2 is in contrast to the semiconducting 
+
+
+8 
+ 
+behavior observed for corresponding LaO0.5F0.5BiS2, widely described in the 
+literature. Note that the new compounds LaO0.5F0.5BiTe2 and LaO0.5F0.5SbS2 were also 
+synthesized, but no superconductivity was observed down to 1.7 K. Low temperature 
+resistivity data recorded in zero field and under applied  magnetic fields up to 1 T for 
+LaO0.5F0.5BiSe2  are presented in Fig.1b. The superconducting states are destroyed by 
+applying high magnetic fields. 
+C. Magnetization 
+   To determine whether superconductivity is a bulk phenomenon in LaO0.5F0.5BiSe2, 
+zero field-cooled (ZFC) and field-cooled (FC) magnetic susceptibility χ was measured 
+in a  magnetic field of µ0H = 0.5 mT.  The results shown in Fig.2 evidence sharp 
+superconducting onset  at 2.6 K as indicated by a vertical gray line. The value of ZFC 
+susceptibility at 1.8 K corresponds to about 80 % volume fraction of 
+superconductivity. It is clear that, even though the superconducting transition is 
+incomplete at 1.8 K the volume fraction at that temperature is appreciable. The strong 
+diamagnetic signal below Tc is consistent with bulk superconductivity in 
+LaO0.5F0.5BiSe2. 
+
+
+9 
+ 
+ 
+FIG. 2. (Color online) (a) Temperature dependence of  the ZFC and FC magnetic 
+susceptibility of LaO0.5F0.5BiSe2  in a magnetic field of  µ0H = 0.5 mT.  The vertical gray line 
+denotes the superconducting transition temperature Tc. (b) Field dependence of  the magnetic 
+moment  at T = 1.8 K in an applied field up to µ0H  = 100 mT. The inset shows the low field 
+data. 
+ The field dependence of the magnetic moment of LaO0.5F0.5BiSe2 was studied at the 
+base temperature T = 1.8 K for external magnetic fields up to µ0H = 100 mT and 
+shown in Fig. 2b. The inset demonstrates that  the initial flux penetration and the 
+deviation from linearity determine the lower critical field of this compound µ0Hc1 = 
+
+
+10 
+ 
+0.5 mT. The second critical field was found to be also small: µ0Hc2 = 60 mT. Note, 
+that wide open magnetic moment hysteresis m(H) loop of the studied compound 
+demonstrates its bulk superconductivity. 
+D. Muon spin rotation measurements 
+  Fig. 3 exhibits the transverse-field (TF) muon-time spectra for LaO0.5F0.5BiSe2 
+measured in an applied magnetic field of µ0H = 11.5 mT in the SC state at 1.5 K.  
+ 
+FIG. 3. (Color online) Transverse-field (TF) µSR time spectrum obtained in µ0H = 11.5 mT 
+in the SC state at T = 1.5 K. The solid line represents the fit to the data by means of Eq. 1. 
+The data were analyzed by using the following functional form:  
+          
+),
+cos(
+2
+)
+(
+exp
+)
+(
+int
+0
+2
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+H
+t
+A
+t
+P
+nm
+sc
+                      (1) 
+  Here A denotes the initial asymmetry, γ/(2π) ≈ 135.5 MHz/T is the muon 
+gyromagnetic ratio, and phi is the initial phase of the muon-spin ensemble. µ0Hint 
+represents the internal magnetic field at the muon site, and the relaxation rates σsc and 
+
+
+11 
+ 
+σnm characterize the damping due to the formation of the FLL in the superconducting  
+state and of the nuclear magnetic dipolar contribution, respectively. In the analysis 
+σnm was assumed to be constant over the entire temperature range and was fixed to the 
+value σnm = 0.114(2) µs-1 obtained above Tc where only nuclear magnetic moments 
+contribute to the muon depolarization rate σ. As indicated by the solid lines in Fig. 4, 
+the µSR data are well described by Eq. (1). The temperature dependence of  σsc for 
+LaO0.5F0.5BiSe2 is shown in Fig. 4a. Below Tc ≈ 2.6 K, the relaxation rate σsc starts to 
+increase from zero due to the presence of a nonuniform local field distribution as a 
+result of the formation of a flux-line lattice (FLL) in the SC state. It is worth 
+mentioning that the value of σ in the SC state is rather small, which implies that the 
+magnetic penetration depth λ, which is one of the fundamental parameters of a 
+superconductor, is sufficiently large (since the data points for σ below 1.5 K are 
+missing in the present work, it is not possible to determine the zero temperature limit 
+of σ, which would allow to determine λ(T=0)). Note that recent detailed µSR studies16 
+on the similar system Bi4O4S3 revealed that it also exhibits one of the highest λ among 
+all other superconductors.   
+
+
+12 
+ 
+FIG. 4. (Color online) 
+Temperature dependence of the superconducting muon spin depolarization rate σsc (a) and 
+internal field (b) measured in an applied magnetic field of µ0H = 11.5 mT for LaO0.5F0.5BiSe2 .  
+An arrow  denotes the superconducting transition temperature Tc.  
+  In Fig.4b the temperature dependence of the µ0Hint is presented. µ0Hint increases with 
+decreasing temperature in the normal state, which may be caused by an enhancement 
+of the paramagnetic susceptibility of the sample LaO0.5F0.5BiSe2  upon lowering the 
+temperature. Decrease of the internal field µ0Hint (diamagnetic shift) was observed 
+below  Tc ≈ 2.6 K, which is evident from Fig. 4(b). Observed diamagnetic shift as well 
+as the increase of σ confirms the bulk character of superconductivity in 
+LaO0.5F0.5BiSe2. 
+
+
+13 
+ 
+4. Summary 
+In conclusion we report on a synthesis, crystal structure and SC properties of a new 
+Se-containing layered superconductor: LaO0.5F0.5BiSe2, obtained by replacement of 
+sulphur for selenium in recently reported  BiS2 – type superconductors. By this 
+substitution the volume of the crystal unit cell increases and the c-parameter expands 
+from 13.3157 Å to 14.01567Å. The new superconductor exhibits bulk 
+superconductivity with Tc = 2.6K. DC magnetization measurements revealed a 
+superconducting shielding fraction of approximately 80 %, which is at least twice 
+higher in comparison to that found in corresponding sulphide LaO0.5F0.5BiS2. 
+Moreover, bulk superconductivity in LaO0.5F0.5 BiSe2 was conﬁrmed by µSR 
+experiments.  
+No superconducting transition was observed in analogous phases: LaO0.5F0.5SbS2 with 
+antimony substituted for bismuth and LaO0.5F0.5BiTe2 with tellurium for Se. 
+Acknowledgements 
+This work has been supported by the European Union in the framework of European 
+Social Fund through the Warsaw University of Technology Development Program. 
+References 
+                                                     
+1Y. Mizuguchi, D. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Yakano, 
+H. Izawa and O. Miura, Phys. Rev. B 86, 220510(R) (2012). 
+2S. Singh, A. Kumar, B. Gahtori, S. Kirtan, G. Sharma, S. Patnaik and V. Awana, J. Am. 
+Chem. Soc. 134, 16504 (2012). 
+3R. Jha, A. Kumar, S. Singh and V. Awana, J. Supercond. and Novel Magn. 26, 499 (2013). 
+4S. Demura, Y. Mizuguchi, K. Deguchi, K. Okazaki, H. Hara, T. Watanabe, S. Denholme, M. 
+Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya and Y. Takano, 
+ J. Phys. Soc. Jpn. 82, 033708 (2013). 
+5J. Xing, S. Li, X. Ding, H. Yang and H. Wen, Phys. Rev. B 86, 214518 (2012). 
+
+
+14 
+ 
+                                                                                                                                                        
+6D. Yazici, K. Huang, B. White, A. Chang, A. Friedman and M. Maple, Philosophical 
+Magazine 93, 673 (2012). 
+7Y. Kamihara, T. Watanabe, M. Hirano and H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+8D. Yazici, K. Huang, B. White,  I. Jeon, V. Burnett, A. Friedman, I. Lum, I. Nallaiyan, S. 
+Spagna and M. Maple, Phys. Rev. B. 87, 174512 (2013). 
+9C. Wolowiec, B. White, I. Jeon, D. Yazici, K. Huang and M. Maple, e-print arXiv:1308.1072 
+10C. Wolowiec, D. Yazici, B. White, K. Huang and M. Maple, e-print arXiv:1307.4157.  
+11G. Wang, C. Liu, H. Zhang, L. Zhang and C. Chen, Physica C  495, 114 (2013). 
+12C.I. Sathish, H.L. Feng, Y. Shi and K. Yamaura, J. Phys. Soc. Japan. 82, 074703 (2013). 
+13M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. 
+Kumada and I. Tanaka, J. Phys. Soc. Japan. 82, 113701 (2013). 
+14 P. Fischer et al, Physica B 276–278, 146 (2000). 
+15J. Rodríguez-Carvajal, Physica B  192, 55 (1993). 
+16P. K. Biswas, A. Amato, C. Baines, R. Khasanov, H. Luetkens, H. Lei, C. Petrovic and  E. 
+Morenzoni, e-print arXiv: 1309.7282. 
+
+

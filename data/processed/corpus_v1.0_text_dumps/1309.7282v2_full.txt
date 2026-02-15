@@ -1,0 +1,782 @@
+arXiv:1309.7282v2  [cond-mat.supr-con]  5 Dec 2013
+Low superﬂuid density and possible multi-gap superconductivity in BiS2-based layered
+superconductor Bi4O4S3
+P. K. Biswas,1, ∗A. Amato,1 C. Baines,1 R. Khasanov,1
+H. Luetkens,1 Hechang Lei,2, † C. Petrovic,2 and E. Morenzoni1, ‡
+1Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institute, CH-5232 Villigen PSI, Switzerland
+2Condensed Matter Physics and Materials Science Department,
+Brookhaven National Laboratory, Upton, New York 11973-5000, USA
+The magnetic penetration depth λ as a function of temperature in Bi4O4S3 was studied by
+muon-spin-spectroscopy measurements. The superﬂuid density of Bi4O4S3 is found to be very low.
+The dependence of λ−2 on temperature possibly suggests the existence of two s-wave type energy
+gaps with the zero-temperature values of 0.93(3) and 0.09(4) meV. The upturn in the temperature
+dependence of the upper critical ﬁeld close to Tc further supports multi-gap superconductivity in
+Bi4O4S3. The presence of two superconducting energy gaps is consistent with theoretical and other
+experimental studies. However, a single-gap s-wave model ﬁt with a gap of 0.88(2) meV can not be
+ruled out completely. The value of λ(T ) at T = 0 K is estimated to be λ(0) = 861(17) nm, one of
+the largest of all known layered superconductors, reﬂecting a very low superﬂuid density.
+PACS numbers: 74.25.F-, 74.25.Ha, 76.75.+i
+Recent years have witnessed a growing interest in su-
+perconductivity within layered crystal structure com-
+pounds.
+The recent discovery of superconductivity in
+the BiS2-based compound Bi4O4S3 [1, 2] with a transi-
+tion temperature (Tc) of ≈4.5 K has further fostered
+the research interest in layered superconductors. Exotic
+superconductivity with higher Tc and/or with unconven-
+tional pairing mechanism has often been found in ma-
+terials with a layered crystal structure. In this context,
+the most familiar examples are the high-Tc cuprates and
+the Fe-based superconductors, where the corresponding
+CuO2 or Fe2An2 (An = P, As, Se, Te) layer plays an im-
+portant role in determining the superconducting prop-
+erties [3–5]. Similarly, the BiS2 layer is believed to be
+the basic building block for inducing superconductivity
+in Bi4O4S3 and it is expected that the doping mecha-
+nism resembles that of cuprates and Fe-based supercon-
+ductors. This argument is supported by the discovery of
+other BiS2-based superconductors ReO1−xFxBiS2 (Re =
+La, Ce, Pr, and Nd) with Tc values of 10.6, 3.0, 5.5, and
+5.6 K, respectively [6–9].
+Up to now, only very few theoretical and experimen-
+tal studies have been performed on Bi4O4S3. The parent
+phase (Bi6O8S5) is a band insulator which becomes su-
+perconducting after electron doping [1]. A ﬁrst principles
+band structure calculation indicates that the supercon-
+ductivity in Bi4O4S3 originates from two Bi 6p orbitals,
+as they intersect the Fermi surface [10]. A RPA analy-
+sis of a two-orbital model for the BiS2-based supercon-
+ductors suggests that the spin ﬂuctuations promote com-
+peting A1g and B2g superconducting states with similar
+pairing strengths [11].
+Transport measurements under
+pressure reveal that Tc of Bi4O4S3 decreases monotoni-
+cally without distinct change of the normal state metallic
+behavior [12].
+The exact nature of the superconduct-
+ing state is still debated. Hall, Seebeck coeﬃcients, and
+magnetoresistance measurements suggest exotic multi-
+band features in Bi4O4S3 [13].
+Recent measurements
+of the temperature dependence of the magnetic pene-
+tration depth λ using the tunnel diode oscillator tech-
+nique [14] indicate a conventional s-wave type supercon-
+ductivity in Bi4O4S3. However, the tunnel diode data
+were collected only down to 1.6 K and hence remain
+elusive in determining the true symmetry of the super-
+conducting order parameter in Bi4O4S3. Other exper-
+iments reported very strong coupling superconductivity
+with ∆1(0)/kBTc ≈16.6 and with a large region of su-
+perconducting ﬂuctuations above Tc surviving at large
+magnetic ﬁelds [15] or impurity driven superconductivity
+[16] In this respect it is important to characterize the su-
+perconducting and magnetic properties of Bi4O4S3 at a
+microscopic level and to obtain a detailed knowledge of
+the superconducting order parameter over the full tem-
+perature range.
+In this Rapid Communication, we report on the results
+of muon-spin rotation and relaxation (µSR) studies of
+the magnetic penetration depth as a function of temper-
+ature and on the symmetry of the superconducting gap
+in the Bi4O4S3 superconductor. Our results show that
+the superﬂuid density in Bi4O4S3 is very low. The ob-
+served λ−2(T ) is found to be well described by a two-gap
+s-wave model, as seen in many layered Fe-based super-
+conductors. A single s-wave gap model is also able to give
+a satisfactory ﬁt of the data, albeit with lower statisti-
+cal signiﬁcance. For the two-gap model, the gap values at
+absolute zero are ∆1(0) = 0.93(3), ∆2(0) = 0.09(4) meV,
+respectively.
+The corresponding gap to Tc ratios are
+∆1(0)/kBTc = 2.38(7) and ∆2(0)/kBTc = 0.22(9). These
+values are close to those obtained for various Fe-based su-
+perconductors (see Ref. 33 and references therein). We
+obtain the penetration depth, λ(0) = 861(17) nm.
+Polycrystalline samples of Bi4O4S3 were prepared by
+
+
+2
+a solid state reaction method [1]. Sample characteriza-
+tion measurements were performed at the Brookhaven
+National Laboratory, USA. Transport measurements at
+diﬀerent applied ﬁelds were performed at the Paul Scher-
+rer Institute (PSI), Villigen, Switzerland. Zero-ﬁeld (ZF)
+and transverse-ﬁeld (TF) µSR experiments were carried
+out on the DOLLY and LTF µSR instruments, located
+respectively at the πE1 and πM3 beamlines at PSI. The
+sample in the form of a pressed pellet was mounted on
+a copper fork-shaped sample holder in the DOLLY and
+on a silver plate in the LTF instrument. The sample was
+cooled from above Tc to base temperature at H = 0 dur-
+ing ZF-µSR measurements and in a ﬁeld of 300 Oe in
+TF-µSR measurements. The typical counting statistics
+were ∼20 million muon decays per data point. The ZF-
+and TF-µSR data were analyzed using the free software
+package MUSRFIT [17].
+0
+50
+100
+150
+200
+0.000
+0.001
+0.002
+0.003
+0
+1
+2
+3
+4
+5
+0
+4
+8
+12
+16
+20
+24
+2
+3
+4
+5
+0.000
+0.001
+0.002
+ Temperature (K)
+ 
+ 
+ (
+.cm)
+Bi
+4
+O
+4
+S
+3
+T
+c
+ = 4.8 (1) K
+(a)
+(b)
+ Boson fit
+ A guide to eye
+H
+c2
+ (Boson) = 15.3(4) kOe
+ 
+ 
+H
+c2
+ (kOe)
+Temperature (K)
+ 
+ (
+.cm)
+  Temperature (K)
+ 
+ 
+Field
+FIG. 1: (Color online) (a) Temperature dependence of the ac
+resistivity of Bi4O4S3. Inset shows the temperature variation
+of the resistivity in a set of magnetic ﬁelds of 0, 0.05, 0.1, 0.2,
+0.4, 1, 2, 4, 6, 8, 10, 15, 20, 30, and 40 kOe. (b) Temperature
+dependence of the upper critical ﬁeld of Bi4O4S3. The solid
+line is a ﬁt to the data using an expression for charged boson.
+The dotted line is an empirical interpolation, which better
+reproduces the temperature region close to Tc.
+The ac resistivity of Bi4O4S3 was measured as a func-
+tion of temperature using a standard four-probe method
+in a Physical Property Measurement System (PPMS).
+Figure 1 (a) shows the temperature dependence of the
+resistivity ρ(T ).
+A metallic like behavior is observed
+between 5 K to 220 K with a relatively high residual
+resistivity value of 2 mΩ.cm. The transition to the su-
+perconducting state is relatively sharp with a Tc (onset)
+of 4.8(1) K and Tc (zero) of 4.6(1) K. The inset shows
+the temperature variation of the resistivity in a set of
+magnetic ﬁelds from 0 to 40 kOe. ρ(T ) exhibits posi-
+tive magnetoresistance (MR) in the normal state (just
+above Tc). At 6 K, the value of MR increases by 10.6 %
+for an applied magnetic ﬁeld of 40 kOe. The tempera-
+ture dependence of the upper critical ﬁeld Hc2 shown in
+Fig. 1 (b), was determined from the resistive transitions,
+deﬁned by a 90 % drop of the normal state resistivity val-
+ues, determined just above Tc. The Hc2(T ) curve shows
+a positive curvature close to Tc and is linear thereafter. A
+similar behavior has also been observed in polycrystalline
+borocarbides [18], MgB2 [19, 20], Nb0.18Re0.82 [21], and
+Re3W [22] and is considered as a signature of multi-gap
+superconductivity. A conventional Werthamer-Helfand-
+Hohenberg model can not describe Hc2(T ) of Bi4O4S3.
+However, to estimate Hc2 at absolute zero, a ﬁt to the
+Hc2(T ) data was made using the Hc2(T ) expression for
+charged bosons [23],
+Hc2(T ) = Hc2(0)
+(
+1 −
+ T
+Tc
+3/2)3/2
+,
+(1)
+The ﬁt yields Hc2(0) = 15.3(4) kOe, which implies a
+Ginzburg coherence length ξ ≈12 nm. To get a better
+estimation of Hc2(T ) close to Tc, an empirical interpola-
+tion (shown as a dotted line in Fig. 1 (b)) was later used
+in Eq. 4 for calculating the temperature dependence of
+the penetration depth of Bi4O4S3.
+ZF-µSR measurements were performed to look for any
+unusual temperature-dependent relaxation processes,
+which may be associated with the onset of supercon-
+ductivity. Figure 2 shows the ZF-µSR time spectra of
+Bi4O4S3, collected below (at 2 K) and above (at 6 K)
+Tc. Practically, no diﬀerence between the two data sets
+is observable.
+The ZF data can be described using a
+Kubo-Toyabe relaxation function [24] multiplied by an
+exponential decay function,
+A(t) = A(0)
+1
+3 + 2
+3
+ 1 −a2t2
+exp
+
+−a2t2
+2
+
+exp(−Λt),
+(2)
+where A(0) is the initial asymmetry, and a and Λ are
+muon spin relaxation rates.
+In the ﬁt, a was kept as
+a common parameter for both set of data.
+The ﬁts
+yield, a = 0.100(2) µs−1, Λ(2K) = 0.025(2) µs−1, and
+Λ(6K) = 0.026(2) µs−1. The value of a extracted from
+the ﬁts reﬂects the presence of random local ﬁelds arising
+from the nuclear moments within Bi4O4S3. The nearly
+
+
+3
+0
+2
+4
+6
+8
+0.06
+0.08
+0.10
+0.12
+0.14
+0.16
+0.18
+ 
+ 
+ 6 K
+ 2 K
+Asymmetry
+Time (
+s)
+ZF-
+SR
+a = 0.100(2) 
+s
+-1
+ (2K) = 0.025(2) 
+s
+-1
+ (6K) = 0.026(2) 
+s
+-1
+FIG. 2: (Color online) ZF-µSR time spectra collected at 2 K
+and 6 K for Bi4O4S3. The solid lines are the ﬁts to the data
+using the Eq. 2, described in the text.
+equal values of Λ are consistent with the presence of di-
+luted and randomly oriented electronic moments proba-
+bly arising from impurities. The ZF-µSR data completely
+rule out the presence of any magnetic anomaly in the su-
+perconducting state of Bi4O4S3 as for instance the ap-
+pearance of spontaneous magnetic ﬁelds associated with
+a time-reversal-symmetry breaking pairing state.
+Figure 3 shows the TF-µSR time spectra collected at
+19 mK and 5 K in a transverse ﬁeld of 300 Oe. At 5 K, the
+sample is in the normal state and the local ﬁeld probed by
+the muons is the applied ﬁeld slightly broadened by the
+nuclear moments contribution, which is responsible for
+the weak relaxation of the precession signal. By contrast,
+the data collected at 19 mK shows a more pronounced
+damping due to the inhomogeneous ﬁeld distribution gen-
+erated by the formation of a vortex lattice in Bi4O4S3.
+The TF-µSR time spectra were analyzed using Gaussian
+damped spin precession signal along with an exponential
+relaxation to take into account the corresponding com-
+ponent observed in the ZF spectra.
+AT F (t) = A(0) exp
+ −σ2t2
+2) cos (γµ ⟨B⟩t + φ) exp(−Λ1t)
++ Abg(0) cos (γµBbgt + φ) ,
+(3)
+where A(0) and Abg(0) are the initial asymmetries of the
+sample and background signals, γµ/2π = 13.55 kHz/G
+is the muon gyromagnetic ratio [25], ⟨B⟩and Bbg are
+the internal and background magnetic ﬁelds, φ is the ini-
+tial phase of the muon precession signal, and σ and Λ1
+are the Gaussian and exponential muon spin relaxation
+rates, respectively. Since the ZF data indicate that the
+exponential relaxation rate is temperature independent,
+we use Λ1 as a global common parameter in the TF-µSR
+data ﬁtting and obtain a value of 0.038(3) µs−1. The
+background signal mainly comes from the silver sample
+-0.2
+-0.1
+0.0
+0.1
+0.2
+0
+2
+4
+6
+8
+-0.2
+-0.1
+0.0
+0.1
+0.2
+ 
+ 
+5 K
+Asymmetry
+ 
+ 
+19 mK
+Time (
+s)
+FIG. 3: (Color online) TF-µSR time spectra of Bi4O4S3 col-
+lected at 19 mK and 5 K in a transverse ﬁeld of 300 Oe. The
+solid lines are the ﬁts to the data using the Eq. 3, described
+in the text.
+holder where the relaxation rate is negligible.
+Figure 4 shows the temperature dependence of σ for
+an applied ﬁeld of 300 Oe.
+The Gaussian muon spin
+relaxation rate σ is proportional to the second moment
+of the internal ﬁeld distribution sensed by the muons and
+can be expressed as σ =
+ σ2
+sc + σ2
+nm
+ 1
+2 , where σsc is the
+contribution due to the inhomogeneous ﬁeld distribution
+in the vortex state and σnm = 0.043(1) µs−1 is the nuclear
+magnetic dipolar contribution which is assumed to be
+temperature independent.
+For a superconductor with hexagonal vortex lattice, σsc
+is related to the penetration depth, λ by the Brandt equa-
+tion [26], which is based on a Ginzburg-Landau treatment
+of the vortex state,
+σsc(b)[µs−1] = 4.854×104(1−b)[1+1.21(1−
+√
+b)3]λ−2[nm−2],
+(4)
+Here b = ⟨B⟩/Bc2 is a reduced magnetic ﬁeld and ⟨B⟩
+is the ﬁrst moment of the ﬁeld distribution, which in
+our case is very close to the applied ﬁeld. Equation 4
+was used to calculate λ−2(T ), which is proportional to
+the superﬂuid density. Figure 5 shows the temperature
+dependence of λ−2 for Bi4O4S3. The ﬁts to the λ−2(T )
+data were then made with a single- and a two-gap s-wave
+model using the following functional form [27, 28]:
+
+
+4
+0
+1
+2
+3
+4
+5
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+H = 300 Oe
+T
+c
+nm
+ = 0.043 
+s
+-1
+ 
+ 
+ (
+s
+-1
+)
+dataT
+FIG. 4: (Color online) The temperature dependence of σ of
+Bi4O4S3 for an applied ﬁeld of 300 Oe. The dotted line par-
+allel to the temperature axis shows the temperature indepen-
+dent value of σnm, the nuclear magnetic dipolar contribution
+to σ.
+λ−2 (T )
+λ−2 (0) = ω λ−2 (T, ∆1(0))
+λ−2 (0, ∆1(0)) + (1 −ω)λ−2 (T, ∆2(0))
+λ−2 (0, ∆2(0)) ,
+(5)
+where λ (0) is the value of the penetration depth at
+T = 0 K, ∆i(0) is the value of the i-th (i = 1 or 2)
+superconducting gap at T = 0 K and ω is the weighting
+factor of the ﬁrst gap.
+Each component of Eq. 5 can be expressed within the
+local London approximation (λ ≫ξ) [29, 30] as
+λ−2 (T, ∆i(0))
+λ−2 (0, ∆i(0)) = 1 + 2
+Z ∞
+∆i(0)
+ ∂f
+∂E
+
+EdE
+q
+E2 −∆i (T )2 ,
+(6)
+where f = [1 + exp (E/kBT )]−1 is the Fermi function,
+and ∆i (T ) = ∆i(0)δ (T/Tc).
+The temperature depen-
+dence of the gap is approximated by the expression
+δ (T/Tc) = tanh
+n
+1.82 [1.018 (Tc/T −1)]0.51o
+[27].
+The curves shown in Fig. 5 (a) and (b) are the ﬁts to
+the λ−2(T ) data using the two models. Table I summa-
+rizes the corresponding ﬁtted parameters.
+The two s-
+wave gap model gives a lower χ2
+reduced value than a single
+gap model thus suggesting that Bi4O4S3 is a multiple gap
+superconductor and making a connection between BiS2-
+based layered superconductors and the layered Fe-based
+superconductors [31–34]. Other prominent examples of
+superconductivity are represented by MgB2, NbSe2, and
+Lu2Fe3Si5 [35–38]. However, a single s-wave gap can not
+be ruled out completely as claimed in ref. 14.
+From our data, we obtain λ(0) = 861(17) nm. Remark-
+able is that the value of lambda at T = 0 K is one of the
+0.0
+0.3
+0.6
+0.9
+1.2
+1.5
+0
+1
+2
+3
+4
+5
+6
+0.0
+0.3
+0.6
+0.9
+1.2
+ s-wave
+(0) = 0.88(2) meV
+2
+reduced
+ = 1.7
+ 
+ 
+-2
+ (
+m
+-2
+)
+(a)
+ s+s-wave
+1
+(0) = 0.93(3) meV
+2
+(0) = 0.09(4) meV
+2
+reduced
+ = 1.3
+ 
+ 
+-2
+ (
+m
+-2
+)
+Temperature (K)
+(b)
+FIG. 5: (Color online) Temperature dependence of λ−2 for
+Bi4O4S3. The curves are ﬁts to the data using a (a) single-
+and (b) a two-gap s-wave model.
+highest among all known bulk superconductors. This re-
+ﬂects a very low superﬂuid carrier density ns of ≈3×1021
+cm−3. It should be noted that the value of λ(0) is inde-
+pendent on details of analysis such as the correction for
+the ﬁeld dependence of σ and it is not strongly depen-
+dent on the assumption of a vortex lattice of hexagonal
+symmetry. The assumption of a regular vortex structure
+is generally valid in the FC case if parameters such as the
+external ﬁeld are chosen in a reasonable range and if the
+system is not extremely anisotropic. Having hexagonal
+or rectangular symmetry makes almost no diﬀerence in
+the value of the penetration depth and its temperature
+dependence. For instance, for a square arrangement the
+pre-factor of Eq. 4 would change only by 2 %. The eﬀect
+of vortex disorder is more diﬃcult to quantify exactly.
+Disorder would give an additional contribution to σ so
+that the estimated value for ns is actually an upper limit.
+Since the contribution of disorder adds quadratically to
+that of the intrinsic inhomogeneity of the vortex state we
+do not expect a big change of the value of λ. Even in
+systems, such as R(Fe1−xCox)2As2 where disorder may
+be important, measurements on the same system in the
+vortex state by TF-µSR [39] (sensitive to disorder) and
+in the Meissner state by low energy µSR [40] (insensi-
+
+
+5
+TABLE I: Fitted parameters of the ﬁts to the λ−2(T ) data of
+Bi4O4S3 using diﬀerent models.
+Model
+Gap value
+Gap ratio
+χ2
+reduced
+∆(0) (meV)
+∆(0)/kBTc
+s-wave
+0.88(2)
+2.25(5)
+1.7
+s+s-wave
+0.93(3), 0.09(4)
+2.38(7), 0.22(9)
+1.3
+with ω = 0.94(1)
+tive to this eﬀect) gave very close results for λ and its
+temperature dependence.
+In summary, resistivity and µSR measurements have
+been performed on superconducting Bi4O4S3. Temper-
+ature dependence of the upper critical ﬁelds and also
+the absolute value, Hc2(0) = 15.3(4) kOe were deter-
+mined from the resistivity measurements. The Hc2(T )
+data shows a positive curvature close to Tc, which is
+a sign of multi-gap superconductivity in Bi4O4S3. ZF-
+µSR data show no sign of magnetic anomaly in the
+superconducting ground state of Bi4O4S3.
+The tem-
+perature dependence of λ−2 is compatible with a two-
+gap s-wave model with the zero-temperature gap values,
+∆1(0) = 0.93(3), ∆2(0) = 0.09(4) meV and penetra-
+tion depth, λ(0) = 861(17) nm.
+The presence of two
+superconducting gaps in Bi4O4S3 is predicted by theo-
+retical works such as ﬁrst principles band structure cal-
+culations suggesting two band crossing the Fermi surface
+and the RPA analysis of a two-orbital model for the BiS2-
+based superconductors [10, 11]. Hall, Seebeck coeﬃcients
+and magnetoresistance measurements also further sup-
+port our experimental ﬁnding [13, 15]. It is worth men-
+tioning that even though our data are more compatible
+with a two-gap model, a single-gap model can not be
+ruled out completely. Our results show that Bi4O4S3 is a
+bulk superconductor with a fully developed node-less su-
+perconducting energy gap and extremely low superﬂuid
+density compared to other layered superconductors.
+The µSR experiments were performed at the Swiss
+Muon Source (SµS),
+Paul Scherrer Institute
+(PSI,
+Switzerland). Work at Brookhaven is supported by the
+Center for Emergent Superconductivity, an Energy Fron-
+tier Research Center funded by the DOE Oﬃce for Basic
+Energy Science (H.L. and C.P.). P.K.B. would like to ac-
+knowledge M. Medarde and R. Sibille for their assistance
+in the transport measurements.
+∗Corresponding author: pabitra.biswas@psi.ch
+† Present address: Frontier Research Center, Tokyo Insti-
+tute of Technology, 4259 Nagatsuta, Midori, Yokohama
+226-8503, Japan.
+‡ Corresponding author: elvezio.morenzoni@psi.ch
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui,
+K. Kuroki, S. Demura, Y. Takano, H. Izawa, and
+O. Miura, Phys. Rev. B 86, 220510(R) (2012).
+[2] S. K. Singh, A. Kumar, B. Gahtori, Shruti, G. Sharma,
+S. Patnaik, and V. P. S. Awana, J. Am. Chem. Soc. 134,
+16504 (2012).
+[3] J. G. Bednorz, and K. A. Muller, Z. Physik B 64, 189
+(1986).
+[4] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono,
+J. Am. Chem. Soc. 130, 3296 (2008).
+[5] F.-C.
+Hsu,
+J.-Y.
+Luo,
+K.-W.
+Yeh,
+T.-K.
+Chen,
+T.-W.
+Huang,
+P.
+M.
+Wu,
+Y.-C.
+Lee,
+Y.-
+L. Huang, Y.-Y. Chu, D.-C. Yan, and M.-K. Wu,
+Proc. Natl. Acad. Sci. USA 105, 14262 (2008).
+[6] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano,
+H. Fujihisa,
+Y. Gotoh,
+H. Izawa,
+and O. Miura,
+J. Phys. Soc. Jpn. 81 114725 (2012).
+[7] J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen,
+Phys. Rev. B 86, 214518 (2012).
+[8] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana,
+J. Sup. and Novel Mag. 26, 499 (2013).
+[9] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki,
+H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka,
+T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yam-
+aguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn.
+82 033708 (2013).
+[10] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B 86,
+220501(R) (2012).
+[11] G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B
+87, 081102(R) (2013).
+[12] H.
+Kotegawa,
+Y.
+Tomita,
+H.
+Tou,
+H.
+Izawa,
+Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, and
+Y. Takano, J. Phys. Soc. Jpn. 81 103702 (2012).
+[13] S. G. Tan, P. Tong, Y. Liu, W. J. Lu, L. J. Li, B. C. Zhao,
+and Y. P. Sun, Eur. Phys. J. B. 85, 414 (2012).
+[14] Shruti, P. Srivastava, and S. Patnaik, arXiv:1305.6913.
+[15] S. Li, H. Yang, J. Tao, X. Ding, and H.-H. Wen,
+Sci. China-Phys. Mech. Astron. 56, 2019 (2013).
+[16] C. Sathish, H. L. Feng, Y. Shi, and K. Yamaura, Journal
+of the Physical Society of Japan 82, 074703 (2013).
+[17] A. Suter, and B. M. Wojek, Physics Procedia 30, 69
+(2012).
+[18] S. V. Shulga, S.-L. Drechsler, G. Fuchs, K.-H. M¨uller,
+K. Winzer, M. Heinecke, and K. Krug, Phys. Rev. Lett.
+80, 1730 (1998).
+[19] I. Shigeta, T. Abiru, K. Abe, A. Nishida, and Y. Mat-
+sumoto, Physica C 392-396, 359 (2003).
+[20] Y.
+Takano,
+H.
+Takeya,
+H.
+Fujii,
+H.
+Kumakura,
+T.
+Hatano,
+K.
+Togano,
+H.
+Kito,
+and
+H.
+Ihara,
+Appl. Phys. Lett. 78, 2914 (2001).
+[21] A. B. Karki,
+Y. M. Xiong,
+N. Haldolaarachchige,
+S. Stadler, I. Vekhter, P. W. Adams, D. P. Young,
+W. A. Phelan, and J. Y. Chan, Phys. Rev. B 83, 144525
+(2011).
+[22] P. K. Biswas, M. R. Lees, A. D. Hillier, R. I. Smith,
+W. G. Marshall, and D. McK. Paul, Phys. Rev. B 84,
+184529 (2011).
+[23] R.
+Micnas,
+J.
+Ranninger,
+and
+S.
+Robaszkiewicz,
+Rev. Mod. Phys. 62, 113 (1990).
+[24] R. Kubo, Hyperﬁne Interact. 8, 731 (1981).
+[25] J.
+E.
+Sonier,
+J.
+H.
+Brewer,
+and
+R.
+F.
+Kieﬂ,
+Rev. Mod. Phys. 72, 769 (2000).
+[26] E. H. Brandt, Phys. Rev. B 68, 054506 (2003).
+
+
+6
+[27] A. Carrington, and F. Manzano, Physica C 385, 205
+(2003).
+[28] H. Padamsee, and J. E. Neighbor, and C. A. Shiﬀman,
+J. Low Temp. Phys. 12, 387 (1973).
+[29] M.
+Tinkham,
+Introduction
+to
+Superconductivity
+(McGraw-Hill, New York, 1975).
+[30] R. Prozorov, and R. W. Giannetta, Supercond. Sci. Tech-
+nol. 19, R41 (2006).
+[31] R. Khasanov, K. Conder, E. Pomjakushina, A. Amato,
+C. Baines, Z. Bukowski, J. Karpinski, S. Katrych, H.-
+H. Klauss, H. Luetkens, A. Shengelaya, N. D. Zhigadlo,
+Phys. Rev. B 78, 220510(R) (2008).
+[32] P.
+K.
+Biswas,
+G.
+Balakrishnan,
+D.
+McK.
+Paul,
+C. V. Tomy, M. R. Lees, A. D. Hillier, Phys. Rev. B
+81, 092510 (2010).
+[33] P.
+K.
+Biswas,
+A.
+Krzton-Maziopa,
+R.
+Khasanov,
+H. Luetkens, E. Pomjakushina, K. Conder, and A. Am-
+ato, Phys. Rev. Lett. 110, 137003 (2013).
+[34] J. Paglione, and R. L. Greene, Nat. Phys. 6, 645 (2010).
+[35] H. J. Choi, D. Roundy, H. Sun, M. L. Cohen, and
+S. G. Louie, Nature (London) 418, 758 (2002), and ref-
+erences therein.
+[36] T. Yokoya, T. Kiss, A. Chainani, S. Shin, M. Nohara,
+H. Takagi, Science 294, 2518 (2001).
+[37] Y. Nakajima, T. Nakagawa, T. Tamegai, and H. Harima,
+Phys. Rev. Lett. 100, 157001 (2008).
+[38] P. K. Biswas, G. Balakrishnan, D. McK. Paul, M. R.
+Lees, and A. D. Hillier, Phys. Rev. B 83, 054517 (2011).
+[39] T. J. Williams et al., Phys. Rev. B 80, 094501 ( 2009).
+[40] O. Ofer et al., Phys. Rev. B 85, 060506(R) (2012).
+
+

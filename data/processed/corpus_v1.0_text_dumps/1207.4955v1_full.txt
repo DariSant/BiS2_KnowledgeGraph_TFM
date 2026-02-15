@@ -1,0 +1,650 @@
+arXiv:1207.4955v1  [cond-mat.supr-con]  20 Jul 2012
+Multi-Band Exotic Superconductivity in the New Superconductor Bi4O4S3
+Sheng Li, Huan Yang, Jian Tao, Xiaxin Ding, and Hai-Hu Wen∗
+Center for Superconducting Physics and Materials,
+National Laboratory of Solid State Microstructures and Department of Physics, Nanjing University, Nanjing 210093, China
+Resistivity, Hall eﬀect and magnetization have been investigated on the new superconductor
+Bi4O4S3. A weak insulating behavior has been induced in the normal state when the superconduc-
+tivity is suppressed. Hall eﬀect measurements illustrate clearly a multiband feature dominated by
+electron charge carriers, which is further supported by the magnetoresistance data. Interestingly, a
+kink appears on the temperature dependence of resistivity at about 4 K at all high magnetic ﬁelds
+when the bulk superconductivity is completely suppressed. This kink can be well traced back to
+the upper critical ﬁeld Hc2(T ) in the low ﬁeld region, and is explained as the possible evidence of
+residual Cooper pairs on the one dimensional chains.
+PACS numbers: 74.70.Dd, 74.20.Mn, 74.25.Dw, 74.25.fc
+Superconductivity is induced by the quantum conden-
+sation of large number of paired electrons.
+The origi-
+nal proposal about the pairing by the electron-phonon
+coupling is gradually replaced by the more exotic pair-
+ing mechanism, such as through exchanging the mag-
+netic spin ﬂuctuations, and the superconducting tran-
+sition temperature can be increased to a higher level.
+The superconducting (SC) pairing mechanism of the
+cuprates[1] and the iron pnictides[2], although not yet
+settled down completely, should have a close relationship
+with the electron correlations of the electrons from the
+3d orbits.[3–5] In the heavy Fermion systems[6] and or-
+ganic materials[7], a similar conclusion may be achieved.
+In this regard, it is natural to explore new superconduc-
+tors with possible higher transition temperatures in the
+compounds with transition metal elements.
+The elec-
+trons in the p-orbital, especially those from the 5p or
+6p orbits, are normally assumed to have weak repulsive
+potential U and quite wide band width w, and hence
+have very weak correlation eﬀect. It would be surpris-
+ing to ﬁnd out superconductivity with exotic feature in
+the p-orbital based compounds. Very recently, Mizuguchi
+et al.[8] discovered superconductivity with T onset
+c
+= 8.6
+K and T zero
+c
+= 4.5 K in the so-called BiS2 based com-
+pound Bi4O4S3. This compound has a layered structure
+with the space group of I4/mmm or I −42m.
+After
+just three days, the same group reported superconduc-
+tivity at about 10.6 K in another system LaO1−xFxBiS2
+by doping electrons into the material through substi-
+tuting oxygen with ﬂuorine.[9] Recalling that the same
+doping technique was used by Kamihara et al.[2] in the
+discovery of superconductivity in the FeAs-based super-
+conductor LaO1−xFxFeAs. Quickly followed is the the-
+oretical work based on the ﬁrst principles band struc-
+ture calculations,[10] which predicts that the dominating
+bands for the electron conduction as well as for the super-
+conductivity are derived from the Bi 6px and 6py orbits.
+In this Letter, we present the ﬁrst set of data for an in-
+tensive study on the transport and magnetic properties
+of the new superconductor Bi4O4S3. Our results clearly
+illustrate the multi-band, strong ﬂuctuation and some
+unexpected anomalous properties of superconductivity,
+putting this interesting superconductor as an exotic one.
+The polycrystalline samples were synthesized by using
+a two-step solid state reaction method. First, the start-
+ing materials Bi powder (purity 99.5%, Alfa Aesar) and
+sulfa powders (purity 99.99%, Alfa Aesar) were mixed in
+2:3 ratio, ground and pressed into a pellet shape. Then
+it was sealed in an evacuated quartz tube and followed
+by annealing at 500◦C for 10 hours. The resultant pellet
+was smashed and ground together with the Bi2O3 pow-
+der (purity 99.5%, Alfa Aesar) and sulfa powder, in stoi-
+chiometry as the formula Bi4O4S3. Again it was pressed
+into a pellet and sealed in an evacuated quartz tube and
+burned at 510◦C for 10 hours. Then it was cooled down
+slowly to room temperature. The second step was re-
+peated in achieving good homogeneity.
+The resultant
+sample looks black and very hard. We cut the sample and
+obtained a specimen with a rectangular shape (length 4.2
+mm, width 2.0 mm and thickness of 0.125 mm). Since it
+is very hard, we can polish the sample with very ﬁne sand
+paper and obtained shiny and mirror like surface. The
+crystallinity of the sample was checked by using the x-ray
+diﬀraction (XRD) with the Brook Advanced D8 diﬀrac-
+tometer with Cu Kα radiation.
+The analysis of XRD
+data was done with the softwares Powder-X, Fullprof and
+Topas. The XRD pattern looks very similar to that re-
+ported by Mizuguchi et al.[8]. The Rietveld ﬁtting was
+done with the GSAS program, yielding a 90% volume of
+Bi4O4S3 with 10% of impurities which are mainly Bi2S3.
+The resistivity, Hall eﬀect were measured with Quantum
+Design instrument PPMS-16T and PPMS-9T, and the
+magnetization was detected by the Quantum Design in-
+strument SQUID-VSM with a resolution of about 5 ×
+10−8 emu. The six-lead method was used in the trans-
+port measurement on the longitudinal and the transverse
+resistivity at the same time. The resistance and Hall ef-
+fect was measured by either sweeping magnetic ﬁeld at
+a ﬁxed temperature or sweeping temperature at a ﬁxed
+ﬁeld, both set of data coincide very well. The tempera-
+
+
+2
+2
+4
+6
+8
+0.99
+1.00
+1.01
+1.02
+2
+4
+6
+8
+0.0
+0.5
+1.0
+1.5
+0
+2
+4
+6
+8
+-150
+-100
+-50
+0
+0
+100
+200
+300
+0.0
+1.0
+2.0
+ 
+ 
+m
+cm)
+ 
+ 
+0
+H = 0 T
+ 
+0
+H = 6 T
+ 
+0
+H = 14 T
+(a)
+ 
+ 
+ /
+(10 K)
+ 
+(d)
+ 
+ 
+m
+cm)
+T (K)
+(c)
+ 
+H = 4.8 Oe
+ ZFC
+ FC
+ M (emu/mol)
+ 
+(b)
+FIG. 1:
+(color online) (a) Temperature dependence of re-
+sistivity at three magnetic ﬁelds: µ0H = 0, 6 and 14 T. It
+is clear that, beside a moderate magnetoresistance eﬀect, a
+weak insulating behavior is induced by the magnetic ﬁeld.
+(b) The temperature dependence of magnetization near the
+superconducting transition measured with H = 4.8 Oe in the
+ﬁeld-cooled (FC) and zero-ﬁeld-cooled processes (ZFC). (c)
+An enlarged view for the temperature dependence of resistiv-
+ity at magnetic ﬁelds of (from bottom to top) 0, 0.1 to 0.8
+T with increments of 0.1 T; 1, 1.5, 2 to 7 with increments of
+1 T; and 9, 12, 14 T. It is found that the bulk superconduc-
+tivity can be quickly suppressed by the magnetic ﬁeld, while
+the onset transition temperature changes slightly, indicating a
+strong ﬂuctuation eﬀect. (d) Temperature dependence of the
+resistivity (as shown in c) normalized at 10 K. A kink can be
+clearly seen at about 4 K when the magnetic ﬁeld is high and
+the bulk superconductivity is suppressed completely. The red
+arrowed line traces out the evolution from the superconduct-
+ing onset transition in the low ﬁeld region to a kink at high
+magnetic ﬁelds.
+ture stabilization was better than 0.1% and the resolution
+of the voltmeter was better than 10 nV.
+In Fig. 1(a) we present the temperature dependence
+of resistivity measured at three magnetic ﬁelds: µ0H =
+0, 6 and 14 T. In addition to the moderate magnetore-
+sistance, one can see that a weak insulating behavior is
+induced by the magnetic ﬁeld.
+This is of course anti-
+intuitive for a normal state with Fermi liquid character-
+istic. A simple explanation would be that the insulating
+feature is given by an adjacent competing order here,
+once the superconductivity is suppressed, the latter is
+promoted. However, we should mention that the insu-
+lating behavior starts actually at 25 K (at 6 and 14 T)
+which is far beyond the superconducting transition tem-
+perature here. Another possibility is that the conduction
+band has a very shallow band edge, as illustrated by the
+band structure calculations.[10] When a magnetic ﬁeld
+is applied, the density of states (DOS) of the spin-up
+and spin-down electrons will become asymmetric given
+0
+100
+200
+300
+-1.4
+-1.2
+-1.0
+-0.8
+0
+2
+4
+6
+8
+10
+-0.10
+-0.05
+0.00
+ 
+ 
+R
+H
+ (10
+-7
+m
+3
+/C)
+T (K)
+0
+H = 9 T
+(b)
+ 
+ 
+ 
+0
+H (T)
+xy
+ (m
+ cm)
+ T =  2 K     
+ T =100K
+ T = 10 K    
+ T = 150 K
+ T = 50 K    
+ T = 200 K
+                            
+ T = 300 K
+(a)
+FIG. 2: (color online)(a) The transverse resistivity ρxy ver-
+sus the magnetic ﬁeld µ0H at diﬀerent temperatures. The
+curves are extremely curved, indicating a very strong multi-
+band eﬀect and/or the shallow band edge eﬀect.
+(a) The
+Hall coeﬃcient RH calculated at 9 T, a clear temperature de-
+pendence can be seen here, again supporting the multi-band
+eﬀect. The symbols represent the data measured by sweeping
+the magnetic ﬁeld at ﬁxed temperatures. The solid line shows
+the data measured at -9T and 9T by sweeping temperature.
+Both set of data coincide very well.
+by the Zeeman eﬀect. Therefore we have some polarized
+electrons which induce the weak insulating behavior. In
+Fig. 1(b) we present the magnetization data measured
+in the zero-ﬁeld-cooled (ZFC) and the ﬁeld-cooled mode
+(FC). The superconducting magnetic transition starts at
+about 3.6 K, far below the onset transition temperature
+which is about 10 K (determined by the deviating from
+the normal state background of resistivity) and 4.6 K (de-
+termined in using the crossing point of the normal state
+line and the extrapolation of the steep transition line).
+Therefore strong superconducting ﬂuctuation is clearly
+present in this sample. This is actually expected by the
+band structure calculations which predict a low dimen-
+sionality of the electronic structure, and can be corrob-
+orated by the quickly broadened transition under mag-
+netic ﬁelds, as shown in Fig. 1(c). One can see that the
+bulk superconductivity can be suppressed above 2 K by a
+magnetic ﬁeld as low as 0.9 T. However, even the bulk su-
+perconductivity can be easily suppressed, a kink appears
+on the ρ vs T curve. If following the onset transition of
+the resistivity, as shown in Fig. 1(d), we can clearly see
+
+
+3
+0
+2
+4
+6
+8
+10
+1.0
+1.2
+1.4
+1.6
+1.8
+0
+H (T) 
+                            
+ T = 50 K
+                            
+ T = 100 K
+ T = 150 K  
+ T = 200 K
+ T = 250 K  
+ T = 300 K
+ 
+xx
+ (m
+ cm)
+ T = 10 K  
+ T = 15 K
+ T = 25 K
+(a)
+0
+2
+4
+6
+8
+0.0
+0.2
+0.4
+0.6
+ 
+ 
+xx
+/
+0
+0
+H/
+0
+ (T/m
+ cm)
+(b)
+FIG. 3: (color online)(a) Field dependence of magnetoresis-
+tance ∆ρ/ρ(0) at diﬀerent temperatures. One can see that
+the MR does decrease when the temperature is increased as
+expected by an electron-scattering. (b) Kohler plot for the
+sample at diﬀerent temperatures, and the Kohler’s rule is not
+obeyed.
+that the kink can be traced back very well with the upper
+critical ﬁeld Hc2(T ) in the low ﬁeld region. Surprisingly,
+this kink stays at about 4 K even with a magnetic ﬁeld
+of 14 T. We interpret this kink as the residual Cooper
+pairs existing in the system even the bulk superconduc-
+tivity is completely suppressed. Following the tendency
+of this kink, a very high critical ﬁeld can be expected in
+the zero temperature limit, which certainly exceeds the
+Pauli limit given by µ0Hp = 1.84Tc (T) (where Tc is in
+unit of Kelvin).[11]
+In order to elucidate the normal state transport prop-
+erties, we did the Hall eﬀect measurement.
+As shown
+in Fig. 2 (a), the transverse resistivity remains negative
+at all temperatures, indicating the electron like charge
+carriers as the dominating one.
+It is remarkable that
+the ﬁeld dependence of ρxy exhibits an extremely curved
+feature at all temperatures, prohibiting any single band
+description of Fermi liquid.
+Since the plot ρxy vs.
+H
+is extremely curved, it is not possible to use the slope
+of dρxy/dT to determine the Hall coeﬃcient, we thus
+determine the Hall coeﬃcient RH by using the formula
+RH = ρxy/H at a ﬁxed magnetic ﬁeld, here 9T. The data
+is shown in Fig. 2 (b). A clear temperature dependence
+of the Hall coeﬃcient RH can be seen. One can see that
+the temperature dependence of the Hall coeﬃcient RH
+is non-monotonic. An enhancement of RH is observed
+below 25 K, which coincides very well with the starting
+point of the insulating behavior as seen from the resis-
+tivity data. Taking the value at 2 K, and using a single
+band assumption, we get the charge carrier density of
+4.5 × 1019/cm3. This indicates that the superconductor,
+as the cuprates and the iron pnictides, has a very low
+superﬂuid density.
+In the study of the Hall eﬀect of clean MgB2 supercon-
+ductors, our group has also observed a curved ρxy vs. H
+and a strong temperature dependence of RH, this was ex-
+plained very well by the multiband scattering eﬀect.[12]
+As explained in that paper, a natural consequence of the
+multiband eﬀect is that one should see a strong magne-
+toresistance eﬀect. It is well known that the magnetore-
+sistance is a very powerful tool to investigate the elec-
+tronic scattering process and the message of the Fermi
+surface.
+As mentioned above, in MgB2, a large mag-
+netoresistance (MR) was found which is closely related
+to the multiband property.[12, 13] For the present new
+superconductor, we also measured and found a moder-
+ate MR, as shown in Fig. 1(a) and (c).
+In Fig. 3 (a)
+we present the ﬁeld dependence of the longitudinal resis-
+tivity. Clearly a 40% to 50% increase of resistivity can
+be observed at a magnetic ﬁeld of 9 T. In Fig. 3(b) we
+present the MR ratio, i.e., ∆ρ/ρ0, where ρxx is the resis-
+tivity and ρ0 is the resistivity at zero ﬁeld. One can see
+that the MR is about 52% at 10 K and 9 T. This MR
+ratio is signiﬁcant and diﬃcult to be understood with
+a single band picture of the Fermi liquid. Considering
+that the sample is a polycrystalline sample, the MR ef-
+fect may be weakened by mixing the transport compo-
+nents with the magnetic ﬁeld along diﬀerent directions
+of the crystallographic axes.
+For a single band metal
+with a symmetric Fermi surface, the Kohler’s law is nor-
+mally obeyed. Kohler’s law[14] shows that the magne-
+toresistance ∆ρxx/ρ0 measured at diﬀerent temperatures
+should be scalable with the variable H/ρ0. For MgB2,
+the Kohler’s law is not obeyed because of the multiband
+property.[13] We also do the scaling based on the Kohler’s
+law for this sample, the result is shown in Fig. 3 (b).
+Clearly, the data measured at diﬀerent temperatures do
+not overlap and the Kohler’s law is seriously violated for
+this material.
+This discrepancy indicates that in this
+new superconductor there is clear multiband eﬀect, as ex-
+pected by the theoretical calculations.[10] However, the
+MR in this sample do show some specialty. For two-band
+or multiband materials with weak MR, the MR ratios
+could be well described by the expression ∆ρ/ρ0 ∝H2
+in the low ﬁeld region. This is because the contribution
+of the higher order even terms of µ0H could be omitted
+at a low ﬁeld (the odd terms are absent here according
+to the Boltzmann equation for electronic transport). But
+for the present material, the MR ratio exhibits a roughly
+linear feature in the low ﬁeld region, deviating from the
+expectation. This eﬀect is also found in NbSe2 which has
+a complex Fermi surface structure.[15] In this sense, the
+
+
+4
+0
+5
+10
+15
+20
+25
+30
+0
+2
+4
+6
+8
+0
+100
+200
+300
+0.6
+0.9
+1.2
+ 
+ 
+ 
+(10
+-3
+ emu/mol Oe)
+T (K)
+ 
+ 
+1/(
+(0))(10
+3
+ mol Oe/emu)
+T (K)
+FIG. 4: (color online) Main panel: Temperature dependence
+of the magnetic susceptibility measured at 3 T. The solid line
+is a ﬁt to the theoretical expression (see text). The inset gives
+a ﬁt to the data in low temperature region.
+anomalies mentioned above in the present new supercon-
+ductor may also be induced by multiband eﬀect together
+with complex Fermi surfaces.
+Next we have a look at whether there is a sizable
+local magnetic moment.
+For a system with the mag-
+netic ﬂuctuation given by the local moments, the mag-
+netization have two major origins:
+Pauli susceptibil-
+ity and the ionic (orbital and the nuclei) contribution.
+Assuming the total magnetic susceptibility is given by
+χ(T ) = χ(0)[1 −(T/TE)2] + C/(T + T0). The ﬁrst term
+comes from the Pauli susceptibility corrected with a tem-
+perature dependence of the DOS at the Fermi energy.
+The TE is a parameter proportional to the Fermi energy.
+The second term is related to the magnetism arising prob-
+ably from the contributions of the local moments.
+In
+Fig. 4 we show the temperature dependence of the mag-
+netic susceptibility measured at a ﬁeld of 3 Tesla. One
+can see a plateau of the magnetic susceptibility above 100
+K, which is mainly contributed by the conduction elec-
+trons (the Pauli susceptibility). In the low temperature
+region, one can clearly see a divergence of the suscep-
+tibility. By ﬁtting the data to above equation, we get
+χ(0) = 0.000736 emu/molOe, TE = 1335 K, C = 0.0034
+emuK/molOe and T0 = 3.32 K. Once C is determined,
+we can get the magnetic moment given by each Bi atom.
+It turns out that µeff/Bi = 0.096µB. This indicates that
+the local moment of the Bi atom is very weak although
+with a ﬁnite value.
+Finally we present a phase diagram based on our trans-
+port and magnetization measurement and give discus-
+sions on the possible mechanism of superconductivity.
+As shown in Fig. 5, the onset superconducting transition
+point giving rise to the upper critical ﬁeld Hc2 deter-
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+2
+3
+4
+5
+6
+ 
+ 
+T (K)
+0
+H (T)
+ H
+c2
+ (99%
+n
+)
+ H
+c
+ (kink)
+ H
+c2
+ (cross)
+ H
+irr
+ (5%
+n
+)
+Residual Cooper Pairs
+FIG. 5: (color online) Phase diagram derived from the resis-
+tive transition curves. The onset transition point gives rise to
+the upper critical ﬁeld Hc2 shown by the red ﬁlled circles, the
+bulk superconductivity is established in a very small area cov-
+ered by the curve name Hirr(T) (blue down triangles). The
+large area between them indicates a strong superconducting
+phase ﬂuctuation. The curve marked with Hc2 (cross) marks
+the upper critical ﬁeld determined using the usual crossing
+point of the normal state background and the extrapolated
+line of the steep resistive transition part. The curve Hc (kink)
+shows the point determined from the kinky point of the resis-
+tive data shown in Fig. 1(d).
+mined by 99%ρn is shown by the red ﬁlled circles. The
+bulk superconductivity is established in a very small area
+covered by the irreversibility line Hirr(T) (blue down tri-
+angles). The large area between them indicates a strong
+superconducting phase ﬂuctuation. This is actually con-
+sistent with the theoretical expectation because the elec-
+tronic system has an one dimensional feature. The curve
+marked with H2c (cross) gives the upper critical ﬁeld de-
+termined using the usual crossing point of the normal
+state background and the extrapolated line of the steep
+resistive transition part. The most puzzling point is the
+kink appearing in the ρ vs. T data at a high magnetic
+ﬁeld. The curve marked with Hc(kink) shows the critical
+ﬁeld determined from the kinky point of the resistive data
+shown in Fig. 1(d), by following the trace of the arrowed
+red line there. Since this line traces very well to the onset
+transition point marked by Hc2(99%ρn) in the low ﬁeld
+region, we naturally attribute it to the existence of resid-
+ual Cooper pairs. If this kink can be interpreted as the
+onset for the pairing, that would indicate a very strong
+pairing strength. In a simple BCS argument, we have
+Hc2 = (πΦ0)/2¯hv2
+F )∆2
+sc, where Φ0 is the ﬂux quanta, vF
+is the Fermi velocity. Such a strong pairing needs cer-
+tainly a reasonable cause, which exceeds the limit of the
+simple phonon mediated picture. Taking account of the
+
+
+5
+weak correlation eﬀect in the Bi 6p electrons, some other
+novel mechanism, such as the valence ﬂuctuation of the
+Bi2+ and Bi3+, may play an important role in this new
+superconductor.
+In summary, resistivity, Hall eﬀect and magnetization
+have been intensively investigated on the new supercon-
+ductor Bi4O4S3. A weak insulating behavior is induced
+in the normal state when a high magnetic ﬁeld is ap-
+plied. This can be induced either by an adjacent com-
+peting order, or the very shallow px and py band and
+small Fermi energy. Both the strong non-linear Hall ef-
+fect and the magnetoresistance indicate the multiband
+feature. A kink appears on the temperature dependence
+of resistivity at all high magnetic ﬁelds when the bulk
+superconductivity is completely suppressed.
+This kink
+can be well traced back to the upper critical ﬁeld Hc2(T )
+in the low ﬁeld region. We argue that the superconduct-
+ing pairing, for some reason, could be very strong and
+occur ﬁrst in the one dimensional chains, then the bulk
+superconductivity is established through the Josephson
+coupling between them.
+We appreciate the useful discussions with Qianghua
+Wang and Jianxin Li.
+This work is supported by the
+NSF of China, the Ministry of Science and Technology
+of China (973 projects: 2011CBA00102), and Chinese
+Academy of Sciences.
+∗hhwen@nju.edu.cn
+[1] J. G. Bednorz and K. A. Muller, Z. Physik B 64, 189
+(1986).
+[2] Y. Kamihara et al., J. Am. Chem. Soc. 130, 3296 (2008).
+[3] P. W. Anderson et al., J. Phys. Condens. Matter 16,
+R755 (2004).
+[4] D. J. Scalapino, Phys. Rep. 250, 329 (1995). T. Moriya
+and K. Ueda, Rep. Prog. Phys. 66, 1299(2003). P. Mon-
+thoux, D. Pines and G. Longarich, Nature 450, 20
+(2007).
+[5] N. Ni et al., Phys. Rev. B 78, 214515 (2008).
+[6] Q. M. Si and F. Steglich, Science 329, 1161 (2010).
+[7] M. Dressel et al., J. Phys. Cond. matt. 23, 293201 (2011).
+[8] Yoshikazu Mizuguchi, et al., arXiv 1207.3145.
+[9] Yoshikazu Mizuguchi, et al., arXiv 1207.3558.
+[10] Hidetomo Usui, Katsuhiro Suzuki, Kazuhiko Kuroki,
+arXiv 1207.3888.
+[11] A. M. Clogston, Phys. Rev. Lett. 9, 266 (1962).
+[12] Huan Yang, et al., Phys. Rev. Lett. 101, 067001(2008).
+[13] Qi Li, et al., Phys. Rev. Lett. 96, 167003(2006).
+[14] J. M. Zinman, Electrons and Phonons, Classics Series,
+Oxford University Press, New York(2001).
+[15] R. Corcoran,et al.,
+J. Phys.:
+Condens. Matter. 6,
+4479(1994).
+
+

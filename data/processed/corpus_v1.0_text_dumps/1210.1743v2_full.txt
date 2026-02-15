@@ -1,0 +1,310 @@
+arXiv:1210.1743v2  [cond-mat.supr-con]  17 Oct 2012
+Phonon spectra and superconductivity of BiS2-based compounds
+LaO1−xFxBiS2
+B. Li and Z. W. Xing∗
+National Laboratory of Solid State Microstructures and
+Department of Materials Science and Engineering,
+Nanjing University, Nanjing 210093, China
+G. Q. Huang
+Departement of Physics, Nanjing Normal University, Nanjing 210046, China
+Abstract
+Using the density-functional perturbation theory with structural optimization, we investigate
+the electronic structure, phonon spectra, and superconductivity of BiS2-based layered compounds
+LaO1−xFxBiS2. For LaO0.5F0.5BiS2, the calculated electron-phonon coupling constant is equal to
+λ = 0.8, and obtained Tc ≃9.1 K is very close to its experimental value, indicating that it is a
+conventional electron-phonon superconductor.
+PACS numbers: 74.20.Pq, 74.25.Kc, 63.20.kd
+1
+
+
+.
+The recent discovery of superconductivity in the BiS2-based compounds has attracted
+much attention due to their layered crystal structure and physical properties similar to
+cuprate and Fe-based superconductors. The Bi4O4S3 superconductor was found to exhibit
+metallic transport behavior and to show a zero-resistivity state below 4.5 K.1 Soon after, an-
+other type of BiS2-based systems, ReO1−xFxBiS2 (Re = La, Ce, Pr, and Nd), were reported
+to be superconducting with transition temperatures Tc equal to 10.6, 3.0, 5.5, and 5.6 K,
+respectively.2–5 For Bi4O4S3 (ReO1−xFxBiS2), superconductivity can be obtained by elec-
+trons doping into the insulating parent compound Bi6O8S5 (ReOBiS2). Experimental and
+theoretical studies indicated that these materials exhibit multiband behavior with dominant
+electron carriers originating mainly from the Bi 6p orbitals.1,6–12
+In this Letter we report the calculated results for the electronic structure of LaO1−xFxBiS2
+(x = 0, 0.5, and 1), phonon dispersions and electron-phonon coupling of superconducting
+LaO0.5F0.5BiS2. From the ﬁrst-principles calculation, it is shown that the parent compound
+LaOBiS2 is a band insulator with an energy gap of ∼0.8 eV , similar to the ground state of
+cuprate and pnictide superconductors. Upon F doping, the Fermi level moves up and the
+system appears a metallic nature. We obtain electron-phonon coupling constant λ = 0.8 and
+superconducting transition temperature Tc ≃9.1 K in LaO0.5F0.5BiS2, indicating that this
+compound can be explained as a conventional phonon-mediated superconductor, quite diﬀer-
+ent from the Fe-based materials13,14 but somewhat similar to the Ni-based compounds.15,16
+We used the full-potential linearized augmented plane wave method implemented in the
+WIEN2K package17 for the lattice parameter optimization and electronic structure calcula-
+tions. The generalized gradient approximation (GGA) presented by Wu and Cohen18 was
+used for the exchange-correlation energy calculations. This GGA is a nonempirical approx-
+imation that gives signiﬁcant improvements of calculations for lattice constants and crystal
+structures. The phonon dispersion and the electron-phonon coupling are calculated using
+density functional perturbation theory (DFPT). The phonon dispersions were obtained in
+linear response via the QUANTUM-ESPRESSO program19 and ultrasoft pseudopotentials.
+The GGA of Perdew-Burke-Ernzerhof20 was adopted for the exchange-correlation potentials
+with a cutoﬀof 60 Ry for the wave functions and 600 Ry for the charge density.
+LaO1−xFxBiS2 with x=0 or 1 is crystallized in the ZrCuSiAs type tetragonal structure
+(P4/nmm) with La, Bi, S1 in the Bi planes, S2 in between Bi-S1 and La-O(F) planes, and
+2
+
+
+TABLE I: Various optimized structural parameters for LaO1−xFxBiS2 with x=0, 0.5, and 1.
+LaOBiS2 LaO0.5F0.5BiS2 LaFBiS2
+a (˚A)
+4.0677
+4.1091
+4.1524
+c (˚A)
+14.3085
+13.4196
+12.9554
+V (˚A3)
+236.75
+226.59
+223.38
+zLa
+0.0890
+0.1073
+0.1276
+zBi
+0.6309
+0.6145
+0.6090
+zS1
+0.3945
+0.3844
+0.3691
+zS2
+0.8073
+0.8128
+0.8163
+dBi−S1(˚A)
+2.8993
+2.9056
+2.9499
+dBi−S2(˚A)
+2.5231
+2.6621
+2.6862
+O(F) being at the positions 2c(0.5, 0, zLa), 2c(0.5, 0, zBi), 2c(0.5, 0, zS1), 2c(0.5, 0, zS2),
+and 2a(0, 0, 0), respectively. The F substitution at the O sites in LaO0.5F0.5BiS2 reduces
+the symmetry to a space group of P-4m2. Starting from the lattice parameters (a = 4.0527
+˚A and c = 13.3237 ˚A) reported by Mizuguchi et al.2, we have performed the full structural
+optimization including the lattice parameters and atomic positions, the obtained results
+being summarized in Table I. It is found that, with doping F from x = 0 to x = 1, the a
+value increases gradually but the c value decreases, accompanied with a decrease of primitive
+cell volume V . By making a comparison in the atomic bond length between LaO0.5F0.5BiS2
+and LaOBiS2, one ﬁnds that the Bi-S2 bond expands due to F doping while dBi−S1 for the
+Bi-S1 bond remains almost unchanged.
+The calculated band structures and electronic density of states (DOS) are shown in Fig.
+1. The contribution of orbital states to the band structure are characterized by diﬀerent
+colors: blue (Bi-p), red (S1-p), and green (O-p and S2-p). For LaOBiS2, the Fermi level
+is located at the upper edge of valence bands with an energy gap of ∼0.8 eV, indicating
+an insulating behavior. The valance bands spread from around −6 eV to 0 and consist of
+the p states of the O and S atoms. While the La-d and La-f states lie above 4 eV, far
+away from the Fermi level, the Bi-p and S1-p states dominate the conduction bands. For
+doped LaO0.5F0.5BiS2, the Fermi level enters the conduction bands coming from the Bi-p
+3
+
+
+TABLE II: Phonon mode frequencies (cm−1) at Γ and M points in LaO0.5F0.5BiS2. I: infrared
+active, R: Raman active.
+Γ(0, 0, 0)
+B2(I + R)
+0
+65.4
+145.4
+249.4 270.1 412.2
+E(I + R)
+0
+39.3
+44.0
+78.4 122.8
+153.6 171.3
+184.1
+243.8 345.1
+A1(R)
+74.8 138.3
+168.4
+305.9
+M(0.5, 0.5, 0)
+A1
+61.3
+81.3
+155.8
+195.8
+A2
+55.5 101.7
+123.5
+189.3 275.8
+B1
+60.8
+81.6
+169.5
+199.6
+B2
+56.3
+94.3
+103.3
+191.0 299.6
+E
+71.0
+74.9
+148.4
+220.5 269.8 403.4
+and S1-p states, so that the Bi-S1 layers dominantly contribute to the electronic conduction.
+As shown in Fig. 1b, the present Fermi level crosses four bands of electron pockets, and
+so LaO0.5F0.5BiS2 has electron carriers, which is well consistent with the Hall resistance
+measurements.10 The DOS at the Fermi level is equal to N(EF) = 1.22 eV−1 on a per
+formula unit both spins basis, and the corresponding bare susceptibility and speciﬁc heat
+coeﬃcient are given by χ0 = 4.0×10−5 emu/mol and γ0 = 3.0 mJ/mol K2, respectively. For
+LaFBiS2, the Fermi level further enters the conduction bands and the energy gap increases
+to ∼1.1 eV. Meanwhile, the DOS at the Fermi level increases to N(EF) = 1.84 eV−1 per
+formula unit both spins, yielding χ0 = 6.0 × 10−5 emu/mol and γ0 = 4.5 mJ/mol K2.
+The calculated phonon dispersions of LaO0.5F0.5BiS2 are plotted in Fig. 2a, in which
+there are 30 phonon bands extending up to ∼450 cm−1 and the point group at the Γ and
+M points is D2d. The Γ and M-point modes can be decomposed as Γ = 6B2
+L 10E L 4A1
+and M = 4B1
+L 4A1
+L 5B2
+L 5A2
+L 6E. Note that the E mode is degenerate, and its
+frequencies are listed in Table II. The Raman modes at the zone center can be measured
+directly by experiments in near future. The corresponding phonon density of states (PDOS),
+Eliashberg spectral function α2F(ω), electron-phonon coupling λ(ω) and projected PDOS
+4
+
+
+are shown in Fig. 3. There are three distinct peaks centered at ∼70 cm−1 (A1 mode at Γ
+point), ∼190 cm−1 (E mode at Γ point), and ∼250 cm−1 (B2 mode at Γ point), respectively,
+corresponding to three thick lines from lower to upper in Fig. 2a. As shown in Fig. 2b, the A1
+mode corresponds to the vertical vibrations with the upper and lower BiS2-layers (La-layers)
+beating against each other. The E mode corresponds to the in-plane stretching vibrations
+with motion along the x(y) axis. In the B2 mode, the La, Bi, and S1 atoms vibrate along the
+same z direction, opposite to the vibration direction of the S2, O, and F atoms. From Fig.
+3, one can see that the bands around 70 cm−1 comes mainly from the PDOS contributions
+of the Bi and La motion, the peak at 190 cm−1 mainly corresponds to the S character, and
+that at 250 cm−1 corresponds to F, O and S character. The calculated Eliashberg spectral
+function has peaks in consistent with the PDOS at the low-frequency regime, and is evidently
+enhanced in the intermediate frequency regime. In the DFPT calculations, the Eliashberg
+spectral function depends directly on the electron-phonon matrix element:
+α2F(ω) =
+1
+N(EF)Nk
+X
+kqν
+| gν
+nk,m(k+q) |2
+×δ(εnk)δ(εm(k+q))δ(ω −ωqν).
+(1)
+Here, Nk is the number of k points used in the summation, N(EF) is the density of states at
+the Fermi level, and ωgν are the phonon frequencies. The electron-phonon matrix element |
+gν
+nk,m(k+q) |2 is deﬁned by the variation in the self-consistent crystal potential. It follows that
+the electron-phonon interaction of Bi-S1 bond plays an important role in the enhancement of
+α2F(ω). From the λ(ω) curves in Fig. 3a, where λ(ω) = 2
+R ω
+0 [α2F(Ω)/Ω]dΩ, one ﬁnds that
+λ(220) ≃0.7 has been close to λ(∞) ≃0.8, indicating that the phonon modes in the low and
+intermediate frequency regimes have the main contribution to the electron-phonon coupling.
+From the α2F(ω) spectra in Fig. 3, we get the electron-phonon coupling λ = 0.8 and the
+logarithmically averaged frequency ωln =192 K. Using further the Allen-Dynes formula with
+the Coulomb parameter µ∗= 0.1, we ﬁnally obtain Tc = 9.1 K, which is found very close to
+the experimental value Tc = 10.6 K.2 It then follows that the doped LaO0.5F0.5BiS2 is very
+likely a conventional electron-phonon superconductor.
+In summary, the present ﬁrst-principles calculations indicate that LaO1−xFxBiS2 changes
+from a band insulator at x = 0 to a band metal upon doping. Similar to LaFeAsO1−xFx,
+electrons in LaO1−xFxBiS2 are doped from the LaO(F) redox layer to the superconducting
+BiS2 layers.
+The p-orbital states of Bi-S1 layers play an important role in the electron
+5
+
+
+transformation due to their domination of the DOS at the Fermi level. From the phonon
+calculations for LaO0.5F0.5BiS2, we obtain a strong electron-phonon coupling of λ = 0.8 and
+a superconducting transition temperature of Tc = 9.1 K, the latter being very close to its
+experimental value. It then follows that LaO0.5F0.5BiS2 is a conventional electron-phonon
+superconductor.
+For LaO1−xFxBiS2, we have shown that the electronic states near the Fermi level are dom-
+inantly from the hybridized p orbital states of the Bi and S1 atoms, and the electron-phonon
+coupling comes mainly from the contribution of the Bi and S phonons. These facts indicate
+that the BiS2 layers play an important role in the transport and superconducting properties,
+similar to the CuO2 layers of the cuprates or Fe-As layers of the Fe-based superconductors.
+I.
+ACKNOWLEDGMENTS
+This work is supported by the State Key Program for Basic Researches of China
+(2010CB923404), the National Natural Science Foundation of China (11074109 and
+11174125), the National ”Climbing” Program of China (91021003), and the Natural Science
+Foundation of Jiangsu Province (BK2010012).
+∗Electronic address: zwxing@nju.edu.cn
+1 MIZUGUCHI Y., FUJIHISA H., GOTOH Y., SUZUKI K., USUI H., KUROKI K., DEMURA
+S., TAKANO Y., IZAWA H., and MIURA O., arXiv:1207.3145 (2012).
+2 MIZUGUCHI Y., DEMURA S., DEGUCHI K., TAKANO Y., FUJIHISA H., GOTOH Y.,
+IZAWA H., and MIURA O., arXiv:1207.3558 (2012).
+3 XING J., LI S., DING X., YANG H., and WEN H.-H., arXiv:1208.5000 (2012).
+4 JHA R., SINGH S. K., and AWANA V. P. S., arXiv:1208.5873 (2012).
+5 DEMURA S., MIZUGUCHI Y., DEGUCHI K., OKAZAKI H., HARA H., WATANABE T.,
+DENHOLME S. J., FUJIOKA M., OZAKI T., FUJIHISA H., GOTOH Y., MIURA O., YAM-
+AGUCHI T., TAKEYA H., and TAKANO Y., arXiv:1207.5248 (2012).
+6 USUI H., SUZUKI K., and KUROKI K., arXiv:1207.3888 (2012).
+6
+
+
+7 LI S., YANG H., TAO J., DING X., and WEN H.-H., arXiv:1207.4955 (2012).
+8 SINGH S. K., KUMAR A., GAHTORI B., SHRUTI, SHARMA G., PATNAIK S., and AWANA
+V. P. S., arXiv:1207.5428 (2012).
+9 TAN S. G., LI L. J., LIU Y., TONG P., ZHAO B. C., LU W. J., and SUN Y. P., arXiv:1207.5395
+(2012).
+10 AWANA V. P. S., KUMAR A., JHA R., KUMAR S., KUMAR J., PAL A., SHRUTI, SAHA
+J., and PATNAIK S., arXiv:1207.6845 (2012).
+11 WAN X. G., DING H. C., SAVRASOV S., DUAN C. G., arXiv:1208.1807v2 (2012).
+12 YILDIRIM T., arXiv:1210.2418v1 (2012).
+13 BOERI L., DOLGOV O. V., and GOLUBOV A. A., Phys.Rev.Lett., 101 (2008) 026403.
+14 LI B., XING Z. W., and LIU M., Appl.Phys.Lett. 98 (2011) 072506; LI B., XING Z. W.,
+HUANG G. Q., and M. Liu, J.Appl.Phys., 111 (2012) 033922.
+15 SUBEDI A., SINGH D. J. and DU M.-H., Phys.Rev.B, 78 (2008) 060506(R).
+16 SUBEDI A., and SINGH D. J., Phys.Rev.B, 78 (2008) 132511(R).
+17 BLAHA P., SCHWARZ K., MADSEN G., KVASNICKA D., and LUITZ J., WIEN2K (Tech-
+nische Universitat Wien, Austria, 2007).
+18 WU Z., and COHEN R. E., Phys.Rev.B, 73 (2006) 235116.
+19 See http://www.quantum-espresso.org for information about QUANTUM-ESPRESSO code.
+20 PERDEW J. P., BURKE K., and ERNZERHOF M., Phys.Rev.Lett., 77 (1996) 3865.
+7
+
+
+Figure Caption
+Figure 1. (Color online) Calculated band structure and density of states of LaO1−xFxBiS2
+for x=0 (a), 0.5 (b), and 1 (c), with orbital character indicated by diﬀerent colors: Bi-p
+(blue), S1-p (red), and O-p and S2-p (green).
+Figure 2.
+(Color online) (a)Calculated phonon dispersion curves of LaO0.5F0.5BiS2.
+(b)Atom vibration pattern of the A1, E and B2 modes at Γ point.
+Figure 3. (Color online) (a) Phonon density of states G(ω), electron-phonon spectral
+function α2F(ω) and electron-phonon coupling λ(ω) for LaO0.5F0.5BiS2.
+(b) Projected
+phonon density of states for each atom.
+8
+
+
+FIG. 1: Calculated band structure and density of states for LaO1−xFxBiS2 with x=0 (a), 0.5 (b),
+and 1 (c) with orbital character indicated by diﬀerent colors: Bi-p (blue), S1-p (red), and O-p and
+S2-p (green).
+9
+
+
+FIG. 2: (a) Calculated phonon dispersion curves of LaO0.5F0.5BiS2. (b) Atom vibration pattern
+of the A1, E and B2 modes at Γ point.
+10
+
+
+FIG. 3:
+(a) Phonon density of states G(ω), electron-phonon spectral function α2F(ω) and electron-
+phonon coupling λ(ω) for LaO0.5F0.5BiS2. (b) Projected phonon density of states for each atom.
+11
+
+

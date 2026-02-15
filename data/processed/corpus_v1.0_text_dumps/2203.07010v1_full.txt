@@ -1,0 +1,676 @@
+1 
+ 
+The upper critical field in the BiCh2-based superconductors 
+CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3) 
+ 
+Ryosuke Kiyama1, Kazuhisa Hoshi1, Yosuke Goto1, Masanori Nagao2, Yoshikazu Mizuguchi1* 
+ 
+1. 
+Department of physics, Tokyo Metropolitan University, 1-1, Minami-osawa, Hachioji, 192-0397, 
+Japan. 
+2. 
+Center for Crystal Science and Technology, University of Yamanashi, 7-32, Miyamae, Kofu, 400-
+0021, Japan. 
+ 
+E-mail: mizugu@tmu.ac.jp 
+ 
+Abstract 
+We report the upper critical field (Bc2) in the BiCh2-based superconductors CeOBiS1.7Se0.3 and 
+PrO0.5F0.5BiS2-xSex (x = 0, 0.3). Single crystals of CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3) 
+were grown using the flux method. Single-crystal structural analysis revealed that the crystal structure 
+at room temperature is tetragonal (P4/nmm). Through electrical resistivity and magnetization 
+measurements, bulk superconductivity was observed in all samples. For CeOBiS1.7Se0.3, the in-plane 
+Bc2 is smaller than the conventional orbital limit and Pauli limit, suggesting that ferromagnetic ordering, 
+which has been observed in a related Ce-containing BiCh2-based compound, affects Bc2 and 
+superconductivity. In contrast, high in-plane Bc2 was observed for PrO0.5F0.5BiS2-xSex (x = 0, 0.3). We 
+propose that the in-plane Bc2 is enhanced by antisymmetric spin–orbit coupling, which arises from the 
+lack of local inversion symmetry. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+2 
+ 
+Ⅰ. Introduction 
+ 
+Since the discovery of BiCh2-based (Ch: S, Se) superconductors in 2012 [1-3], the BiCh2-
+based compound family has attracted considerable attention owing to the similarities of their crystal 
+structures with those of cuprate and FeAs-based superconductors [4-5]. A typical BiCh2-based system 
+is given by REOBiCh2 (RE: rare earth), which has a layered structure composed of alternating stacks 
+of electrically conductive BiCh2 layers and insulating (blocking) REO layers. In general, the parent 
+phase of REOBiCh2 is a band insulator [3,6]. Hence, electron carrier doping to the conduction bands, 
+which are mainly composed of Bi-6px and Bi-6py orbitals in the system, is required to induce 
+superconductivity [3]. In addition, the optimization of local crystal structures is essential for the 
+emergence of bulk superconductivity because the superconducting properties are strongly affected by 
+the presence of in-plane local disorders (local distortion) in BiCh2-based compounds [7-9]. One of the 
+typical routes to suppress local structural disorder is to increase the in-plane chemical pressure (CP) 
+[3,10]. There are two ways to apply a positive in-plane CP in the REOBiCh2 system: (i) using a smaller 
+RE and/or (ii) substituting Se for the S site. In particular, the flexibility of compositional manipulation 
+of the REO blocking layers has made it possible to synthesize BiCh2-based superconductors with 
+various compositions. Although many experimental [11] and theoretical [12] investigations have been 
+performed with various compositions, superconducting gap symmetry and the pairing glue remain 
+unclear. Therefore, further convincing evidence and research from a new perspective are highly 
+desired. 
+ 
+In 2004, the heavy fermion superconductor CePt3Si without global inversion symmetry was 
+discovered [13], which triggered various studies on noncentrosymmetric superconductivity. In non-
+centrosymmetric systems, antisymmetric spin–orbit coupling (ASOC) is induced, and many novel 
+properties such as parity mixing, magnetoelectric effects [14,15], and anomalous paramagnetic pair-
+breaking effects [16,17] can be expected. Recently, theoretical studies have predicted that the breaking 
+of local inversion symmetry affects the physical properties, even if the global inversion symmetry is 
+preserved [18]. Moreover, an anomalous upper critical field (Bc2) was observed in artificial 
+superlattices composed of the heavy-fermion superconductor CeCoIn5 and normal metal YbCoIn5 
+owing to the Rashba-type ASOC, wherein the local inversion symmetry is broken [19]. Although many 
+systems have local inversion symmetry, spin polarization generally cancels each other. Therefore, 
+there are only a limited number of materials in which the effect of local inversion asymmetry on the 
+physical properties can be observed. For BiCh2-based compounds, a theoretical study predicted that 
+hidden spin polarization by local Rashba-type ASOC should exist because of site inversion asymmetry 
+for the Bi and S sites [20]. Indeed, spin polarization attributed to the local Rashba-type ASOC was 
+observed by spin-ARPES (SARPES) for LaO0.55F0.45BiS2 [21]. Furthermore, notably, the type of rare 
+earth element and Se substitution could change the amplitude of ASOC [22]. We expect that studies 
+that include the effect of local inversion asymmetry will bring about new viewpoints on 
+
+
+3 
+ 
+superconducting mechanisms in BiCh2-based superconductors. 
+ 
+Very recently, extremely high Bc2 was observed in LaO0.5F0.5BiS2-xSex (x = 0.22, 0.69) single 
+crystals [23]. In these compounds, the superconducting states were not destroyed even at a magnetic 
+field strength of 55 T. This result implies that local inversion asymmetry plays a significant role in 
+superconductivity, and the paramagnetic pair-breaking effect is suppressed by the Rashba-type ASOC. 
+A high Bc2 value was also observed in LaO0.5F0.5BiS2 and NdO0.7F0.3BiS2 single crystals [24,25]. 
+However, detailed measurements of Bc2 have not yet been conducted for Ce- and Pr-containing systems. 
+Therefore, the investigation of Bc2 for these crystals is desired to further understand the effects of 
+Rashba-type ASOC in REOBiCh2-type superconductors. 
+ 
+The target materials of this study were CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3). 
+In CeOBiS1.7Se0.3, bulk superconductivity was observed in single crystals and polycrystalline samples, 
+with a Tc of ~3 K [26,27]. Notably, external elemental substitution on the REO layer is not required to 
+generate electron carriers in the BiCh2 layers because the carriers are self-doped via the mixed-valence 
+states of Ce [26,28]. In addition, a previous study indicated that superconductivity and ferromagnetism 
+coexist in CeO1-xFxBiS2 systems [29,30]; thus, we can expect novel behaviors related to magnetic 
+ordering through Bc2 measurements for the Ce system. In contrast, bulk superconductivity was 
+observed in polycrystalline samples PrO1-xFxBiS2 (x = 0.3–0.9) [31]. In the PrO0.7F0.3BiS2 single 
+crystal, the Tc was 3.8 K, and a high superconducting anisotropy parameter of γ = 53–58 was observed 
+[32]. Because Se-substituted samples have not been reported for the Pr system, we synthesized single 
+crystals of PrO0.5F0.5BiS2-xSex (x = 0, 0.3) and investigated the effect of Se substitution on Bc2 in this 
+study. Pr ions, which have two f-electrons (S = 1, L = 5, and J = 4 for the ground state multiplet), are 
+non-Kramer ions, which suggests that the crystal field can produce non-magnetic singlet states. Hence, 
+the results for Bc2 may show clear differences between the Ce and Pr systems. As a result of this study, 
+we show that the magnetic field-temperature phase diagrams for superconducting states in Ce-based 
+and Pr-based systems exhibit clear differences. 
+ 
+ 
+Ⅱ. Experimental 
+ 
+CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3) single crystals were grown using a high-
+temperature flux method in an evacuated quartz tube. First, polycrystalline samples with nominal 
+compositions of CeOBiS1.6Se0.4 and PrO0.5F0.5BiS2-xSex (x = 0, 0.4) were prepared by the solid-state 
+reaction method, as described in Refs. 26 and 33. The obtained polycrystalline samples (~1.0 g) were 
+mixed with CsCl flux at a molar ratio of 1:20 and then sealed in an evacuated quartz tube. The sealed 
+tube was heated at 950 °C for 15 h and slowly cooled to 650 °C at a rate of −1.0 °C/h. After the furnace 
+cooled to room temperature, the quartz tube was opened under an air atmosphere, and the CsCl flux 
+in the samples was dissolved in pure water.  
+
+
+4 
+ 
+ 
+The obtained samples were characterized by single-crystal X-ray structural analysis with 
+Mo-Kα ( = 0.71075 Å) radiation on an XtaLAB (Rigaku). The structural parameters were refined 
+with the tetragonal (P4/nmm) structural model using the refinement program SHELXL [34]. A crystal 
+structure image was depicted using VESTA software [35]. The single crystals were analyzed using 
+scanning electron microscopy (SEM), and their chemical compositions were investigated using 
+energy-dispersive X-ray spectroscopy (EDX), with the exception of light elements. 
+ 
+Electrical resistivity measurements were performed using a four-terminal method. The 
+terminals were fabricated using Au wire and Ag paste. Resistivity measurements in magnetic fields of 
+up to 9 T and 2 K were performed using a physical property measurement system (Quantum Design, 
+PPMS) with a horizontal rotator. The temperature dependence of magnetic susceptibility was 
+measured using a superconducting quantum interference device (SQUID) magnetometer with an 
+applied field of 10 Oe after zero-field cooling (ZFC) and field cooling (FC) on an MPMS3 (Quantum 
+Design). 
+ 
+ 
+Ⅲ. Results and discussion 
+A. Crystal structure 
+ 
+Figure 1 shows the crystal structure of the target system REOBiCh2. This system belongs to 
+a centrosymmetric space group (P4/nmm) with a noncentrosymmetric polar site (point group C4v for 
+Bi, Ch, and RE atoms) and noncentrosymmetric nonpolar sites (point group S4 for O atoms). The 
+crystal structure of REOBiCh2 can be divided into three sectors: two inversion-partner BiCh2 layers 
+(-sector and -sector in Fig.1) and the REO blocking layer [20]. The two adjacent BiCh2 layers were 
+weakly coupled by van der Waals forces. A theoretical study suggested that the amplitude of the ASOC 
+needs to be larger than the interlayer coupling to affect the physical properties of locally 
+noncentrosymmetric multilayer systems [18]. In BiCh2-based compounds, the REO blocking layer 
+does not affect the band structure near the Fermi surface and acts as a buffer layer. Therefore, the 
+interlayer coupling is weak and the spin polarization does not cancel out between the -sector and -
+sector. 
+ 
+
+
+5 
+ 
+ 
+FIG. 1. Crystal structure image of REOBiCh2 with a space group of P4/nmm (No. 129). Ch1 and Ch2 
+denote the in-plane and out-of-plane chalcogen sites, respectively. The -sector and -sector represent 
+the inversion BiCh2 layers, and the inversion symmetry is broken in each sector. 
+ 
+ 
+ 
+We performed single-crystal X-ray structural analysis on PrO0.5F0.5BiS2-xSex (x = 0, 0.3) 
+single crystals. Details of the analysis conditions and the refined structural parameters of 
+CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3) are summarized in Table I. CeOBiS1.7Se0.3 were 
+taken from Ref. 27. Because Se ions selectively occupy the in-plane Ch1 sites [36], the Se occupation 
+ratio for the Ch2 sites was fixed at 0. In PrO0.5F0.5BiS2-xSex, the lattice parameters (a and c) increase 
+with Se substitution, which can be explained by the difference in the ionic radii of Se2- and S2-. Similar 
+elongations of lattice parameters by Se substitution have been observed in LaO0.5F0.5BiS2-xSex and 
+CeOBiS2-xSex [26,37]. The average ratios of the constituent elements (except for O and F) from the 
+EDX analysis are shown in Table II, where the RE value was fixed at 1 for normalization. The chemical 
+ratios estimated using EDX were consistent with the site occupancies obtained from the X-ray 
+structural analysis. 
+ 
+ 
+ 
+
+
+6 
+ 
+Table I. Refined crystal structure parameters of CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3). 
+The data of CeOBiS1.7Se0.3 were taken from Ref. 27. The atomic coordinates are RE(0, 0.5 z), O/F(0, 
+0, 0), Bi(0, 0.5, z), Ch1(0, 0.5, z), and Ch2(0, 0.5, z).  
+ 
+CeOBiS1.7Se0.3 
+PrO0.5F0.5BiS2 
+PrO0.5F0.5BiS1.7Se0.3 
+Formula weight 
+443.29 
+431.51 
+445.58 
+Space group 
+P4/nmm (#129) 
+P4/nmm (#129) 
+P4/nmm (#129) 
+a (Å) 
+4.0327(9) 
+4.0180(9) 
+4.0348(9) 
+c (Å) 
+13.603(4) 
+13.403(5) 
+13.410(4) 
+V (Å3) 
+221.22(9) 
+216.38(9) 
+218.31(9) 
+z (RE) 
+0.0915(2) 
+0.0972(2) 
+0.0966(1) 
+z (Bi) 
+0.6288(1) 
+0.6256(1) 
+0.6246(1) 
+z (Ch1) 
+0.3804(8) 
+0.3767(9) 
+0.3759(4) 
+z (Ch2) 
+0.8135(8) 
+0.8120(7) 
+0.8108(4) 
+Se occupancy at Ch1 
+0.28(5) 
+- 
+0.31(4) 
+Se occupancy at Ch2 
+0 (fixed) 
+- 
+0 (fixed) 
+Residuals: R (All reflections) 
+0.0793 
+0.0550 
+0.0408 
+Goodness of fit indicator 
+1.184 
+1.120 
+0.781 
+Temperature (K) 
+293 
+293 
+293 
+ 
+Table II. The average ratio of the constituent elements (except for O and F) from EDX analysis of 
+CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3). The data of CeOBiS1.7Se0.3 were taken from Ref. 
+27. The RE value was fixed to 1 for normalization. 
+ 
+CeOBiS1.7Se0.3 
+PrO0.5F0.5BiS2 
+PrO0.5F0.5BiS1.7Se0.3 
+RE 
+1(fixed) 
+1(fixed) 
+1(fixed) 
+Bi 
+1.00(1) 
+0.97(2) 
+1.01(2) 
+S 
+1.74(2) 
+2.06(1) 
+1.83(1) 
+Se 
+0.30(1) 
+- 
+0.28(4) 
+ 
+ 
+B. CeOBiS1.7Se0.3 
+ 
+Figure 2 shows the temperature dependence of (a) the ab-plane resistivity (ρab) and (b) the 
+magnetization after ZFC and FC with an applied field of 10 Oe parallel to the c-axis. The zero-
+resistivity temperature (Tczero) and Tc estimated from magnetization measurements were ~3.3 K, which 
+is almost the same as the previous result [27]. In addition, a large diamagnetic signal corresponding to 
+superconductivity was observed, indicating that the observed superconducting states were bulk in 
+nature. 
+
+
+7 
+ 
+ 
+ 
+FIG. 2. Temperature dependence of (a) the ab-plane resistivity ρab and (b) the magnetization (ZFC and 
+FC). The black dashed line denotes the normal state resistivity n just above Tc. 
+ 
+ 
+ 
+FIG. 3. The field dependence of the ab-plane resistivity ρab at different temperatures with (a) B//ab 
+and (b) B//c. The arrow indicates the direction from low to high temperatures. 
+ 
+ 
+Figures 3(a) and 3(b) show the field dependence of ρab at different temperatures for B//ab 
+and B//c, respectively. In BiCh2-based superconductors, the robustness of the superconducting state 
+against the ab-plane magnetic field has been reported, and the superconducting states survive under 
+ab-plane magnetic fields higher than 9 T [23-25]. In contrast, the superconducting states in 
+CeOBiS1.7Se0.3 are suppressed under the ab-plane magnetic field below ~1.2 T (Fig.3(a)). Interestingly, 
+
+
+8 
+ 
+even though the temperature decreased from 2.5 K to 2 K, the superconducting states were destroyed 
+under almost the same magnetic field. In the case of B//c, the superconducting states were immediately 
+suppressed by the applied field, similar to other BiCh2-based superconductors [23-25]. The behaviors 
+observed in Fig. 3(a) and 3(b) are consistent with the temperature dependence of ρab under various 
+magnetic fields with B//ab and B//c (Fig. S1 in the Supplemental Material [38]). 
+ 
+Figure 4 shows Bc2 with (a) B//ab and (b) B//c as functions of the (normalized) temperature 
+t = T/Tc. We defined three characteristic fields: the high-field onset of the superconducting transition 
+(90% of n), mid-point field (50% of n), and zero-resistivity field (0% of n). Here, we define the 
+normal state resistivity (n) as the black dashed line in Fig. 2(a). We estimated the orbital limit Bc2orb(0) 
+from the initial slope of Bc2 at Tc based on the relation Bc2orb(0) = 0.69Tc(−dBc2/dT)Tc in the dirty limit 
+[39] and describe the Werthamer–Helfand–Hohenberg (WHH) curves (dashed lines in Fig. 4). In the 
+case of B//ab, we found a clear difference between the observed data and WHH curves, suggesting 
+that the orbital pair-breaking effect is not dominant. Furthermore, the value of Bc2//ab gradually 
+approached a constant value in the low-temperature region. However, the orbital pair-breaking effect 
+is dominant in the case of B//c, which is confirmed by the consistency between the WHH curves and 
+the experimental data. For the paramagnetic pair-breaking effect, the Pauli limit is estimated from the 
+relation BP(0) = 1.86Tc if we assume spin-singlet and weak-coupling superconductors. The Pauli limit 
+is estimated to be 6.1 T ( black diamond in Fig. 4(a)), and this value is much higher than the observed 
+Bc2//ab. The superconducting anisotropic parameter  was estimated to be 5.9 at 2.0 K based on the 
+relation Bc2//ab/ Bc2//c. This value is much lower than those of other BiCh2-based superconductors 
+[40] because of the smallness of Bc2//ab. 
+ 
+Herein, we discuss the origin of this unexpectedly low Bc2//ab. A previous study of electrical 
+resistivity, magnetization, and specific heat measurements in CeOBiS2 single crystals showed that the 
+Ce 4f-electron state is well-localized split by crystalline-electric-field (CEF) effects, and the CEF 
+ground state is a pure |±1/2> doublet [41]. In addition, the ab-plane was found to be a magnetic easy 
+plane. In neutron scattering measurements of high-pressure-annealed CeO0.7F0.3BiS2 polycrystals with 
+superconductivity, the magnetic moments were found to be ferromagnetically aligned along the c-axis 
+below 7 K, and the ferromagnetic component developed in the ab-plane by applying an external 
+magnetic field [30]. A similar magnetic structure was observed for CeAgSb2 [42]. Given these 
+previous studies, spins possibly flop to the ab-plane by applying a magnetic field of ~ 1 T, which forms 
+ferromagnetic ordering along the ab-plane in CeOBiS1.7Se0.3. Consequently, the internal magnetic field 
+due to ferromagnetic ordering may break the superconductivity. 
+ 
+
+
+9 
+ 
+ 
+FIG. 4. The upper critical field Bc2 with (a) B//ab and (b) B//c as a function of (normalized) temperature 
+t = T/Tc. The Bc2 is defined by the high-field onset of superconducting transition (90% of n), the mid-
+point field (50% of n), and the zero-resistivity field (0% of n). The dashed curves show the 
+Werthamer–Helfand–Hohenberg (WHH) fits. The black diamond denotes the Pauli limit. 
+ 
+ 
+ 
+Figure 5(a) shows a schematic of the rotation angle  for upper critical field measurements. 
+The angular dependence of Bc2 at 2 K is shown in Figure 5(b). The value of Bc2() was estimated from 
+the midpoint of the resistivity transition. The solid and dashed lines in Fig. 5(b) represent the 
+anisotropic three-dimensional (3D) Ginzburg-Landau (GL) model and the two-dimensional (2D) 
+Tinkham model, respectively. In the anisotropic-3D-GL model, the angular  dependence of Bc2 is 
+expressed as the relation (Bc2() cos/Bc2//c)2 + (Bc2() sin/ Bc2//ab)2 = 1. In contrast, in the 2D-Tinkham 
+model, the angular  dependence of Bc2 is expressed as |Bc2() cos/Bc2//c| + (Bc2() sin/ Bc2//ab)2 = 1. 
+The experimental data were well described by the 2D-Tinkham model, suggesting that two-
+dimensional nature is dominant in CeOBiS1.7Se0.3. This result supports the scenario of ferromagnetic 
+ordering along the ab-plane. At 3 K, the two dimensionalities were slightly lower (Fig. S2 in the 
+Supplemental Material [38]). 
+ 
+
+
+10 
+ 
+ 
+FIG. 5. (a) Schematic image of the rotation angle. (b) The angular dependence of the upper critical 
+field Bc2 at 2.0 K. The solid line denotes the anisotropic 3D-Ginzburg-Landau (GL) model. The dashed 
+line denotes the 2D-Tinkham model. 
+ 
+ 
+C. PrO0.5F0.5BiS2-xSex 
+ 
+Figures 6(a) and 6(b) show the temperature dependences of ρab for x = 0 and 0.3, respectively. 
+The Tczero in both samples was ~4.5 K, and the Tczero for x = 0 was consistent with that observed in a 
+previous study [32]. In the normal state, a broad anomaly was observed at approximately 100 K for x 
+= 0. Similar behaviors have been observed in PrO0.7F0.3BiS2 and NdO1-xFxBiS2 single crystals [32,43]. 
+Although CDW-like instability has been pointed out for BiCh2-based compounds [44-46], the origin 
+of the observed anomaly is unclear at present. Se substitution suppresses the anomalous behavior, as 
+shown in Fig. 6(b). Figure 6(c) shows the temperature dependence of the magnetization after ZFC and 
+FC with an applied field of 10 Oe parallel to the c-axis. We can confirm the bulk nature of the 
+superconductivity. The irreversible temperature Tcirr, which is a bifurcation point between the ZFC and 
+FC curves, is 4.4 K and 4.5 K for x = 0 and 0.3, respectively. In this system, Se substitution did not 
+significantly affect the Tc. The phase diagram in CeO0.5F0.5BiS2-xSex exhibits dome-shaped behavior 
+upon Se substitution, while the Se substitution in NdO0.5F0.5BiS2-xSex decreases Tc [47]. Therefore, 
+applying too much CP negatively affects superconductivity in NdO0.5F0.5BiS2-xSex. Our results imply 
+that the PrO0.5F0.5BiS2-xSex system lies in the middle region between the Ce and Nd systems. 
+ 
+
+
+11 
+ 
+ 
+FIG. 6. The temperature dependence of the ab-plane resistivity (ρab) for (a) x = 0 and (b) x = 0.3. The 
+black dashed lines denote the normal state resistivity (n) just above Tc. (c) The temperature 
+dependence of the magnetization (ZFC and FC) for x = 0 and 0.3. 
+ 
+ 
+ 
+FIG. 7. The field dependence of the ab-plane resistivity ρab at different temperatures for x = 0 with (a) 
+B//ab and (b) B//c and for x = 0.3 with (c) B//ab and (d) B//c. The arrow indicates the direction from 
+low to high temperatures. 
+ 
+ 
+Figure 7 shows the field dependence of ρab for x = 0 at different temperatures with (a) B//ab 
+and (b) B//c, and for x = 0.3 at different temperatures with (c) B//ab and (d) B//c. In the case of B//ab, 
+
+
+12 
+ 
+the superconductivity was robust against the applied field in both samples. By contrast, in the case of 
+B//c, the superconducting states were immediately suppressed by the field. The robustness of 
+superconductivity under the fields for x = 0.3 is remarkable in the case of x = 0. The behaviors in Fig. 
+7 are consistent with the temperature dependence of ρab under various magnetic fields (Fig. S3 in the 
+Supplemental Material [38]). 
+ 
+ 
+Figure 8 shows Bc2 as a function of (normalized) temperature t = T/Tc for x = 0 with (a) B//ab 
+and (b) B//c and for x = 0.3 with (c) B//ab and (d) B//c. The definitions of the three types of upper 
+critical field are the same as those in Fig. 4. We define n as the black dashed line in Fig. 6(a) and 6(b). 
+In the case of B//ab, the orbital pair-breaking effect was dominant in both samples because the WHH 
+curves described the experimental data well. In general, the orbital limit is enhanced when the 
+coherence length along the c-axis (c) is shorter than the thickness of the REO blocking layer, and a 
+Josephson vortex state is formed. In the Josephson vortex state, the orbital limit deviates from the 
+WHH curve. We estimated c from the relations Bc2//c = 0/2ab2 and Bc2//ab = 0/2abc. This led to 
+11 Å for x = 0 at 3.2 K, and 10 Å for x = 0.3 at 3.5 K. These values are larger than the REO blocking 
+layer thickness of 2.6 Å ( 293 K). Therefore, the experimental data fitted the WHH curves. In contrast, 
+the paramagnetic pair-breaking effect was suppressed in both samples. The Pauli limit is estimated to 
+be 8.4 T (the black diamonds in Figs. 8(a) and 8(b)) from the relation BP(0) = 1.86Tc. The experimental 
+data exceeded this value at a finite temperature, and possibly exhibited a higher upper critical field at 
+0 K. Some experimental results for BiCh2-based superconductors indicate a strong coupling nature 
+[48-50], which leads to the enhancement of the Pauli limit. However, even if we use the reported value 
+of 2kBTc = 3.4–4.5, the estimated Pauli limit is smaller than 11 T. Another possibility is that the two-
+gap nature was reported in muon spin-relaxation measurements on LaO0.5F0.5BiS2 [51] and scanning 
+tunneling spectroscopy on NdO0.5F0.5BiS2 [52]. In the LaO0.5F0.5BiS2 single crystal, the two-gap model 
+explained the large upper critical field well [24]. However, the specific heat measurement of 
+LaO0.5F0.5BiSSe single crystals indicates a single-gap nature [50]. We suggested that local inversion 
+asymmetry enhances the Pauli limit in LaO0.5F0.5BiS2-xSex (x = 0.22, 0.69) single crystals [23]. In 
+tetragonal systems with the Rashba-type ASOC, some components of magnetic susceptibility do not 
+change after the superconducting transition, resulting in protection of the Cooper pairs from de-pairing 
+against the applied fields [18,24,53]. To confirm the effect of Rashba-type ASOC on PrO0.5F0.5BiS2-
+xSex, upper critical field measurements below 3 K are required. 
+ 
+In the case of B//c, the paramagnetic pair-breaking effect is suppressed in local inversion 
+asymmetry systems with a tetragonal structure [17,18]. Thus, the orbital pair-breaking effect was 
+dominant in this system. However, the experimental data derived from the WHH curves in the low-
+temperature region are shown in Fig. 8(b) and 8(d). A similar behavior was observed for 
+LaO0.5F0.5BiS2-xSex [23,50]. Although the origin of this behavior is currently unclear, the two-gap 
+
+
+13 
+ 
+model fits well with the experimental data for LaO0.5F0.5BiS2 [24]. The superconducting anisotropic 
+parameter () was estimated to be 34.2 (x = 0) and 38.3 (x = 0.4) at 3.5 K. 
+ 
+ 
+FIG. 8. The upper critical field (Bc2) as a function of (normalized) temperature t = T/Tc. The 
+temperature dependence of Bc2 for x = 0 with (a) B//ab and (b) B//c, and for x = 0.3 with (c) B//ab and 
+(d) B//c. Bc2 is defined by the high-field onset of superconducting transition (90% of n), the mid-point 
+field (50% of n), and the zero-resistivity field (0% of n). The dashed curves show the Werthamer–
+Helfand–Hohenberg (WHH) fits. The black diamond denotes the Pauli limit. 
+ 
+ 
+Figure 9 shows the angular dependence of Bc2 for (a) x = 0 at 3.3 K and (b) x = 0.3 at 3.7 K. 
+The definitions of Bc2(), the solid line, and the dashed line are the same as those in Fig. 5. The 
+experimental data are described by the anisotropic 3D-GL model for x = 0, suggesting that the 3D 
+
+
+14 
+ 
+nature is dominant. In contrast, the two dimensionalities were enhanced for x = 0.4, whereas the 
+experimental data did not fit perfectly with the 2D-Tinkham model. These results indicate that the 
+Abrikosov vortex states or the crossover of the conventional Abrikosov and Josephson vortex states 
+was realized in this system, which is consistent with the behavior of Bc2//ab shown in Figs. 8(a) and 
+8(c). The enhancement of two dimensionalities implies that the Rashba-type ASOC increases with Se 
+substitution because the Rashba-type ASOC generally weakens the interlayer coupling and enhances 
+the 2D nature of the superconductivity [18]. However, a theoretical study suggested that the amplitude 
+of the ASOC is larger in LaOBiS2 than in LaOBiSe2 [22]. In addition, the thickness of a single crystal 
+or the bulk nature of the samples may affect the behavior. Measurement of the angular dependence of 
+the upper critical field using a thin film is highly desirable. The angular dependence of Bc2 at different 
+temperatures is shown in Fig. S4 in the Supplemental Material [38]. 
+ 
+ 
+FIG. 9. The angular dependence of the upper critical field Bc2 for (a) x = 0 at 3.3 K and (b) x = 0.3 at 
+3.7 K. The solid line denotes the anisotropic 3D-Ginzburg-Landau (GL) model. The dashed line 
+denotes the 2D-Tinkham model. 
+ 
+ 
+Ⅳ. Conclusions 
+ 
+We investigated Bc2 of single crystals of BiCh2-based layered superconductors 
+CeOBiS1.7Se0.3 and PrO0.5F0.5BiS2-xSex (x = 0, 0.3). In CeOBiS1.7Se0.3, we observed that Bc2//ab was 
+smaller than the conventional orbital and Pauli limits. This result implies that ferromagnetic ordering 
+along the ab-plane affects Bc2 and superconductivity. In contrast, a high Bc2//ab ratio was observed for 
+PrO0.5F0.5BiS2-xSex (x = 0, 0.3). The temperature dependence of Bc2//ab was well described by the WHH 
+model, and at low temperatures, Bc2//ab exceeded the Pauli limit. The suppression of the paramagnetic 
+pair-breaking effect is due to Rashba-type ASOC, which arises from the lack of local inversion 
+
+
+15 
+ 
+symmetry. In REOBiCh2-based compounds, local inversion asymmetry and the characteristics of the 
+rare-earth element in the REO layer are essential for superconducting properties and pairing 
+mechanisms. 
+ 
+ 
+ACKNOWLEDGMENTS 
+We thank O, Miura, Y. Aoki, and T. D. Matsuda for their support with the experiments and 
+discussions. This work was partly supported by JSPS-KAKENHI (20J21627, 18KK0076, 
+21H00151) and Tokyo Metropolitan Government Advanced Research (H31-1). We would like to 
+thank Editage (www.editage.com) for English language editing. 
+ 
+ 
+References 
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. 
+Izawa, and O. Miura, Phys. Rev. B 86, 220510 (2012). 
+[2] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, 
+J. Phys. Soc. Jpn. 81, 114725 (2012). 
+[3] Y. Mizuguchi, J. Phys. Soc. Jpn.88, 041001 (2019). 
+[4] J. B. Bednorz and K. Müller, Z. Phys. B 64, 189 (1986). 
+[5] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+[6] H. Usui and K. Kuroki, Nov. Supercond. Mater. 1, 50 (2015). 
+[7] A. Athauda and D. Louca, J. Phys. Soc. Jpn. 88, 041004 (2019). 
+[8] E. Paris, Y. Mizuguchi, M. Y. Hacisalihoglu, T. Hiroi, B. Joseph, G. Aquilanti, O. Miura, T. 
+Mizokawa, and N. L. Saini, J. Phys.: Condens. Matter 29, 145603 (2017). 
+[9] Y. Mizuguchi, K. Hoshi, Y. Goto, A. Miura, K. Tadanaga, C. Moriyoshi, and Y. Kuroiwa, J. Phys. 
+Soc. Jpn. 87, 023704 (2018). 
+[10] Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, E. Magome, 
+C. Moriyoshi, and Y. Kuroiwa, Sci. Rep. 5, 14968(1-8) (2015). 
+[11] K. Hoshi and Y. Mizuguchi, J. Phys.: Condens. Matter 33, 473001 (2021). 
+[12] K. Suzuki, H. Usui, K. Kuroki, T. Nomoto, K. Hattori, and H. Ikeda, J. Phys. Soc. Jpn. 88, 041008 
+(2019). 
+[13] E. Bauer, G. Hilscher, H. Michor, C. Paul, E. W. Scheidt, A. Gribanov, Y. Seropegin, H. Noel, M. 
+Sigrist, and P. Rogl, Phys. Rev. Lett. 92, 027003 (2004). 
+[14] V. M. Edelstein: Phys. Rev. B 72, 172501 (2005). 
+[15] S. Fujimoto: Phys. Rev. B 72, 024515 (2005). 
+[16] Y. Yanase and M. Sigrist: J. Phys. Soc. Jpn. 76, 124709 (2007). 
+
+
+16 
+ 
+[17] P A Frigeri, D F Agterberg, and M Sigrist, New J. Phys. 6, 115 (2004). 
+[18] D. Maruyama, M. Sigrist, and Y. Yanase, J. Phys. Soc. Jpn. 81, 034702 (2012). 
+[19] Y. Mizukami, H. Shishido, T. Shibauchi, M. Shimozawa, S. Yasumoto, D. Watanabe, M. 
+Yamashita, H. Ikeda, T. Terashima, H. Kontani, and Y. Matsuda, Nat. Phys. 7, 849–853 (2011). 
+[20] X. Zhang, Q. Liu, J. W. Luo, A. J. Freeman, and A. Zunger, Nature Phys 10, 387–393 (2014). 
+[21] S. L. Wu, K. Sumida, K. Miyamoto, K. Taguchi, T. Yoshikawa, A. Kimura, Y. Ueda, M. Arita, M. 
+Nagao, S. Watauchi, I. Tanaka, and T. Okuda, Nat Commun 8, 1919 (2017). 
+[22] Q. Liu, X. Zhang, H. Jin, K. Lam, J. Im, A. J. Freeman, and A. Zunger, Phys. Rev. B 91, 235204 
+(2015). 
+[23] K. Hoshi, R. Kurihara, Y. Goto, M. Tokunaga, and Y. Mizuguchi, Sci Rep 12, 288 (2022). 
+[24] Y. C. Chan, K. Y. Yip, Y. W. Cheung, Y. T. Chan, Q. Niu, J. Kajitani, R. Higashinaka, T. D. 
+Matsuda, Y. Yanase, Y. Aoki, K. T. Lai, and Swee K. Goh, Phys. Rev. B 97, 104509 (2018). 
+[25] M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. Kumada, and 
+I. Tanaka, J. Phys. Soc. Jpn. 82, 113701 (2013). 
+[26] R. Kiyama, Y. Goto, K. Hoshi, R. Jha, A. Miura, C. Moriyoshi, Y. Kuroiwa, T. D. Matsuda, Y. 
+Aoki, and Y. Mizuguchi, J. Phys. Soc. Jpn. 89, 064702 (2020). 
+[27] R. Kiyama, K. Hoshi, Y. Goto, and Y. Mizuguchi, Phys. Status Solidi RRL 15, 2000546 (2021). 
+[28] M. Nagao, A. Miura, I. Ueta, S. Watauchi, and I. Tanaka, Solid State Commun. 245, 11 (2016). 
+[29] S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. Yamaki, H. Hara, T. 
+Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. Yamaguchi, H. Takeya, 
+and Y. Takano, J. Phys. Soc. Jpn. 84, 024709 (2015). 
+[30] J. Lee, S. Demura, M. B. Stone, K. Iida, G. Ehlers, C. R. dela Cruz, M. Matsuda, K. Deguchi, Y. 
+Takano, Y. Mizuguchi, O. Miura, and S. H. Lee, Phys. Rev. B, 90, 224410 (2014). 
+[31] R. Jha, H. Kishan, and V.P.S. Awana, J. Appl. Phys. 115, 013902(1-10) (2014). 
+[32] M. Nagao, A. Miura, S. Watauchi, Y. Takano, and I. Tanaka, Jpn. J. Appl. Phys. 54, 083101(1-5) 
+(2015). 
+[33] J. Kajitani, K. Deguchi, T. Hiroi, A. Omachi, S. Demura, Y. Takano, O. Miura, and Y. Mizuguchi, 
+J. Phys. Soc. Jpn. 83, 065002 (2014). 
+[34] G. M. Sheldricka, Acta Crystallogr. C 71, 3 (2015). 
+[35] K. Momma and F. Izumi, J. Appl. Crystallogr.41, 653–658(2008). 
+[36] M. Tanaka, T. Yamaki, Y. Matsushita, M. Fujioka, S. J. Denholme, T. Yamaguchi, H. Takeya, and 
+Y. Takano, Appl. Phys. Lett. 106, 112601 (2015). 
+[37] T. Hiroi, J. Kajitani, A. Omachi, O. Miura, and Y. Mizuguchi, J. Phys. Soc. Jpn 84, 024723(1-4) 
+(2015). 
+[38] See Supplemental Material 
+[39] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. 147, 295 (1966). 
+
+
+17 
+ 
+[40] M. Nagao, Nov. Supercond. Mater. 1, 64 (2015). 
+[41] R. Higashinaka, T. Asano, T. Nakashima, K. Fushiya, Y. Mizuguchi, O. Miura, T. D. Matsuda, 
+and Y. Aoki, J. Phys. Soc. Jpn. 84, 023702 (2015). 
+[42] S. Araki, N. Metoki, A. Galatanu, E. Yamamoto, A. Thamizhavel, and Y. Ōnuki, Phys. Rev. B 68, 
+024408 (2003). 
+[43] S. Iwasaki, Y. Kawai, S. Takahashi, T. Suda, Y. Wang, Y. Koshino, F. Ogura, Y. Shibayama, T. 
+Kurosawa, M. Oda, M. Ido, and N. Momono, J. Phys. Soc. Jpn. 88, 041005 (2019). 
+[44] T. Yildirim, Phys. Rev. B 87, 020506(R) (2013). 
+[45] H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J. K. Bao, Y. L. Sun, W. H. Jiao, I. 
+Nowik, I. Felner, Y. K. Li, X. F. Xu, Q. Tao, C. M. Feng, Z. A. Xu, and G. H. Cao, Phys. Rev. B 
+90, 064518 (2014). 
+[46] J. Kajitani, R. Sagayama, H. Sagayama, K. Matsuura, T. Hasegawa, R. Kumai, Y. Murakami, M. 
+Mita, T. Asano, R. Higashinaka, T. D. Matsuda, and Y. Aoki, J. Phys. Soc. Jpn. 90, 103601 (2021). 
+[47] Y. Mizuguchi, T. Hiroi, and O. Miura, J. Phys.: Conf. Ser. 683, 012001 (2016). 
+[48] G. Lamura, T. Shiroka, P. Bonfa, S. Sanna, R. De Renzi, C. Baines, H. Luetkens, J. Kajitani, Y. 
+Mizuguchi, O. Miura, K. Deguchi, S. Demura, Y. Takano, and M. Putti, Phys. Rev. B 88, 180509 
+(2013). 
+[49] L. Jiao, Z. F. Weng, J. Z. Liu, J. L. Zhang, G. M. Pang, C. Y. Guo, F. Gao, X. Y. Zhu, H. H. Wen, 
+and H. Q. Yuan, J. Phys.: Condens. Matter 27, 225701 (2015). 
+[50] N. Kase, Y. Terui, T. Nakano, and N. Takeda, Phys. Rev. B 96, 214506 (2017). 
+[51] J. Zhang, K. Huang, Z. F. Ding, D. E. MacLaughlin, O. O. Bernal, P. C. Ho, C. Tan, X. Liu, D. 
+Yazici, M. B. Maple, and L. Shu, Phys. Rev. B, 94, 224502 (2016). 
+[52] J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, X. Zhu, H. Yang, and H. H. Wen, Europhys. Lett. 106, 
+67002 (2014). 
+[53] S. K. Goh, Y. Mizukami, H. Shishido, D. Watanabe, S. Yasumoto, M. Shimozawa, M. Yamashita, 
+T. Terashima, Y. Yanase, T. Shibauchi, A. I. Buzdin, and Y. Matsuda, Phys. Rev. Lett. 109, 157006 
+(2012). 
+ 
+ 
+ 
+
+
+18 
+ 
+Supplemental Material 
+ 
+ 
+FIG. S1. Temperature dependence of the ab-plane resistivity (ρab) for a CeOBiS1.7Se0.3 single crystals 
+under various magnetic fields along (a) B//ab and (b) B//c. The arrow indicates the direction from low 
+to high magnetic fields. 
+ 
+ 
+ 
+FIG. S2. Angular dependence of the upper critical field (Bc2) at 3.0 K for a CeOBiS1.7Se0.3 single 
+crystal. The solid line denotes the anisotropic 3D-Ginzburg-Landau (GL) model. The dashed line 
+denotes the 2D-Tinkham model. 
+ 
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+80
+85
+90
+95
+100
+Bc2 (T)
+Sample Position  (deg.)
+2D Tinkham
+Anisotropic 3D GL
+3.0 K
+CeOBiS
+1.7Se
+0.3
+
+
+19 
+ 
+ 
+FIG. S3. Temperature dependence of the ab-plane resistivity (ρab) for PrO0.5F0.5BiS2-xSex (x = 0, 0.3) 
+single crystals under various magnetic fields; for x = 0 with (a) B//ab and (b) B//c, and for x = 0.3 with 
+(c) B//ab and (d) B//c. The arrow indicates the direction from low to high magnetic fields. 
+ 
+ 
+
+
+20 
+ 
+ 
+ 
+FIG. S4. Angular dependence of the upper critical field (Bc2) for PrO0.5F0.5BiS2-xSex (x = 0, 0.3) single 
+crystals; for (a) x = 0 at 4.0 K and (b) x = 0.3 at 4.3 K. The solid line denotes the anisotropic 3D-
+Ginzburg-Landau (GL) model. The dashed line denotes the 2D-Tinkham model. 
+
+

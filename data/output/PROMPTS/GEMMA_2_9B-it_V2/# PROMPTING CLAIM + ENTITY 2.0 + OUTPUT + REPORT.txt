@@ -1,0 +1,514 @@
+# PROMPTING CLAIM + ENTITY 2.0
+
+Prompt optimized specifically for:
+
+* **BiS₂ / BiCh₂ superconductors**
+* **Abstracts + excerpts (100–1000 words)**
+* **Stage-1 epistemological claim extraction**
+* **Gemma 2 9B-IT behavior (instruction-tuned, but not JSON-robust)**
+
+This prompt is written to **maximize recall of meaningful physics claims** while **minimizing narrative fluff**, review statements, and generic background.
+
+---
+
+# PROMPT — STAGE 1: CLAIM & ENTITY EXTRACTION (PLAIN TEXT)
+
+---
+
+## **SYSTEM ROLE**
+
+You are a **materials physicist and scientific knowledge extraction expert**, specialized in **BiS₂ / BiCh₂-based layered superconductors**.
+
+You deeply understand:
+
+* How **claims are phrased** in condensed matter physics papers
+* How **experimental evidence**, **structure–property relationships**, and **mechanistic explanations** are implicitly stated
+* The difference between **background knowledge**, **method descriptions**, and **novel scientific findings**
+
+Your task is **NOT summarization**.
+Your task is **epistemological claim extraction** for **knowledge-graph construction**.
+
+---
+
+## **CORE OBJECTIVE**
+
+Given a **scientific text excerpt or abstract** (100–1000 words):
+
+1. **Extract ONLY scientifically meaningful claims**
+2. Each claim must express:
+
+   * A **relationship**
+   * A **causal, correlative, or mechanistic link**
+   * A **finding**, **trend**, or **interpretation**
+3. Ignore:
+
+   * Pure background
+   * Literature surveys without conclusions
+   * Methodological descriptions without outcomes
+   * Speculative future work unless tied to observed results
+
+---
+
+## **DEFINITION — WHAT COUNTS AS A CLAIM**
+
+A valid `{CLAIM}` must satisfy **at least ONE** of the following:
+
+* A material property **changes** due to a driver
+* A structural parameter **correlates** with superconductivity
+* A substitution / pressure / annealing **induces or suppresses** a phase
+* A **mechanism is proposed** to explain an observed effect
+* A **universal trend** or **general rule** is asserted for BiS₂/BiCh₂ systems
+
+If a sentence does **not** encode knowledge usable in a graph → **DO NOT EXTRACT IT**.
+
+---
+
+## **CLAIM EXTRACTION FORMAT (PLAIN TEXT, MARKDOWN)**
+
+For each extracted claim, follow **exactly** this structure:
+
+```markdown
+- {CLAIM}: <Concise scientific statement written in your own words>
+  - {CLAIM ATTRIBUTES}:
+    - Subject:
+    - Driver:
+    - Effect:
+    - Trend:
+    - Mechanism:
+    - Scope:
+  - {ENTITIES}:
+    - {ENTITY 1}: <Name>
+      - Type:
+      - Key Attributes:
+    - {ENTITY 2}: <Name>
+      - Type:
+      - Key Attributes:
+```
+
+---
+
+## **CLAIM ATTRIBUTE EXTRACTION GUIDE**
+
+### **1. Subject**
+
+**What material system is the claim about?**
+
+Examples:
+
+* LaO₀.₅F₀.₅BiS₂
+* NdO₁₋ₓFₓBiS₂
+* BiCh₂-based superconductors (family-level)
+
+---
+
+### **2. Driver**
+
+**What is actively changed or controlled?**
+
+Examples:
+
+* Se substitution (x)
+* Fluorine doping level
+* High-pressure annealing
+* Hydrostatic pressure
+* Rare-earth ionic radius
+* Chemical pressure
+* Carrier concentration
+
+---
+
+### **3. Effect**
+
+**What observable property responds?**
+
+Examples:
+
+* Tc enhancement / suppression
+* Emergence of bulk superconductivity
+* Metal–insulator transition
+* Lattice parameter change
+* Disorder suppression
+* Power factor increase
+* CDW suppression
+
+---
+
+### **4. Trend**
+
+**How does the effect evolve?**
+
+Examples:
+
+* Monotonic increase
+* Linear decrease
+* Dome-shaped dependence
+* Threshold behavior
+* Optimized at x = 0.6
+* Remains unchanged
+
+---
+
+### **5. Mechanism (CRITICAL)**
+
+**Why does the effect occur?**
+
+Extract this **whenever the text provides reasoning**, including:
+
+* In-plane chemical pressure
+* Suppression of in-plane disorder
+* Flattening of Bi–Ch plane
+* Orbital hybridization
+* CDW suppression
+* Enhanced orbital overlap
+* Multi-gap superconductivity
+
+If **structure → property** is implied, you **must extract the mechanism**.
+
+---
+
+### **6. Scope**
+
+**How general is the claim?**
+
+Examples:
+
+* Universal for BiCh₂ systems
+* Specific to Se-substituted samples
+* Valid only under high-pressure annealing
+* Applies to optimally doped region
+
+---
+
+## **ENTITY EXTRACTION RULES**
+
+Entities must be **graph-useful**, not narrative.
+
+### Extract entities such as:
+
+* Materials (explicit compositions)
+* Structural features (Bi–Ch1 plane, lattice constants)
+* Physical quantities (Tc, a-axis, disorder)
+* Experimental treatments (HP annealing, substitution)
+* Abstract physics concepts (chemical pressure, CDW)
+
+### For each entity:
+
+* Assign a **Type**
+* Extract **only attributes explicitly stated or directly implied**
+
+---
+
+## **STRICT CONSTRAINTS**
+
+* Do NOT invent numerical values
+
+* Do NOT rephrase background theory as a claim
+
+* Do NOT merge unrelated findings into one claim
+
+* Do NOT extract review-only statements unless a conclusion is drawn
+
+* Multiple claims per paragraph are allowed
+
+* One claim may involve multiple entities
+
+* Mechanistic claims are HIGH PRIORITY
+
+---
+
+## **OUTPUT QUALITY CHECK (SELF-VALIDATION)**
+
+Before outputting, verify:
+
+* Every `{CLAIM}` could be a **node-edge statement** in a graph
+* Removing the claim would **lose scientific knowledge**
+* The claim could answer **“What did the authors find?”**
+
+---
+
+## **BEGIN EXTRACTION**
+
+You will now receive a **scientific text excerpt**.
+Extract all valid claims following the rules above.
+
+---
+
+
+
+# Results:
+
+Here are the extracted claims from the provided text:
+
+- **{CLAIM}:** Annealing LaO0.5F0.5BiS2 under high pressure generates uniaxial strain along the c axis. 
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2 
+    - Driver: High-pressure annealing
+    - Effect: Uniaxial strain along the c axis
+    - Trend: Induced
+    - Mechanism: HP annealing induces stress
+    - Scope:  Applies to LaO0.5F0.5BiS2
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO0.5F0.5BiS2
+      - Type: Material
+      - Key Attributes: BiS₂-based superconductor, c-axis strain sensitive
+    - {ENTITY 2}: High pressure annealing
+      - Type: Experimental Treatment
+      - Key Attributes:  Induces uniaxial stress
+
+- **{CLAIM}:** Uniaxial strain along the c axis is positively correlated with enhanced superconducting properties (Tc and shielding fraction) in LaO1-xFxBiS2. 
+    - {CLAIM ATTRIBUTES}:
+      - Subject: LaO1-xFxBiS2
+      - Driver: Uniaxial strain along the c axis
+      - Effect: Enhanced superconducting properties (Tc, shielding fraction)
+      - Trend: Positive correlation
+      - Mechanism: Implied - Strain affects electronic/lattice interactions
+      - Scope: Applies to LaO1-xFxBiS2 system
+    - {ENTITIES}:
+      - {ENTITY 1}: LaO1-xFxBiS2
+        - Type: Material Family
+        - Key Attributes: BiS₂-based superconductor
+      - {ENTITY 2}: Uniaxial strain along c axis
+        - Type: Structural Property
+        - Key Attributes: Induced by HP annealing
+
+- **{CLAIM}:** Reducing the uniaxial strain along the c axis degrades superconducting properties in LaO1-xFxBiS2.
+   - {CLAIM ATTRIBUTES}:
+     - Subject: LaO1-xFxBiS2
+     - Driver:  Reduction of uniaxial strain along c axis
+     - Effect: Degradation of superconducting properties 
+     - Trend: Negative correlation/degradation
+     - Mechanism: Implied - Strain is beneficial for superconductivity
+     - Scope: Applies to LaO1-xFxBiS2 system
+
+
+**NOTES:**
+
+* The text heavily implies that the strain mechanism is related to electronic interactions (e.g., bandwidth, coherence), but explicit mechanistic details are not provided.
+
+
+
+Let me know if you would like me to analyze another text excerpt!
+
+
+
+This is a **very useful diagnostic output** — thank you for sharing it.
+Short version: **the extraction is structurally good, but epistemologically unsafe in a few critical places**. The issues you’re seeing are *exactly* the failure modes we expect if the prompt does not sufficiently constrain **mechanism inference and trend fabrication**.
+
+I’ll go step by step.
+
+---
+
+## REPORT
+
+### ✅ What the model did WELL
+
+* Correctly identified **three distinct claims**
+* Correctly separated:
+
+  * structural effect (strain generation)
+  * structure → superconductivity correlation
+  * reversibility / degradation
+* Correct subject identification (LaO₀.₅F₀.₅BiS₂ vs LaO₁₋ₓFₓBiS₂)
+* Good claim granularity (no over-merging)
+
+This means your **claim detection logic is working**.
+
+---
+
+### ❌ What is PROBLEMATIC (and why it matters)
+
+There are **three serious epistemic violations** that will poison a KG if left unfixed:
+
+---
+
+## 2. Critical error ①: Fabricated MECHANISMS
+
+### Example
+
+> **Mechanism:** *HP annealing induces stress*
+> **Mechanism:** *Implied – Strain affects electronic/lattice interactions*
+
+### Why this is wrong
+
+The paper **does NOT provide a microscopic or electronic mechanism**.
+It only states:
+
+> “the enhancement … is caused by the generation of uniaxial strain along the c axis”
+
+That is a **causal attribution**, not a **mechanism**.
+
+In physics ontology terms:
+
+* “generation of strain” = **Driver → Effect**
+* “why strain enhances Tc” = **Mechanism (NOT provided)**
+
+### Correct handling
+
+* **Mechanism must be OMITTED**, not filled with a paraphrase or speculation.
+
+---
+
+## 3. Critical error ②: Forced “Trend” semantics
+
+### Example
+
+> **Trend:** Induced
+> **Trend:** Positive correlation
+> **Trend:** Negative correlation/degradation
+
+### Why this is dangerous
+
+“Induced” is **not a trend**.
+Correlation language is acceptable **only when explicitly stated or supported by comparative phrasing**.
+
+In 1306.3346v2:
+
+* The authors compare:
+
+  * as-grown
+  * HP-annealed
+  * strain-relaxed samples
+
+So:
+
+* **Positive correlation** is defensible
+* **Induced** is not a trend — it’s a verb
+
+---
+
+## 4. Critical error ③: Overconfident entity attributes
+
+### Example
+
+```yaml
+Key Attributes:
+  BiS₂-based superconductor
+  c-axis strain sensitive
+```
+
+“c-axis strain sensitive” is an **interpretive label**, not an extracted fact.
+
+KG rule:
+
+> Entity attributes must be **explicit**, **measured**, or **categorical** — not conclusions.
+
+---
+
+## 5. What the *correct* extraction should look like
+
+Below is a **gold-standard corrected version** of the SAME claims, following your intended epistemic rigor.
+
+---
+
+### ✅ Corrected Claim 1
+
+```markdown
+- {CLAIM}: High-pressure annealing of LaO0.5F0.5BiS2 generates uniaxial strain along the c axis.
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO0.5F0.5BiS2
+    - Driver: High-pressure annealing
+    - Effect: Uniaxial strain along the c axis
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO0.5F0.5BiS2
+      - Type: Material
+      - Key Attributes: BiS2-based superconductor
+    - {ENTITY 2}: Uniaxial strain (c axis)
+      - Type: Structural deformation
+```
+
+✔ No fake mechanism
+✔ No fake trend
+
+---
+
+### ✅ Corrected Claim 2
+
+```markdown
+- {CLAIM}: Enhanced superconducting properties correlate with the presence of uniaxial strain along the c axis in LaO1-xFxBiS2.
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO1-xFxBiS2
+    - Driver: Uniaxial strain along the c axis
+    - Effect: Enhanced superconducting properties (Tc, shielding fraction)
+    - Trend: Positive correlation
+  - {ENTITIES}:
+    - {ENTITY 1}: LaO1-xFxBiS2
+      - Type: Material family
+    - {ENTITY 2}: Superconducting transition temperature (Tc)
+      - Type: Physical property
+```
+
+✔ Trend is allowed
+✔ Mechanism omitted
+
+---
+
+### ✅ Corrected Claim 3
+
+```markdown
+- {CLAIM}: Reduction of uniaxial strain along the c axis degrades superconducting properties in LaO1-xFxBiS2.
+  - {CLAIM ATTRIBUTES}:
+    - Subject: LaO1-xFxBiS2
+    - Driver: Reduction of uniaxial strain
+    - Effect: Degradation of superconducting properties
+  - {ENTITIES}:
+    - {ENTITY 1}: Uniaxial strain (c axis)
+      - Type: Structural deformation
+```
+
+✔ Clean
+✔ Reversible physics captured
+
+---
+
+## 6. Why the model behaved this way (important insight)
+
+This happened because:
+
+1. **You asked for MECHANISM strongly** (good)
+2. **But did not explicitly forbid inferred mechanisms**
+3. Gemma 2 9B-IT tries to be “helpful” by filling blanks
+4. LM Studio does not apply safety rails like JSON schema validators
+
+So the model **hallucinates weak mechanisms and trends** to satisfy perceived completeness.
+
+---
+
+## 7. The ONE fix that will solve 80% of this
+
+Add this **hard prohibition block** to your prompt:
+
+```markdown
+### Mechanism Extraction Rule (STRICT)
+
+- Extract {MECHANISM} ONLY if the text explicitly provides a physical explanation
+  (e.g., disorder suppression, chemical pressure, orbital overlap).
+- DO NOT restate the Driver or Effect as a Mechanism.
+- DO NOT infer electronic or lattice mechanisms unless explicitly stated.
+- If no mechanism is provided, OMIT the field entirely.
+```
+
+And this:
+
+```markdown
+### Trend Extraction Rule
+
+- Use {TREND} ONLY when the text describes a comparative or directional relationship
+  (e.g., increases with x, decreases under pressure, dome-shaped).
+- Do NOT use verbs such as "induced", "generated", or "observed" as trends.
+```
+
+---
+
+## 8. Bottom line (very important)
+
+Your pipeline is **fundamentally sound**.
+What you are seeing is **not a failure**, but a **prompt precision issue**.
+
+Once you:
+
+* forbid inferred mechanisms
+* demote trend to conditional
+* restrict entity attributes
+
+
+

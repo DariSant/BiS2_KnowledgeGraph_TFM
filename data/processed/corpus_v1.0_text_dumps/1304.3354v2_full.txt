@@ -1,0 +1,942 @@
+arXiv:1304.3354v2  [cond-mat.supr-con]  16 Sep 2013
+Strong coupling superconductivity and prominent superconducting ﬂuctuations in the
+new superconductor Bi4O4S3
+LI Sheng1, YANG Huan1,†, FANG DeLong1, WANG ZhenYu2, TAO Jian1, DING XiaXin1, and WEN HaiHu1,∗
+1Center for Superconducting Physics and Materials,
+National Laboratory of Solid State Microstructures and Department
+of Physics, Nanjing University, Nanjing 210093, China and
+2National Laboratory for Superconductivity, Institute of Physics and National Laboratory for Condensed Matter Physics,
+Chinese Academy of Sciences, Beijing 100190, China
+Electric transport and scanning tunneling spectrum (STS) have been investigated on polycrys-
+talline samples of the new superconductor Bi4O4S3. A weak insulating behavior in the resistive
+curve has been induced in the normal state when the superconductivity is suppressed by applying
+a magnetic ﬁeld. Interestingly, a kink appears on the temperature dependence of resistivity near
+4 K at all high magnetic ﬁelds above 1 T when the bulk superconductivity is completely suppressed.
+This kink associated with the upper critical ﬁeld as well as the wide range of excess conductance
+at low ﬁeld and high temperature are explained as the possible evidence of strong superconduct-
+ing ﬂuctuation. From the tunneling spectra, a superconducting gap of about 3 meV is frequently
+observed yielding a ratio of 2∆/kBTc ≈16.6. This value is much larger than the one predicted by
+the BCS theory in the weak coupling regime (2∆/kBTc ≈3.53), which suggests the strong coupling
+superconductivity in the present system. Furthermore, the gapped feature persists on the spectra
+until 14 K in the STS measurement, which suggests a prominent ﬂuctuation region of supercon-
+ductivity. Such superconducting ﬂuctuation can survive at very high magnetic ﬁelds, which are far
+beyond the critical ﬁelds for bulk superconductivity as inferred both from electric transport and
+tunneling measurements.
+PACS numbers: 97.80.Fk, 97.10.Cv, 97.60.Bw, 97.20.Rp
+Superconductivity is induced by quantum condensa-
+tion of a large number of paired electrons. The pairing
+is supposed to be established between the two electrons
+with opposite momentum and spins by exchanging the
+phonons.
+According to the Bardeen-Cooper-Schrieﬀer
+(BCS) theory, a linear relationship between the electron
+pairing gap ∆and superconducting (SC) critical tem-
+perature Tc, i.e., 2∆/kBTc = 3.53 exists in the weak
+coupling regime. In recent years, the original proposal
+about the pairing based on the electron-phonon coupling
+has been gradually replaced by the more exotic pairing
+mechanism, such as through exchanging the magnetic
+spin ﬂuctuations, and Tc can be increased to a higher
+level. The SC pairing mechanism of the cuprates1 and
+the iron pnictides2, although not yet being settled down
+completely, should have a close relationship with strong
+correlation eﬀect. In cuprates3 and pnictides4, the ratio
+2∆/kBTc is generally much larger than that predicted
+by the weak coupling BCS theory, implying the strong
+coupling superconductivity (in some conventional BCS
+superconductors, like Pb, Hg and PbBi, the coupling is
+also strong5). Another important issue for cuprates is
+that the electron correlation in the normal state may in-
+duce strong superconducting ﬂuctuation which has been
+widely investigated6–10. However, the ﬂuctuation region
+in iron pnictides seems not that wide11,12. SC ﬂuctua-
+tion was used to be associated with another characteris-
+tic property, the so-called pseudogap eﬀect in cuprates13.
+However the SC ﬂuctuation temperature was proved to
+be diﬀerent from the pseudogap temperature by further
+experiments14,15. Although pseudogap has a very close
+relationship with superconductivity, there is however no
+consensus yet on the origin of it in cuprates. The scan-
+ning tunneling spectra show a continuous evolution from
+the SC gap feature to the pseudogap feature which exists
+at temperatures far above Tc16. High-Tc superconductiv-
+ity should have a close relationship with the correlation
+eﬀect of electrons from the 3d orbitals17–19. In the heavy
+Fermion systems20 and organic materials21, a similar con-
+clusion may be achieved. In this regard, it is natural to
+explore new superconductors with possible higher transi-
+tion temperatures in compounds with transition metal el-
+ements in which the electron correlations could be strong.
+The electrons in the p-orbital, especially those from the
+5p or 6p orbits, are normally assumed to have weak re-
+pulsive potential and quite wide band width, and hence
+have very weak correlation eﬀect. It would be surprising
+to ﬁnd out superconductivity with exotic feature in the
+p-orbital based compounds.
+Recently, Mizuguchi et al.22 discovered superconduc-
+tivity with T onset
+c
+= 8.6 K (determined from the point
+where resistivity deviates from the linear extrapolation
+of normal-state value) and T zero
+c
+= 4.5 K in the so-called
+BiS2 based compound Bi4O4S3. This compound has a
+layered structure with the space group of I4/mmm or
+I-42m. Shortly the same group reported superconductiv-
+ity at about 10.6 K in another system LaO1−xFxBiS2 by
+doping electrons into the material through substituting
+oxygen with ﬂuorine23. By replacing the La with Nd or
+Ce, other new BiS2 based materials were reported24,25.
+Quickly followed is the theoretical work based on the ﬁrst
+principles band structure calculations26, which predicts
+
+
+2
+that the dominating bands for the electron conduction
+as well as for the superconductivity are derived from the
+Bi 6px and 6py orbits. In this paper, we present a set of
+data for an intensive study on the transport and scan-
+ning tunnelling spectroscopy (STS) measurements of the
+new superconductor Bi4O4S3. Our results clearly illus-
+trate the strong coupling superconductivity and promi-
+nent superconducting ﬂuctuation in this interesting su-
+perconductor.
+I.
+EXPERIMENTS
+The polycrystalline samples were synthesized by using
+a two-step solid state reaction method. Firstly, the start-
+ing materials bismuth powder (purity 99.5%, Alfa Ae-
+sar) and sulfur powder (purity 99.99%, Alfa Aesar) were
+mixed in a ratio of 2:3, ground and pressed into a pellet
+shape. Then it was sealed in an evacuated quartz tube
+and followed by annealing at 500 ◦C for 10 hours. The
+resultant pellet was smashed and ground together with
+the Bi2O3 powder (purity 99.5%, Alfa Aesar) and sulfur
+powder, in stoichiometry as the formula Bi4O4S3. Again
+it was pressed into a pellet and sealed in an evacuated
+quartz tube and burned at 510 ◦C for 10 hours. Then it
+was cooled down slowly to room temperature. The sec-
+ond step was repeated in achieving good homogeneity.
+The resultant sample looks black and very hard. We cut
+the sample and obtained a specimen with a rectangular
+shape for the resistive measurements. The resistivity was
+measured with Quantum Design instrument PPMS-16T.
+The temperature stabilization was better than 0.1% and
+the resolution of the voltmeter was better than 10 nV.
+The magnetization was detected by the Quantum De-
+sign instrument SQUID-VSM with a resolution of about
+5 × 10−8 emu.
+The sample was shaped as a bar with
+a typical size of 2mm × 2mm × 0.5mm
+for the STS
+measurements. Since the sample is very hard, which al-
+lows us to polish the sample surface and obtain a shiny
+and mirror-like surface.
+The top surface was polished
+by sandpapers with diﬀerent grit sizes (smallest of ISO
+P10000). The tunnelling spectra were measured with an
+ultra-high vacuum, low temperature and high magnetic
+ﬁeld scanning probe microscope USM-1300 (Unisoku Co.,
+Ltd.). In STS measurements, Pt/Ir tips were used. The
+set points of the bias voltage and tunneling current are
+40 mV and 100 pA respectively to ﬁx the tip height in to-
+pographic mode. Then the diﬀerential conductivity was
+recorded while the bias voltage was swept with the tip
+held at a ﬁxed vertical distance with z -piezo-feedback
+oﬀfor the STS measurements. There is no atomically
+resolved topography measured on the sample since it is a
+polycrystalline one. The roughness of the surface for STS
+measurements is about 2 nm, while on some ﬂat surface
+of a grain the roughness is about 0.5 nm locally. The STS
+spectra are repeatable at diﬀerent positions in one grain.
+In reducing noise of the diﬀerential conductance spectra,
+a lock-in technique with an ac modulation of 0.1 mV at
+20
+30
+40
+50
+60
+70
+80
+90
+0
+10000
+20000
+30000
+ 
+ 
+Intensity
+2
+ Experiment
+ Calculation
+ Difference
+ Bi
+4
+O
+4
+S
+3
+ Bi
+2
+S
+3
+ Bi
+*
+*
+FIG. 1: (color online) The XRD pattern (symbols) of Bi4O4S3
+reﬁned (red solid lines) by Topas (Bruker-D8). It is clear that
+the main phase is Bi4O4S3 containing Bi2S3 impurity marked
+by a blue star and Bi by a red star. The ratio among the
+three phases Bi4O4S3:Bi2S3:Bi is about 80:15:5.
+987.5 Hz was typically used.
+II.
+RESULTS
+The crystallinity of the sample was checked by x-ray
+diﬀraction (XRD) with the Brook Advanced D8 diﬀrac-
+tometer with Cu Kα radiation.
+The analysis of XRD
+data was done by the softwares Powder-X and Topas.
+The XRD pattern looks very similar to that reported by
+Mizuguchi et al.22.
+The result of Rietveld ﬁtting was
+done with the Topas program in Fig. 1, yielding a 80%
+volume of Bi4O4S3 with 20% of impurities which are
+mainly Bi2S3(15%) and Bi(5%).
+In Fig. 2(a) we present the temperature dependence of
+resistivity measured at three magnetic ﬁelds: µ0H =0,
+6 and 14 T. In addition to the moderate magnetoresis-
+tance, one can see that a weak insulating behavior is
+induced by the magnetic ﬁeld. This weak semiconduct-
+ing behavior is of course anti-intuitive for a normal state
+with Fermi liquid characteristic. A simple explanation
+would be that the insulating feature is given by an ad-
+jacent competing order here, once the superconductivity
+is suppressed, the latter is getting promoted. However,
+we should mention that the insulating behavior starts ac-
+tually at 25 K (at 6 and 14 T) which is far beyond the
+SC transition temperature here. Someone may argue the
+minimum in the resistivity is caused by some impurities
+of Bi2S3, which shows a minima around 25 K27, but this
+may be excluded because we do not see this phenomenon
+in zero magnetic ﬁeld.
+Another possibility is that the
+conduction band has a very shallow band edge, as il-
+lustrated by the band structure calculations26. When a
+magnetic ﬁeld is applied, the density of states (DOS) of
+the spin-up and spin-down electrons will become asym-
+
+
+3
+0
+2
+4
+6
+8
+-150
+-100
+-50
+0
+0
+100
+200
+300
+0.0
+0.5
+1.0
+1.5
+2.0
+ 
+T (K)
+ (mΩ cm)
+ 
+ 
+0
+H = 0 T
+ 
+0
+H = 6 T
+ 
+0
+H = 14 T
+(a)
+ 
+M (emu/mol)
+H = 4.8 Oe
+ ZFC
+ FC
+ 
+T (K)
+(b)
+FIG. 2: (color online) (a) Temperature dependence of resis-
+tivity measured at three magnetic ﬁelds: µ0H =0, 6 and 14 T.
+It is clear that, beside a moderate magnetoresistance eﬀect,
+a weak insulating behavior is induced by the magnetic ﬁeld.
+(b) The temperature dependence of magnetization near the
+SC transition measured with H = 4.8 Oe in the ﬁeld-cooled
+(FC) and zero-ﬁeld-cooled processes (ZFC).
+metric given by the Zeeman eﬀect. Therefore we have
+some polarized electrons which induce the weak insulat-
+ing behavior. Clearly this insulating behavior needs to be
+further checked, better with single crystals in the future,
+and to be explained satisfactorily. In Fig. 2(b) we present
+the magnetization data measured in the zero-ﬁeld-cooled
+(ZFC) and the ﬁeld-cooled mode (FC). The SC magnetic
+transition starts at about 3.6 K. Superconducting transi-
+tion temperature in this paper is a little lower than that
+in previous report by Mizuguchi et al.22, probably due
+to mutual doping between the O and S elements. From
+the resistive curve in the transition region as shown in
+Fig. 3(a), the critical temperature taken from 5% of the
+normal state resistivity (T zero
+c
+or Tirr) is 3.7 K. The on-
+set transition temperature T onset
+c
+determined from the
+crossing point of the normal state line and the extrapo-
+lation of the steep transition line is about 4.2 K, while
+Tc(99%ρn) taken from the 99% of the normal resistance
+is about 6.2 K. It should be noted that the excess con-
+ductivity region in which the resistivity starts to deviate
+from the normal state line (inset of Fig. 3(a)) can extend
+to the temperature above 10 K. This excess conductiv-
+2
+4
+6
+8
+0.99
+1.00
+1.01
+1.02
+2
+4
+6
+8
+0.0
+0.5
+1.0
+1.5
+0
+5
+10
+15
+20
+0.00
+0.05
+0.10
+0
+10
+20
+0.0
+0.4
+0.8
+1.2
+/
+(T=10K)
+T (K)
+ 
+(c)
+H
+ kink
+c2
+ or T
+ kink
+c2
+ 
+ 
+ 
+ (mΩ cm)
+(b)
+ 
+ 
+∆
+ = 
+n
+-
+ (mΩ cm)
+T (K)
+99%
+n
+T
+ onset
+c
+ 
+ 
+ (mΩ cm)
+n
+T
+c
+onset
+(a)
+FIG. 3: (color online) (a) Temperature dependence of resis-
+tivity in Bi4O4S3 at zero ﬁeld near the resistive transition.
+The onset transition temperature T onset
+c
+at the crossing point
+of the normal state background (guided by a red dashed line)
+and the extrapolated line of the steep resistive transition part
+(guided by a blue dash-dot line) is 4.2 K. The resistance dif-
+ference between the resistive curve and the normal state back-
+ground extends to a very high temperature shown in the inset,
+which suggests that the SC ﬂuctuation may be strong in this
+material. (b) An enlarged view for the temperature depen-
+dence of resistivity at magnetic ﬁelds of (from bottom to top)
+0, 0.1 to 0.6 T with increments of 0.1 T; 0.8, 1, 1.5, 2 to 7 with
+increments of 1 T; and 9, 12, 14 T. It is found that the bulk
+superconductivity can be quickly suppressed by the magnetic
+ﬁeld, while the onset transition temperature changes slightly,
+indicating a strong ﬂuctuation eﬀect. (c) Temperature depen-
+dence of the resistivity (as shown in (b)) normalized at 10 K.
+A kink can be clearly seen at about 4 K when the magnetic
+ﬁeld is high and the bulk superconductivity is suppressed com-
+pletely. The red arrowed line traces out the evolution from
+the SC onset transition in the low ﬁeld region to a kink at
+high magnetic ﬁelds.
+
+
+4
+ity is usually regarded as the SC ﬂuctuation from the
+residual Cooper pairs above bulk Tc(99%ρn). This super-
+conducting ﬂuctuation is actually expected by the band
+structure calculations which foresee a low dimensional-
+ity of the electronic structure, and can be corroborated
+by the quickly broadened resistive transition under mag-
+netic ﬁelds, as shown in Fig. 3(b). One can see that the
+transition temperature with zero resistivity can be sup-
+pressed blow 2 K by a magnetic ﬁeld as low as 0.4 T, while
+the bulk superconductivity is suppressed completely by
+a magnetic ﬁeld of 5 T. However, even if the bulk super-
+conductivity is easily suppressed, a kink appears on the ρ
+vs T curve at a high magnetic ﬁeld where one cannot see
+the diamagnetization. If following the onset transition of
+the resistivity, as shown in Fig. 3(c), we can see that the
+kink has very close relationship with the upper critical
+ﬁeld µ0Hc2 in the low ﬁeld and high temperature region.
+Because it is really diﬃcult to deﬁne the temperature
+below which ρn ﬁrst deviates from its high temperature
+behavior, we use these kink positions to deﬁne the up-
+per critical ﬁelds above 1 T. Surprisingly, this kink stays
+at about 4 K even with a magnetic ﬁeld of 14 T. We
+interpret this kink as the temperature below which the
+residual Cooper pairs exist in the system even the bulk
+superconductivity is completely suppressed.
+Following
+the tendency of this kink, a very high critical ﬁeld can be
+expected in the zero temperature limit, which certainly
+exceeds the Pauli limit given by µ0Hp = 1.84Tc28.
+To make further analysis on the superconducting prop-
+erty, we measured STS spectra on this sample. Several
+typical STS curves measured at 1.6 K below the bulk
+SC transition are shown in Fig. 4(a). Most of the spec-
+tra are symmetric with very clear suppression of DOS
+within a certain energy scale, and clear coherence peaks
+can be found on some spectra. However the coherence
+peaks on most of the curves are somewhat broad and the
+zero-bias conductance values are remarkably large, which
+maybe due to the contamination of the surface on this
+polycrystalline sample. The gap values determined from
+the coherence peaks or the kink position to the supercon-
+ducting valleys (arrows in Fig. 4(a)) are mainly 3 meV for
+most of the spectra, while some of the spectra show much
+larger gap sizes or even two-gap features. In high-Tc su-
+perconductors, sometimes a bosonic mode which exhibits
+as a peak feature at a higher energy outside of the super-
+conducting gap is found by STS measurements29,30. The
+second gap in Bi4O4S3 resembles the bosonic mode fea-
+ture. However such high-energy peaks are quite rare to
+occur in hundreds of measured spectra, so we just regard
+it as a possible second gap. In order to know the aver-
+age value of the superconducting gap, we do the statistic
+analysis to the gap size ∆taken from 400 spectra and
+present in Fig. 4(b).
+One can see that the mean gap
+value ∆is about 3 meV. Considering the bulk supercon-
+ducting transition temperature T onset
+c
+of 4.2 K, we get
+the ratio 2∆/kBTc ∼16.6, which is almost 5 times of
+the value given by the BCS theory in the weak coupling
+regime. It is even higher than the values of most high-Tc
+-10
+0
+10
+0
+2
+4
+6
+8
+0
+2
+4
+6
+8
+10
+12
+0
+20
+40
+60
+80
+ 
+dI/dV ( a.u. ) 
+ 
+Bias voltage (mV)
+(a)
+ 
+ 
+Counts
+ (meV)
+(b)
+FIG. 4: (color online) (a) Typical tunnelling spectra measured
+at diﬀerent locations on the polycrystalline samples. The gap
+values judged from the peaks or humps on the spectra are
+marked by the arrows. One can see that the mean gap value
+is around 3 meV as guided by the vertical dashed lines. Some
+spectra show very large gap values and even have two-gap
+features. (b) Statistics on the local SC gap sizes ∆of 400
+spectra. The gap size follows the Gaussian distribution with
+the mean gap value ∆= 3 meV. Such a large gap value sug-
+gests the unconventional superconductivity in Bi4O4S3 with
+T onset
+c
+= 4.2 K. The largest SC gap can reach a value of about
+10 meV
+superconductors. This suggests the very strong coupling
+superconductivity in the superconductor. Since the scat-
+tering is really strong in the polycrystalline sample, it is
+very diﬃcult to judge the pairing symmetry from the ﬁt-
+ting to the spectra. As shown in Fig. 4(b), the gap size
+can extend to a very large value, e.g., exceeding 10 meV.
+Such inhomogeneity of SC gap sizes needs to be veriﬁed
+by other experiment tools which may make it an inter-
+esting new material.
+In Fig. 5(a), we show the temperature evolution of the
+STS spectra obtained by warming up the samples from
+1.6 K through Tc to 20 K. One can see that the su-
+perconducting feature marked by the depression of the
+density of states near the Fermi energy persists at tem-
+peratures above the bulk Tc(99%ρn) ∼6 K. Such a fea-
+ture disappeared at temperature above some ﬂuctuation
+temperature Tf = 14 K leaving only a V-shaped back-
+ground.
+If we use the spectrum measured at 20 K as
+the background, we can obtain the normalized curves at
+diﬀerent temperatures as shown in Fig. 5(b). Supercon-
+ducting feature is weakened with the increasing of tem-
+perature and evolve to a continuous background at the
+temperature above Tf. In traditional superconductors,
+the superconducting gapped features on tunnelling spec-
+tra vanish at the temperature just above Tc.31 In contrast
+such feature in cuprates could exist at the temperature
+far beyond Tc, which has been regarded as the pseudo-
+
+
+5
+-10
+-5
+0
+5
+10
+1.0
+1.5
+2.0
+-10
+-5
+0
+5
+10
+0.8
+1.2
+1.6
+ 
+ 
+dI/dV (a.u.)
+Bias Voltage (mV)
+(a)
+dI/dV (a.u.)
+20K
+16K
+T
+f
+~14K
+13K
+ 
+1.6K
+3K
+T
+onset
+c
+~4K
+T
+c
+(99%
+n
+)~6K
+10K
+(b)
+FIG. 5: (color online) (a) The evolution of the tunnelling spec-
+tra taken at temperatures from 1.6 K to 20 K. The spectra
+are displaced vertically for clarity. (b) The STS normalized
+by the one measured in normal state (at 20 K). One can see
+that the gapped feature vanishes at about 14 K which is much
+higher than the critical temperature for bulk superconductiv-
+ity (Tc(99%ρn) ∼6 K), as shown by the blue curve.
+gap eﬀect16. Even in some iron pnictides, the gapped fea-
+ture was observed to extend to a very high temperature32
+and was explained by the presence of possible pseudogap
+eﬀect33. The pseudogap eﬀect can also be observed from
+the kink in resistive curve in cuprates13. Because we can-
+not ﬁnd any trace of pseudogap from the transport mea-
+surements, this eﬀect at high temperature is supposed to
+be the SC ﬂuctuation instead of the pseudogap. In addi-
+tion, the estimation is consistent with excess conductivity
+at the temperature above bulk Tc. If using Tf = 14 K as
+the pairing temperature, we get the ratio 2∆/kBTf ∼5.0
+which is still a large value but comparable with the value
+calculated from the SC gap and the pseudogap tempera-
+ture in cuprates3. It should be noted that some SC gap
+values could extend to very high, i.e., larger than 7 meV,
+which gives a much larger value of 2∆/kBTf. The detailed
+reason for this large energy gap remains unresolved.
+Figure 6(a) shows the STS spectra taken at diﬀerent
+magnetic ﬁelds at the same temperature 1.6 K. The bulk
+upper critical ﬁeld µ0Hc2 judged from the 99% of the nor-
+mal state resistance at 1.6 K is about 5 T. The suppres-
+sion to the DOS on the spectra are apparently without
+any variation when crossing this bulk transition temper-
+ature, and it is more clear for the normalized spectra
+by dividing out the background spectrum taken at 20 K
+and 0 T as shown in Fig. 6(b). As described above, the
+-10
+-5
+0
+5
+10
+1.0
+1.5
+2.0
+2.5
+-10
+-5
+0
+5
+10
+1.0
+1.5
+2.0
+2.5
+ 
+ 
+dI/dV (a.u.)
+Bias Voltage (mV)
+T=1.6 K
+(a)
+H
+c
+(99%
+n
+)~5T
+20K 0T
+9 T
+10 T
+8 T
+7 T
+6T
+4 T
+2 T
+dI/dV (a.u.)
+ 
+0 T
+(b)
+FIG. 6: (color online) (a) The evolution of the tunnelling spec-
+tra at diﬀerent magnetic ﬁelds up to 10 T at 1.6 K. The spec-
+tra are displaced vertically for clarity. The spectrum taken
+at 20 K and 0 T is also shown for comparison. (b) The STS
+curves normalized by the one measured in normal state (at
+20 K and 0 T). One can see the suppression of DOS remains
+at ﬁelds above the bulk upper critical ﬁeld Hc(99%ρn) ∼5 T.
+gapped feature on the spectra existing above Tc(99%ρn)
+is consistent with the picture of ﬂuctuating supercon-
+ductivity. Since the spectra at high magnetic ﬁelds are
+similar to those taken at zero ﬁeld but at high temper-
+atures, this suppression of DOS near Fermi energy ob-
+served above bulk Hc(99%ρn) can also be attributed to
+the SC ﬂuctuation and preformed Cooper pairs.
+III.
+DISCUSSION
+Next we present a phase diagram based on the trans-
+port and STS measurements in Fig. 7 and give discussions
+on the possible mechanism of superconductivity. The SC
+transition point of critical ﬁeld Hc(99%ρn) is shown by
+the red ﬁlled circles. The bulk superconductivity is es-
+tablished in a very small area covered by the irreversibil-
+ity line Tirr (blue up-triangles). The large area between
+them indicates a strong SC phase ﬂuctuation. This is ac-
+tually consistent with the theoretical expectation because
+the electronic system has one dimensional feature(px and
+py). The bulk superconductivity is established between
+the one dimensional ﬂuctuating superconducting chains.
+The curve marked with Honset
+c
+gives the upper critical
+
+
+6
+0
+5
+10
+15
+5
+10
+15
+ 
+ 
+T (K)
+0
+H (T)
+ T
+f
+ (STM)
+ H
+ k ink
+c2
+ or T
+ k ink
+c2
+ H
+c
+(99%
+n
+) or T
+c
+(99%
+n
+)
+ H
+ onset
+c
+ or T
+ onset
+c
+ T
+ zero
+c
+ or T
+irr
+ (5%
+n
+)
+Superconducting
+Fluctuation
+2
+FIG. 7: (color online) Phase diagram derived from the re-
+sistive transition curves and the STS data. Semi-log plot is
+used to make the phase diagram more clear. The transition
+point judging from the 99% of the normal resistance gives rise
+to the upper critical ﬁeld Hc2. The curve Hkink
+c2
+shows the
+point determined from the kink point of the resistivity versus
+temperature which denotes the superconducting ﬂuctuation
+property. Such ﬂuctuation behavior with excess conductivity
+is proved by the STS data and extends to as high as 14 K at
+0 T. The dashed line is a guide for eyes.
+ﬁeld determined using the usual crossing point of the
+normal state background and the extrapolated line of
+the steep resistive transition part.
+The most puzzling
+point is the kink appearing in the ρ vs. T data at a high
+magnetic ﬁeld. The curve marked with Hkink
+c2
+shows the
+critical ﬁeld determined from the kinky point of the resis-
+tive data shown in Fig. 3(c), by following the trace of the
+arrowed red line there. We add the ﬂuctuation temper-
+ature Tf from the tunnelling spectrum at zero magnetic
+ﬁeld to the phase diagram, and get a wide ﬂuctuation re-
+gion at zero magnetic ﬁeld. Since this line traces very well
+to the transition point marked by Hc(99%ρn) in the low
+ﬁeld and high temperature region, we naturally attribute
+it to the existence of residual Cooper pairs. If this kink
+can be interpreted as the onset for the pairing, that would
+indicate a very strong pairing strength or gap, which can
+be inversely supported by the tunneling data. In a sim-
+ple BCS picture, we have Hc2 = (πΦ0/2ℏ2v2
+F)∆2, where
+Φ0 is the ﬂux quanta, vF is the Fermi velocity. Such a
+strong pairing needs certainly a reasonable cause, which
+exceeds the limit of the simple phonon mediated pairing
+picture. By taking account of the weak correlation eﬀect
+in the Bi 6p electrons, some other novel mechanism, such
+as the valence ﬂuctuation of the Bi2+ and Bi3+, may play
+an important role in this new superconductor.
+IV.
+CONCLUSIONS
+In summary, we perform the resistive and scanning
+tunnelling spectroscopy measurements on the new BiS2
+based superconductor Bi4O4S3. A weak insulating be-
+havior is induced in the normal state when a high mag-
+netic ﬁeld is applied. This can be induced either by an
+adjacent competing order, or the very shallow px and py
+band and small Fermi energy. A kink appears on the tem-
+perature dependence of resistivity at all high magnetic
+ﬁelds when the bulk superconductivity is completely sup-
+pressed. This kink can be regarded as the presence of
+local pairing, or the upper critical ﬁeld Hc2(T). The SC
+ﬂuctuation region from the STS measurement extends to
+about 14 K although the bulk superconducting transition
+temperature is only about 3.7 K. The gapped feature
+near the Fermi energy can also extend to a high mag-
+netic ﬁeld ( 5 T), which is consistent with the resistive
+measurements, again indicating a strong superconduct-
+ing ﬂuctuation.
+From the tunnelling spectra, a mean
+superconducting gap of 3 meV is widely observed, which
+leads to a very high ratio of 2∆/kBTc ≈16.6, suggesting
+strong coupling superconductivity.
+We appreciate the useful discussions with WANG Fa,
+FU Liang, WANG QiangHua and LI JianXin.
+This
+work was supported by the 973 Project of the Min-
+istry of Science and Technology of China (Grant Nos.
+2011CBA001002, 2010CB923002, and 2012CB821403),
+the National Natural Science Foundation of China (Grant
+No. 11034011), the Program for New Century Excellent
+Talents in University (Grant No. NCET-12-0255), and A
+Project Funded by the Priority Academic Program De-
+velopment of Jiangsu Higher Education Institutions.
+†huanyang@nju.edu.cn, ∗hhwen@nju.edu.cn
+1 Bednorz J G and Muller K A. Possible high Tc supercon-
+ductivity in the Ba-La-Cu-O system. Zeitschrift fur Physik
+B Condensed Matter 1986, 64: 189-193
+2 Kamihara Y, Watanabe T, Hirano M, et al. Iron-Based
+Layered Superconductor La[O1−xFx]FeAs (x=0.05-0.12)
+with Tc=26 K. J. AM. CHEM. SOC 2008, 130: 3296-3297
+3 Fischer Ø, Kugler M, Maggio-Aprile I, et al. Scanning tun-
+neling spectroscopy of high-temperature superconductors.
+Rev. Mod. Phys, 2007, 79: 353-419
+4 Hoﬀman J E. Spectroscopic scanning tunneling microscopy
+insights into Fe-based superconductors. Rep. Prog. Phys,
+2011, 74: 124513
+5 Wolf E, Principles of Electron Tunneling Spectroscopy, Ox-
+ford University Press, New York, 1985
+6 Xu Z A, Ong N P, Wang Y, et al. Vortex-like excita-
+tions and the onset of superconducting phase ﬂuctuation in
+underdoped La2−xSrxCuO4. Nature(London), 2000, 406:
+486-488
+7 Wang Y Y, Li L, Ong N P. Nernst eﬀect in high-Tc super-
+conductors. Phys. Rev. B, 2006, 73: 024510
+
+
+7
+8 Wang Y Y, Li L, Naughton M J, et al. Field-Enhanced
+Diamagnetism in the Pseudogap State of the Cuprate
+Bi2Sr2CaCu2O8+δ Superconductor in an Intense Magnetic
+Field. Phys. Rev. Lett, 2005, 95: 247002
+9 Wen H H, Mu G, Luo H Q, et al. Speciﬁc-Heat Measure-
+ment of a Residual Superconducting State in the Normal
+State of Underdoped Bi2Sr2−xLaxCuO6+δ Cuprate Super-
+conductors. Phys. Rev. Lett, 2009, 103: 067002
+10 Rourke
+P
+M
+C,
+Mouzopoulou
+I,
+Xu
+X
+F,
+et
+al.
+Phase-ﬂuctuating
+superconductivity
+in
+overdoped
+La2−xSrxCuO4, Nature Physics, 2011, 7: 455-458
+11 Zhu Z W, Xu Z A, Lin X, et al. Nernst eﬀect of a new
+iron-based superconductor LaO1−xFxFeAs. New J. Phys,
+2008, 10: 063021
+12 Pourret A, Malone Liam, Antunes A B, et al. Strong cor-
+relation and low carrier density in Fe1+yTe0.6Se0.4 as seen
+from its thermoelectric response. Phys. Rev. B, 2011, 83:
+020504
+13 Timusk T, Statt B. The pseudogap in high-temperature su-
+perconductors: an experimental survey. Rep. Prog. Phys,
+1999, 62: 61-122
+14 Kondo T, Hamaya Y, Palczewski A D, et al. Disentangling
+Cooper-pair formation above the transition temperature
+from the pseudogap state in the cuprates. Nature Physics,
+2011, 7: 21-25
+15 Grbi´c M S, Poˇzek M, Paar D, et al. Temperature range of
+superconducting ﬂuctuations above Tc in YBa2Cu3O7−δ
+single crystals. Phys. Rev. B, 2011, 83: 144508
+16 Renner C, Revaz M, Genoud J Y, et al. Pseudogap Precur-
+sor of the Superconducting Gap in Under- and Overdoped
+Bi2Sr2CaCu2O8+δ. Phys. Rev. Lett, 1998, 80: 149-152
+17 Anderson P W, Lee P A, Randeria M, et al. The physics
+behind high-temperature superconducting cuprates: the
+’plain vanilla’ version of RVB. J. Phys: Condens. Matter,
+2006, 16: R755-R769
+18 Scalapino D J. The case for dx2−y2
+pairing in the
+cuprate superconductors. Physics Report, 1995, 250:329-
+365. Moriya T, Ueda U. Antiferromagnetic spin ﬂuctuation
+and superconductivity. Rep. Prog. Phys, 2003, 66: 1299-
+1341. Monthoux P, Pines D, Lonzarich G G. Supercon-
+ductivity without phonons, Nature (London) 2007, 450:
+1177-1183
+19 Ni N, Tillman M E, Yan J Q, et al. Eﬀects of Co sub-
+stitution on thermodynamic and transport properties and
+anisotropic Hc2 in Ba(Fe1−xCox)2As2 single crystals. Phys.
+Rev. B, 2008, 78: 214515
+20 Si Q M, Steglich F. Heavy Fermions and Quantum Phase
+Transitions. Science, 2010, 329: 1161-1166
+21 Dressel M. Quantum criticality in organic conductors?
+Fermi liquid versus non-Fermi-liquid behaviour. J. Phys.
+Condens. Matter, 2011, 23: 293201
+22 Mizuguchi Y, Fujihisa H, Gotoh Y, et al. BiS2-based lay-
+ered superconductor Bi4O4S3. Phys. Rev. B, 2012, 86:
+220510
+23 Mizuguchi Y, Demura S, Deguchi K, et al. Superconduc-
+tivity in Novel BiS2-based superconductor LaO1−xFxBiS2.
+J. Phys. Soc. Jpn, 2012, 81: 114725
+24 Demura S, Mizuguchi Y, Deguchi K, et al. New member of
+BiS2-based superconductor NdO1−xFxBiS2. J. Phys. Soc.
+Jpn, 2013, 82: 033708
+25 Xing J, Li S, Ding X X, et al. Superconductivity ap-
+pears in the vicinity of semiconducting-like behaviour in
+CeO1−xFxBiS2. Phys. Rev. B, 2012, 86: 214518
+26 Usui H, Suzuki K, Kuroki K. Minimal electronic models
+for superconducting BiS2 layers. Phys. Rev. B, 2012, 86:
+220501(R)
+27 Chen B X and Uher. Transport properties of Bi2S3 and the
+ternary bismuth sulﬁdes KBi6.33S10 and K2Bi8S13. Chem
+Matter, 1997, 9: 1655-1658
+28 Clogston A M. Upper Limit for the Critical Field in Hard
+Superconductors. Phys. Rev. Lett, 1962, 9: 266-267
+29 Niestemski F C, Kunwar S, Zhou S. A distinct bosonic
+mode in an electron-doped high-transition-temperature su-
+perconductor. Nature, 450: 1058-1061
+30 Wang Z Y, Yang H, Fang D L, et al. Close relation-
+ship between superconductivity and the bosonic mode
+in
+Ba0.6K0.4Fe2As2
+and
+Na(Fe0.975Co0.025)As. Nature
+Physics 2013, 9: 42-48
+31 Pan S H, Hudson E W and Davis J C. Vacuum tun-
+neling of superconducting quasiparticles from atomically
+sharp scanning tunneling microscope tips. Appl. Phys.
+Lett, 1998, 73: 2992
+32 Yang H, Wang Z Y, Fang D L, et al. Unexpected
+weak spatial variation in the local density of states in-
+duced by individual Co impurity atoms in superconducting
+Na(Fe1−xCox)As crystals revealed by scanning tunneling
+spectroscopy. Phys. Rev. B, 2012, 86: 214512
+33 Zhou X D, Cai P, Wang A F, et al. Evolution from Uncon-
+ventional Spin Density Wave to Superconductivity and a
+Pseudogaplike Phase in NaFe1−xCoxAs. Phys. Rev. Lett,
+2012, 109: 037002
+
+

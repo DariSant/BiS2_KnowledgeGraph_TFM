@@ -1,0 +1,114 @@
+{
+  "corpus_version": "v1.0",
+  "creation_date": "2026-01-29",
+  "total_papers": 10,
+  "download_stats": {
+    "total": 10,
+    "success": 10,
+    "failed": 0,
+    "already_existed": 10,
+    "failed_ids": []
+  },
+  "papers": [
+    {
+      "arxiv_id": "1411.6903v1",
+      "title": "Anomalous Eu Valence State and Superconductivity in Undoped Eu3Bi2S4F4",
+      "published": "2014-11-25T16:08:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1411.6903v1",
+      "local_path": "data/raw/pdfs/sample_pdfs/1411.6903v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 601.63,
+      "md5_checksum": "48d566fdae0e880fc892225e02bf33b7"
+    },
+    {
+      "arxiv_id": "1603.02819v1",
+      "title": "RVB States in doped Band Insulators from Coloumb forces: Theory and a case study of Superconductivity in BiS$_2$ Layers",
+      "published": "2016-03-09T09:27:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1603.02819v1",
+      "local_path": "data/raw/pdfs/sample_pdfs/1603.02819v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 267.12,
+      "md5_checksum": "f7ba927a5b3ba3c1a10dd4f714be793e"
+    },
+    {
+      "arxiv_id": "1911.02337v1",
+      "title": "Growth of superconducting Sm(O,F)BiS2 single crystals",
+      "published": "2019-11-06T12:28:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1911.02337v1",
+      "local_path": "data/raw/pdfs/sample_pdfs/1911.02337v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 829.36,
+      "md5_checksum": "65567f5ed0e831c9a6fb6b8bd1f0bf0f"
+    },
+    {
+      "arxiv_id": "1708.03840v1",
+      "title": "Bulk Superconductivity Induced by Se Substitution in BiCh2-Based Layered Compounds Eu0.5Ce0.5FBiS2-xSex",
+      "published": "2017-08-13T02:38:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1708.03840v1",
+      "local_path": "data/raw/pdfs/sample_pdfs/1708.03840v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1496.94,
+      "md5_checksum": "32fec9ed4eb7677f61b8c9e9518d02ee"
+    },
+    {
+      "arxiv_id": "1310.1213v2",
+      "title": "Growth and superconducting properties of F-substituted ROBiS2 (R = La, Ce, Nd) single crystals",
+      "published": "2013-10-04T10:01:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1310.1213v2",
+      "local_path": "data/raw/pdfs/sample_pdfs/1310.1213v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 289.03,
+      "md5_checksum": "0d8487a1f8af8a149076057fa10aae7c"
+    },
+    {
+      "arxiv_id": "1410.6775v2",
+      "title": "Evolution of superconductivity in BiS2-based superocnductor LaO0.5F0.5Bi(S1-xSex)2",
+      "published": "2014-10-24T18:41:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1410.6775v2",
+      "local_path": "data/raw/pdfs/sample_pdfs/1410.6775v2.pdf",
+      "file_exists": true,
+      "file_size_kb": 411.49,
+      "md5_checksum": "989160bc9f02814b01c6fbfafa4718e5"
+    },
+    {
+      "arxiv_id": "1402.1833v1",
+      "title": "Observation of anomalous temperature dependence of spectrum on small Fermi surfaces in a BiS2-based superconductor",
+      "published": "2014-02-08T08:34:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1402.1833v1",
+      "local_path": "data/raw/pdfs/sample_pdfs/1402.1833v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 636.29,
+      "md5_checksum": "ab177ff1847ce15ff60a40f966707162"
+    },
+    {
+      "arxiv_id": "1909.01710v1",
+      "title": "Superconductivity of Electron-Doped NdOBiS2 by Substitution of Mixed-Valence Ce ions",
+      "published": "2019-09-04T11:53:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1909.01710v1",
+      "local_path": "data/raw/pdfs/sample_pdfs/1909.01710v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1177.17,
+      "md5_checksum": "a79c1cda05e0e2661404fd288e4988f7"
+    },
+    {
+      "arxiv_id": "1308.1072v3",
+      "title": "Enhancement of superconductivity near the pressure-induced semiconductor-metal transition in BiS2-based compounds LnO(0.5)F(0.5)BiS2 (Ln = La, Ce, Pr, Nd)",
+      "published": "2013-08-05T19:12:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1308.1072v3",
+      "local_path": "data/raw/pdfs/sample_pdfs/1308.1072v3.pdf",
+      "file_exists": true,
+      "file_size_kb": 1762.32,
+      "md5_checksum": "a6f7eec0a727e5250178d293aca8ccc7"
+    },
+    {
+      "arxiv_id": "1801.06568v1",
+      "title": "High pressure effects on non-fluorinated BiS2-based superconductors La$_{1-x}$M$_x$OBiS$_2$ (M = Ti and Th)",
+      "published": "2018-01-19T20:39:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1801.06568v1",
+      "local_path": "data/raw/pdfs/sample_pdfs/1801.06568v1.pdf",
+      "file_exists": true,
+      "file_size_kb": 1756.26,
+      "md5_checksum": "8723844c61a56b39e31268aeb3234939"
+    }
+  ]
+}

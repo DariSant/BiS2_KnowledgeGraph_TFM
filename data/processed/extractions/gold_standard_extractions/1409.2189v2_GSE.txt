@@ -1,0 +1,6 @@
+In conclusion, we have synthesized polycrystalline samples of novel layered bismuth chalcogenides LaOBiS2-xSex and systematically investigated thermoelectric properties. 
+It was found that a partial substitution of S by Se enhanced metallic conductivity. The power factor largely increased with increasing Se concentration. The highest power 
+factor was 4.5 W/cmK2 at around 470 ºC for LaOBiS1.2Se0.8. We found that the thermal conductivity for LaOBiS2-xSex is independent of both temperature and Se concentration. 
+Using an average value of thermal conductivity, 2 W/m·K, we calculated the dimensionless figure-of-merit (ZT) as a function of temperature. The highest ZT was 
+0.17 at around 470 ºC in LaOBiS1.2Se0.8. Optimization of the carrier concentration and/or the local structure will further enhance the thermoelectric performance of the layered bismuth chalcogenides. 
+ 

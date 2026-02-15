@@ -1,0 +1,243 @@
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+Synchrotron powder X-ray diffraction and structural analysis 
+of Eu0.5La0.5FBiS2-xSex 
+K. Nagasaka1, G. Jinno1, O. Miura1, A. Miura2, C. Moriyoshi3, Y. Kuroiwa3, Y. 
+Mizuguchi1*  
+1. Department of Electrical and Electronic Engineering, Tokyo Metropolitan 
+University, 1-1, Minami-osawa, Hachioji 192-0397, Japan. 
+2. Faculty of Engineering, Hokkaido University, Kita-13, Nishi-8, Kita-ku, Sapporo 
+060-8628 Japan. 
+3. Department of Physical Science, Hiroshima University, 1-3-1 Kagamiyama, 
+Higashihiroshima, Hiroshima 739-8526 Japan. 
+mizugu@tmu.ac.jp 
+Abstract. Eu0.5La0.5FBiS2-xSex is a new BiS2-based superconductor system. In Eu0.5La0.5FBiS2-
+xSex, electron carriers are doped to the BiS2 layer by the substitution of Eu by La. Bulk 
+superconductivity in this system is induced by increasing the in-plane chemical pressure, which 
+is controlled by the Se concentration (x). In this study, we have analysed the crystal structure of 
+Eu0.5La0.5FBiS2-xSex using synchrotron powder diffraction and the Rietveld refinement. The 
+precise determination of the structural parameters and thermal factors suggest that the emergence 
+of bulk superconductivity in Eu0.5La0.5FBiS2-xSex is achieved by the enhanced in-plane chemical 
+pressure and the decrease in in-plane disorder. 
+1.  Introduction 
+The BiS2-based superconductors have been drawing much attention as a new layered superconductor 
+family [1-3]. The typical crystal structure is tetragonal (P4/nmm) and is composed of alternate stacks of 
+the electrically conducting BiS2 layers and the insulating (blocking) layers, which resembles those of 
+the Cu-based and the FeAs-based high transition temperature (high-Tc) superconductors [4,5]. The 
+parent phase of the BiS2-based compounds is a semiconductor with a band gap [1,6,7]. Upon the 
+generation of the electron carriers in the BiS2 layers, metallic conductivity is induced, and 
+superconductivity is observed in the electron-doped compounds. With this scenario that the 
+superconductivity can be induced by the electron carrier doping, many BiS2-based superconductors have 
+been discovered [3]. Recent studies, however, have suggested that the emergence of superconductivity 
+in BiS2-based compounds is related with not only the carrier doping but also the crystal structure 
+optimization. For example, although the superconducting transitions are observed in LaO1-xFxBiS2 when 
+electron carriers were doped by substitution of F for O, bulk superconductivity never appears while 
+filamentary superconductivity with a small shielding volume fraction is observed. In addition, Tc in the 
+filamentary superconducting phase is less than 3 K for optimally doped x = 0.5 [2]. The absence of bulk 
+superconductivity in LaO0.5F0.5BiS2 would be caused by the long bond length of in-plane Bi-S, in which 
+orbital overlaps between Bi and S are small. According to our recent report, the enhancement of in-plane 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+chemical pressure, which is related to the enhancement of orbital overlaps, are required to induce bulk 
+superconductivity in the LaO0.5F0.5BiS2 system [8]. 
+Similar situation is observed in Eu0.5La0.5FBiS2, which has a lattice structure similar to the LaO1-
+xFxBiS2 system [9]. Although the electron carriers are doped by the substitution of Eu by La, bulk 
+superconductivity is not observed. Instead, superconductivity is induced by the external pressure effect. 
+Tc is also enhanced to ~10 K by the application of external pressure [9]. The bulk superconductivity 
+states of BiS2-based compounds can be induced by not only the external pressure effect but also the 
+chemical pressure effect. We demonstrated the Se substitution for the Eu0.5La0.5FBiS2 system. 
+Polycrystalline samples of Eu0.5La0.5FBiS2-xSex were synthesized up to x = 1, and the emergence of bulk 
+superconductivity with a Tc of ~ 4 K for x ≥ 0.6 was confirmed by the electrical resistivity and magnetic 
+susceptibility measurements [10]. From powder X-ray diffraction with the conventional laboratory X-
+ray source (a CuK radiation) and the Rietveld refinements, we have suggested that the Se substitution 
+resulted in the enhancement of the in-plane chemical pressure, and hence, the bulk superconductivity is 
+induced. This result is consistent with previous studies on LaO0.5F0.5BiS2-xSex and CeO0.5F0.5BiS2-xSex, 
+in which the enhancement of in-plane chemical pressure induced bulk superconductivity [8,11,12]. To 
+confirm that the in-plane chemical pressure scenario is universal to the BiS2-based superconductors, 
+precise analyses of the sample purity and crystal structure parameters of the newly discovered 
+superconductor Eu0.5La0.5FBiS2-xSex are needed. In this study, we have performed synchrotron powder 
+X-ray diffraction for Eu0.5La0.5FBiS2-xSex. The evolution of crystal structure is analyzed by the Rietveld 
+method. 
+2.  Experimental details 
+The polycrystalline samples of Eu0.5La0.5FBiS2-xSex used in this study were prepared using a 
+conventional solid-state-reaction method as described in Ref. 10. Synchrotron X-ray diffraction 
+experiment was performed at the beam line BL02B2 of Spring-8 under a proposal No. 2016B1078. The 
+synchrotron X-ray with an energy of 25 keV was used. Using the one-dimensional semiconductor 
+detector (MYTHEN), diffraction data with a step of 0.006º were collected. All the experiments were 
+performed at room temperature. The Rietveld refinements were performed using the RIETAN software 
+[13]. For the in-plane Bi and chalcogen (Ch) sites, the Rietveld analyses were performed with the 
+anisotropic thermal factors. The crystal structure image was drawn using the VESTA software [14]. 
+3.  Results and discussion 
+The X-ray diffraction patterns for x = 0–1 were refined using a tetragonal P4/nmm space group. For x = 
+0, 0.2, 0.4, and 0.6, fluoride impurities (BiF3 and LaF3) with populations of 4%, 4%, 5%, and 7% were 
+found, respectively. For x = 0.8 and 1, small impurity peaks of the fluorides and unidentified broad peaks 
+at 2 = 6.2º and 9.3º were observed. Although the broad impurity peaks would be selenides because of 
+the appearance at higher nominal concentration of Se, we could not refine the impurity phase. Figure 1 
+displays the typical synchrotron X-ray diffraction pattern and Rietveld refinement fitting result for x = 
+0.6. Assuming the major phase (x = 0.6) and two fluoride impurities, the diffraction pattern is well fitted, 
+and the resulting reliability factor (Rwp) is 8%. 
+With the obtained structural parameters, we discuss the evolution of crystal structure of Se-substituted 
+Eu0.5La0.5FBiS2-xSex. Figures 2(a) and 2(b) show the Se concentration dependences of lattice constant of 
+a and c. The lattice constant of a monotonically increases with increasing x. In contrast, the lattice 
+constant of c does not change for x = 0–0.6 and slightly increases at x ≥ 0.8. These results are consistent 
+with the previous study performed with a laboratory X-ray diffractometer [10] and suggests that the Se 
+is selectively occupies the in-plane Ch1 site (see the inset of Fig. 1 for the definition of the Ch1 and Ch2 
+site). As experimental facts, we have not succeeded the refinement of Se occupancy at the Ch1 and the 
+Ch2 sites because of the resulting negative small value of Se occupancy at the Ch2 site, which may be 
+due to the fact that almost 100% Se goes to the in-plane Ch1 site. Therefore, we did the Rietveld 
+refinements with the fixed Se occupancy as the nominal values x. 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+Fig. 1. X-ray diffraction pattern and the Rietveld fitting with a three-phase (Eu0.5La0.5FBiS1.4Se0.6, BiF3, 
+and LaF3) analysis method for Eu0.5La0.5FBiS1.4Se0.6 (x = 0.6). 
+ 
+ 
+Figure 2(c) shows the Se concentration dependence of the Ch1-Bi-Ch1 bond angle. With increasing 
+x, the bond angle decreases. Therefore, the flatness of the Bi-Ch1 plane becomes worse by Se 
+substitution. This tendency is consistent with the structural evolution in the sister system 
+LaO0.5F0.5Bi(S,Se)2 [11]. Figures 2(d)–2(f) show the in-plane Bi-Ch1 bond distance, Bi-Ch2 bond 
+distance, and inter-plane Bi-Ch1 bond distance. The evolution of the in-plane Bi-Ch1 distance seems to 
+be correlating with the lattice constant of a. In contrast, the changes in the Bi-Ch2 distance and the inter-
+plane Bi-Ch1 distance seem to be correlating with the lattice constant of c. These direct correlation 
+between the local structure parameters and the lattice constant also suggest the selective occupancy of 
+Se at the in-plane Ch1 site. 
+As demonstrated in Refs. 8 and 10, the in-plane chemical pressure parameters (CP) were calculated 
+using the obtained in-plane Bi-Ch1 distance and the ionic radii using the equation, CP = (RBi and RCh/(in-
+plane Bi-Ch1 distance). RBi is the ionic radius of Bi2.5+, estimated in a previous structural analysis of a 
+single crystal of La(O,F)BiS2 [15]. RCh (= 104.19 pm) is the average value of the ionic radius at the Ch1 
+site, which is calculated using nominal x and ionic radii of S (184 pm) and Se (198 pm). With increasing 
+Se concentration, the in-plane chemical pressure increases. Although the in-plane Bi-Ch1 distance 
+increases by Se substitution (Fig. 2(d)), the in-plane packing density increases by Se substitution, which 
+results in the enhancement of orbital overlap between Bi and Se. As proposed in Refs. 8 and 10, we have 
+confirmed that the enhancement of the in-plane chemical pressure is essential for the emergence of bulk 
+superconductivity in this system as well.  
+Finally, we discuss the evolution of the in-plane disorder by Se substitution. One of the advantages 
+of synchrotron X-ray diffraction is the precise determination of the thermal factor, which can represent 
+information about structural disorder. Since the superconductivity is induced in the Bi-Ch1 plane, we 
+performed the Rietveld refinements with the anisotropic thermal factors for Bi and Ch1. Figure 2(h) 
+shows the Se concentration dependences of the anisotropic thermal factor U11 for in-plane Bi and Ch1 
+sites. U11 for Bi does not show a remarkable changes with increasing x. In contrast, U11 for Ch1 shows 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+a notable dependence on x. With increasing Se concentration, U11 for Ch1 decreases, which indicates 
+that the in-plane disorder is suppressed by Se substitution. Generally in the BiS2-based compounds, the 
+existence of huge in-plane disorders has been detected using several probes (neutron diffraction, X-ray 
+diffraction, and X-ray absorption spectroscopy) [16-20]. We consider that the effect of the in-plane 
+chemical pressure on the emergence of superconductivity in Se-substituted Eu0.5La0.5FBiS2-xSex would 
+be the suppression of the in-plane disorder. This scenario is consistent with the results of extended X-
+ray absorption fine structure studies on BiS2 compounds, in which the in-plane Bi-S1 bond intensity is 
+enhanced by the in-plane chemical pressure effect generated by the small RE (rare earth ion) substitution 
+in REO0.5F0.5BiS2 [8,20]. Therefore, with the present structural studies on the Eu0.5La0.5FBiS2-xSex system, 
+we propose the relationship between the local in-plane disorder, the in-plane chemical pressure effect, 
+and the emergence of superconductivity in the BiCh2-based superconductor family. To further confirm 
+this scenario, structural studies with local scale and/or single crystal studies are needed. 
+ 
+ 
+ 
+Fig. 2. Se concentration dependences of structural parameters for Eu0.5La0.5FBiS2-xSex: (a) lattice 
+constant of a, (b) lattice constant of c, (c) Ch1-Bi-Ch1 bond angle, (d) in-plane Bi-Ch1 bond distance, 
+(e) Bi-Ch2 bond distance, (f) inter-plane Bi-Ch1 bond distance, (g) in-plane chemical pressure, and (h) 
+anisotropic thermal factor of U11 for in-plane Bi and Ch1 sites. 
+ 
+ 
+4.  Summary 
+In this study, we have performed synchrotron X-ray powder diffraction for the new BiS2-based 
+superconductor system Eu0.5La0.5FBiS2-xSex, in which the bulk superconductivity was induced by Se 
+substitution. The obtained structural parameters suggest four structural tendencies: (1) the selective 
+occupancy of Se at the in-plane Ch1 site, (2) the direct correlation between Bi-Ch bond distances and 
+the lattice constants, (3) the enhancement of the in-plane chemical pressure, and (4) the suppression of 
+the in-plane disorder by Se substitution. These results will be useful for understanding the relationship 
+between superconductivity and crystal structure in the BiCh2-based superconductor family. 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+Acknowledgements 
+The authors would like to thank the staffs of BL02B2 of SPring-8 for the experimental support. This 
+work was partly supported by Grants-in-Aid for Scientific Research (Nos. 16H04493 and 15H05886) 
+and SPring-8 (proposal No. 2016B1078). 
+ 
+References 
+[1] 
+Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. 
+Izawa, and O. Miura, Phys. Rev. B 86, 220510 (2012). 
+[2] 
+Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura , 
+J. Phys. Soc. Jpn. 81, 114725 (2012). 
+[3] 
+Y. Mizuguchi, J. Phys. Chem. Solids 84, 34 (2015). 
+[4] 
+J. B. Bednorz and K. Müller, Z. Phys. B 64, 189 (1986). 
+[5] 
+Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+[6] 
+H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B 86, 220501 (2012). 
+[7] 
+H. Usui and K. Kuroki, Nov. Supercond. Mater. 1, 50 (2015). 
+[8] 
+Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, E. Magome, 
+C. Moriyoshi, and Y. Kuroiwa, Sci. Rep. 5, 14968 (2015). 
+[9] 
+G. S. Thakur, R. Jha, Z. Haque, V. P. S. Awana, L. C. Gupta, and A. K. Ganguli, Supercond. Sci. 
+Technol. 28 115010 (2015). 
+[10] G. Jinno, R. Jha, A. Yamada, R. Higashinaka, T. D. Matsuda, Y. Aoki, M. Nagao, O. Miura, and 
+Y. Mizugchi, J. Phys. Soc. Jpn. 85, 124708 (2016). 
+[11] T. Hiroi, J. Kajitani, A. Omachi, O. Miura, and Y. Mizuguchi, J. Phys. Soc. Jpn 84, 024723 (2015). 
+[12] Y. Mizuguchi, T. Hiroi, and O. Miura, J. Phys.: Conf. Ser. 683, 012001 (2016). 
+[13] F. Izumi and K. Momma, Solid State Phenom. 130, 15 (2007). 
+[14] K. Momma and F. Izumi, J. Appl. Crystallogr. 41, 653 (2008). 
+[15] A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka, and N. Kumada, J. Solid State Chem. 212, 
+213 (2014). 
+[16] A. Athauda, J. Yang, S. Lee, Y. Mizuguchi, K. Deguchi, Y. Takano, O. Miura, and D. Louca, 
+Phys. Rev. B 91, 144112 (2014). 
+[17] R. Sagayama, H. Sagayama, R. Kumai, Y. Murakami, T. Asano, J. Kajitani, R. Higashinaka, T. 
+D. Matsuda, and Y. Aoki, J. Phys. Soc. Jpn. 84, 123703(1-5) (2015). 
+[18] T. Sugimoto, B. Joseph, E. Paris, A. Iadecola, T. Mizokawa, S. Demura, Y. Mizuguchi, Y. Takano, 
+and N. L. Saini, Phys. Rev. B 89, 201117 (2014). 
+[19] E. Paris, B. Joseph, A. Iadecola, T. Sugimoto, L. Olivi, S. Demura, Y. Mizuguchi, Y. Takano, T. 
+Mizokawa, and N. L. Saini, J. Phys.: Condens. Matter 26, 435701 (2014). 
+[20] Y. Mizuguchi, E. Paris, T. Sugimoto, A. Iadecola, J. Kajitani, O. Miura, T. Mizokawa, and N. L. 
+Saini, Phys. Chem. Chem. Phys. 17, 22090 (2015). 
+ 
+ 
+
+

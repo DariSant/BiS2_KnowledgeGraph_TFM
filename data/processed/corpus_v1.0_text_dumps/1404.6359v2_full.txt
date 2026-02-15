@@ -1,0 +1,348 @@
+1 
+ 
+Element Substitution Effect on Superconductivity in BiS2-Based NdO1-xFxBiS2 
+ 
+Takafumi Hiroi, Joe Kajitani, Atsushi Omachi, Osuke Miura, and Yoshikazu 
+Mizuguchi* 
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, 
+1-1, Minami-osawa, Hachioji, 192-0397, Japan 
+ 
+Corresponding author: Y. Mizuguchi  
+E-mail: mizugu@tmu.ac.jp 
+Telephone: +81-42-677-2748 
+FAX: +81-42-677-2756 
+ 
+Abstract 
+ 
+ Recently, new layered superconductors having a BiS2-type conduction layer have been 
+discovered. NdO1-xFxBiS2 is a typical BiS2-based superconductor with a maximum Tc of 
+5.4 K. In this study, the effect of element substitution within the superconducting layer 
+of BiS2-based NdO0.5F0.5BiS2 was investigated. We systematically synthesized two 
+kinds of polycrystalline samples of NdO0.5F0.5Bi(S1-xSex)2 and NdO0.5F0.5Bi1-ySbyS2 by a 
+two-step solid-state reaction method. The phase purity and the changes in lattice 
+constants were investigated by x-ray diffraction. The superconducting properties were 
+investigated by magnetic susceptibility and electrical resistivity measurements. It was 
+found that the partial substitution of S by Se resulted in the uniaxial lattice expansion 
+along the a axis. The superconducting transition temperature were gradually degraded 
+
+
+2 
+ 
+with increasing Se concentration in NdO0.5F0.5Bi(S1-xSex)2. When Bi was partially 
+substituted by Sb, the uniaxial lattice contraction along the c axis was observed in 
+NdO0.5F0.5Bi1-ySbyS2. In the Sb-substituted system, a metal-insulator transition was 
+observed with increasing Sb concentration. 
+ 
+Keywords: 
+BiS2-based 
+superconductor, 
+NdO1-xFxBiS2, 
+element 
+substitution, 
+metal-insulator transition 
+ 
+ 
+
+
+3 
+ 
+1. Introduction 
+ 
+ Since the discovery of the novel layered superconductor Bi4O4S3, many studies for 
+exploring new superconductors and clarifying the mechanisms of superconductivity in 
+the BiS2 family have been carried out [1]. So far, three types of BiS2-based 
+superconductors, Bi4O4S3 [1], REOBiS2 (RE = La, Ce, Pr, Nd, Yb) [2-9], SrFBiS2 
+[10,11], have been discovered. The highest record of the transition temperature (Tc) is 11 
+K in LaO0.5F0.5BiS2 synthesized using a high-pressure technique. These BiS2-based 
+superconductors basically have a layered structure composed of common BiS2 
+superconducting layers and the blocking layers, which is quite similar to those of the 
+cuprate and the Fe-based superconductors [13,14]. The superconducting properties of 
+the BiS2 family can be tuned by changing the structure of blocking layer. To induce 
+superconductivity in the BiS2-based layered materials, electron doping into the BiS2 
+layers is required [15-20]. For example, in the LaOBiS2 system, superconductivity is 
+induced by a partial substitution of O2- by F- or a partial substitution of La3+ by M4+ 
+[2,21] at the blocking layers. Namely, the element substitution at the blocking layer is 
+effective to induce/tune superconductivity in the BiS2-based family. Furthermore, it was 
+reported that the superconducting properties are sensitive to the change in the local 
+crystal structures [22]. For the REOBiS2 systems (RE = La, Ce and Pr), the optimal (the 
+highest) superconducting properties are obtained by optimizing the crystal structures by 
+using a high-pressure technique [2,4,6,23-27]. 
+Although there are many reports on element substitution effects of blocking layers in 
+REO1-xFxBiS2, the effect of element substitution at the superconducting layer has been 
+reported in only one report. In Bi4O4S3, partial substitution of S by Se decreased its Tc 
+
+
+4 
+ 
+[28]. In this study, the effect of element substitution at the superconducting layers on 
+superconductivity of NdO0.5F0.5BiS2 was investigated. We synthesized Se-substituted 
+NdO0.5F0.5Bi(S1-xSex)2 
+and 
+Sb-substituted 
+NdO0.5F0.5Bi1-ySbyS2. 
+These 
+element 
+substitutions basically generate the changes in the lattice constants without any change 
+in the carrier concentration. 
+ 
+ 
+2. Experimental 
+ 
+In this study, the F concentration was fixed to be x = 0.5 because the highest Tc was 
+obtained 
+for 
+x 
+= 
+0.5 
+in 
+NdO1-xFxBiS2. 
+The 
+polycrystalline 
+samples 
+of 
+NdO0.5F0.5Bi(S1-xSex)2 and NdO0.5F0.5Bi1-ySbyS2 (x, y = 0, 0.1 and 0.2) were prepared by 
+the 
+two-step 
+solid-state 
+reaction 
+method. 
+The 
+starting 
+materials 
+for 
+NdO0.5F0.5Bi(S1-xSex)2 are Nd2O3 powders, Nd2S3 powders, NdF3 powders, Bi grains, 
+BiSe2 powders and S grains. The starting materials for NdO0.5F0.5Bi1-ySbyS2 are Nd2O3 
+powders, Nd2S3 powders, NdF3 powders, Bi grains, Sb powders and S grains. The 
+mixtures 
+with 
+the 
+nominal 
+compositions 
+of 
+NdO0.5F0.5Bi(S1-xSex)2 
+and 
+NdO0.5F0.5Bi1-ySbyS2 were mixed-well, ground, pelletized, sealed in an evacuated quartz 
+tube and heated at 800 °C for 15 h. The obtained products were ground, pelletized, 
+sealed in an evacuated quartz tube and annealed at 800 °C for 15 h again. The obtained 
+samples were characterized by powder X-ray diffraction (XRD) using the θ - 2θ method 
+with a CuKα radiation. The lattice constants were calculated using the peak positions. 
+The temperature dependence of magnetization was measured by a superconducting 
+quantum interface device (SQUID) magnetometer with an applied field of 5 Oe. The 
+
+
+5 
+ 
+temperature dependence of electrical resistivity was measured by the four-probe 
+method. 
+ 
+ 
+3. Results 
+ 
+ Figure 1 shows the powder XRD patterns of (a)NdO0.5F0.5Bi(S1-xSex)2 and 
+(b)NdO0.5F0.5Bi1-ySbyS2 (x, y = 0, 0.1 and 0.2). These XRD patterns were indexed using 
+the P4/nmm space group. In the XRD patterns of NdO0.5F0.5Bi(S1-xSex)2, impurity peaks 
+appeared in the doping range of y ≥ 0.1. In contrast, the impurity peaks were not 
+detected upon Sb substitution in the XRD patterns of NdO0.5F0.5Bi1-ySbyS2. Almost all of 
+the peaks became slightly broader in the substituted samples. The lattice constants a and 
+c were calculated using the positions of the (200) peaks and the (004) peaks, 
+respectively. 
+ The Se-concentration dependences of the lattice constants of the a axis and c axis for 
+NdO0.5F0.5Bi(S1-xSex)2 is shown in Figs. 2(a) and (b), respectively. With increasing Se 
+concentration, the lattice constant of the a axis increased while the lattice constants of 
+the c axis did not change obviously in NdO0.5F0.5Bi(S1-xSex)2. The Se substitution for the 
+S site resulted in a uniaxial lattice expansion along the a axis. 
+ The Sb-concentration dependences of the lattice constants of the a axis and c axis for 
+NdO0.5F0.5Bi1-ySbyS2 is shown in Figs. 2(a) and (b), respectively. With increasing Sb 
+concentration, the lattice constants of the a axis did not change obviously while the 
+lattice constant of the c axis decreased in NdO0.5F0.5Bi1-ySbyS2. The Sb substitution for 
+the Bi site resulted in a uniaxial lattice contraction along the c axis. 
+
+
+6 
+ 
+ The temperature dependences of magnetic susceptibility (χ) of NdO0.5F0.5Bi(S1-xSex)2 
+(x = 0, 0.1 and 0.2) are shown in Fig. 3. The inset shows the Se-concentration 
+dependences of the Tc_onset and the Tc_10%. The Tc_10% is defined as a temperature where 
+the value of χ becomes 10 % of χ(2 K).  The Tc_onset and Tc_10% decreased with 
+increasing Se concentration. The shielding volume fraction of NdO0.5F0.5Bi(S1-xSex)2 
+also decreased drastically. On the basis of these results, we concluded that the Se 
+substitution for the NdO0.5F0.5BiS2 superconductor degraded superconducting properties 
+and finally destroyed the superconducting states. 
+ For the NdO0.5F0.5Bi1-ySbyS2 system, superconductivity was strongly suppressed by the 
+Sb substitution. Even for y = 0.1, superconducting transition was not observed in the 
+magnetic susceptibility measurements. Therefore, we performed electrical resistivity 
+measurements to investigate the Sb substitution effect on the physical properties. Figure 
+4 shows the temperature dependences of electrical resistivity for NdO0.5F0.5Bi1-ySbyS2. 
+The resistivity drastically increased with increasing Sb concentration. When the Sb 
+concentration was y = 0.1, the value of resistivity was 1.90×102 mΩcm at 6 K. When the 
+Sb concentration was y = 0.2, resistivity was 1.35×105 mΩcm at 6 K. The value of 
+resistivity for y = 0.2 was about 103 times larger than that of y = 0.1. The remarkable 
+change suggests that the Sb substitution for the Bi site results in the metal-insulator 
+transition in the NdO1-xFxBiS2 system. Having considered the one-dimensional character 
+of the electronic states in the BiS2-based materials [15], we speculate that the observed 
+metal-insulator transition would be related to the Anderson localization. To investigate 
+further, detailed studies on transport properties and crystal structure using single crystals 
+are needed. 
+ 
+
+
+7 
+ 
+ 
+4. Conclusions 
+ 
+ The effect of the element substitution within the superconducting layer on 
+superconductivity in the BiS2-based superconductor NdO0.5F0.5BiS2 was investigated. 
+The polycrystalline samples of NdO0.5F0.5Bi(S1-xSex)2 and NdO0.5F0.5Bi1-ySbyS2 (x, y = 0, 
+0.1 and 0.2) were synthesized by the two-step solid state reaction method. When S was 
+substituted by Se, the lattice constant of the a axis increased, and the superconducting 
+properties (Tc and shielding volume fraction) were degraded. When Bi was substituted 
+by Sb, the lattice constant of the c axis decreased, and a metal-insulator transition was 
+observed. The element substitution within the superconducting layer degrades 
+superconductivity in the NdO1-xFxBiS2 system. 
+ 
+ 
+Acknowledgements 
+ 
+The authors would like to thank Prof. K. Kuroki of Osaka University for fruitful 
+discussion. This work was partly supported by JSPS KAKENHI Grant Numbers 
+25707031, 26600077. 
+ 
+ 
+
+
+8 
+ 
+References 
+ 
+[1] Mizuguchi, Y., Fujihisa, H., Gotoh, Y., Suzuki, K., Usui, H., Kuroki, K., Demura, S., 
+Takano, Y., Izawa, H., Miura, O.: BiS2-based layered superconductor Bi4O4S3. Phys. 
+Rev. B. 86, 220510(1-5) (2012) 
+[2] Mizuguchi, Y., Demura, S., Deguchi, K., Takano, Y., Fujihisa, H., Gotoh, Y., Izawa, 
+H., Miura, O.: Superconductivity in Novel BiS2-Based Layered Superconductor 
+LaO1-xFxBiS2. J. Phys. Soc. Jpn. 81, 114725(1-5) (2012). 
+[3] Xing, J., Li, S., Ding, X., Yang, H., Wen, H.H.: Superconductivity appears in the 
+vicinity of semiconducting-like behavior in CeO1−xFxBiS2. Phys. Rev. B. 86, 
+214518(1-5) (2012). 
+[4] Demura, S., Deguchi, K., Mizuguchi, Y., Sato, K., Honjyo, R., Yamashita, A., 
+Yamaki, T., Hara, H., Watanabe, T., Denholme, S.J., Fujioka, M., Okazaki, H., Ozaki, T., 
+Miura, O., Yamaguchi, T., Takeya, H., Takano, Y.: Coexistence of bulk 
+superconductivity and ferromagnetism in CeO1-xFxBiS2. arXiv:1311.4267. 
+[5] Jha, R., Kumar, A., Singh, S. K., Awana, V. P. S.: Synthesis and superconductivity of 
+new BiS2 based superconductor PrO0.5F0.5BiS2. J. Sup. Novel Mag. 26, 499-502 (2013). 
+[6] Kajitani, J., Deguchi, K., Hiroi, T., Omachi, A., Demura, S., Takano, Y., Miura, O., 
+Mizuguchi, Y.: Enhancement of Tc by uniaxial lattice contraction in BiS2-based 
+superconductor PrO0.5F0.5BiS2. J. Phys. Soc. Jpn., in printing (arXiv: 1401.7506). 
+[7] Demura, S., Mizuguchi, Y., Deguchi, K., Okazaki, H., Hara, H., Watanabe, T., 
+Denholme, S. J., Fujioka, M., Ozaki, T., Fujihisa, H., Gotoh, Y., Miura, O., Yamaguchi, 
+T., Takeya, H., Takano, Y.: New Member of BiS2-Based Superconductor NdO1-xFxBiS2.  
+J. Phys. Soc. Jpn. 82, 033708(1-3) (2013). 
+
+
+9 
+ 
+[8] Jha, R., Kumar, A., Singh, S. K., Awana, V. P. S.: Superconductivity at 5K in 
+NdO0.5F0.5BiS2. J. Appl. Phys. 113, 056102(1-10) (2013). 
+[9] Yazici, D., Huang, K., White, B. D., Chang, A. H., Friedman, A. J., Maple, M. B.: 
+Superconductivity of F-substituted LnOBiS2 (Ln=La, Ce, Pr, Nd, Yb) compounds. 
+Philosophical Magazine 93, 673-680 (2012). 
+[10] Lin, X., Ni, X., Chen, B., Xu, X., Yang, X., Dai, J., Li, Y., Yang, X., Luo, Y., Tao, 
+Q., Cao, G., Xu, Z.: Superconductivity induced by La doping in Sr1−xLaxFBiS2. Phys. 
+Rev. B 87, 020504(1-4) (2013). 
+[11] Sakai, H., Kotajima, D., Saito, K., Wadati, H., Wakisaka, Y., Mizumaki, M., Nitta, 
+K., Tokura, Y., Ishiwata, S.: Insulator-to-Superconductor Transition upon Electron 
+Doping in a BiS2-Based Superconductor Sr1-xLaxFBiS2. J. Phys. Soc. Jpn. 83, 
+014709(1-7) (2014). 
+[12] Mizuguchi, Y., Hiroi, T., Kajitani, J., Takatsu, H., Kadowaki, H., Miura, O.: 
+Stabilization of high-Tc phase of BiS2-based superconductor LaO0.5F0.5BiS2 using 
+high-pressure synthesis. J. Phys. Soc. Jpn., in printing (arXiv: 1402.5189). 
+[13] Bednorz, J. G., Müller, K. A.: Possible High Tc Superconductivity in the Ba - La- 
+Cu- O System. Z. Physik B 64, 189-193 (1986). 
+[14] kamihara, Y., Watanabe, T., Hirano, M., Hosono, H.: Iron-Based Layered 
+Superconductor La[O1-xFx]FeAs (x = 0.05−0.12) with Tc = 26 K. J. Am. Chem. Soc. 130, 
+3296-3297 (2008). 
+[15] Usui, H., Suzuki, K., Kuroki, K.: Minimal electronic models for superconducting 
+BiS2 layers. Phys. Rev. B 86, 220501(1-5) (2012). 
+[16] Yildirim, T.: Ferroelectric soft phonons, charge density wave instability, and strong 
+electron-phonon coupling in BiS2 layered superconductors: A first-principles study. 
+
+
+10 
+ 
+Phys. Rev. B 87, 020506(R) (1-4) (2013). 
+[17] Shein, I. R., Ivanovskii, A. L.: Electronic band structure and Fermi surface for new 
+layered superconductor LaO0.5F0.5BiS2 in comparison with parent phase LaOFBiS2 from 
+first principles. JETP Lett. 96, 859-864 (2012). 
+[18] Li, B., Xing, Z. W., Huang, G. Q.: Phonon spectra and superconductivity of 
+BiS2-based compounds LaO1−xFxBiS2. arXiv:1210.1743. 
+[19] Martins, G.B., Moreo, A., Dagotto, E.: RPA analysis of a two-orbital model for the 
+BiS2-based superconductors. Phys. Rev. B 87, 081102(1-5) (2013). 
+[20] Morice, C., Artacho, E., Dutton, S. E., Molnar, D., Kim, H. J., Saxena, S. S.: 
+Electronic and magnetic properties of superconducting LnO1-xFxBiS2 (Ln = La, Ce, 
+Pr, and Nd) from first principles. arXiv:1312.2615. 
+[21] Yazici, D., Huang, K., White, B. D., Jeon, I., Burnett, V. W., Friedman, A. J., Lum, 
+I. K., Nallaiyan, M., Spagna, S., Maple, M. B.: Superconductivity induced by electron 
+doping in La1−xMxOBiS2 (M= Ti, Zr, Hf, Th). Phys. Rev. B 87, 174512(1-8) (2013). 
+[22] Suzuki, K., Usui, H., Kuroki, K.: Minimum model and its theoretical analysis for 
+superconducting materials with BiS2 layers. Phys. Procedia, 45, 21-24 (2013). 
+[23] Kotegawa, H., Tomita, Y., Tou, H., Izawa, H., Mizuguchi, Y., Miura, O., Demura, 
+S., Deguchi, K., Takano, Y.: Pressure Study of BiS2-Based Superconductors Bi4O4S3 
+and La(O,F)BiS2. J. Phys. Soc. Jpn, 81, 103702(1-4) (2012). 
+[24] Wolowiec, C. T., White, B. D., Jeon, I., Yazici, D., Huang, K., Maple, M. B.: 
+Enhancement of superconductivity near the pressure-induced semiconductor– metal 
+transition in the BiS2-based superconductors LnO0.5F0.5BiS2 (Ln = La, Ce, Pr, Nd). J. 
+Phys.: Condens. Matter 25, 422201(1-6) (2013). 
+[25] Tomita, T., Ebata, M., Soeda, H., Takahashi, H., Fujihisa, H., Gotoh, Y., Mizuguchi, 
+
+
+11 
+ 
+Y., Izawa, H., Miura, O., Demura, S., Deguchi, K., Takano, Y.: Pressure-induced 
+Enhancement of Superconductivity in BiS2-layered LaO1−xFxBiS2. arXiv:1309.4250. 
+[26] Deguchi, K., Mizuguchi, Y., Demura, S., Hara, H., Watanabe, T., Denholme, S. J., 
+Fujioka, M., Okazaki, H., Ozaki, T., Takeya, H., Yamaguchi, T., Miura, O., Takano, Y.: 
+Evolution of superconductivity in LaO1-xFxBiS2 prepared by high pressure technique.  
+EPL 101, 17004(1-5) (2013). 
+[27] Kajitani, J., Deguchi, K., Omachi, A., Hiroi, T., Takano, Y., Takatsu, H., Kadowaki, 
+H., Miura, O., Mizuguchi, Y.: Correlation between crystal structure and 
+superconductivity in LaO0.5F0.5BiS2. Solid State Commun. 181, 1-4 (2014). 
+[28] Jha, R., and Awana, V.P.S.: Effect of Se doping in recently discovered layered 
+Bi4O4S3 Superconductor. Physica C 498, 45-49 (2014). 
+ 
+
+
+12 
+ 
+ 
+ 
+Fig. 1 XRD patterns of (a) NdO0.5F0.5Bi(S1-xSex)2 (x = 0, 0.1, 0.2) and (b) 
+NdO0.5F0.5Bi1-ySbyS2 (y = 0, 0.1, 0.2). 
+
+
+13 
+ 
+ 
+ 
+Fig. 2 Se-concentration x dependence (or Sb-concentration y dependence) of the lattice 
+constants of (a) a-axis and (b) c-axis. 
+
+
+14 
+ 
+ 
+Fig. 
+3 
+Temperature 
+dependences 
+of 
+the 
+magnetic 
+susceptibility 
+(χ) 
+of 
+NdO0.5F0.5Bi(S1-xSex)2 (x = 0, 0.1, 0.2). 
+ 
+Fig. 4 Temperature dependences of electrical resistivity (ρ) of NdO0.5F0.5Bi1-ySbyS2 (y = 
+0, 0.1, 0.2). 
+
+

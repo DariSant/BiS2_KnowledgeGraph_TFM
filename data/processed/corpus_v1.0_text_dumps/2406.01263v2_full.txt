@@ -1,0 +1,314 @@
+PB SUBSTITUTION EFFECTS ON LATTICE AND ELECTRONIC
+SYSTEM OF THE BIS2-BASED SUPERCONDUCTORS LA(OF)BIS2
+Miku Sasaki , Kotaro Inada , Fumito Mori , Takaaki Hirase , Haruki, Yamada ,
+Shota Shimoyama , Yasushi Nakamura , Tetta Nakamura ,
+Yoshiyuki Shibayama , and Naoki Momono
+Muroran Institute of Technology, Muroran, Hokkaido 050-8585, Japan
+ABSTRACT
+We examined the effect of Pb substitution in the layered superconductor LaO0.5F0.5Bi1−xPbxS2
+(x = 0∼0.15) through the measurements of the resistivity, thermal expansion, specific heat, and
+Seebeck coefficient. These transport and thermal properties show anomalies at certain temperatures
+(T*) for x≥0.08. The large thermal expansion anomalies, specific heat anomalies, and the existence
+of hystereses in the above measurements indicate a first-order structural phase transition at T*. Addi-
+tionally, the Seebeck coefficient indicates that the anomalies at T* are related not only to the lattice
+system, but also to the electronic system. Superconductivity is not observed above 2 K at x=0.08,
+which is around the phase boundary where T* vanishes. The suppression of superconductivity around
+the structural phase boundary suggests a close relationship between the lattice and superconductivity.
+1
+Introduction
+Since the BiCh2-based (Ch: chalcogenide) superconductor Bi4O4S3 was discovered in 2012[1], various BiCh2-based
+superconductors such as La(O, F)BiCh2 (Ch=S, Se) have been studied intensively [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]. A
+major feature of BiCh2 superconductors is absence of the isotope effect on the superconducting transition temperature
+Tc ; the isotope exponent α defined by Tc ∼Mα (M : the isotope mass) was close to zero in LaO0.6F0.4BiSSe
+and Bi4O4S3, which is expected to be α ∼0.5 in conventional BCS superconductors [12, 13]. Another feature
+is that in LaO1−xFxBiSSe and CeOBiS1.7Se0.3 crystals with tetragonal structure, c-axis magnetoresistance in the
+superconducting state shows two-fold symmetry in in-plane anisotropy [14, 15, 16]. These results suggest that
+BiCh2-based superconductors have an unconventional superconducting mechanism.
+BiCh2-based superconductors La(O, F)BiCh2 have the layered structures comprising of block layers (LaO) and
+conduction layers (BiCh2). By partially substituting F for O in the block layers, we can introduce electronic carriers into
+the conduction layers, leading to the emergence of superconductivity [10]. Interestingly, Tc increases significantly by
+applying pressure on the crystals. LaO0.5F0.5BiS2 has Tc ∼2 K under ambient pressure [17]. By applying a pressure
+of 1 GPa, Tc increases up to ∼10 K ,[18, 19] accompanied by a change from the tetragonal structure (P4/nmm) to a
+monoclinic one (P21/m) . These results indicate that the crystal structure may be responsible for the increase in Tc
+[20]. Additionally chemical pressure introduced instead of physical pressure, is also effective in increasing Tc [21].
+Mizuguchi et al. reported that an in-plane chemical pressure suppresses in-plane disorders and enhances the lattice
+anharmonicity, which is positively linked to Tc and the pairing mechanism[22].
+Recently, studying the effect of chemical pressure on Pb-doped BiCh2 crystals has garnered significant attention, which
+cannot be understood solely based on the in-plane chemical pressure effects. In NdO0.7F0.3Bi1−xPbxS2, the length of
+the c-axis decreases monotonically with the Pb concentration (x) until x=0.06, and Tc increases up to 5.6 K for x=0.06
+[23]. Moreover, in LaO0.5F0.5Bi1−xPbxS2, Tc exhibits a suppression between x=0.02 and 0.05 and an enhancement
+above x=0.06. Interestingly, LaO0.5F0.5Bi1−xPbxS2 shows an anomaly in the temperature dependence of the resistivity
+at approximately 150 K above x=0.08 [24]. This anomaly was not observed in NdO0.7F0.3Bi1−xPbxS2. The origin of
+this anomaly and its relation to the increase in Tc are still not clear.
+arXiv:2406.01263v2  [cond-mat.supr-con]  5 Jun 2024
+
+
+In this study, we examined the effect of Pb-substitution on the resistivity, thermal expansion, specific heat, and Seebeck
+coefficient for LaO0.5F0.5Bi1−xPbxS2 (x =0∼0.15) single crystals. We observed anomalies and hystereses at a certain
+temperature, T*, above x=0.08 in all transport and thermal measurements, and conclude that these anomalies at T* are
+due to the first-order structural phase transition. The superconductivity is suppressed at x=0.08 around the boundary
+where T* vanishes.
+2
+Experiment
+Single crystalline samples of LaO0.5F0.5Bi1−xPbxS2 (x =0∼0.15) were synthesized with a flux method with KCl and
+CsCl in a quartz tube. Powders of La2S3, Bi2O3, Bi2S3, PbF2, BiF3, and Bi were used as starting materials. The
+molar ratio of the KCl and CsCl flux was KCl : CsCl= 3 : 5. The powders (2 g) and flux (15 g) were mixed and
+vacuum-sealed in a quartz tube. The tube was heated up to 900 ◦C for 12 hours, maintained at 900 ◦C for 24 hours, and
+then cooled down to 600 ◦C at a rate of 0.5 ◦C/h.
+The resistivity was measured using PPMS (Physical Property Measurement System, Quantum Design) with the
+conventional four-terminal method from 2 K to 300 K. The thermal expansion was measured using a self-made device
+in the laboratory with the two-gauge method from 80 K to 300 K. The specific heat was measured using chopped-light
+AC calorimetry (ADVANCE RIKO) from 85 K to 300 K. We also measured specific heat using PPMS from 0.38 K to
+300 K. The Seebeck coefficient was measured from 4 K to 300 K using a device constructed in the laboratory.
+Single crystal X-ray structural analysis was conducted using a Rigaku VariMax with Saturn at 293 K. The radiation
+source was MoKα (λ = 0.71073 Å). Since O and F are not distinguishable by X-ray diffraction, F was not included
+in the molecular model considered. Structural analysis was conducted with the Bi and Pb contents fixed. From
+single crystal X-ray structural analysis, we obtained the space group of P4/nmm (#129) for all Pb concentrations.
+The parameters R1, wR2, and goodness of fit indicator are 0.0396 to 0.0637, 0.0896 to 0.1494, and 1.146 to 1.287,
+respectively. We examined the Pb concentration using an electron probe microanalyzer (EPMA). The obtained Pb
+concentration increased linearly with the nominal Pb concentration; the net Pb concentration was 17 % higher than the
+nominal Pb concentration. We use the nominal Pb concentration to indicate the crystals, and the net Pb concentration
+was obtained as 1.17x, where x is the nominal concentration.
+3
+Results and Discussion
+3.1
+Crystal structure and F concentration
+Figures 1 (a) and (b) show the dependences of lattice parameter a and c-axis on the Pb concentration at 293 K. The a and
+c-axis increase with Pb concentration until x=0.14 and decrease above x=0.15. The increase in a and c can be ascribed
+to the difference between the ionic radii of Pb2+ and Bi2.5∼3+; R (Pb2+) =1.19 Å [25], R (Bi3+) =1.03 Å[25], and R
+(Bi2.5+) =1.0419 Å [21]. The lattice parameter a and c axis are a =4.0544(10) Å, c =13.4729(3) Å for LaO0.5F0.5BiS2,
+respectively. The detailed dependence of the crystal structure on the Pb concentration will be discussed in another paper,
+in which we will report that the crystal has monoclinic structure (P21/m) at room temperature above x=0.18.
+In this study, O: F= 0.5: 0.5 in nominal composition; the F content cannot be determined precisely using X-ray analysis,
+because there is negligible difference between the scattering factors of O and F. It was reported that the length of the
+c-axis monotonously decreases with increasing y in LaO1−yFyBiS2[17, 26]. We estimated the net F concentration of
+the crystals in this study by comparing our data with the c-axis length reported in Ref. 17, resulting in an F concentration
+of ∼0.35. As shown in Ref. 17, the c-axis of the pure crystal increased by approximately 0.1 per 10 % F concentration.
+In the present Pb-doped crystal, the c-axis increases slightly with x from x=0 to 0.14 by approximately 0.02 Å. We
+exclude the relatively large change in the a and c-axes for x=0.15, because these changes occur near the phase boundary
+discussed later and its origin seems to be different from the change in a and c-axis from x=0 to 0.14. Assuming that the
+change in the c-axis is cased due to the F concentration only, the change in the F concentration is only 2 % between
+x=0∼0.14. Then, we conclude the F concentrations of the present Pb-doped crystals is approximately 0.33∼0.37. The
+length of the a and c-axes in the present Pb-doped crystals is different from those reported in Otsuki et al [24], which
+may be ascribed to the difference in the F concentration.
+3.2
+Resistivity
+Figures 2 (a)-(c) show the T-dependence of the resistivity (ρ) in the T range from 2 K to 300 K for
+LaO0.5F0.5Bi1−xPbxS2 (x= 0∼0.12). Fig.2 (a) shows ρ in the cooling process for x<0.08; ρ exhibits a semiconducting
+behavior with the Pb concentration until x=0.06. These semiconducting behaviors are similar to that reported by Otsuki
+2
+
+
+et al [24]. For x=0∼0.07, ρ starts to decrease around 2∼3 K due to superconductivity. As shown in Fig. 2 (b), ρ
+increases with decreasing T, and drops sharply at a certain temperature T*ER. The sharp change in ρ often appears
+several times below T*ER. The ρ below T*ER shows a metallic behavior except for the low temperatures of T<30 K.
+Such a change in ρ around T*ER has been reported by Otsuki et al [24]. For x=0.09 and 0.10, ρ started to drop due to
+superconductivity at approximately 3 K. In this study, we evaluated T ERonset
+c
+from the temperature at which ρ starts to
+decrease sharply, because zero resistance was not observed for all Pb concentrations.
+For x=0.08, ρ shows a sharp peak at ∼10 K, although its origin is still not clear. Figure 2 (c) shows ρ in the heating
+process; ρ shows a similar behavior to that in the cooling process, although T*ER in the heating process is approximately
+15-32 K higher than that in the cooling process. This behavior of ρ indicates that the change in ρ at T*ER is accompanied
+by hysteresis, suggesting a first-order phase transition.
+3.3
+Thermal expansion
+Figures 3 (a)-(c) show the T-dependence of the linear expansion coefficient ∆L(T)/L in the T range from 85 K to
+300 K for LaO0.5F0.5Bi1−xPbxS2 (x=0.08∼0.14). Here, ∆L(T)/L was obtained by integrating the thermal expansion
+coefficient, α, with respect to T. ∆L(T)/L at x=0.10 and 0.14 decreases with decreasing T at a nearly constant rate,
+and drops sharply around T*ER. After the sharp drops, ∆L(T)/L decreases again with T. For x=0.10, the overall
+T-dependence of ∆L(T)/L is similar to those of other crystals except for the anomaly, where ∆L(T)/L for x=0.10
+shows a small peak. The anomaly of ∆L(T)/L shows hysteresis (Figure 3(b)). Insets of Figures 3 show the thermal
+expansion coefficient, α, which shows a large peak corresponding to the sharp change of ∆L(T)/L originating from
+the change in the lattice structure. We define T*T E as the peak temperature of α. The anomalies of ∆L(T)/L and α
+accompanied by hysteresis indicate that the change in ρ at T*ER arises from the first-order phase transition of the lattice
+system.
+3.4
+Specific heat
+Figure 4 (a) shows the specific heat, C, of LaO0.5F0.5Bi1−xPbxS2 (x=0.09) in the T range from 10 K to 300 K. Figure
+4 (b) shows the C/T vs. T 2 plot for x=0.09 from 0.38 K to 5 K. In Fig. 4 (b), the dashed line represents the linear
+fit of the data with C/T=γN + βT 2, where γN is the electronic specific heat coefficient and β is the coefficient of
+the phonon cubic term. We obtained γN=1.25 mJ/mol·K2 and β=0.62 mJ/mol·K4 from the fitting. The transition
+between the superconducting state and normal state at approximately T ∼3.5 K is not distinct. Inset of Fig. 4 (b) shows
+the electronic specific heat, Ce, divided by T (Ce/T), which is obtained by subtracting the phonon contribution βT 2
+from C/T (Ce/T =C/T-βT 2) under the assumption that the phonon terms in the normal state do not change in the
+superconducting state. There is a hump at approximately 3 K in the inset of Fig. 4 (b); Ce/T starts to increase below 3.4
+K(= T SHonset
+c
+) and decreases toward zero below ∼2 K. T SHonset
+c
+is close to T ERonset
+c
+, which is defined in terms of
+the resistivity. Despite the broad superconducting transition, the low-temperature specific heat, Ce/T, approaches zero.
+This behavior suggests zero residual γ; and specifically, the bulk nature of superconductivity for at least x=0.09.
+Figures 5 (a) and (b) show the C in the T range from 80 K to 300 K for LaO0.5F0.5Bi1−xPbxS2 (x=0.09 and 0.10). In
+Figs. 5 (a) and (b), C is not the absolute value, but relative value in arbitrary units, because the values were measured by
+AC calorimetry. The C values for x=0.09 and 0.10 slowly decrease with decreasing T and drop sharply at T*SH. The
+anomalies in C for x=0.09 and 0.10 show hystereses as well as ρ and ∆L(T)/L, indicating a first-order phase transition.
+Here, we focus on the magnitude of the anomaly in C, ∆C. ∆C/T for x=0.09 and 0.10 is 25 and 109 mJ/mol·K2,
+which are estimated from the comparison of the C data measured by PPMS and AC calorimetry. The ∆C/T values are
+significantly higher than the γN value of 1.25 mJ/mol·K2. This implies that the contribution of the electronic system to
+∆C is small, and the transition at T*SH is mostly caused by the lattice system.
+3.5
+Seebeck coefficient
+Figures 6 (a)-(c) show the T-dependence of the Seebeck coefficient S in the T range from 4 K to 300 K for
+LaO0.5F0.5Bi1−xPbxS2 (x = 0∼0.10). For x=0, S shows a T-linear dependence above ∼200 K and significantly
+increases below ∼200 K. S has a broad peak at ∼30 K and decreases toward zero at lower temperatures. For x=0.02
+and 0.04, S increases significantly below ∼210 K and ∼240 K and shows a peak around ∼30 K. These behaviors of S
+observed for x=0.02 and 0.04 are similar to those of x=0. For x=0.07 and 0.08; S increases below ∼240 K and ∼230
+K, but the enhancement becomes smaller than that for x=0.04. S for x=0.08 changes sign below ∼10 K, which may be
+related to the sharp peak of ρ.
+The temperature (Tp) where S starts to deviate from T-linear dependence at high temperatures is close to the Debye
+temperature determined by phonon specific heat coefficient β [27], as shown in the inset of Fig. 6 (b). The significant
+3
+
+
+enhancement of S below Tp can be ascribed to a positive phonon-drag effect. The large positive phonon-drag effects
+for x≤0.08 indicate strong phonon-electron interactions and strong Umkrapp scattering enhanced by Pb substitution.
+For x=0.09 and 0.10, S is approximately constant at high temperatures (T>170 K for x=0.09 and 250 K for x=0.10)
+and shows a step-like anomaly at T*Seebeck, which is approximately 160 K and 200 K for x=0.09 and 0.10, respectively.
+S is approximately proportional to T below ∼100 K. Interestingly, the positive phonon-drag enhancement in S was
+not observed for x=0.09 and 0.10. Instead, S for x=0.09 and 0.10 shows a weak negative phonon-drag effect at low
+temperatures of 10-30 K. This result means that the nature of the phonon-electron interactions changes below and above
+x=0.08.
+The Seebeck coefficient is generally not much affected by structural phase transitions. It seems that the anomalies at T*
+are related not only to the lattice system, but also to the electronic system. From first-principle band structure calculations,
+Kuroki et al. reported that the phase transition from the tetragonal to monoclinic structure for LaO1−yFyBiS2 under
+high pressure causes a band splitting, which leads to a decrease in the electronic energy in monoclinic structure [28].
+The Seebeck coefficient anomalies could be ascribed to a band splitting in the electronic system due to the structural
+phase transition from the tetragonal to monoclinic structures.
+3.6
+Pb dependences of Tc and T*
+Figure 7 shows the Pb dependence of T*, obtained by the various measurements in LaO0.5F0.5Bi1−xPbxS2 (x=0∼0.15).
+T onset
+c
+obtained from the resistivity and specific heat are also plotted together with T* in Fig. 7. T ERonset
+c
+approximately
+agrees with T SHonset
+c
+at least for x=0 and 0.09 [27]. T ERonset
+c
+is nearly independent of the Pb concentration except
+for that at x=0.08; there is no sign of superconductivity at x=0.08 at least above ∼2 K. It should be noted that the
+suppression of Tc at x=0.08 is in contrast to the results reported by Otsuki et al; this may be due to the slight difference
+in the F concentration, as described previously in Section 2. Moreover, the measured T*ER in this study is consistent
+with data reported by Otsuki et al. T* seems to be independent of the F concentration, that is, the electronic doping
+level.
+As shown in Fig. 7, T* appears around x=0.08 and increases linearly with the Pb concentration. The dependences
+of T* on the Pb concentration measured by various probes are similar to each other. The specific heat anomaly and
+existence of hystereses in the measurements indicate the first-order phase transition at T*, as described before. Here,
+we define the Low-T phase as the temperature region below T* and High-T phase as the temperature region above T*.
+At x=0.08, which is just the boundary between High-T and Low-T phases, superconductivity is not observed above 2
+K. In other words, superconductivity is suppressed near the phase boundary. The large anomaly in thermal expansion
+suggests some type of structural phase transition from the tetragonal to another structure at T*. The suppression of
+superconductivity at the structural phase boundary suggests the close relationship between the lattice structure and
+superconductivity.
+4
+Conclusion
+In conclusion, we have measured the resistivity, thermal expansion, specific heat, and Seebeck coefficient in a single
+crystal of LaO0.5F0.5Bi1−xPbxS2 (x=0∼0.15). The dependences of T* on the Pb concentration measured by various
+probes are similar to each other. The large anomaly of thermal expansion, shape of the specific heat anomaly, and the
+existence of hystereses indicate a first-order structural phase transition at T* from the tetragonal symmetry (P4/nmm).
+The suppression of Tc at x=0.08 near the phase boundary suggests the close relationship between the lattice structure
+and superconductivity.
+References
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, O. Miura,
+Phys Rev. B 86, 220510(R) (2012).
+[2] J. Xing, S. Li, X. Ding, H. Yang, H. H. Wen, Phys. Rev. B 86, 214518 (2012).
+[3] R. Jha, A. Kumar, S. K. Singh, V. P. S. Awana, J. Appl. Phys. 113, 056102 (2013).
+[4] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki, H.
+Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, Y. Takano, J. Phys. Soc. Jpn. 82, 033708 (2013).
+[5] G. S. Thakur, G. K. Selvan, Z. Haque, L. C. Gupta, S. L. Samal, S. Arumugam, Ashok K. Ganguli, Inorg. Chem.
+54, 1076 (2015).
+4
+
+
+[6] K. Kinami, Y. Hanada, M. Nagao, A. Miura, Y. Goto, Y. Maruyama, S. Watauchi, Y. Takano, I. Tanaka, Cryst.
+Growth Des. 19, 6136 (2019).
+[7] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, M. B. Maple, Philos. Mag. 93, 673 (2012).
+[8] J. Shao, X. Yao, Z. Liu, L. Pi, S. Tan, C. Zhang, Y. Zhang, Supercond. Sci. Technol. 28, 015008 (2015).
+[9] T. Okada, H. Ogino, J. Shimoyama, K. Kishio, Appl. Phys. Express 8, 023102 (2015).
+[10] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, O. Miura, J. Phys. Soc. Jpn.
+81, 114725 (2012).
+[11] A. Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V. Pomjakushin, R. Khasanov, H. Luetkens, P K. Biswas, A.
+Amato, H. Keller, K. Conder, J. Phys. Condens. Matter 26, 215702 (2014).
+[12] K. Hoshi, Y. Goto, Y. Mizuguchi, Phys. Rev. B 97, 094509 (2018).
+[13] R. Jha and Y. Mizuguchi, Appl. Phys. Express 13, 093001 (2020).
+[14] K. Hoshi, M. Kimata, Y. Goto, T. D. Matsuda, Y. Mizuguchi, J. Phys. Soc. Jpn. 88, 033704 (2019).
+[15] K. Hoshi, M. Kimata, Y. Goto, A. Miura, C. Moriyoshi, Y. Kuroiwa, M. Nagao, Y. Mizuguchi, J. Phys. Commun.
+4, 095028 (2020).
+[16] R. Kiyama, K. Hoshi, Y. Goto, Y. Mizuguchi, Phys. Status Solidi : Rapid Res. Lett. 2021, 1, 2000546 (2021).
+[17] Y. Mizuguchi, J. Phys. Chem. Solids. 84, 34 (2015).
+[18] R. Jha, H. Kishan, V. P. S. Awana, J. Phys. Chem. Solids 84, 17 (2015).
+[19] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, Y. Takano, J Phy.
+Soc. Jpn. 81, 103702 (2012).
+[20] T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. Izawa, O. Miura, S. Demura,
+K. Deguchi, Y. Takano , J. Phys. Soc. Jpn. 83, 063704 (2014).
+[21] Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, E. Magome, C. Moriyoshi, Y.
+Kuroiwa, Sci. Rep. 5, 14968 (2015).
+[22] F. I. Abbas, K. Hoshi, A. Yamashita, Y. Nakahira, Y. Goto, A. Miura, C. Moriyoshi, Y. Kuroiwa, K. Terashima, R.
+Matsumoto, Y. Takano, Y. Mizuguchi, J. Phys. Soc. Jpn. 91, 074706 (2022).
+[23] S. Demura, Y. Fujisawa, S. Otuski, R. Ishio, Y. Takano, H. Sakata, Solid State Commun. 223, 40 (2015).
+[24] S. Otsuki, S. Demura, Y. Sakai, Y. Fujisawa, H. Sakata, Solid State Commun. 270, 17 (2017).
+[25] R. D. Shannon, Acta Cryst. A32, 751 (1976).
+[26] A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka, N. Kumada, J. Solid State Chem. 212, 213 (2014).
+[27] Y. Wang, S. Takahashi, T. Suda, T. Tamura, H. Ohta, T. Kurosawa, M. Oda, M. Ido, N. Momono, J. Phys. Soc. Jpn.
+89, 094708 (2020).
+[28] M. Ochi, R. Akashi, K. Kuroki, J. Phys. Soc. Jpn. 85, 094705 (2016).
+5
+
+
+Figure 1: (a) Pb dependence of the lattice parameter a (red circle) and (b) lattice parameter c (blue circle) for
+LaO0.5F0.5Bi1−xPbxS2(x = 0∼0.15) at 293 K. The red and blue dashed line are guide to eye.
+Figure 2: (a) Temperature dependence of the electrical resistivity ρ(T) / ρ(300 K) for LaO0.5F0.5Bi1−xPbxS2(x=0∼0.06)
+in the cooling process. The data for x=0, 0.02, 0.04, 0.06 are shown by black (triangle), orange (scares), cyan
+(rhombus) and pink (circle). (b) and (c) Temperature dependence of the electrical resistivity ρ(T) / ρ(300 K) for
+LaO0.5F0.5Bi1−xPbxS2(x=0.08, 0.09, 0.10, 0.12) from 2 K to 300 K. The data for x=0.08, 0.09, 0.10 and 0.12 are
+shown by orange (rhombus), cyan (scares), black (circles) and pink (triangles) in (b) and (c), respectively. The cooling
+(solid symbols) and heating process (open symbols) are shown in (b) and (c), respectively.
+6
+
+
+Figure 3: (a)-(c) Temperature dependence of the linear expansion ∆L(T)/L, obtained by integrating the thermal expan-
+sion coefficient (α) with respect to T. Inset figure shows the thermal expansion coefficient for LaO0.5F0.5Bi1−xPbxS2
+(x=0.08, 0.10, 0.14) from 85 K to 300 K. Red and blue (Inset figure is black) lines represent the heating and cooling
+processes respectively.
+7
+
+
+Figure 4: (a) Temperature dependence of the specific heat (C) for LaO0.5F0.5Bi1−xPbxS2 (x=0.09) from 10 K to 300
+K measured using PPMS. (b) C/T vs. T 2 plot of LaO0.5F0.5Bi1−xPbxS2 (x=0.09) from 0.38 K to 5 K. The dashed line
+represents the linear fit of the data with C/T=γN + βT 2. Inset figure shows Ce/T vs T plot around Tc. The dashed line
+is the γN value.
+8
+
+
+Figure 5: Temperature dependence of the specific heat for LaO0.5F0.5Bi1−xPbxS2 (x=0.09 and 0.10) from 80 K to 300
+K measured using chopped-light AC calorimetry. The red open circles indicates the data in heating process and the blue
+closed circles represents the data on cooling process.
+9
+
+
+Figure 6: (a)-(c) Temperature dependence of the Seebeck coefficient (S) for LaO0.5F0.5Bi1−xPbxS2 (x=0∼0.10) from
+4 K to 300 K in the heating process. The data for x=0.00, 0.02, 0.04, 0.07, 0.08, 0.09 and 0.10 are shown by black
+(circles), pink (open screals), green (rhombus), orange (open screals), cyan (circles), blue (open screals) and red (circles)
+in (a), (b) and (c), respectively. Inset figure shows the Pb dependence of the Debye temperature (blue closed circles)
+and temperature Tp (pink open squares) from which the positive phonon-drag effects become marked.
+10
+
+
+Figure 7: Pb concentration (x) dependence of T* (thermal expansion, electrical resistivity, specific heat, and Seebeck
+coefficient), and T onset
+c
+(resistivity and specific heat) for LaO0.5F0.5Bi1−xPbxS2 (x=0∼0.15). The data for T ERonset
+c
+and T SHonset
+c
+are shown by cyan circles and pink triangles. The data for T*T E, T*ER, T*SH and T*Seebeck are shown
+by red and blue squares, orange and green crosses, cyan and magenta circles, and black and white triangles in heating
+and cooling processes, respectively.
+11
+
+

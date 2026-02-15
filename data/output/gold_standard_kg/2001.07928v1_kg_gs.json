@@ -1,0 +1,73 @@
+{
+  "source_meta": {
+    "source_id": "2001.07928v1_v3_ext.txt",
+    "primary_material_family": "CeOBiS2-xSex"
+  },
+  "extracted_samples": [
+    {
+      "formula": "CeOBiS1.4Se0.6",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": {
+            "single_value": 0.6,
+            "variable_name": "x"
+          }
+        }
+      ],
+      "synthesis_profile": {
+        "method": "Solid State Reaction",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Superconductivity",
+          "conditions": {},
+          "data": {
+            "superconducting_transition": {
+              "tc_peak": 3.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "formula": "CeOBiS2-xSex",
+      "composition_variables": [
+        {
+          "element": "Se",
+          "substituted_element": "S",
+          "concentration": {
+            "min_value": 0.2,
+            "max_value": 0.8,
+            "variable_name": "x"
+          }
+        }
+      ],
+      "synthesis_profile": {
+        "method": "Solid State Reaction",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Transport",
+          "conditions": {},
+          "data": {
+            "generic_value": {
+              "property_name": "Zero Resistivity State",
+              "value": 1,
+              "unit": "True"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "Bulk superconductivity is induced when local structural parameters and carrier concentration are optimized by Se substitution.",
+    "Se substitution enhances in-plane chemical pressure and suppresses in-plane disorder."
+  ]
+}

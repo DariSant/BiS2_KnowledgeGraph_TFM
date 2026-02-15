@@ -1,0 +1,800 @@
+arXiv:1210.2418v1  [cond-mat.supr-con]  8 Oct 2012
+Ferroelectric Soft Phonons, Charge Density Wave Instability and Strong
+Electron-Phonon Coupling in BiS2-Layered Superconductors
+T. Yildirim1,2∗
+1NIST Center for Neutron Research, National Institute of Standards and Technology, Gaithersburg, Maryland 20899, USA
+2Department of Materials Science and Engineering,
+University of Pennsylvania, Philadelphia, PA 19104, USA
+(Dated: November 5, 2018)
+Very recently a new family of layered materials, containing BiS2 planes was discovered to be
+superconducting at temperatures up to Tc=10 K, raising questions about the mechanism of su-
+perconductivity in these systems. Here, we present state-of-the-art ﬁrst principles calculations that
+directly address this question and reveal several surprising ﬁndings. The parent compound LaOBiS2
+possesses anharmonic ferroelectric soft phonons at the zone center with a rather large polarization
+of ≈10µC/cm2, which is comparable to the well-known ferroelectric BiFeO3. Upon electron doping,
+new unstable phonon branches appear along the entire line Q = (q, q, 0), causing Bi/S atoms to order
+in a one-dimensional charge density wave (CDW). We ﬁnd that BiS2 is a strong electron-phonon
+coupled superconductor in the vicinity of competing ferroelectric and CDW phases. Our results
+suggest new directions to tune the balance between these phases and increase Tc in this new class
+of materials.
+PACS numbers: 74.25.Jb,67.30.hj,75.30.Fv,75.25.tz,74.25.Kc
+Superconductivity – a phenomenon ﬁrst documented
+in 1911 – remains one of the most challenging subjects
+of condensed matter physics. Examples of layered super-
+conductors include cuprates[1], MgB2[2], CaC6[3], and
+recent iron-pnictides[4]. Very recently a new family of
+layered materials, Bi4O4S3[5] and ROxF1−xBiS2 (R=La,
+Nd, Pr, and Ce)[6–9], containing BiS2 planes was discov-
+ered to be superconducting at temperatures up to 10 K.
+These new systems are structurally similar to the lay-
+ered, iron-based superconductors LaOxF1−xFeAs[4], and
+in both cases the superconductivity is achieved by F-
+doping. In addition, band structure calculations[11, 12]
+indicate the presence of strong Fermi surface nesting at
+the wave vector (π, π), which is the hallmark property
+of the Fe-pnictides[4]. These similarities have raised the
+exciting question of whether or not the superconduct-
+ing mechanism in the BiS2 system is related to that in
+the iron pnictides and have therefore generated enormous
+interest[5–18].
+The fundamental question is whether or not the ob-
+served Tc in this new system can be understood within a
+conventional electron-phonon coupling framework, or is a
+more exotic mechanism responsible for the superconduct-
+ing pairing? In this work, we present state-of-the-art ﬁrst
+principles calculations that directly address this question
+and reveal several surprising ﬁndings. We show that the
+parent compound LaOBiS2 possesses highly anharmonic,
+ferroelectric, soft phonons at the zone center and a spon-
+taneous polarization of ∼10µC/cm2 that is comparable
+to that in the well-known multiferroic BiFeO3.
+Upon
+electron doping new instabilities appear along the entire
+line Q = (q, q, 0), which causes the Bi/S atoms to order
+into a one-dimensional charge density wave (CDW). We
+ﬁnd that BiS2 is a strong electron-phonon coupled su-
+perconductor in close proximity to competing ferroelec-
+FIG. 1:
+(color online) Crystal structure of LaOxF1−xBiS2
+(x=0.5). The side views of the BiS2 bilayer for x=0 (top) and
+x=0.5 (bottom) are also shown. Note the zigzag pattern of
+the BiS2 plane for x=0.
+tric and CDW phases. Our results suggest new directions
+with which to tune the balance between these phases and
+increase Tc in this new class of materials.
+Figure 1 shows the P4/nmm tetragonal cell of the
+LaOxF1−xBiS2 which consists of two types of atomic lay-
+ers; namely the LaO spacer and electronically active BiS2
+bilayer. Upon F-doping in the LaO layer, one can con-
+trol the charge transfer to BiS2 bilayer and thus tune
+the electronic properties. In order to simulate such dop-
+ing in our calculations, we generated 2 × 2 × 1 super-
+cell of LaOBiS2 and replaced some of the oxygen atoms
+with F atoms in an ordered fashion with doping levels of
+x = 0, 0.125, 0.25, 0.375, and 0.5. The results are sum-
+
+
+2
+-6
+-4
+-2
+0
+2
+4
+Energy (eV)
+0
+20
+40
+60
+80
+100
+Density of States (states/eV/cell)
+x=0
+x=0.125
+x=0.25
+x=0.375
+x=0.5
+0.0
+1.0
+2.0
+3.0
+4.04
+4.06
+0
+0.25
+0.5
+ x  (O1-xFx)
+13.5
+14.0
+0
+0.2
+0.4
+N(EF)
+a-axis
+c-axis
+z(Bi)-z(Sin)
+FIG. 2:
+(color online) Electronic DOS of LaOxF1−xBiS2 as
+a function of F-doping x. For clarity the curves are shifted
+vertically except x = 0.5. On the right, N(EF ) (scaled per
+10-atom unit cell), lattice parameters and the diﬀerence of
+the z-values (all in ˚A) of in-plane S (Sin) and Bi atoms are
+also given.
+marized in Fig. 2.
+The undoped parent compound is a band-insulator
+with a gap of ≈0.8 eV. Upon electron doping, we start to
+ﬁll the empty states in a rigid-band fashion, turning the
+insulating parent compound into a metallic system. From
+the projected density of states (DOS), we determine that
+the states near the Fermi level are mainly Bi−6p and
+S−3p character. The density of states at the Fermi level,
+N(EF ), increases with increasing electron doping and be-
+comes maximal at the half ﬁling x=0.5. In agreement
+with experiments, the c-axis length decreases while the
+a- and b-axis lengths increase with F-doping. Interest-
+ingly the z-values of the in-plane S (i.e., Sin) and Bi
+atoms get closer to each other with doping, yielding a
+nearly perfect planer structure at x=0.5. On the other
+hand zigzag buckled planes are formed at x=0, as shown
+in Fig. 1. This rearrangement of Bi and S atoms into
+a perfect planer structure should have important conse-
+quences for the electronic band structure and the nature
+of Fermi surface. Hence it is important to keep an eye on
+the degree of buckling of BiS2 plane and its relation to
+Tc as new isostructural materials are being discovered.
+We note that similar buckling of CuO2 plane in cuprates
+with doping were found to be closely correlated with su-
+perconducting temperature[19].
+One of the most interesting results shown in Fig. 2
+is that N(EF ) is quite high at half-ﬁlling (x=0.5) and
+EF coincides with a peak in the density of states. This
+usually suggests some sort of instability due to a Van
+-20
+0
+20
+40
+60
+Frequency (meV)
+0
+20
+40
+60
+Frequency (meV)
+Γ
+M
+X
+Γ
+(q,q,0)
+(π,q,0)
+(q,0,0)
+x=0
+x=0.5
+FIG. 3:
+(color online) Phonon dispersion curves of LaOBiS2
+(top) and LaO0.5F0.5BiS2 (bottom), indicating the instabili-
+ties at Γ for x = 0 and along the entire line (q, q, 0) with the
+most unstable phonons at M and (π/2, π/2) for x = 0.5.
+Hove singularity. In order to check this, we calculated
+phonon dispersion curves of the parent (x=0) and half
+doped (x=0.5) systems using 4 × 4 × 1 supercell and the
+results are shown in Figure 3. To our surprise, we ﬁnd
+that the undoped system shows instability near Γ while
+the doped system has instabilities along the entire line of
+Q=(q,q,0) (see also Fig. S2). We repeated the phonon
+dispersion calculations for x=0.5 using a charged system
+without F-doping and obtained the same instabilities (see
+Fig. S1), indicating that the soft phonons found here are
+an intrinsic property of the BiS2 plane.
+In order to have a better insight into the nature of
+these unstable phonons, we carried out total energy cal-
+culations as the system was distorted by the modes hav-
+ing the most negative energy. Figure 4a shows the most
+unstable soft phonon Eu at Γ for x=0, which lowers the
+symmetry from P4/nmm to P21mn (see Fig. S3). The
+S atoms move towards Bi atoms along a-axis (or b-axis)
+and slightly lower the energy of the system by ≈1 meV.
+When the lattice parameters are relaxed, the tetragonal
+cell becomes orthorhombic and the system energy is fur-
+ther lowered by 0.3 meV. The ﬁnal structure is shown in
+Fig. S3. It is remarkable that in the distorted phase, the
+inversion symmetry is broken and a large spontaneous
+polarization of P = 9.9µC/cm2 is induced despite the
+rather small displacements. The calculated polarization
+is comparable to that of the well-known room tempera-
+ture ferroelectric BiFeO3 system[20]. However, we note
+that the potential curve for this unstable ferroelectric
+phonon mode is quite shallow, as shown in Figure 4, and
+quantum zero-point motions may not allow such struc-
+tural distortion.
+In fact, solving the Schrdinger equa-
+tion for this potential, we obtained energy levels which
+
+
+3
+0
+0.5
+1
+1.5
+-2
+0
+2
+4
+6
+8
+Energy (meV)
+a=4.037 Å b=4.030 Å 
+d(S)= 0.09 Å
+a=b=4.030 Å 
+Pa=9.9 µC/cm
+2
+V(Q)= -3.429 Q
+2 + 3.130 Q
+4
+0
+1
+2
+3
+Normal mode amplitude Q
+-20
+0
+20
+40
+Energy (meV)
+d(S)= 0.16 Å
+V(Q)= -16.263 Q
+2 + 2.668 Q
+4 -0.044 Q
+6
+FIG. 4:
+(color online) Total energy as the system is distorted
+by the most negative energy phonons in the tetragonal cell of
+LaOBiS2 at Γ (top) and in
+√
+2 ×
+√
+2 cell of LaO0.5F0.5BiS2
+at M(π, π) (bottom). The insets show the sketch of the un-
+stable phonons. Horizontal dashed red-lines show the energy
+levels of the frozen-phonon potential (red curve). The calcu-
+lated polarization, lattice parameters and the displacement of
+S atom are also indicated.
+are above the potential minimum.
+Hence, the system
+should be dynamically disordered due to zero-point mo-
+tions and should appear as tetragonal. These ﬁndings
+seem to be consistent with the room temperature x-ray
+data reported so far. Finally, we suggest that the ori-
+gin of the anharmonic ferroelectric mode could be due
+to mismatch between the optimum lattice parameters of
+the LaO and the BiS2 layers. If the Bi-S bond is forced
+to elongate due to interaction between LaO and BiS2
+planes, then it is natural for the S atom to break the sym-
+metry and move towards the Bi atom to optimize Bi-S
+interaction. In fact, repeating the phonon calculations for
+smaller lattice parameters (i.e. a=b=3.8 , corresponding
+to 100 kbar pressure), we do not get negative phonon en-
+ergies at the zone center any more. Hence, it seems that
+by changing the spacer oxide, one may tune the nature
+of the soft phonons and the ground state structure.
+Figure 4b shows the total energy in the
+√
+2×
+√
+2 cell of
+the tetragonal structure for x = 0.5 as it is distorted by
+the most negative energy phonon mode at (π, π). Unlike
+the parent compound, the distortion lowers the system
+energy signiﬁcantly, causing S atoms move away by 0.16
+˚A from the high symmetry site. Solving the Schrodinger
+equation for the resulting potential curve numerically,
+we obtained the energy levels which are bound to the
+FIG. 5:
+(color online) 1D Charge Denity Wave forma-
+tion.
+The BiS2 plane in fully optimized CDW phase of
+LaO0.5F0.5BiS2. Large pink and small yellow spheres are Bi
+and S, respectively. Dashed red line is to guide the eye, in-
+dicating the sinusoidal distortion of the atoms.
+The white
+square indicates the 2
+√
+2 ×
+√
+2 unit cell of the CDW phase.
+Bottom panel shows the same structure with a Bi-S bond cut-
+oﬀdistance of 2.8 ˚A. The one dimensional nature of the chains
+becomes apparent. The intra-chain Bi-S bond is about 2.75
+˚A while inter-chain Bi-S bond is around 3 ˚A (see Fig. S3).
+local minimum of the distortion. The blue-dashed line
+in Fig.
+4b shows that the same distortion also occurs
+for the charged system without F-doping.
+Hence, the
+observed soft-mode is an intrinsic property of the BiS2
+plane. We next checked whether the (π, π) phonon op-
+timized
+√
+2 ×
+√
+2 structure is stable at other q-vectors
+by repeating the phonon calculations using a 2
+√
+2 × 2
+√
+2
+super-cell. We obtained more negative energy modes that
+correspond to the original instability at the (π/2, π/2) of
+the 4 × 4 × 1 tetragonal supercell calculations. Hence,
+we further distorted the 2
+√
+2 × 2
+√
+2 structure by the
+(π/2, π/2) negative energy phonon and let the system re-
+lax. We determined that the optimized structure has the
+√
+2 × 2
+√
+2 unit cell with a rather interesting rearrange-
+ment of Bi and S atoms in the BiS2 plane, as shown in
+Fig. 5 and Fig. S4. We call this distorted structure as
+CDW phase, due to the sinusoidal distortion of the Bi
+and S atoms as shown by red dashed lines in Figure 5.
+Unlike the x = 0 case, applying pressure or using smaller
+lattice constants in the phonon calculations does not sta-
+bilize the negative energy phonons. Hence, it is tempting
+to conclude that the origin of this distortion is due to
+strong Fermi surface nesting at M[11, 12]. However, we
+note that the soft phonon branch occurs along the entire
+line Q = (q, q, 0) and not just at the M point. Hence,
+in addition to Fermi surface nesting, there should be an
+important structural reason as well for the observed soft
+
+
+4
+modes. Finally, by looking at the bond distances between
+Bi-S, we notice that there are one-dimensional channels
+of Bi-S bonding as shown in Fig. 5. Interestingly, from
+Hall Eﬀect measurements14 it was concluded that super-
+conducting pairing occurs in one-dimensional chains in
+these systems, which could be related to the CDW phase
+predicted here.
+Similarly, high pressure measurements
+reveal non-monotonic dependence of Tc on pressure and
+suggest that the Fermi surface of LaOxF1−xBiS2 could
+be in the vicinity of instabilities[10]. Finally, the x-ray
+powder diﬀraction[6] for LaO0.5F0.5BiS2 shows rather
+unusual broad peaks, which could be again related to
+the CDW phase.
+We next address the nature of superconductivity found
+in these BiS2 layered systems. We carried out el-ph cou-
+pling calculations using both (π, π) phonon optimized
+√
+2 ×
+√
+2 and CDW structures. We consider 2
+√
+2 × 2
+√
+2
+supercells, containing 80 atoms and obtain the el-ph cou-
+pling by the frozen-phonon method. The results are sum-
+marized in Figure 6. In both (π, π)-optimized or fully
+distorted CDW structures, the Eliashberg functions are
+quite similar, indicating that the main physics of the
+electron-phonon coupling mechanism does not depend on
+the details of the structure. In the (π, π)-phonon opti-
+mized structure, N(EF ) is higher than in the CDW phase,
+and therefore leads to higher el-ph coupling. The total
+electron-phonon coupling is λ = 0.83 with a logarith-
+mic frequency average ωlog = 101K. These values give
+a maximum superconducting temperature of Tc = 8.5
+K. Even in the fully distorted CDW phase, we get quite
+large electron-phonon coupling λ = 0.6 and a logarithmic
+frequency average ωlog = 122 K, which gives a Tc of 6
+K. These values are in excellent agreement with the re-
+ported experimental values of Tc which vary from 3K to
+10 K, depending on the level of doping and sample qual-
+ity. Inspecting the modes which give the highest el-ph
+coupling, we estimate that about 90% of λ comes from
+in-plane Bi and S phonons while the remaining 10% is
+due to phonons along the c-axis. There are two bands
+of phonons near (5 to 10) meV and (15 to 25) meV. The
+phonons in the lower energy band are due to coupled Bi
+and S motion while the phonons in the high energy bands
+are due to almost pure S oscillations. Animation of these
+modes can be found in Ref.24. In Figure 6, we also show
+the total phonon density of states along with the atomic-
+projections of the DOS. As expected based on the masses
+of atoms, O and F-based phonons are above 30 meV and
+do not producing much el-ph coupling. The La phonons
+are near 10 meV but, as expected, do not produce any
+signiﬁcant el-ph coupling.
+In conclusion, we have discovered rather unusual struc-
+tural and dynamical properties of LaOBiS2 with electron
+doping. The large-amplitude in-plane S-atom displace-
+ment controls the structural properties and gives rise to
+large el-ph coupling. It would be interesting to measure
+the isotope eﬀect for the S atom, which may be uncon-
+0.0
+1.0
+2.0
+3.0
+α
+2F(ω),λ(ω)
+α
+2F(ω)
+10 x α
+2F(ω)/ω
+λ(ω)
+0.0
+0.5
+1.0
+1.5
+α
+2F(ω),λ(ω)
+α
+2F(ω)
+10 x α
+2F(ω)/ω
+λ(ω)
+0
+10
+20
+30
+40
+50
+60
+Frequency (meV)
+0
+0.02
+0.04
+0.06
+0.08
+Phonon DOS 
+La
+Bi
+S
+F
+O
+Total
+λ=0.6
+ωlog=122 K
+TC= 6.2 K
+CDW phase
+λ=0.83
+ωlog=101 K
+TC=8.5 K
+(π,π)-optimized phase
+FIG. 6:
+(color online) Eliashberg functions in partially op-
+timized (top) and fully optimized CDW structure (middle).
+El-ph coupling constant λ, Tc, ωlog are also given. The total
+and atomic-projected phonon DOS are shown in the bottom
+panel.
+ventional. Our results also suggest that thin ﬁlms of BiS2
+on various substrates may exhibit unusual properties due
+to epitaxial strain at the interface. New materials with
+similar structures but with BiO2 plane could be quite
+interesting due to smaller mass of oxygen atom, which
+gives higher phonon energies, and in turn higher Tc. In
+fact, the results reported here remind us of another inter-
+esting system, namely Ba1−xKxBiO3[25], which exhibits
+several complicated structural phases[26] and supercon-
+ductivity at 31 K[25]. It is too early to say which of these
+predictions from DFT calculations will be demonstrated
+experimentally. However it is clear that the BiS2 based
+layered systems are very rich in physics, involving nearly
+ferroelectric soft phonons and CDW ordering along with
+strongly coupled electron-phonon superconductivity.
+Acknowledgments: We acknowledge many fruitful dis-
+cussions with A. B. Harris and P. M. Gehring. TY ac-
+knowledges partial support by the U. S. Department of
+Energy through BES Grant No. DE-FG02-08ER46522
+for the computational resources used in this study.
+Supporting Information: The details of methods and
+additional plots of the phonon dispersion curves, picture
+of optimized structures and atomic positions/lattice pa-
+rameters are given in supporting information (SI).
+∗Electronic address: taner@seas.upenn.edu
+[1] Orenstein, J. and Millis, A. J. Science 288, 468 (2000).
+[2] Nagamatsu, J., Nakagawa, N., Muranaka, T., Zenitani,
+Y. and Akimitsu, J. Nature 410, 63 (2001).
+
+
+5
+[3] Weller, T. et al. Nature Phys. 1, 39-41 (2005).
+[4] Takahashi, H., Igawa, K., Arii, K., Kamihara, Y., Hirano,
+M., Hosono, H. Nature, 453, 376, (2008).
+[5] Mizuguchi, Y., et al., arXiv:1207.3145 (2012).
+[6] Mizuguchi, Y., et al., arXiv:1207.3558 (2012).
+[7] Demura, S., et al., arXiv:1207.5248 (2012).
+[8] Jha, R. et al., arXiv:1208.5873 (2012).
+[9] Xing, J. et al., arXiv:1208.5000 (2012).
+[10] Kotegawa, H., et al., arXiv:1207.6953 (2012).
+[11] Usui, H., et al., arXiv:1207.3888v1 (2012).
+[12] Wan, X., et al., arXiv:1208.1807v1 (2012).
+[13] Zhou, T. and Wang, Z. D. arXiv:1208.1101v1 (2012).
+[14] Li, S., et al. arXiv:1207.4955v1 (2012).
+[15] Awana, V. P. S., et al., arXiv:1207.6845 (2012).
+[16] Takatsu, H. et al., arXiv:1208.2796 (2012).
+[17] Sathish, C. I. and Yamaura, K., arXiv:1208.2818 (2012).
+[18] Lei, H. et al., arXiv: 1208.3189 (2012).
+[19] Chmaissem, O. et al., Nature 397, 45 (1999).
+[20] Ederer, C. and Spaldin, N. A. Phys. Rev. Lett. 95,
+257601 (2005).
+[21] Giannozzi, P. et al. J. Phys. Condens. Matter 21, 395502
+(2007).
+[22] Blochl P. E. Phys. Rev. B, 50, 17953 9 (1994).
+[23] Lam, P. K., Dacorogna, M., Cohen, M. L. Phys. Rev. B
+34, 5065 (1986).
+[24] Animations
+of
+the
+phonons
+that
+give
+the
+largest
+el-ph coupling in LaOxF1 −xBiS2 can be found at
+http://www.ncnr.nist.gov/staﬀ/taner/bis2superconductors
+[25] Cava, R. J. et al. , Nature 332, 814 (1988).
+[26] Braden, M et al., Rev. B 62, 6708 (2000).
+SUPPORTING INFOMATION
+1.
+Methods The ﬁrst-principles calculations were
+performed within the plane-wave implementation of the
+Perdew-Burke-Ernzerhof generalized gradient approxi-
+mation to density functional theory as implemented in
+the PWSCF package[21]. We used Vanderbilt-type ultra-
+soft potentials. The wavefunction and charge cutoﬀs are
+taken as 40 Ry and 480 Ry, respectively. We tested that
+k-sampling converges well with a k-point grid of 20x20x6
+in the tetragonal cell. For
+√
+2 ×
+√
+2 structure, we used
+k-mesh of 14x14x6. The structures are optimized until
+the forces on atoms are less than 0.005 eV/˚A
+and the
+stress is less than 0.01 kbar. Some of the total energy
+and phonon calculations were also repeated by Vienna
+Ab-Initio Simulation Package using more accurate Pro-
+jector Augmented Waves method[22]. We obtained very
+similar results concerning the structural distortion, soft
+phonons and their energies. Finally, the electric polariza-
+tion is calculated by PWSCF via the modern theory of
+polarization (i.e. Berry Phase). We used 20x20x6 k-mesh
+for self-consistent calculations and the polarization is cal-
+culated using twice dense k-grid along the calculated po-
+larization direction. The phonon dispersion curves were
+obtained by the direct ﬁnite displacement method. We
+used 0.02 ˚A displacements in plus and minus directions
+to obtain the force-constant matrix numerically. Once we
+-20
+0
+20
+40
+60
+80
+Frequency (meV)
+-20
+0
+20
+40
+60
+80
+Frequency (meV)
+Γ
+M
+X
+Γ
+(q,q,0)
+(π,q,0)
+(q,0,0)
+x=0.5 Charged System
+x=0.5 F-Doped System
+FIG. S1:
+Phonon dispersion curves for x=0.5 with charged
+system without F-doping (top) and with F-doped case (bot-
+tom).
+have the phonon spectrum, the electron-phonon coupling
+is calculated by the supercell frozen-phonon method[23].
+Brieﬂy, for a given phonon branch, the system is dis-
+torted according to the normal mode by its root-mean-
+square (rms) value and then the electron-phonon matrix
+element, Mn,n′ =< n|Hp −H0|n′ > , is calculated self-
+consistently using the wave-functions (|n >) and eigen-
+values (En) of the total potential Hp, H0 (i.e., frozen-
+phonon and reference cell, respectively). The el-ph cou-
+pling constant λ is then obtained from the Fermi surface
+averaging of Mn,n′ using gaussian smearing method. The
+superconducting critical temperature Tc, was estimated
+using the Allen-Dynes formula, with µ∗= 0 for the upper
+limit of Tc.
+2. Phonon Dispersion Curves in the Electron-
+Doped System without F-substitution
+Here we compare the phonon dispersion curves ob-
+tained from 4×4×1 supercell of the tetragonal LaOBiS2
+cell with x = 0.5 doping level (top panel in Fig. S1)
+with the one obtained from actual F-substituted sys-
+tem (bottom panel in Fig.S1). Note that both systems
+show the same phonon instability along the entire line
+Q = (q, q, 0). Hence the predicted soft modes do not de-
+pend on the details of the doping and it is intrinsic to the
+BiS2 plane. The main diﬀerence between the actual F-
+doping and just adding an electron to the system is the
+maximum phonon energies. In the case of charge dop-
+ing, the top phonon bands extend up to 60 meV (which
+is similar to undoped case). The upper phonon band is
+somewhat separated from the bottom phonon bands. In
+the case of F-doping, the top-phonon band gets softer
+and mixed up with the lower energy phonon bands. This
+is expected as the F-atom has smaller diameter than oxy-
+gen atom and when F is substituted at the oxygen site,
+there will be more room for the surrounding atoms to
+
+
+6
+-20
+0
+20
+40
+60
+Frequency (meV)
+0
+0.5
+-20
+0
+20
+40
+60
+Frequency (meV)
+Γ
+M
+Cell 3x3x1
+Cell 4x4x1
+(q,q,0)
+Linear Response
+Γ
+Cell 2x2x1
+M
+(q,q,0)
+FIG. S2:
+Phonon dispersion curves from diﬀerent supercells
+and the linear response theory, all showing that we have two
+unstable phonon branches along the entire line (q,q,0).
+oscillate easily, thus yielding lower phonon energies.
+3.
+The soft-phonon branches along the entire
+(q, q, 0) direction for LaOxF1−xBiS2
+In Fig. S2 we present the phonon dispersion curves
+along (q, q, 0) direction which is obtained from diﬀerent
+supercells, namely 2×2×1, 3×3×1, and 4×4×1 of the
+LaOxF1−xBiS2. We also calculated the same dispersion
+curve using the linear response theory, which does not
+assume any supercell. We note that in 2 × 2 × 1 super-
+cell, the calculations have the exact phonon energies only
+at (0,0,0) and (π, π, 0) and therefore does not reﬂect the
+correct dispersion curve. For 3 × 3 × 1 supercell, we have
+exact phonon energies at Q = (n2π/3, m2π/3, 0)(n, m =
+0, 1, 2). For 4 × 4 × 1 supercell, the exact phonon en-
+ergies are at Q = (n2π/4, m2π/4)(n, m = 0, 1, 2, 3). In
+supercell calculations the smooth dispersion curves are
+obtained by assuming a real-space cutoﬀdistance for the
+force-constant matrix. From Figure S2, it is clear that we
+need at least 3×3×1 supercell to get the right dispersion
+curves. The linear response theory, in excellent agree-
+ment with the supercell calculations, also shows that
+there are two unstable phonon branches along the entire
+Q = (q, q, 0) direction. In Figure S3, we show only the
+raw-data from linear response theory calculations, with-
+out making any approximation for the real-space force
+constants and cutoﬀ, that is needed to get the smooth
+curves.
+4. The Ferroelectric Phase of LaOBiS2
+Figure S3 shows the structural parameters of the fer-
+roelectric phase of LaOBiS2 after the tetragonal struc-
+ture is distorted by the most negative energy mode
+and then fully relaxed.
+The lattice parameter along
+the S-displacement direction gets longer, causing one-
+2.96 Å
+2.80 Å
+P=9.9 µC/cm2
+a
+b
+Ferroelectric LaOBiS2,
+Space Group: P 21 mn (No.31)
+Property
+Calculations
+a axis
+4.037
+b axis
+4.029 Å
+c axis
+14.217Å
+La (x,0,z)
+x=0.4997, z=0.0858
+O
+(x,1/2,0)
+x=0.4996
+Bi (x,0,z)
+x=0.4973, z=0.3676
+S (x,0,z)
+x=0.5250, z=3946
+S (x,0,z)
+x=0.4988, z=0.1898
+x,y,z
+1/2+x,1/2-y,-z
+1/2+x,1/2+y,-z
+x,-y,z
+FIG. S3:
+The ferroelectric phase of LaOBiS2 which
+is obtained by ﬁrst distorting the tetragonal phase using
+the most unstable gamma-phonon and then by perform-
+ing full structural relaxation.
+The bond-stick model shows
+only the bonds with bond-distance of 2.8 ˚A
+to emphasize
+the one-dimensional chain perpendicular to the in-plane S-
+displacements (shown by red arrows). The Table on the right
+shows the optimized structural parameters as well as the sym-
+metry operations of the ferroelectric phase.
+2.81
+2.82
+2.76
+3.02
+2.96
+CDW Phase LaO0.5F0.5BiS2, 
+Space Group: P 2212 (No.17)
+a axis
+5.7632 Å
+b axis
+11.5265 Å
+c axis
+13.3026 Å  
+La    
+0.2545 0.6242 0.1047 
+La
+0.2456 0.1256 0.1034
+O
+0.4944 -0.0000 0.0000
+O
+0.0000 -0.2500 0.9978 
+F
+0.9926 -0.0000 0.0000
+F
+0.5000 -0.2500 0.0019 
+Bi
+0.2838 0.6306 0.6143 
+Bi
+0.2166 0.1304 0.6142 
+S
+0.2597 0.6271 0.8146 
+S
+0.2410 0.1264 0.8150 
+S
+0.2968 0.6108 0.3846 
+S
+0.2030 0.1109 0.3855
+x,y,z
+-x,y+1/2,-z
+-x,-y+1/2,z
+x,-y,-z
+FIG. S4:
+The CDW phase of LaO0.5F0.5BiS2 with the one-
+dimensional chains. Various Bi-S distances are also shown.
+On the right, we give the structural parameters and the sym-
+metry operators of the CDW phase.
+dimensional Bi-S zigzag chains perpendicular to the S-
+displacement with intra-chain Bi-S bond distance of 2.8
+˚A and inter-chain Bi-S bond distance of 2.96 ˚A.
+5. The CDW Phase of LaO0.5F0.5BiS2
+Figure S4 shows the structural parameters of the CDW
+phase of LaO0.5F0.5BiS2 after the tetragonal structure is
+distorted by the most negative energy modes at (π, π)
+and (π/2, π/2), respectively, and then fully relaxed.
+
+

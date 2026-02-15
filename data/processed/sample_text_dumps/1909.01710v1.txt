@@ -1,0 +1,660 @@
+arXiv:1909.01710v1  [cond-mat.supr-con]  4 Sep 2019
+Journal of the Physical Society of Japan
+FULL PAPERS
+Superconductivity of Electron-Doped NdOBiS2 by Substitution of Mixed-Valence
+Ce ions
+Naoki Kase1 ∗, Masaya Matsumoto1, Katsuo Kondo1, Jun Gouchi2, Yoshiya Uwatoko2, Toshiro
+Sakakibara2, and Nobuaki Miyakawa1
+1Department of Applied Physics, Tokyo University of Science, Tokyo 125-8585, Japan
+2Institute for Solid State Physics, University of Tokyo, Kashiwa 277-8581, Japan
+Superconductivity is achieved in Nd1−xCexOBiS2 via electron doping using mixed-valence Ce ions. Single crystals
+with x = 0.2, 0.3, 0.4, and 0.5 are generated using a CsCl ﬂux method. Plate-like single crystals with dimensions of
+0.8×0.8×0.2 mm3 were obtained. The magnetic susceptibility χ(T) indicates large diamagnetism, and the electrical
+resistivity ρ(T) indicates zero resistivity. The maximum value of Tc is observed at 4.7 K in Nd0.8Ce0.2OBiS2 from χ(T).
+From the ρ(T) measurements taken in several magnetic ﬁelds, the upper critical ﬁeld µ0Hc2(0) is estimated to be ∼12
+and ∼0.34 T for the ab- and c-planes, respectively. We redetermined µ0Hc2(0) of NdO0.7F0.3BiS2, as ∼35 and ∼0.78 T
+for the ab- and c-planes, respectively. The anisotropic parameter Γ is estimated to be ∼35 for Nd0.7Ce0.3OBiS2 and ∼45
+for NdO0.7F0.3BiS2. The µ0Hc2(0) of Nd0.7Ce0.3OBiS2 is approximately two times smaller than that of NdO0.7F0.3BiS2,
+although the diﬀerence of Γ is approximately 10.
+The
+newly
+discovered
+BiS2-based
+superconductors
+Bi4O4S3 and RO1−xFxBiS2 (R = La, Ce, Pr, Nd) are of inter-
+est owing to their various crystal structures similar to those
+in layered cuprate and iron pnictide superconductors.1–9) The
+crystal structure of the BiCh2-based (Ch: chalcogen) super-
+conductors consists of alternating stacks of RO-blocking and
+BiCh2 conducting layers. It is known that electron carrier
+doping into the conduction band, mainly comprising Bi-6p
+and Ch-p orbitals,10,11) induces superconductivity in the
+BiS2-based compounds. Recent research has indicated that
+in-plane chemical pressure is related to the overlapping of the
+Bi-6p and Ch-p orbitals, which is a signiﬁcant contributor to
+bulk superconductivity.12) A typical approach to increasing
+overlapping is by substituting elements with a longer ionic
+radius (e.g. Se substitution for S sites).13–15) From detailed
+analysis of the crystal structure, the chemical pressure eﬀects
+eﬀectively ameliorated the in-plane disorder in the BiCh2
+conducting layer.16–19)
+The mechanism of superconductivity in BiS2-based com-
+pounds has received attention but remains under debate.
+The speciﬁc heat measurements of a bulk superconductor
+of LaO0.5F0.5BiSSe suggest full gap symmetry and indi-
+cate that superconductivity is mediated by electron–phonon
+coupling.20,21) However, the Se isotope eﬀect suggests that
+the superconducting pairing interaction may not be due
+to electron–phonon interaction.22) In a single crystal of
+Nd(O,F)BiS2, penetration depth and thermal conductivity in-
+dicate that superconductivity is a full-gap symmetry.23–25) In
+contrast, recent angle-resolved photoemission spectroscopy
+(ARPES) measurements suggest that the superconducting gap
+of NdO0.71F0.29BiS2 is anisotropic.26) Thus, the mechanism of
+the BiS2-based superconductor is still controversial.
+As previously mentioned, electron doping is necessary
+to induce bulk superconductivity in BiS2-based compounds.
+Recently, superconductivity has been observed in non-
+substituted CeOBiS2; this is mostly because of electron dop-
+ing by mixed-valence Ce ions.27) The compound is consid-
+∗Author to whom correspondence should be addressed: n-kase@rs.tus.ac.jp
+ 0  10  20  30  40  50  60  70  80
+Nd1-xCexOBiS2
+(a)
+002
+003
+004
+005
+006
+007
+008
+009
+0010
+0011
+x = 0.5
+x = 0.4
+x = 0.3
+x = 0.2
+I (arb. units)
+2θ (deg.)
+ 1.35
+ 1.36
+ 1.37
+ 0
+ 0.5
+ 1
+(b)
+(c)
+c-axis (nm)
+x
+Fig. 1.
+(Color Online) (a) X-ray diﬀraction patterns of Nd1−xCexOBiS2
+single crystals aligned along the (00l) plane with Cu-Kα radiation. The Miller
+indices of each peak are represented in the ﬁgure. (b) A photograph of a piece
+of grown single crystal. One grid spacing in the photograph represents 1.0
+mm. (c) Lattice constant of the c-axis of Nd1−xCexOBiS2 at room tempera-
+ture . The data for CeOBiS2 is extracted from Ref. 27.
+ered to have the mixed valence of Ce3+/Ce4+. In addition,
+superconductivity in the non-F-substituted LaOBiSSe and
+PrOBiS2 is achieved by Ce-substitution at R-sites, suggest-
+ing that the carriers are injected owing to the mixed valence
+of Ce3+/Ce4+.28,29) These results indicate that substitution by
+mixed-valence Ce ions can eﬀectively induce superconductiv-
+ity.
+The investigation of superconductivity induced by electron
+doping except for F helps in a better understanding of the
+mechanism. Because F-substituted NdOBiS2 is known to ex-
+hibit the highest superconducting transition temperature (Tc)
+in the ROBiS2 compounds at ambient pressure,5,30) a higher
+Tc is highly desirable in NdOBiS2 by Ce-substitution. In the
+present study, we have successfully generated single crys-
+tals of Nd1−xCexOBiS2 and reported the discovery of super-
+conductivity in Nd1−xCexOBiS2 through electrical resistivity
+1
+
+
+J. Phys. Soc. Jpn.
+FULL PAPERS
+-1
+ 0
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+Nd0.8Ce0.2OBiS2
+H = 5 Oe
+FC
+ZFC
+(b) 
+H // ab
+-8
+-6
+-4
+-2
+ 0
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+Nd1-xCexOBiS2
+H = 5 Oe
+x = 0.5
+x = 0.3
+x = 0.4
+x = 0.2
+FC
+ZFC
+(a) 
+H // c
+4πχ (emu/cm3Oe)
+-0.1
+ 0
+ 0.1
+ 3
+ 4
+ 5
+(c) 
+-0.1
+ 0
+ 0.1
+ 3
+ 4
+ 5
+(d) 
+ 0
+ 0.5
+ 1
+ 1.5
+ 2
+ 3
+ 4
+ 5
+ 6
+(e) Nd1-xCexOBiS2
+x = 0.5
+x = 0.3
+x = 0.2
+x = 0.4
+ρ (mΩcm)
+T (K)
+ 0
+ 1
+ 2
+ 3
+ 0
+ 100
+ 200
+ 300
+(f) Nd1-xCexOBiS2
+x = 0.5
+x = 0.4
+x = 0.3
+x = 0.2
+x = 1
+T (K)
+Fig. 2.
+(Color Online) T-dependence of the magnetic susceptibility χ(T)
+of Nd1−xCexOBiS2. Zero-ﬁeld-cooled (ZFC) and ﬁeld-cooled (FC) measure-
+ments were performed with H = 5 Oe applied along the (a) c- and (b) ab-
+plane. (c-d) Enlarged parts of χ(T) around the superconducting transition.
+(e-f) T-dependence of the electrical resistivity of Nd1−xCexOBiS2.
+ρ(T) and magnetic susceptibility χ(T) measurements. From
+the results, we revealed the superconducting properties of
+Nd1−xCexOBiS2. We noted that Tc of the crystals grown using
+the 99.9%- and 99.999%-CsCl ﬂuxes were similar.31) In other
+words, we conﬁrmed that the F impurity in 99.9%-CsCl ﬂux
+is not the primary factor in electron doping to induce super-
+conductivity.
+Single crystals of Nd1−xCexOBiS2 with x = 0.2, 0.3, 0.4,
+and 0.5 were synthesized by a CsCl-ﬂux method. The nomi-
+nal compositions of Nd2O3 (99.9%, Kojundo Chemical Lab.
+Co.), Nd2S3 (99%, Kojundo Chemical Lab. Co.), CeO2 (99%,
+Kojundo Chemical Lab. Co.), and Bi2S3 (99.9%, Kojundo
+Chemical Lab. Co.) were weighed (total mass of 0.8 g) and
+mixed with 5 g of CsCl powder (99.999%, Kojundo Chemi-
+cal Lab. Co.). The mixture was sealed in an evacuated quartz
+tube. The quartz tube underwent heating at 950 for 10 h fol-
+lowed by cooling to 650 at a rate of 1 /h; then, the sample
+was cooled to room temperature in the furnace. We success-
+fully synthesized single crystals of Nd1−xCexOBiS2 with x =
+0.2, 0.3, 0.4, and 0.5. As shown in Fig. 1(b), the plate-like
+crystals were grown with x = 0.3, 0.4, and 0.5, and the typical
+dimensions are approximately 0.8×0.8×0.2 mm3. The shape
+of the generated crystal with x = 0.2 is slightly lumpy and
+small. A single crystal with x = 0.1 was not generated at this
+stage. The results indicate that single crystals with low car-
+rier doping are diﬃcult to generate, and non-doped NdOBiS2
+could not be successfully synthesized.5,30)
+The crystal structure was veriﬁed through X-ray diﬀrac-
+tion (XRD), which employed a conventional X-ray spec-
+trometer equipped with Cu-Kα radiation (RINT 2500,
+Rigaku). The chemical composition of the single crystals of
+Nd1−xCexOBiS2 was analyzed by X-ray ﬂuorescence (XRF),
+conducted using a JEOL JSX 1000S ElementEye. Electri-
+cal resistivity ρ(T) was measured via a standard dc-four-
+probe method. Electrical connections with the sample com-
+prised gold wires (φ = 25 µm) joined with Ag paste (4922N,
+DuPont). DC-magnetic susceptibility χ(T) was measured by
+a magnetic property measurement system (MPMS, Quan-
+tum Design), down to 2.0 K. AC-electrical resistivity ρ(T)
+was measured by a physical property measurement system
+(PPMS, Quantum Design), down to 2.0 K in magnetic ﬁelds
+of several intensities, including zero. Thermoelectric power S
+was measured using a seesaw heating method by considering
+a diﬀerent temperature ∆T of about 1 K. Thermoelectric volt-
+age ∆V was measured by a nano-voltmeter (2182A, Keithley).
+Figure 1(a) shows the XRD patterns of the single crys-
+talline sample of Nd1−xCexOBiS2 along the c-axis at room
+temperature. The presence of only 00l diﬀraction peaks indi-
+cates that the ab-plane is well grown. Figure 1(c) shows that
+the lattice constant c was 1.3661 nm for Nd0.8Ce0.2OBiS2, and
+decreased as Ce content x increased. The result conﬂicts with
+lanthanide contraction for a trivalent Ce valence, because the
+ionic radius of Nd3+ is smaller than that of Ce3+. However, the
+lattice constants of CeOBiS2 are slightly smaller than those
+of LaOBiS2 and PrOBiS2, indicating that the Ce valence is a
+mixed state of Ce3+/Ce4+.27) Thus, the shrinking of the lattice
+constants of the Ce-substituted NdOBiS2 indicates the pres-
+ence of Ce4+.
+The XRF analysis helped determine the chemical com-
+position ratios of the single crystals for x = 0.2, 0.3, 0.4,
+and 0.5, which were Nd0.73Ce0.24BiS1.7, Nd0.72Ce0.30BiS1.9,
+Nd0.59Ce0.41BiS2.0, and Nd0.57Ce0.53BiS2.1, respectively. The
+O composition ratio could not be determined. The values sug-
+gest that the chemical composition of the grown crystals is
+almost consistent with the nominal one, although the ratio of
+x = 0.5 is slightly deviated. The ratio of the single crystal for
+x = 0.2 seems to indicate a lack of S. One possible explana-
+tion is that the deviation is ascribed to the lumpy shape, which
+causes a measurement error. Another possibility is that a lack
+of S leads to the lumpy shape.
+Figures 2(a-b) show the T-dependence of the magnetic sus-
+ceptibility χ(T) of Nd1−xCexOBiS2 on heating after zero-ﬁeld
+cooling (ZFC) and then on cooling in the ﬁeld (ﬁeld cool-
+ing, FC) for H || ab and H || c. A large diamagnetism was
+observed in Nd1−xCexOBiS2 (x = 0.2, 0.3, 0.4, and 0.5). The
+signiﬁcant exceedance of −4πχ is due to the diamagnetic fac-
+tor when H was applied along the c-axis. By applying a mag-
+netic ﬁeld along the ab-plane, the diamagnetic factor is almost
+negligible. Figure 2(b) shows that a large diamagnetism was
+observed in Nd0.8Ce0.2OBiS2 at 4.7 K, suggesting that the su-
+perconductivity is of bulk nature, although the shielding eﬀect
+slightly exceeds −1 in 4πχ. It is likely that the roughness of
+the crystal shape leads to the misalignment of the ﬁeld applied
+to the ab-plane.
+Figures 2(c-d) show that Tc is deﬁned as the temperature
+where the magnetization drop starts to appear. Because χ(T)
+for x = 0.5 gradually decreases, we consider Tc as the tem-
+perature where FC starts to deviate from the ZFC. The values
+2
+
+
+J. Phys. Soc. Jpn.
+FULL PAPERS
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 0
+ 0.2  0.4  0.6  0.8
+ 1
+(a) Nd1-xCexOBiS2
+Superconductivity
+Tc (K) 
+x 
+ 0
+ 5
+ 10
+ 0  0.2 0.4 0.6 0.8  1
+280 K
+-S (µV/K)
+(c)
+x 
+ 0
+ 1
+ 2
+(b)
+ρ (mΩcm)
+280 K
+6 K
+Fig. 3.
+(Color
+Online)
+(a)
+Superconducting
+phase
+diagram
+of
+Nd1−xCexOBiS2
+determined
+by the
+magnetic
+susceptibility
+χ(T), •
+and the electrical resistivity ρ(T), □. (b) ρ(T) of Nd1−xCexOBiS2 at T = 5
+and 300 K. The data of CeOBiS2 are extracted from Ref. 27. The y-axis is a
+logarithmic scale.
+obtained for Tc are 4.75 (x = 0.2), 4.55 (x = 0.3), 4.42 (x =
+0.4), and 3.85 K (x = 0.5). Tc slightly decreases with increas-
+ing x. This behavior corresponds to the F-doped NdOBiS2,5)
+which exhibits the highest Tc (= 5.2 K) at ambient pressure.
+In addition, the maximum Tc of the Ce-doped compounds is
+slightly lower than that of NdO1−xFxBiS2.5) Such behavior is
+also observed in Ce-doped LaOBiSSe and PrOBiS2.28,29) The
+origin of the diﬀerence in Tc is not clear.
+Figures 2(e-f) show the T-dependence of the electrical re-
+sistivity ρ(T) of Nd1−xCexOBiS2 at low temperatures. Super-
+conductivity was conﬁrmed by ρ(T) in all the samples. Tc
+obtained from ρ(T) was determined as the temperature of
+50%ρ0, where ρ0 is the residual resistivity. The error bar as
+the superconducting transition width of T onset
+c
+and T zero
+c
+is de-
+ﬁned as 98%ρ0 and 2%ρ0. The values obtained for Tc are 4.18
+(x = 0.2), 4.92 (x = 0.3), 4.47 (x = 0.4), and 4.11 K (x = 0.5).
+Nd0.7Ce0.3OBiS2 exhibits the highest Tc among the Ce-doped
+compounds, where T zero
+c
+is almost consistent with Tc obtained
+from χ(T). Tc for x = 0.2 obtained from ρ(T) diﬀers from that
+of χ(T). This could be owing to the Joule heat caused when
+current was applied in an extremely small sample. A super-
+conducting phase diagram summarizes the above in Fig. 3(a).
+Figure 2(f) shows the T-dependence of the electrical re-
+sistivity ρ(T) of Nd1−xCexOBiS2 down to 3.0 K. A large
+hump was observed in ρ(T) of non-doped CeOBiS2 at ap-
+proximately 130 K. The result corresponds to the previous
+report.27) Metallic behavior was observed when x = 0.2, 0.3,
+0.4, and 0.5, indicating that the electron carriers were doped
+with the mixed-valence state of the Ce ion. At x = 0.5, a small
+hump was observed at approximately 80 K and was greatly
+suppressed from the non-doped compound. Figure 3(b) shows
+the values of ρ(6 K) and ρ(280 K) plotted. Both ρ(6 K) and
+ρ(280 K) increase with the Ce content x.
+To understand the carrier density of the Ce-doped
+NdOBiS2, we measured the Seebeck coeﬃcient S at 280 K,
+as shown in Fig. 3(c). In metals or degenerate semiconductors
+(single parabolic band and energy-independent scattering ap-
+ 0
+ 0.5
+ 1
+ 0  1  2  3  4  5  6
+H // ab
+(b) Nd0.7Ce0.3OBiS2
+ρ/ρ0
+0 T
+5 T
+T (K)
+ 0
+ 0.5
+ 1
+ 0  1  2  3  4  5  6
+(a) Nd0.7Ce0.3OBiS2
+H // c
+ρ/ρ0
+0 T
+0.16 T
+ 0
+ 0.2
+ 0.4
+ 0.6
+ 0.8
+ 1
+ 0  1  2  3  4  5  6
+(c)
+H // c
+µ0Hc2 (T)
+Nd0.7Ce0.3OBiS2
+NdO0.7F0.3BiS2
+ 0
+ 5
+ 10
+ 15
+ 20
+ 25
+ 0  1  2  3  4  5  6
+(d)
+H // ab
+µ0Hc2 (T)
+Nd0.7Ce0.3OBiS2
+NdO0.7F0.3BiS2
+T (K)
+Fig. 4.
+(Color Online) T-dependence of the electrical resistivity ρ(T) in
+several magnetic ﬁelds for (a) H || ab and (b) H || c. T-dependence of the
+upper critical ﬁeld Hc2(T) of Nd0.7Ce0.3OBiS2 and NdO0.7F0.3BiS2 for (c)
+H || ab and (d) H || c. The data on NdO0.7F0.3BiS2 were taken from Ref. 30.
+The dotted line indicates the Werthamer–Helfand–Hohenberg (WHH) theory
+with the dirty limit (h∗= 0.69), where h∗is Hc2 normalized by the initial slope
+in the vicinity of Tc. The solid lines represent the ﬁtting results obtained using
+Hc2(T) = Hc2(0)[1 (T/Tc)3/2]3/2.
+proximation),32,33) S/T is proportional to 1/n, where n is the
+carrier concentration. The absolute value of S in x = 0.2 is 7.4
+µV/K, which is the smallest value in the Ce-doped NdOBiS2.
+With an increase in the Ce content x, the absolute value in-
+creases, which corresponds to the increase in ρ(280 K). The
+results show a decrease in the carrier density despite the in-
+crease in the amount of Ce substitution. The behavior can be
+understood by the changing ratio of Ce3+/Ce4+ depending on
+the substitution amount, and the ratio of Ce4+ increases as the
+x value decreases. In contrast, when the Ce concentration is
+further increased above x = 0.5, the absolute value of S de-
+creases. The decreasing S conﬂicts with the ρ(T) behavior in
+CeOBiS2. Because the anomaly of ρ(T) is not similar to the
+metallic or semiconducting behavior, there is a possibility that
+the assumption of the metals or degenerate semiconductors is
+inadequate in CeOBiS2.
+Figures 4(a-b) show ρ(T) of Nd0.7Ce0.3OBiS2 in several
+magnetic ﬁelds applied along with ab and c. The upper critical
+ﬁeld µ0Hc2(T) of Nd0.7Ce0.3OBiS2 is obtained from the ρ(T)
+measurements in several magnetic ﬁelds, as shown in Figs.
+4(c-d). The superconductivity is signiﬁcantly suppressed with
+increasing magnetic ﬁelds in both directions. ρ(T) above 3 T
+shows a small hump at a low temperature point, which is not
+reproducible.It is likely that the behaviors are not intrinsic. As
+shown in Figs. 4(c-d), the dotted lines show the Werthamer–
+Helfand–Hohenberg (WHH) theory prediction.34,35) In both
+curves, the Hc2(T) curves deviate from the WHH prediction
+and exhibit a positive curvature at around Tc. This behavior is
+mainly attributed to spin-orbit coupling,35) multi-gap super-
+conductivity,36,37) and strong electron–phonon coupling.38,39)
+However, the origin of the positive curvature in the BiS2-
+3
+
+
+J. Phys. Soc. Jpn.
+FULL PAPERS
+based superconductors still remains to be clariﬁed. A rea-
+sonable ﬁt to the data for Nd0.7Ce0.3OBiS2 can be obtained
+using the expression Hc2(T) = Hc2(0)[1
+(T/Tc)3/2]3/2.40)
+This model was also used to ﬁt Hc2(T) for BiS2-based su-
+perconductors,20,41) (Zr, Hf)IrSi,42) Nb0.18Re0.82,43) WRe3,44)
+PbTaSe2,45) and high-entropy alloys.46) µ0Hc2(T) was deter-
+mined as ∼12 T for the H || ab and ∼0.34 T for the H || c-axis.
+In this article, we redetermined Hc2(T) of NdO0.7F0.3BiS2
+from the same deﬁnition of Tc, as shown in Figs. 4(c-d). The
+data were taken from the previous report.30) µ0Hc2(0) was de-
+termined as ∼35 T for the H || ab and ∼0.78 T for the H ||
+c-axis. These values are clearly larger than those of the Ce-
+doped NdOBiS2. The results indicate that the µ0Hc2(0) for
+both directions reduces in superconductivity induced by the
+Ce-doping. Because measurements were performed above 2.0
+K and above 9 T, lower temperature and higher ﬁeld measure-
+ments were needed to determine the accurate Hc2 values of
+the F- and Ce-doped NdOBiS2.
+The anisotropic parameter Γ was determined using the
+anisotropic Ginzburg–Landau (GL) formula,
+Γ = mc
+mab
+= H||ab
+c2
+H||c
+c2
+= ξab
+ξc
+,
+(1)
+where mab, mc are the eﬀective masses, and ξab, ξc are the
+GL-coherence lengths. ξab and ξc were evaluated using H||ab
+c2
+= Φ0/(2πξabξc) and H||c
+c2 = Φ0/(2πξ2
+ab), where Φ0 is the quan-
+tum ﬂux. ξab and ξc were obtained as ∼86 and 0.31 nm
+for Nd0.7Ce0.3OBiS2, respectively. The anisotropic param-
+eter Γ was estimated to be ∼35. The result suggests that
+the superconductivity possesses high anisotropy. The Γ of
+NdO0.7F0.3BiS2 was recalculated to be ∼45. Because the dif-
+ference in Γ is approximately 10, there is no considerable dif-
+ference between F-doped and Ce-doped NdOBiS2.
+In summary, we succeeded in growing a single crys-
+tal of Nd1−xCexOBiS2 (x = 0.2, 0.3, 0.4, and 0.5). Plate-
+like single crystals with dimensions of 0.8×0.8×0.2 mm3
+were obtained. We discovered bulk superconductivity at Tc
+= 4.7 K in a compound with x = 0.2. The lattice con-
+stant of the c-axis decreased with an increase in Ce con-
+tent x. The shrinking of the c-axis indicated the mixed va-
+lency of Ce3+/Ce4+. It is likely that the superconductivity of
+Nd1−xCexOBiS2 was induced by the electron doping of the
+mixed valence of Ce3+/Ce4+. The superconducting transition
+temperature of Ce-substituted Nd1−xCexOBiS2 was slightly
+lower than that of F-substituted NdO1−xFxBiS2. This ten-
+dency is also observed in Ce-substituted La1−xCexOBiSSe
+and Ce1−xPrxOBiS2. ρ(T) of Nd1−xCexOBiS2 showed a metal-
+lic behavior. In a compound with x = 0.5, a broad hump was
+observed in ρ(T) at approximately 80 K, similar to that found
+in CeOBiS2. The electrical resistivity of ρ(6 K) and ρ(280 K)
+increased with increasing x. The tendency of S can be under-
+stood by the increase of the Ce4+ ratio with decreasing Ce
+content below x = 0.5. The upper critical ﬁeld µ0Hc2(T) of
+Nd0.7Ce0.3OBiS2 was determined to be ∼12 T for H || ab and
+∼0.34 T for H || c-axis. The anisotropic parameter Γ was es-
+timated to be ∼35, which was comparable to that of F-doped
+NdOBiS2. The µ0Hc2(0) of the Ce-doped NdOBiS2 was ap-
+proximately two times smaller than that of the F-doped one,
+although the diﬀerence of Γ was approximately 10. The re-
+sults imply that the µ0Hc2(0) for both directions reduces in
+superconductivity induced by Ce-doping. Our results for Ce-
+doped NdOBiS2 make it possible to help understand super-
+conductivity in BiS2-based superconductors.
+Acknowledgment
+This work was partially supported by the Kurata Grants
+from the Hitachi Global Foundation, Izumi Science and Tech-
+nology Foundation, and Casio Science Promotion Founda-
+tion. The authors would like to thank Prof. Ryuji Tamura for
+his help in measuring the XRF data. DC-magnetic susceptibil-
+ity performed by MPMS and electrical resistivity in magnetic
+ﬁelds by PPMS were carried out in collaboration with the In-
+stitute for Solid State Physics, University of Tokyo.
+1) Y. Mizuguchi, H. Fujishita, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S.
+Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B, 86, 220510(R)
+(2012).
+2) Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujishita, Y. Gotoh,
+H. Izawa, and O. Miura, J. Phys. Soc. Jpn., 81, 114725 (2012).
+3) J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen, Phys. Rev. B, 86, 214518
+(2012).
+4) D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M.
+B. Maple, Philos. Mag., 93, 673 (2013).
+5) S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe,
+S. J. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, J. Phys. Soc. Jpn., 82,
+033708 (2013).
+6) R. Jha, A. Kumar, S. Kumar Singh, and V. P. S. Awana, J. Supercond.
+Nov. Magn., 26, 499 (2013).
+7) X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo,
+Q. Tao, G. Cao, and Z. Xu, Phys. Rev. B 87, 020504(R) (2013)
+8) R. Jha, B. Tiwari, and V. P. S. Awana, J. Applied Physics 117, 013901
+(2015).
+9) R. Jha, B. Tiwari, and V. P. S. Awana, J. Phys. Soc. Jpn., 83, 063707
+(2014).
+10) H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B 86, 220501 (2012).
+11) H. Usui and K. Kuroki, Nov. Supercond. Mater., 1, 50 (2015).
+12) Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N.
+Kumada, E. Magome, C. Moriyoshi, and Y. Kuroiwa, Sci. Rep. 5, 14968
+(2015).
+13) T. Hiroi, J. Kajitani, A. Omachi, O. Miura, and Y. Mizuguchi, J. Phys.
+Soc. Jpn. 84, 024723 (2015).
+14) G. Jinno, R. Jha, A. Yamada, R. Higashinaka, T. D. Matsuda, Y. Aoki,
+M. Nagao, O. Miura, and Y. Mizuguchi, J. Phys. Soc. Jpn. 85, 124708
+(2016).
+15) Y. Goto, R. Sogabe, and Y. Mizuguchi, J. Phys. Soc. Jpn. 86, 104712
+(2017).
+16) E. Paris, B. Joseph, A. Iadecola, T. Sugimoto, L. Olivi, S. Demura, Y.
+Mizuguchi, Y. Takano, T. Mizokawa, and N. L. Saini, J. Phys.: Condens.
+Matter, 26 435701 (2014).
+17) Y. Mizuguchi, E. Paris, T. Sugimoto, A. Iadecola, J. Kajitani, O. Miura, T.
+Mizokawa and N. L. Saini, Phys. Chem. Chem. Phys. 17, 22090 (2015).
+18) A. Athauda, J. Yang, S. Lee, Y. Mizuguchi, K. Deguchi, Y. Takano, O.
+Miura, and D. Louca, Phys. Rev. B 91, 144112 (2014).
+19) K. Nagasaka, A. Nishida, R. Jha, J. Kajitani, O. Miura, R. Higashinaka,
+T. D. Matsuda, Y. Aoki, A. Miura, C. Moriyoshi, Y. Kuroiwa, H. Usui,
+K. Kuroki, and Y. Mizuguchi, J. Phys. Soc. Jpn. 86, 074701 (2017).
+20) N. Kase, Y. Terui, T. Nakano, and N. Takeda, Phys. Rev. B 96, 214506
+(2017).
+21) N. Kase, J. Phys. Soc. Jpn., 88, 041007 (2019).
+22) K. Hoshi, Y. Goto, and Y. Mizuguchi, Phys. Rev. B 97, 094509 (2018).
+23) L. Jiao, Z. Weng, J. Liu, J. Zhang, G. Pang, C. Guo, F. Gao, X. Zhu, H.-H.
+Wen, and H. Q. Yuan, J. Phys.: Condens. Matter 27, 225701 (2015).
+24) Shruti, S. P. Srivastava, and S. Patnaik, J. Phys.: Condens. Matter 25,
+312202 (2013).
+25) T. Yamashita, Y. Tokiwa, D. Terazawa, M. Watauchi, I. Tanaka, T.
+Terashima, and Y. Matsuda, J. Phys. Soc. Jpn. 85, 073707 (2016).
+26) Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S. Watanabe, C.
+Chen, M. Nagao, S. Watauchi, I. Tanaka, Y. Takano, and S. Shin, Phys.
+4
+
+
+J. Phys. Soc. Jpn.
+FULL PAPERS
+Rev. Lett. 118, 167002 (2017).
+27) M. Tanaka, M. Nagao, R. Matsumoto, N. Kataoka, I. Ueta, H. Tanaka, S.
+Watauchi, I. Tanaka, and Y. Takano, J. Alloys Compd., 722, (2017) 467.
+28) R. Sogabe, Y. Goto, A. Nishida, T. Katase, and Y. Mizuguchi, EPL, 122,
+(2018) 17004.
+29) A. Miura, M. Nagao, Y. Goto, Y. Mizuguchi, T. D. Matsuda, Y. Aoki, C.
+Moriyoshi, Y. Kuroiwa, Y. Takano, S. Watauchi, I. Tanaka, N. C. Rosero-
+Navarro, and K. Tadanaga, Inorg. Chem. 57, 5364-5370 (2018).
+30) M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y.
+Takano, N. Kumada, and I. Tanaka, J. Phys. Soc. Jpn., 82, 113701 (2013).
+31) (Supplemental material) Detailed results of the electrical resistivity are
+provided online.
+32) M.Cutler, J.F.Leavy, and R.L.Fitzatrick, Phys.Rev., 133 (1964) A1143.
+33) G. J. Snyder and E. S. Toberer, Nat. Mater., 7, 105-114 (2008).
+34) K. Maki, Phys. Rev., 148, (1966) 362.
+35) E. Helfand and N. R. Werthamer, Phys. Rev., 147, (1966) 288.
+36) Y. Nakajima, H. Hidaka, T. Nakagawa, T. Tamegai, T. Nishizaki, T.
+Sasaki, N. Kobayashi, Phys. Rev. B 85, 174524 (2012).
+37) Y. C. Chan, K. Y. Yip, Y. W. Cheung, Y. T. Chan, Q. Niu, J. Kajitani, R.
+Higashinaka, T. D. Matsuda, Y. Yanase, Y. Aoki, K. T. Lai, and Swee K.
+Goh, Phys. Rev. B 97, 104509 (2018).
+38) L. N. Bulaevskii, O. V. Dolgov, and M. O. Ptitsyn, Phys. Rev. B, 38,
+11290 (1988).
+39) F. Marsiglio and J. P. Carbotte, Phys. Rev. B 41, 8765 (1990).
+40) R. Micnas, J. Ranninger, and S. Robaszkiewicz, Rev. Mod. Phys., 62,
+113 (1990).
+41) P. K. Biswas, A. Amato, C. Baines, R. Khasanov, H. Luetkens, H. Lei,
+C. Petrovic, and E. Morenzoni, Phys. Rev. B 88, 224515 (2013).
+42) N. Kase, H. Suzuki, T. Nakano, and N. Takeda, Supercond. Sci. Technol.
+29, 035011 (2016).
+43) A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter,
+P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B
+83, 144525 (2011).
+44) P. K. Biswas, M. R. Lees, A. D. Hillier, R. I. Smith, W. G. Marshall, and
+D. McK. Paul, Phys. Rev. B 84, 184529 (2011).
+45) M. N. Ali, Q. D. Gibson, T. Klimczuk, and R. J. Cava, Phys. Rev. B, 89,
+020505 (2014).
+46) K. Stolze, J. Tao, F. O. von Rohr, T. Kong, and R. J. Cava, Chem. Mater.
+30, 906-914 (2018).
+5
+
+

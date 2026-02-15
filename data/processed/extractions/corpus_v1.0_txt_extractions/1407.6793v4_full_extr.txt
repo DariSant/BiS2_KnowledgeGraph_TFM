@@ -1,0 +1,1 @@
+the temperature dependence of resistivity suggests that the activation energy for one of the parent compound of BiS2-based superconductor SrFBiS2 decreases under applied pressure. Further, superconductivity could not be induced down to 2K under applied pressure of as high as 2.5GPa.

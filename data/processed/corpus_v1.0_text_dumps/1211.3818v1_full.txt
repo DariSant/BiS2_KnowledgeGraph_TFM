@@ -1,0 +1,313 @@
+ 
+1
+Will be published in JETP Letters 
+vol. 96, issue 12 (2012) 
+ 
+ 
+ 
+Electronic band structure and Fermi surface for new 
+layered superconductor LaO0.5F0.5BiS2 in comparison 
+with parent phase LaOBiS2 from first principles 
+ 
+I.R. Shein,* A.L. Ivanovskii 
+ 
+Institute of Solid State Chemistry, Ural Branch of the Russian Academy of Sciences, 
+620990, Ekaterinburg, Russia 
+ 
+* E-mail: shein@ihim.uran.ru 
+ 
+ 
+ 
+By means of first-principles calculations, we have probed the peculiarities of the 
+electronic band structure and Fermi surface for the recently discovered layered 
+superconductor LaO0.5F0.5BiS2 in comparison with the parent phase LaOBiS2. The 
+electronic factors promoting the transition of LaOBiS2 upon fluorine doping to 
+superconducting state: inter-layer charge transfer, the evolution of the Fermi surface, and 
+the dependence of the near-Fermi densities of states on x for LaO1−xFxBiS2 are evaluated 
+and discussed in comparison with the available experiments. 
+ 
+Keywords: Superconducting LaO0.5F0.5BiS2; First-principles calculations; Electronic band 
+structure; Fermi surface; Parent phase LaOBiS2 
+ 
+ 
+     The superconducting materials with layered structures attract currently much attention 
+owing to a set of intriguing physical properties related to unconventional mechanisms of 
+superconductivity. The most popular materials among them are now Fe-pnictogen (Pn) 
+and Fe-chalcogen (Ch) based compounds, which form the groups of so-called 11, 111, 
+122, 1111, 23335, 42226, and more complex phases, reviews [1-7]. These materials are 
+composed of superconducting blocks [FePn] or [FeCh], which are separated by so-called 
+spacer blocks. In all these systems, which possess remarkable chemical flexibility, 
+success in increasing the critical temperature TC was achieved mainly by optimization of 
+the structural parameters and (or) via changes in the carrier doping levels.  
+     The very recent discovery of superconductivity in Bi4O4S3 (TC ~ 4.5 K) [8-11] and 
+then in several related BiS2-based systems (LaO1−xFxBiS2, CeO1−xFxBiS2, PrO1−xFxBiS2, 
+and NdO1−xFxBiS2, with TC ~ 10.0 K [12], 3.0 K [13], 5.5 K [14], and 5.6 K [15], 
+
+
+ 
+2
+respectively), which contain identical blocks [BiS2], has opened the next stage in the field 
+of modern layered superconductors and provided a new research domain of physics for 
+such systems.  
+      It is remarkable is that among all BiS2-based superconductors (SCs) discovered so 
+far, the maximum TC (~10 K) is achieved for La(O,F)BiS2, i.e. at electron doping of the 
+parent semiconducting phase LaOBiS2 via partial replacement of oxygen by fluorine 
+[12,16-18]. Thus, these newest layered BiS2-based SCs, like the aforementioned Fe-
+(Pn,Ch) systems, are very sensitive to the carrier doping level, when atomic substitutions 
+cause profound changes in their properties, and superconductivity appears in the vicinity 
+of the insulating-like state. Note also that a non-monotonic change of TC was achieved by 
+doping of the oxide blocks [LaO], which act as spacer blocks, when for LaO1−xFxBiS2 
+superconductivity appears at x = 0.2, grows with further F-doping, and reaches TC ~10 K 
+at x = 0.5, and then it is gradually suppressed and disappears at x = 0.7. 
+     From the theoretical standpoint, for the family of BiS2-based SCs, the available band 
+structure calculations [8,19-21] reveal that for Bi4O4S3 in the window around the Fermi 
+level (EF) the main contributions come from the Bi 6px,y orbitals, which are the most 
+active pairing states [8]; on the other hand, LaOBiS2 belongs to band insulators [16,19]. 
+Using the band structure of LaOBiS2, H. Usui et al. [19] have constructed a minimal 
+electronic model for superconducting LaO1−xFxBiS2, and declared a good nesting of the 
+Fermi surface (FS) at around x ~ 0.5. Very recently, Li and Xing [20] have calculated the 
+electron-phonon coupling constant for LaO0.5F0.5BiS2 (λ = 0.8) and concluded that this 
+material is a conventional electron-phonon SC. On the other hand, Yildirim [21] found 
+that LaO0.5F0.5BiS2 possesses rather unusual structural and dynamical properties and is a 
+strong electron-phonon coupled SC in the vicinity of competing ferroelectric and charge 
+density wave (CDW) phases, when large-amplitude in-plane displacements of sulfur 
+atoms control the structural properties and give rise to large electron-phonon coupling. 
+     In view of these circumstances, in this Letter we present detailed calculations of the 
+band structure and FS for the newest SC LaO0.5F0.5BiS2 - in comparison with the parent 
+phase LaOBiS2. Besides, using the obtained electronic structure of LaO0.5F0.5BiS2 we 
+discuss the changes in the near-Fermi density of states (DOSs) and in the FS topology for 
+LaO1−xFxBiS2 in the doping interval 0.2 ≤ x ≤ 0.7 - in comparison with available 
+experiments. 
+     We began with the parent tetragonal phase LaOBiS2, which adopts the space group 
+P4/nmm with lattice parameters a = 4.05 Å and c =13.74 Å [19]. This phase possesses a 
+layered structure composed of blocks [LnO] and [BiS2], which are stacked in the 
+sequence …[LnO]/[BiS2]/[LnO]/[BiS2]/… as depicted in Fig. 1. After that we considered 
+the fluorine-doped system with the formal stoichiometry LaO0.5F0.5BiS2, for which the 
+maximal TC was found [12,16-18]. Here the experimentally obtained [12] lattice 
+parameters (a = 4.0527 Å and c = 13.3237 Å) and atomic coordinates La: (0.5, 0, 
+0.1015); Bi: (0.5, 0, 0.6231); S1: (0.5, 0, 0.3657); S2: (0.5, 0, 0.8198); O/F (with 
+occupancy 0.5/0.5): (0, 0, 0), were used. Note that the substitution of F-1 for O-2 leads to 
+an anisotropic deformation of the lattice, when the parameter a remains almost invariable 
+(in comparison with the parent phase LaOBiS2), whereas the parameter c becomes 
+compressed by 3 %; and this situation is typical of layered phases at atomic substitutions, 
+reviews [1-7]. 
+    Our calculations were performed by means of the full-potential method within mixed 
+basis APW+lo (FLAPW) implemented in the WIEN2k suite of programs [22]. The 
+generalized gradient approximation (GGA) to exchange-correlation potential [23] was 
+
+
+ 
+3
+used. The densities of states (DOSs) were obtained by the modified tetrahedron method 
+[24]. 
+      The band structure, the total, atomic, and orbital decomposed partial densities of 
+states for the parent phase LaOBiS2 are depicted in Figs. 2 and 3. We see that the valence 
+band (VB, in the energy interval from -5.6 eV to the Fermi level) consists mainly of the p 
+states of O and S atoms; the contributions of the valence orbitals of La and Bi are much 
+smaller. The VB is separated from the conduction band (CB) by a gap indicating an 
+insulating behavior of LaOBiS2. The minimal indirect gap (Z - R transition) is estimated 
+at about 0.4 eV. Note that the bottom of the CB for LaOBiS2 is formed mainly by 
+unoccupied Bi 6p states with admixtures of S 3p states; thus at electron doping, these 
+states are expected to be filled. 
+      Our calculations reveal that for LaO0.5F0.5BiS2, in comparison with LaOBiS2, the 
+Fermi level is displaced upwards and intersects six bands along Z-R, X-M and A-Z high-
+symmetry directions of the Brillouin zone (BZ), which form the electronic pockets of the 
+FS. Thus, partial substitution of fluorine for oxygen leads to a metallic-like behavior of 
+the cubic LaO0.5F0.5BiS2, where the carriers are electrons, see Figs. 2 and 3. 
+     Generally, it is quite an expected result, since for oxides, fluorine with one additional 
+electron compared to oxygen may be considered as a “universal” electron dopant, which, 
+owing to injection of additional electrons, changes the insulating oxides to metallic 
+conductors or superconductors. For example, superconductivity was found at fluorine 
+doping in simple insulating oxides such as WO3, see [25,26].  
+    However for the discussed LaO0.5F0.5BiS2 the situation became more complicated: as 
+can be seen from the DOSs picture (Fig. 3), though fluorine doping occurs in the spacer 
+blocks [LnO], the main effect of metallization takes place for the neighbor blocks [BiS2], 
+which are involved in the formation of the superconducting state. At the same time, the 
+semiconducting spectrum of the oxide blocks (for LaOBiS2) is transformed for 
+LaO0.5F0.5BiS2 into a spectrum typical of so-called “bad metals”, with very low densities 
+of states at the Fermi level.  
+     This effect may be explained taking into account the charge distributions between the 
+adjacent blocks: [LnO]/[BiS2]. For LaOBiS2, assuming the usual oxidation numbers of 
+atoms: La3+, Bi3+, O2-, and S3-, the simple ionic formula should be: (La3+O2-)1+(Bi3+S2-
+2)1-; 
+this implies that the charge transfer between the adjacent blocks is equal: [LnO] →[BiS2] 
+= le, and the blocks [LnO] act as “charge reservoirs”. To estimate the effective atomic 
+charges (Qeff) numerically, we carried out a Bader [27] analysis. For LaOBiS2, the values 
+of Qeff are: (La1.990+O1.271-)0.719+(Bi2.020+S(1)
+1.022-S(2)
+1.717-)0.719- (here S(1)
+ and S(2) denote the 
+non-equivalent S atoms in blocks [BiS2], see [12,16-18]) and the charge transfer [LnO] 
+→[BiS2] is about 0.7e. The  reduction of the effective charges (in comparison with the 
+ideal ionic model) is due to the overlapping of the valence states and to the formation of 
+covalent bonds, see Fig. 3. 
+     For LaO0.5F0.5BiS2, the values of Qeff are: (La2.012+O1.278-
+0.5F0.794-
+0.5)0.976+(Bi1.728+S(1)
+1.099-
+S(2)
+1.606-)0.976-, i.e. fluorine doping of the parent phase increases the charge transfer to the 
+blocks [BiS2] by about 0.26 e, promoting the aforementioned primary metallization of 
+these blocks. 
+     Coming back to the electronic properties of LaO0.5F0.5BiS2, let us discuss in greater 
+detail the near-Fermi bands, which are involved in the formation of the superconducting 
+state. From the atomic and orbital decomposed DOSs depicted in Fig. 3 it is seen that the 
+main contribution to this region comes from the Bi 6p states, with additions of the S 3p 
+states. Numerically, the contributions to the total DOS at the Fermi level, Ntot(EF), are: 
+
+
+ 
+4
+NBi6p(EF) =  0.423  1/eV∙form. unit and NS3p(EF) =  0.2087  1/eV∙form. unit. In turn, for 
+the Bi 6p states, the main contributions are from the in-plane Bi 6px,y orbitals within the 
+blocks [BiS2]: NBi6p
+x(EF) =  0.206  1/eV∙form. unit, NBi6p
+y(EF) =  0.207  1/eV∙form. unit – 
+in comparison with out-of-plane Bi 6pz orbitals: NBi6p
+z(EF) =  0.010  1/eV∙form. unit. The 
+calculated value of Ntot(EF) for LaO0.5F0.5BiS2 allows us to estimate the Sommerfeld 
+constant (γ) under the assumption of the free electron model as γ = (π2/3)N(EF)k2
+B. The 
+calculated γ = 3.3 mJ∙K-2∙mol-1 agrees reasonably with earlier estimations: γ = 3.0 mJ∙K-
+2∙mol-1 [20]. 
+        The authors [18] noticed that the dome-shaped dependence of TC on x for 
+LaO1−xFxBiS2 (with maximal TC ~ 10 K for x=0.5) resembles the x dependence of the 
+lattice parameter a, therefore the structural factor should be important for 
+superconductivity in these materials.  
+        On the other hand, to evaluate the role of the electronic factor, we probed the x 
+dependence of Ntot(EF). For this purpose, we varied the electronic concentration, 
+simulating (in the framework of the rigid band model) the doping level in LaO1−xFxBiS2 
+in the range 0.2 < x < 0.7. 
+      The calculated changes in Ntot(EF) are plotted in Fig. 4 together with the experimental 
+phase diagram of LaO1−xFxBiS2 [18]. We see quite a similar dome-shaped dependence of 
+Ntot(EF) on x with the maximal Ntot(EF) for LaO0.5F0.5BiS2. Thus our calculations show 
+that together with the structural factor [18], the electronic factor provides the transition of 
+LaOBiS2 into the superconducting state upon fluorine doping, and it should be 
+responsible for the regulation of the observed x dependence of TC for LaO1−xFxBiS2. 
+    Finally, let us discuss the Fermi surface for the superconducting LaO0.5F0.5BiS2 and the 
+evolution of its topology depending on the doping level. For LaO0.5F0.5BiS2, the Fermi 
+surface adopts a 2D-like topology (which is typical of layered SCs, reviews [1-7]) and 
+comprises a set of disconnected cylinders extended along the kz direction, Fig. 1. Two of 
+them are along the Г-Z direction, the other two are in the corners of the BZ (along the M-
+A direction), and the rest two small cylinder-like sheets are on the lateral faces of the BZ 
+(along the X-R direction). Next, in Fig. 5 we present a set of FSs for LaO1−xFxBiS2 across 
+the doping level. We see that in all the cases the FSs retain the quasi-two-dimensional 
+type, but their shapes change essentially depending on the band occupancy (doping 
+level). So at an initial stage of doping (x=0.2), the FS contains only two electron-like 
+sheets in the BZ lateral sides. With an increase in the band occupancy, the volume of the 
+Fermi surface gradually increases, but the shape is retained (x=0.3). Visible 
+reconstruction of the FS occurs for x ~ 0.4, when the disconnected sheets on the lateral 
+sides of the BZ became merged, and new small sheets (along X-R) appear. At the highest 
+doping level (x ≥ 0.5), the next stage of reconstruction occurs, when the FS adopts the 
+form described earlier for LaO0.5F0.5BiS2. 
+     In summary, using first-principles calculations we examined the electronic band 
+structure and the Fermi surface for the very recently discovered superconductor 
+LaO0.5F0.5BiS2 in comparison with the parent band insulator LaOBiS2 and determined the 
+key electronic factors promoting the superconducting transition for the fluorine-doped 
+LaOBiS2 and the TC dependence on x for LaO1−xFxBiS2. According to our data, the main 
+factors at fluorine doping are: (i) the increase of the charge transfer between adjacent 
+blocks [LnO]→[BiS2] related to metallization of superconducting blocks [BiS2]; (ii) the 
+dome-shaped dependence of Ntot(EF) on x related to the regulation of the values of TC, 
+and (iii) the reconstruction of the 2D-like Fermi surface, which is related to the nesting 
+effect. 
+
+
+ 
+5
+_________________________ 
+ 
+1. 
+M. V. Sadovskii, Phys.-Usp. 51, 1201 (2008). 
+2. 
+A. L. Ivanovskii, Phys.-Usp. 51, 1229 (2008). 
+3. 
+F. Ronning, E.D. Bauer, T. Park, et al. Physica C 469, 396 (2009). 
+4. 
+Z. A. Ren, and Z. X.  Zhao, Adv. Mater. 21, 4584 (2009). 
+5. 
+D. C. Johnson, Adv. Phys. 59, 803 (2010). 
+6. 
+A.L. Ivanovskii, Russ Chem. Rev. 79, 1 (2011). 
+7. 
+A. L. Ivanovskii, Physica C 471, 409 (2011). 
+8. 
+Y. Mizuguchi, H. Fujihisa, Y. Gotoh, et al., arXiv:1207.3145 (2012). 
+9. 
+S. Li, H. Yang, J. Tao, X. Ding, and H.-H. Wen, arXiv:1207.4955 (2012). 
+10. S. G. Tan, L. J. Li, Y. Liu, P. et al., arXiv:1207.5395 (2012). 
+11. S. K. Singh, A. Kumar, B. Gahtori, et al., arXiv:1207.5428 (2012). 
+12. Y. Mizuguchi, S. Demura, K. Deguchi, et al., arXiv:1207.3558 (2012). 
+13. J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, arXiv:1208.5000 (2012). 
+14. R. Jha, S. K. Singh and V. P. S. Awana, arXiv:1208.5873 (2012). 
+15. S. Demura, Y. Mizuguchi, K. Deguchi, et al., arXiv:1207.5248 (2012). 
+16. V. P. S. Awana, A. Kumar, R. Jha, et al., arXiv:1207.6845 (2012). 
+17. H. Kotegawa, Y. Tomita, H. Tou, et al., arXiv:1207.6935 (2012). 
+18. K. Deguchi, Y. Mizuguchi, S. Demura, et al., arXiv:1209.3846 (2012). 
+19. H. Usui, K. Suzuki, and K. Kuroki, arXiv:1207.3888 (2012). 
+20. B. Li, and Z. W. Xing, arXiv:1210.1743 (2012). 
+21. T. Yildirim, arXiv:1210.2418 (2012). 
+22. P. Blaha, K. Schwarz, G.K.H. Madsen, et al., WIEN2k, An Augmented Plane Wave Plus 
+Local Orbitals Program for Calculating Crystal Properties, Vienna University of 
+Technology, Vienna, 2001. 
+23. J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996). 
+24. P.E. Blöchl, O. Jepsen, O.K. Andersen, Phys. Rev. B 49, 16223 (1994). 
+25. D. Hirai, E. Climent-Pascual and R. J. Cava, Phys. Rev. B 84, 174519 (2011). 
+26. I. R. Shein, and A. L. Ivanovskii, JETP Lett., 95, 66 (2012). 
+27. R.F.W. Bader, Atoms in Molecules: A Quantum Theory, Intern. Series of Monographs 
+on Chemistry, Clarendon Press, Oxford, 1990. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+6
+ 
+ 
+ 
+Fig. 1. Crystal structure and calculated Fermi surface for LaO0.5F0.5BiS2 
+ 
+Fig. 2. Electronic bands for LaOBiS2 (1) and LaO0.5F0.5BiS2 (2). 
+ 
+
+
+ 
+7
+ 
+Fig. 3. Total and partial densities of states for LaOBiS2 (on the left) and LaO0.5F0.5BiS2 (on the 
+right). 
+
+
+ 
+8
+ 
+Fig. 4. The experimental [18] superconducting phase diagram of LaO1−xFxBiS2 (where 1 is the 
+onset temperature (TC
+onset); 2 is the zero-resistivity temperature (TC
+zero); 3 is TC
+mag defined as 
+the magnetization onset temperature, and 4 is TC
+irr defined as the starting temperature of 
+bifurcation between χZFC and χFC) and the calculated dependence of the total DOSs at the Fermi 
+level on stoichiometry index (x) for this system. 
+ 
+ 
+Fig. 5. Brillouin zone and the Fermi surfaces for LaO1−xFxBiS2 at various doping levels x. 
+
+

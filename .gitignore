@@ -1,0 +1,8 @@
+
+*.gdoc
+*.gsheet
+*.gslides
+.ipynb_checkpoints
+__pycache__
+secrets.json
+.env

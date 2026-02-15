@@ -1,0 +1,290 @@
+1 
+ 
+Unconventional isotope effect on transition temperature in 
+BiS2-based superconductor Bi4O4S3 
+ 
+Rajveer Jha1 and Yoshikazu Mizuguchi1* 
+ 
+1. Department of Physics, Tokyo Metropolitan University, 1-1, Minami-osawa, 192-0397 
+Hachioji, Japan. 
+ 
+Corresponding author: Yoshikazu Mizuguchi (mizugu@tmu.ac.jp) 
+ 
+ 
+ 
+Abstract 
+We report the sulfur isotope effect on transition temperature in a BiS2-based superconductor 
+Bi4O4S3. Polycrystalline samples of Bi4O4S3 were prepared using 32S and 34S isotope chemicals. 
+From magnetization analyses, the isotope exponent (S) was estimated as -0.1 < S < 0.1. 
+Although the Tc estimated from electrical resistivity was scattered as compared to those estimated 
+from the magnetization, we observed no clear correlation between Tc and the isotope mass. The 
+present results suggest that unconventional paring states are essential in Bi4O4S3.  
+ 
+ 
+ 
+
+
+2 
+ 
+1. Introduction 
+Superconducting pairing mechanisms in most superconductors are achieved by 
+electron-phonon interactions and explained by the Bardeen–Cooper–Schrieffer (BCS) theory [1]. 
+However, there are unconventional superconductors whose pairing is not mediated by phonon. 
+The typical examples of unconventional superconductors are the layered cuprate and Fe-based 
+high-transition-temperature (high-Tc) superconductors [2,3], in which pairing is mediated by spin 
+and/or orbital fluctuations [4,5]. Although there are various ways to test if the superconductivity 
+mechanisms are mediated by phonon or other fluctuations, studying isotope effect on Tc is a direct 
+probe to examine the importance of phonon to the superconductivity. Based on the conventional 
+phonon-mediated model, Tc should be proportional to its phonon energy ħ, where ħ and  are 
+the Planck constant and phonon frequency, respectively. The Tc of a conventional superconductor 
+is, therefore, sensitive to the isotope effect of the constituent elements. The isotope exponent , 
+which is defined by Tc ~ M- , where M is the isotope mass, is expected to be  ~ 0.5 from the 
+conventional model [1]. For example,  close to 0.5 has been reported for a bismuth oxide 
+(Ba,K)BiO3 (O ~ 0.5) [6], doped fullerene (C ~ 0.4) [7], MgB2 (B ~ 0.3) [8], and borocarbides 
+(B ~ 0.3) [9]. In contrast,  different from 0.5 has been reported for unconventional 
+superconductors. In the cuprate superconductor system, O deviates from 0.5 and exhibits 
+anomalous carrier concentration dependence [10,11]. In the Fe-based superconductor, an inverse 
+isotope effect, negative Fe, for the same composition [12]. 
+In this study, we focus on the BiS2-based layered superconductors, which was 
+discovered in 2012 [13-15]. Since the layered structure composed of alternate stacking of a 
+conduction layer (BiS2 layer) and an insulator layer is quite similar to that of the high-Tc 
+superconductors, elucidation of the mechanisms of superconductivity in BiS2-based 
+superconductors has been desired; however, it is still controversial [16,17]. In the early stage, 
+theoretical and experimental studies reported the possibility of conventional electron-phonon 
+superconductivity in the BiS2-based compounds [18-21]. However, some of theoretical studies 
+suggested the possibility of unconventional mechanisms of superconductivity in the BiS2-based 
+system [22-24]. In addition, the possibility of unconventional mechanisms was experimentally 
+suggested from angle-resolved photoemission spectroscopy in NdO0.71F0.29BiS2 [25] and the Se-
+isotope effect in LaO0.6F0.4BiSSe (-0.04 < Se < 0.04) [26]. Therefore, further experimental 
+investigations on the mechanisms are desired for the BiS2-based superconductor family. To 
+investigate the S isotope effect on Tc, we selected Bi4O4S3 to be a target phase of this study because 
+its Tc is relatively high (Tc > 4.5 K), the transition is relatively sharp, and the composition is the 
+simplest (ternary) among the BiS2-based superconductors [13, 27-29]. Here, we show that the 
+Bi4O4S3 superconductor samples prepared with 32S and 34S isotope chemicals did not show 
+conventional-type isotope effect on Tc, and the estimated S was close to zero. This result proposes 
+
+
+3 
+ 
+that the unconventional isotope effect is universal feature between LaO0.6F0.4BiSSe with a BiSSe-
+type superconducting layer and Bi4O4S3 with a BiS2-type superconducting layer. 
+ 
+2. Experimental details 
+Polycrystalline samples of Bi4O4S3 were prepared by a solid-state-reaction method. 
+Powders of Bi (99.999%) and Bi2O3 (99.999%) were mixed with powders of 32S (ISOFLEX: 
+99.99%) or 34S (ISOFLEX: 99.26%) with a nominal composition of Bi4O4S3. The mixed powder 
+was pelletized, sealed in an evacuated quartz tube, and heated at 540 °C for 10 h. The obtained 
+sample was examined by laboratory X-ray diffraction (XRD) by the θ-2θ method with a CuKα 
+radiation on Miniflex600 (RIGAKU) equipped with a Dtex-Ultra semiconductor detector. Lattice 
+constants were calculated by Rietveld fitting by RIETAN-FP [30]. The structural image was 
+drawn by VESTA [31]. The temperature dependence of magnetization was measured by a 
+superconducting quantum interference devise (SQUID) with an applied magnetic field of 10 Oe 
+on MPMS-3 (Quantum Design). The temperature dependence of electrical resistivity was 
+measured by a four-terminal method with an AC current of 1 mA on PPMS (Quantum Design). 
+Au wires were attached on the sample surface by Ag paste. In this article, we have labeled the 
+examined samples with the isotope mass (32 or 34) and alphabets (a–f) for clarity. 
+ 
+3. Results and discussion 
+We have synthesized polycrystalline samples at 540 °C because the reproducibility of 
+the sample quality and the observed superconducting properties had been confirmed from 
+experiments with natural sulfur chemical, while the obtained sample contained small amount of 
+Bi2S3 and Bi impurities as indicated by + and * symbols as displayed in Fig. 1(a). Similar 
+impurities were observed in previous reports on Bi4O4S3 [13,27,29]. Since the crystal structure is 
+complicated, as shown in Fig. 1(b), and there is possibility of stacking fault and modification of 
+the stacking in the ternary Bi-O-S system [32-34], we have tried to synthesize Bi4O4S3 isotope 
+samples with close lattice constants to investigate the essential behavior on the isotope 
+replacement between 32S and 34S. The lattice constants for the selected six samples are listed in 
+Table I. 
+ 
+Figure 2 shows the temperature dependences of magnetization for Bi4O4S3 samples with 
+(a) 32S and (b) 34S. From the figure, the transition temperature in the magnetization data (TcM) 
+looks almost the same. To evaluate TcM, temperature differential of magnetization (dM/dT) was 
+calculated and plotted in Fig. 3. TcM was defined as a temperature where two linear fitting lines 
+for the data just below and above the transition as shown in Fig. 3. The estimated TcM ranges from 
+4.73 to 4.76 K for 32S and 34S samples. Interestingly, there was no clear correlation between TcM 
+and the isotope mass in the magnetization data. The isotope exponent calculated from all the 
+
+
+4 
+ 
+possible combination of TcM is -0.1 < S < 0.1. 
+ 
+Figure 4 shows the temperature dependences of electrical resistivity (ρ) for Bi4O4S3 
+samples with (a) 32S and (b) 34S. Typically, a superconducting transition onset for Bi4O4S3 is quite 
+broad and obviously higher than zero-resistivity temperature, which was explained as strong 
+superconducting fluctuation [35]. Therefore, the onset temperature is not preferable to be used for 
+the discussion of isotope effect. We hence estimated resistive Tc (Tcρ) as a midpoint of the 
+transition; the definition is displayed in Fig. 4(a). Tcρ was defined as a temperature where ρ(T) 
+becomes 50% of ρ(T = 5 K). As listed in Table I, Tcρ for 32S samples ranges from 4.53 to 4.66 K, 
+and Tcρ for 34S samples ranges from 4.54 to 4.64 K. Although the Tcρ is relatively scattered as 
+compared to the case of TcM, we could confirm that there is no clear correlation between Tcρ and 
+the isotope mass.  
+ 
+As mentioned above, the Bi-O-S phases have various structural forms including 
+stacking fault [32-34]. Here, to avoid the possibility of the shift in Tc due to those structural 
+differences, we compare two (32S and 34S) samples having similar lattice constants. Accordingly, 
+from table I, the set of #32-c and #34-e were selected. For those two samples, the TcMs are the 
+same (TcM = 4.73 K), and the Tcρs are 4.53 K for #32-c and 4.64 K for #34-e. If the conventional 
+phonon-mediated mechanisms were essential in a superconductor with a Tc = 4.7 K, a difference 
+in Tc of 0.14 K is expected between 32S and 34S isotopes. Therefore, the isotope effect seen from 
+the comparison between #32-c and #34-e clearly deviates from the expectation from the 
+conventional phonon-mediated superconductivity mechanisms. The present results show that the 
+unconventional isotope effect is essential in Bi4O4S3 with 32S and 34S.  
+Here, we briefly discuss about the commonality of the unconventional isotope effect in 
+BiS2-based superconductors. As mentioned in above, a similar unconventional isotope effect was 
+observed in LaO0.6F0.4BiSSe with BiSSe-type superconducting layers [26]. Although the 
+constituent element of the superconducting layer is different, the in-plane structural symmetry is 
+common because both are crystallized in a tetragonal structure (P4/nmm for LaO0.6F0.4BiSSe and 
+I4/mmm for Bi4O4S3). In addition, Tc is close; the typical Tc of LaO0.6F0.4BiSSe is 3.8 K. As well 
+known, the BiS2-based compounds exhibit a pressure-induced structural transition, at which a 
+jump (abrupt increase) in Tc is observed [36-37]. In the case of LaO0.5F0.5BiS2, Tc increases from 
+2 K (tetragonal P4/nmm) to 10 K (monoclinic (P21/m) by applying a pressure of 1 GPa [36]. 
+Therefore, we can regard LaO0.6F0.4BiSSe and Bi4O4S3 with a tetragonal structure as a low-Tc 
+phase of the BiS2-based superconductor from a viewpoint of in-plane structural symmetry, which 
+is also a commonality between those two superconductors. To conclude what factor is essential 
+for the emergence of unconventional pairing states in the BiS2-based superconductors, isotope 
+effect and other studies for a high-Tc phase with a monoclinic phase is needed, and that is 
+underway. 
+
+
+5 
+ 
+ 
+4. Conclusion 
+We have reported the sulfur isotope effect on Tc in Bi4O4S3 with 32S and 34S. 
+Polycrystalline samples of Bi4O4S3 were prepared by solid-state reaction using 32S and 34S isotope 
+chemicals. To investigate the isotope effect, six samples having similar lattice constants were 
+selected. From magnetization analyses, the isotope exponent was estimated as -0.1 < S < 0.1. 
+Although the Tc estimated from electrical resistivity was scattered as compared to those estimated 
+from the magnetization, we observed no clear correlation between Tc and the isotope mass. The 
+present results on the isotope effect suggest Bi4O4S3 to be an unconventional superconductor.  
+ 
+Acknowledgements 
+The authors thank O. Miura and Y. Goto for experimental supports. This work was partly 
+supported by JSPS KAKENHI (Grant No. 18KK0076) and Advanced Research Program under 
+the Human Resources Funds of Tokyo (Grant Number: H31-1). 
+ 
+ 
+Reference 
+1. J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. 108, 1175 (1957). 
+2. J. G. Bednorz, K. A. Müller, Z. Phys. B 64, 189 (1986). 
+3. Y. Kamihara, et al., J. Am. Chem. Soc. 130, 3296 (2008). 
+4. D. Pines, Physica C 235, 113 (1994). 
+5. A. Kreisel, et al., Phys. Rev. B 95, 174504 (2017). 
+6. D. G. Hinks et al., Nature 335, 419 (1988).  
+7. A. P. Ramirez et al. Phys. Rev. Lett. 68, 1058 (1992). 
+8. S. L. Bud’ko et al., Phys. Rev. Lett. 86, 1877 (2001).  
+9. D. D. Lawrie and J. P. Franck, Physica C 245, 159 (1995).  
+10. B. Batlogg et al., Phys. Rev. Lett. 58, 2333 (1987).  
+11. C. C. Tsuei et al., Phys. Rev. Lett. 65, 2724 (1990).  
+12. P. M. Shirage et al. Phys. Rev. Lett. 103, 257003 (2009). 
+13. Y. Mizuguchi et al., Phys. Rev. B 86, 220510 (2012).  
+14. Y. Mizuguchi et al., J. Phys. Soc. Jpn. 81, 114725 (2012). 
+15. Y. Mizuguchi, J. Phys. Soc. Jpn.88, 041001 (2019). 
+16. H. Usui and K. Kuroki, Nov. Supercond. Mater. 1, 50 (2015). 
+17. K. Suzuki, et al., J. Phys. Soc. Jpn. 88, 041008 (2019). 
+18. X. Wan et al., Phys. Rev. B 87, 115124 (2013). 
+19. S. F. Wu et al., Phys. Rev. B 90, 054519 (2014). 
+
+
+6 
+ 
+20. G. Lamura et al., Phys. Rev. B 88, 180509 (2013). 
+21. T. Yamashita et al., J. Phys. Soc. Jpn. 85, 073707 (2016). 
+22. C. Morice et al., Phys. Rev. B 95, 180505 (2017).  
+23. Y. Yang, et al., Phys. Rev. B 88, 094519 (2013). 
+24. A. Ichikawa and T. Hotta, J. Phys. Soc. Jpn. 87, 114706 (2018). 
+25. Y. Ota et al., Phys. Rev. Lett. 118, 167002 (2017). 
+26. K. Hoshi, Y. Goto, and Y. Mizuguchi, Phys. Rev. B 97, 094509 (2018). 
+27. S. K. Singh et al., J. Am. Chem. Soc 134, 16504 (2012). 
+28. H. Takatsu et al., J. Phys. Soc. Jpn. 81, 125002 (2012). 
+29. P. Srivatsava, Shruti, S. Patnaik, Supercond. Sci. Technol. 27, 055001 (2014). 
+30. F. Izumi and K. Momma, Solid State Phenom. 130, 15 (2007). 
+31. K. Momma and F. Izumi, J. Appl. Crystallogr. 41, 653 (2008). 
+32. A. Miura et al., Inorg. Chem., 54, 10462 (2015). 
+33. C. Morice et al., J. Phys.: Condens. Matter 27, 135501 (2015). 
+34. L. Li et al., Phys. Rev. B 91, 104511 (2015). 
+35. S. Li et al., Sci. China-Phys. Mech. Astron. 56, 2019 (2013).  
+36. C. T. Wolowiec et al., Phys. Rev. B 88, 064503 (2013). 
+37. T. Tomita et al., J. Phys. Soc. Jpn. 83, 063704 (2014). 
+ 
+ 
+ 
+Table I. Sample label, lattice constants, and Tc obtained from magnetization and resistivity 
+(TcM and Tcρ) for Bi4O4S3 samples with 32S and 34S. 
+ 
+Label 
+a (Å) 
+c (Å) 
+TcM (K) 
+Tcρ(K) 
+#32-a 
+3.9667(4) 
+41.337(5) 
+4.76 
+4.57 
+#32-b 
+3.9723(4) 
+41.367(6) 
+4.74 
+4.66 
+#32-c 
+3.9710(3) 
+41.368(4) 
+4.73 
+4.53 
+#34-d 
+3.9694(5) 
+41.358(6) 
+4.74 
+4.59 
+#34-e 
+3.9708(3) 
+41.361(4) 
+4.73 
+4.64 
+#34-f 
+3.9732(4) 
+41.384(4) 
+4.76 
+4.54 
+ 
+ 
+
+
+7 
+ 
+ 
+Figures 
+ 
+ 
+Fig. 1. (a) X-ray powder diffraction for Bi4O4S3 samples prepared with 32S and 34S isotope 
+chemicals. (b) Schematic image of crystal structure of Bi4O4S3.  
+ 
+ 
+
+
+8 
+ 
+ 
+Fig. 2. Temperature dependences of magnetization after zero-filed cooling (ZFC) and field 
+cooling (FC) for Bi4O4S3 prepared with 32S and 34S. 
+ 
+ 
+
+
+9 
+ 
+ 
+Fig. 3. Temperature differential of magnetization (ZFC) for Bi4O4S3 prepared with 32S and 34S. 
+ 
+ 
+
+
+10 
+ 
+ 
+Fig. 4. Temperature dependences of resistivity (ρ) for Bi4O4S3 prepared with 32S and 34S. 
+ 
+
+

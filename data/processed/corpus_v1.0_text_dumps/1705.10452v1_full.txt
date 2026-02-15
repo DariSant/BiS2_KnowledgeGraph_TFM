@@ -1,0 +1,642 @@
+Growth and superconducting properties of Cd-doped La(O,F)BiS2 single crystals 
+ 
+Masanori Nagaoa,c,*,1, Masashi Tanakab,c,**,1, Satoshi Watauchia, Yoshihiko Takanoc, and Isao Tanakaa 
+ 
+aUniversity of Yamanashi, 7-32 Miyamae, Kofu, Yamanashi 400-8511, Japan 
+bGraduate School of Engineering, Kyushu Institute of Technology, 1-1 Sensui-cho, Tobata, 
+Kitakyushu, Fukuoka 804-8550, Japan 
+cMANA National Institute for Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan 
+ 
+Corresponding Authors  
+*Masanori Nagao for the correspondence of crystal growth and the compositional analysis 
+Postal address: Center for Crystal Science and Technology, University of Yamanashi 
+Miyamae 7-32, Kofu, Yamanashi 400-8511, Japan 
+Telephone number: (+81)55-220-8610 
+Fax number: (+81)55-254-3035 
+E-mail address: mnagao@yamanashi.ac.jp 
+ 
+**Masashi Tanaka for the correspondence of crystallographic analysis 
+Postal address: Graduate School of Engineering, Kyushu Institute of Technology 
+1-1 Sensui-cho, Tobata, Kitakyushu, Fukuoka 804-8550, Japan 
+Telephone & Fax number: (+81)93-884-3204 
+E-mail address: mtanaka@mns.kyutech.ac.jp 
+ 
+Author Contributions 
+1 M. Nagao and M. Tanaka contributed equally.  
+ 
+
+
+Abstract 
+Cd-doped La(O,F)BiS2 single crystals were grown using a CsCl/KCl flux. The grown crystals have 
+a plate-like shape with ~1-2 mm square size in a well-developed ab-plane. The Cd doping in the 
+crystals was successfully characterized by single crystal X-ray diffraction and electron probe 
+microanalysis techniques. The superconductivity of La(O,F)BiS2 was gradually suppressed with Cd 
+doping. 
+The 
+superconducting 
+transition 
+temperature 
+with 
+zero 
+resistivity 
+of 
+La(O0.54F0.46)(Bi0.92Cd0.08)S2 was 2.3 K. The Cd doping does not change the superconducting 
+anisotropy so much, albeit the considerable suppression of Tc. 
+ 
+Keywords 
+A. BiS2-based superconductors; A. Layered mixed-anion compounds; B. Flux growth; E. Cd doping.  
+
+
+ 
+Main text 
+ 
+1. Introduction 
+BiS2-layered superconductors provide a variety of compounds, such as Bi4O4S3 [1], R(O,F)BiS2 (R: 
+La, Ce, Pr, Nd, Yb, Bi) [2-8], AFBiS2 (A: Sr, Eu) [9-11], La1−uMuOBiS2 (M: Ti, Zr, Hf, Th) [12], and 
+Eu3F4Bi2S4 [13]. The S-site in these compounds can be substituted by Se (BiSe2- and BiSSe-based 
+compounds) [14,15], where these compounds are now called BiCh2-based compounds (Ch: S, Se). 
+The Bi-site also can be replaced by Sb, as the example of R(O,F)SbS2. However, SbS2-based 
+compounds do not show superconductivity [16]. On the other hand, the partial substitution of Ag 
+[17], Cu [18], and Pb [19] for Bi-site all show superconductivity. Especially, Pb substitution 
+enhances the superconducting transition temperature (Tc) [19]. These results indicate that 
+substitution of the other elements for Bi-site may enhance superconducting properties. In the view 
+point of the ionic radii, the candidates of substitution species are Hg, Tl, Cd, and so on. It has been 
+reported that it is able to substitute Cd for Bi-sites in the cuprate superconductors, Bi2Sr2CaCu2O8+d 
+[20]. Then we focused on the doping effect of Cd for Bi-site.  
+In this paper, we synthesized the Cd-doped La(O,F)BiS2 single crystals by the CsCl/KCl flux 
+method [21-23]. The grown single crystals were characterized by single crystal X-ray structural 
+analysis, and investigated its doping effect on the superconducting properties including the 
+anisotropy.  
+ 
+
+
+2. Experimental 
+Cd-doped La(O,F)BiS2 single crystals were grown by a high-temperature flux method in an 
+evacuated quartz tube using La2S3, Cd, Bi, S, Bi2S3, Bi2O3, BiF3, CsCl, and KCl as raw materials. 
+The synthesis and characterization procedures are similar to the previous studies in the literature, 
+except for the Cd-doping [22]. The raw materials were weighed with the nominal composition of 
+La(O0.5F0.5)(Bi1-xCdx)S2 (x = 0-0.20). The mixture of the raw materials (0.8 g) and the CsCl/KCl flux 
+(5.0 g) with a molar ratio of 5:3 was combined using a mortar, and then sealed into a quartz tube 
+under vacuum (~10 Pa). This mixed powder in the quartz tube was heated at 800 °C for 10 h, cooled 
+slowly down to 600 °C at a rate of 1 °C/h, and then furnace-cooled to room temperature. The quartz 
+tube was opened in air, and the flux in the obtained material was dissolved into distilled water. The 
+remained product was then filtered, and washed with distilled water.  
+Powder X-ray diffraction (XRD) patterns were measured by using Rigaku MultiFlex with CuKα 
+radiation. Single crystal XRD structural analysis was carried out using a Rigaku Mercury CCD 
+diffractometer with graphite monochromated MoKα radiation (λ = 0.71072 Å) (Rigaku, 
+XtalLABmini). The crystal structure was solved and refined by using the program SHELXT and 
+SHELXL [24,25], respectively, in the WinGX software package [26]. The compositional ratio of the 
+single crystals was evaluated by energy dispersive spectroscopic (EDS) analysis and electron probe 
+microanalysis (EPMA) associated with the observation of the microstructure by using scanning 
+electron microscopy (SEM). The magnetization–temperature (M–T) curves under zero-field cooling 
+(ZFC) were measured using a superconducting quantum interface device (SQUID) with an applied 
+magnetic field of 10 Oe parallel to the c-axis, except for a sample with x = 0.10 (100 Oe). The 
+
+
+resistivity–temperature (ρ–T) characteristics were measured by the standard four-probe method with 
+a constant current density mode using physical property measurement system (Quantum Design; 
+PPMS DynaCool). The electrical terminals were fabricated by Ag paste. The angular (θ) dependence 
+of resistivity (ρ) in the flux liquid state was measured under various magnetic fields (H). The 
+superconducting anisotropy (γs) is estimated using the effective mass model [27].  
+ 
+3. Results and discussion 
+Obtained Cd-doped La(O,F)BiS2 single crystals are plate-like shape with ~1-2 mm in size with a 
+thickness of 10-50 μm. Figure 1 shows XRD patterns of a well-developed plane in a single crystal 
+grown from starting powder with nominal composition of La(O0.50F0.50)(Bi1-xCdx)S2. The XRD 
+patterns of the grown single crystals with x = 0, 0.05, 0.10 show only 00l diffraction peaks of 
+La(O,F)BiS2 structure, indicating that the ab-plane is well-developed. The typical back scattered 
+electron (BSE) image of obtained single crystals is shown in Fig.2 (a). However, when x is increased 
+up to 0.15, the XRD pattern shows multiple phase of La(O,F)BiS2 and Cs2Bi2CdS5 [28]. This is also 
+clearly seen in a BSE image with two kinds of contrasted regions as shown in Fig. 2 (b). The EDS 
+compositional analysis indicates that the blight and dark contrasted regions correspond to 
+Cs2Bi2CdS5 and Cd-doped La(O,F)BiS2, respectively. XRD pattern of the single crystals with x = 
+0.20 (the top line of Fig.1) was identified to that of Cs2Bi2CdS5 with a well-developed plane of (101). 
+La(O,F)BiS2 have never grown in the nominal composition of x ≥ 0.20 within the growth condition 
+of this study. These results suggest that the Cs2Bi2CdS5 starts to grow above x = 0.15.  
+In the obtained single crystals with x = 0-0.10, they were composed of La, O, F, Bi, Cd, and S 
+
+
+elements, whereas the flux components of Cs, K, and Cl elements were not detected by qualitative 
+analysis of EPMA within the detection limit of 0.1 wt%. The estimated Cd-contents (y), estimated 
+F-contents (z), and the c-axis lattice parameter (c) in the obtained single crystals are summarized in 
+Table I. The values of x and y were normalized by the total Bi+Cd amount, and the values of z were 
+also normalized by the total O+F amount. The value of y increased up to 0.12 with increasing x to 
+0.10. The c-axis lattice parameters of the obtained single crystals decreased with increase of y, but 
+the values of z are comparable to each other. If we assume that the c-axis lattice parameter is 
+correlated to the both of the estimated Cd-contents (y) and F-contents (z), these results suggest that 
+Cd is doped in the obtained single crystals, and the solubility limit of Cd in La(O,F)BiS2 is ca. 0.12.  
+The single crystal structural analysis was successfully performed using the crystals with y = 0.08. 
+The refinement converged to the R1 value of 7.19 % for I ≥ 2σ(I) for 16 variables including 
+anisotropic parameters. The atomic coordinates and displacement parameters are given in Tables II 
+and III. The compound crystallizes with space group P4/nmm (lattice parameters a = 4.0647(7) Å, c 
+= 13.328(3) Å, and Z = 1). The basic structure of this crystal is isostructural with La(O,F)BiS2, 
+La(O,F)BiSSe and La(O,F)BiSe2 [2,14,15]. All atoms were located at special positions and their 
+anisotropic displacement factors were all positive and within similar ranges, all of which appeared to 
+be physically reasonable. Since the occupancy refinement in O and F under constrain of Occ.(O) + 
+Occ.(F) = 1 did not converge in the refinement, the occupancies were fixed to the EPMA-estimated 
+composition, O:F = 0.54:0.46. Note that the refinement of Cd inclusion was converged only in the 
+case of partial substitution of the Bi site with reasonable occupation value. Taking into account the 
+result of EPMA analysis, Cd atoms are successfully doped to the Bi sites. Figure 3 shows the M–T 
+
+
+curves for the Cd-doped and non-doped La(O,F)BiS2 single crystals with comparable F-contents. 
+The shielding volume fraction was strongly suppressed by Cd doping, compared to the non 
+Cd-doped La(O,F)BiS2. The superconducting transition was not observed in the single crystals with 
+y = 0.12 down to 1.8 K. Figure 4 shows the ρ–T characteristics down to 1.8 K in the single crystals 
+of the Cd-doped and non-doped La(O,F)BiS2 with comparable F-contents (z = 0.46) [22]. The ρ–T 
+characteristics of the Cd-doped La(O,F)BiS2 single crystals with y = 0.12 showed 
+semiconducting-like behavior, and it did not show zero resistivity down to 1.8 K. The Cd-doped 
+La(O,F)BiS2 single crystals with y = 0.08 exhibit a resistivity drop at around 4 K, and zero resistivity 
+below 2.3 K. These results indicate that the temperature of zero resistivity was also suppressed by 
+Cd doping, compared to that found in the single crystals of non Cd-doped La(O,F)BiS2 with 
+comparable F-contents. Impurity doping into the superconducting layer usually leads to degradation 
+of superconductivity in the layered superconductor. Cd-doping in this study may also affect to the 
+superconducting properties, then the superconductivity in this compound would lead to suppression. 
+As shown in the inset of figure 4, the resistivity of Cd-doped La(O,F)BiS2 single crystal with y = 
+0.08 shows two superconducting onsets around 4 K and 3 K. This is probably attributed to the tiny 
+inhomogeneous distribution of Cd elements in the obtained single crystals.  
+The resistivity (ρ) was measured under different magnetic fields (H) in the flux liquid state to 
+estimate the superconducting anisotropy (γs) by using the same method with Refs. 29 and 30. The 
+reduced field (Hred) is calculated using the following equation for an effective mass model:  
+Hred = H(sin2θ+γs
+-2cos2θ)1/2                     (1) 
+where θ is the angle between the ab-plane and the magnetic field [27]. The γs was estimated from the 
+
+
+best scaling of the ρ–Hred relationship. Figure 5 shows the θ dependence of ρ for different magnetic 
+fields (H = 0.1-9.0 T) in the flux liquid state for Cd-doped La(O,F)BiS2 single crystals with y = 0.08. 
+The ρ–θ curve exhibited a two-fold symmetry. Figure 6 shows the ρ–Hred scaling obtained from the 
+ρ–θ curves in figure 5 using Eq. (1). The scaling was performed by taking γs = 36. The value of γs in 
+Cd-doped La(O,F)BiS2 single crystals with y = 0.08 was almost the same compared to that of 
+non-doped La(O,F)BiS2 single crystals with comparable F-contents (z = 0.46) (γs = 23-37) [31]. 
+These results suggest that the Cd doping does not change the anisotropy so much albeit the strong 
+suppression of Tc.  
+ 
+4. Conclusion 
+Cd-doped La(O,F)BiS2 single crystals were grown by using CsCl/KCl flux method with ~1-2 mm 
+square size in a well-developed ab-plane. The X-ray single crystal structural refinement and EPMA 
+compositional analysis were well revealed the Cd doping to the single crystals. The solubility limit 
+of Cd to Bi-site in La(O,F)BiS2 single crystals was found to be around 12 at%. The temperature of 
+zero resistivity of the obtained single crystals was gradually suppressed with Cd-doping. The 
+superconducting transition temperature with zero resistivity of La(O0.54F0.46)(Bi0.92Cd0.08)S2 was 2.3 
+K, and the superconducting anisotropy was 36. The suppression mechanism of Tc unlike Pb-doped 
+BiS2-based compounds should be investigated in the future, by using the other method, such as 
+scanning tunneling spectroscopy, photoemission spectroscopy and so on.  
+ 
+Acknowledgments 
+
+
+The authors would like to thank Dr. A. Miura (Hokkaido University) for useful discussion and 
+critical reading. This work was supported by JSPS KAKENHI (Grant-in-Aid for challenging 
+Exploratory Research) Grant No. 15K14113, and partially supported by JST CREST Grant No. 
+JPMJCR16Q6.  
+ 
+Supplementary material 
+Supporting Information: CIF file for Cd-doped La(O,F)BiS2.  
+
+
+ 
+References 
+ 
+[1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. 
+Izawa, O. Miura, Phys. Rev. B 86 (2012) 220510(R).  
+[2] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, O. Miura, J. 
+Phys. Soc. Jpn. 81 (2012) 114725.  
+[3] J. Xing, S. Li, X. Ding, H. Yang, H.-H. Wen, Phys. Rev. B 86 (2012) 214518.  
+[4] R. Jha, A. Kumar, S. K. Singh, V. P. S. Awana, J. Supercond. Novel Magn. 26 (2013) 499-502.  
+[5] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, Y. Takano, J. Phys. 
+Soc. Jpn. 82 (2013) 033708.  
+[6] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, M. B. Maple, Philos. Mag. 93 
+(2013) 673-680.  
+[7] J. Shao, X. Yao, Z. Liu, L. Pi, S. Tan, C. Zhang, Y. Zhang, Supercond. Sci. Technol. 28 (2015) 
+015008.  
+[8] T. Okada, H. Ogino, J. Shimoyama, K. Kishio, Appl. Phys. Express 8 (2015) 023102.  
+[9] X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, Z. Xu, 
+Phys. Rev. B 87 (2013) 020504.  
+[10] H. C. Lei, K. F. Wang, M. Abeykoon, E. S. Bozin, C. Petrovic, Inorg. Chem. 52 (2013) 
+10685-10689.  
+
+
+[11] H.-F. Zhai, Z.-T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J.-K. Bao, Y.-L. Sun, W.-H. Jiao, I. 
+Nowik, I. Felner, Y.-K. Li, X.-F. Xu, Q. Tao, C.-M. Feng, Z.-A. Xu, G.-H. Cao, Phys. Rev. B 90 
+(2014) 064518.  
+[12] D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, M. 
+Nallaiyan, Spagna, M. B. Maple, Phys. Rev. B 87 (2013) 174512.  
+[13] H.-F. Zhai, P. Zhang, S.-Q. Wu, C.-Y. He, Z.-T. Tang, H. Jiang, Y.-L. Sun, J.-K. Bao, I. Nowik, I. 
+Felner, Y.-W. Zeng, Y.-K. Li, X.-F. Xu, Q. Tao, Z.-A. Xu, G.-H. Cao, J. Am. Chem. Soc. 136 (2014) 
+15386-15393.  
+[14] A. Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V. Pomjakushin, R. Khasanov, H. Luetkens, 
+P. Biswas, A. Amato, H. Keller, K. Conder, J. Phys.: Condens. Matter 26 (2014) 215702.  
+[15] X.-C. Wang, D.-Y. Chen, Q. Guo, J. Yu, B.-B. Ruan, Q.-G. Mu, G.-F. Chen, Z.-A. Ren, 
+arXiv:1404.7562. 
+[16] M. Nagao, M. Tanaka, R. Matsumoto, H. Tanaka, S. Watauchi, Y. Takano, I. Tanaka, Cryst. 
+Growth Des. 16 (2016) 3037-3042.  
+[17] S. G. Tan, P. Tong, Y. Liu, W.J. Lu, L.J. Li, B.C. Zhao, Y. P. Sun, Eur. Phys. J. B 85 (2012) 414.  
+[18] Y. Liu, P. Tong, S. G. Tan, W. J. Lu, L. J. Li, B. C. Zhao, S. B. Zhang, Y. P. Sun, Physica B 412 
+(2013) 119-121.  
+[19] S. Demura, Y. Fujisawa, S. Otsuki, R. Ishio, Y. Takano, H. Sakata, Solid State Commun. 223 
+(2015) 40-44. 
+[20] S. Banerjee, B. K. Chaudhuri, Solid State Commun. 101 (1997) 617-620.  
+[21] M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. Kumada, I. 
+
+
+Tanaka, J. Phys. Soc. Jpn. 82 (2013) 113701.  
+[22] M. Nagao, A. Miura, S. Demura, K. Deguchi, S. Watauchi, T. Takei, Y. Takano, N. Kumada, I. 
+Tanaka, Solid State Commun. 178 (2014) 33-36.  
+[23] M. Nagao, A. Miura, S. Watauchi, Y. Takano, I. Tanaka, Jpn. J. Appl. Phys. 54 (2015) 083101.  
+[24] G. M. Sheldrick, Acta Cryst. A 71 (2015) 3-8.  
+[25] G. M. Sheldrick, Acta Cryst. A 64 (2008) 112-122.  
+[26] L. J. Farrugia, J. Appl. Crystllogr. 45 (2012) 849-854.  
+[27] G. Blatter, V. B. Geshkenbein, A. I. Larkin, Phys. Rev. Lett. 68 (1992) 875-878.  
+[28] Fu Qiang Huang, Rebecca C. Somers, Adam D. McFarland, Richard P. Van Duyne, James A 
+Ibers, J. Solid State Chem. 174 (2003) 334-341.  
+[29] Y. Iye, I. Oguro, T. Tamegai, W. R. Datars, N. Motohira, K. Kitazawa, Physica C 199 (1992) 
+154-160.  
+[30] H. Iwasaki, O. Taniguchi, S. Kenmochi, N. Kobayashi, Physica C 244 (1995) 71-77.  
+[31] M. Nagao, Nov. Supercond. Mater. 1 (2015) 64-74.  
+ 
+
+
+ 
+Figure captions 
+ 
+Figure 1. XRD pattern of well-developed plane of the single crystals grown from the starting powder 
+with nominal composition of La(O0.5F0.5)(Bi1-xCdx)S2 (x = 0-0.20).  
+Figure 2. BSE image of the obtained single crystals with (a) x = 0.05, (b) x = 0.15.  
+Figure 3. M–T curves of the Cd-doped and non-doped La(O,F)BiS2 single crystals with comparable 
+F-contents (z = 0.46).  
+Figure 4. ρ–T characteristics along the ab-plane of the Cd-doped and non-doped La(O,F)BiS2 single 
+crystals with comparable F-contents (z = 0.46). The inset is an enlargement of the superconducting 
+transition.  
+Figure 5. Angular (θ) dependence of resistivity (ρ) in flux liquid state at various magnetic fields for 
+the single crystal of Cd-doped La(O,F)BiS2 with y = 0.08.  
+Figure 6. Scaling of angular (θ) dependence of resistivity (ρ) at a reduced magnetic field Hred = 
+H(sin2θ+γs
+-2cos2θ)1/2. Hred is calculated from the same data set in figure 5.  
+ 
+
+
+ 
+Table I. Nominal Cd-content (x), the estimated Cd-content (y), estimated F-content (z) and c-axis 
+lattice parameter (c) in the obtained single crystals. The Cd-content y and F-content z were 
+normalized by total Bi+Cd and O+F amounts, respectively.  
+ 
+Nominal Cd-content (x) in La(O0.5F0.5)(Bi1-xCdx)S2  
+0 
+0.05 
+0.10 
+Estimated Cd-content (y) 
+0 
+0.08 
+0.12 
+Estimated F-content (z) 
+0.43 
+0.46 
+0.42 
+c-axis lattice parameter (c) 
+13.42 (Å) 
+13.35 (Å) 
+13.28 (Å) 
+ 
+
+
+ 
+Table II. Crystallographic data for the Cd-doped La(O,F)BiS2. 
+Structural formula 
+La2O1.08F0.92Bi1.82Cd0.18S4 
+Formula weight 
+841.40 
+Crystal dimensions (mm) 
+0.12 x 0.05 x 0.02  
+Crystal shape 
+Platelet 
+Crystal system 
+Tetragonal 
+Space group 
+P4/nmm(No. 129) 
+a (Å) 
+4.0647(7) 
+c (Å) 
+13.328(3) 
+V (Å3) 
+220.20(9) 
+Z 
+1 
+dcalc (g/cm3) 
+6.345 
+Temperature (K) 
+293 
+λ (Å) 
+0.71073 (MoKα) 
+μ (mm−1) 
+17.869 
+Absorption correction 
+Empirical 
+θmax (°) 
+27.492 
+Index ranges 
+-5<h<5, -5<k<5, -17<l<17 
+Total reflections 
+2063 
+Unique reflections 
+192 
+Observed [I ≥ 2σ(Ι)] 
+166 
+Rint for all reflections 
+0.3936 
+No. of variables 
+16 
+R1/wR2 [I ≥ 2σ(Ι)] 
+0.0719/0.1604 
+R1/wR2 (all data) 
+0.0888/0.1648 
+GOF on Fo
+2 
+1.027 
+Max./Min. residual density (e-/Å3) 
+3.93 / -6.79 
+
+
+ 
+Table III. Atomic coordinates, atomic displacement parameters (Å2) for the Cd-doped La(O,F)BiS2. 
+Site 
+Wyck. 
+S.O.F 
+x/a 
+y/b
+z/c 
+U11 
+U22 
+U33 
+Ueq 
+La 
+2c 
+1 
+3/4 
+3/4
+0.1010(2) 
+0.0074(13)
+0.0074(13) 
+0.026(2) 
+0.0135(13) 
+Bi/Cd 
+2c 
+0.91(3)/0.09(3) 
+1/4 
+1/4
+0.37862(14) 
+0.0105(10)
+0.0105(10) 
+0.0205(14) 
+0.0138(9) 
+S1 
+2c 
+1 
+1/4 
+1/4
+0.1891(8) 
+0.008(4) 
+0.008(4) 
+0.014(6) 
+0.010(3) 
+S2 
+2c 
+1 
+3/4 
+3/4
+0.3776(11) 
+0.023(6) 
+0.023(6) 
+0.040(9) 
+0.029(4) 
+O/F 
+2a 
+0.54/0.46(Fix) 
+1/4 
+3/4
+0 
+0.002(9) 
+0.002(9) 
+0.04(2) 
+0.016(7) 
+Note: U12, U13, and U23 are 0, and Ueq is defined as one-third of the trace of the orthogonalized U tensor.
+
+
+ 
+17
+ 
+ 
+Figure 1  
+0
+10
+20
+30
+40
+50
+60
+70
+80
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×：Cs2Bi2CdS5
+●：LaO(F)BiS2
+x = 0.20
+x = 0.10
+x = 0.05
+x = 0
+CuKα 2θ (deg)
+Intensity (a.u.)
+x = 0.15
+×
+●
+×
+●
+●
+×
+×
+×
+●
+●
+●
+●
+×
+×
+×
+×
+●
+●
+
+
+ 
+18
+ 
+ 
+Figure 2  
+(b) 
+(a) 
+Cd-doped La(O,F)BiS2
+
+
+ 
+19
+ 
+ 
+Figure 3  
+ZFC 
+-0.08
+-0.06
+-0.04
+-0.02
+0
+0
+1
+2
+3
+4
+5
+M(emu/g)
+T(K)
+y = 0.12
+z = 0.42
+y = 0.08
+z = 0.46
+y = 0
+z = 0.46
+
+
+ 
+20
+ 
+ 
+Figure 4  
+0
+5
+10
+15
+0
+50
+100
+150
+200
+250
+300
+ρab (mΩcm)
+T(K)
+y = 0.08
+z = 0.46
+y = 0
+z = 0.46
+y = 0.12
+z = 0.42
+0
+2
+4
+6
+0
+2
+4
+6
+8
+10
+T(K)
+ρab (mΩcm)
+y = 0.08
+z = 0.46
+y = 0
+z = 0.46
+
+
+ 
+21
+ 
+ 
+Figure 5  
+0
+1
+2
+3
+4
+5
+6
+-90
+0
+90
+180
+270
+ρab (mΩcm)
+θ (deg)
+y = 0.08
+z = 0.46
+at 2.0 K
+0.1 T 
+9.0 T 
+H//ab-plane 
+H//ab-plane 
+H//c-axis 
+
+
+ 
+22
+ 
+ 
+Figure 6  
+0
+1
+2
+3
+4
+5
+6
+0
+2
+4
+6
+8
+10
+γs:36
+ρab (mΩcm)
+at 2.0 K
+y = 0.08
+z = 0.46
+Hred (T)
+
+

@@ -1,0 +1,342 @@
+1 
+ 
+Pressure-Induced Superconductivity in BiS2-based EuFBiS2 
+ 
+Kouji Suzuki1,2, Masashi Tanaka1*, Saleem J. Denholme1,†, Masaya Fujioka1,‡, 
+Takahide Yamaguchi1,2, Hiroyuki Takeya1, and Yoshihiko Takano1,2 
+ 
+1National Institute for Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan 
+2Graduate School of Pure and Applied Sciences, University of Tsukuba, 1-1-1 Tennodai, 
+Tsukuba, Ibaraki 305-8577, Japan 
+ 
+Abstract 
+ 
+We measured the electrical resistivity of the BiS2-based compound EuFBiS2 under 
+high pressure. Polycrystalline EuFBiS2 shows insulator-metal transition and pressure-induced 
+superconductivity above 0.7 GPa. The superconducting transition temperature increases with 
+increasing applied pressure and shows a maximum value around 8.6 K at 1.8 GPa. 
+ 
+ 
+ 
+ 
+*E-mail: Tanaka.Masashi@nims.go.jp 
+†Present address: Department of Applied Physics, Tokyo University of Science, 6-3-1 Niijuku, 
+Katsushika, Tokyo 125-8585, Japan 
+‡Present address: Research Institute for Electronic Science, Hokkaido University, N20W10, 
+Kita-ku, Sapporo, Hokkaido 001-0020, Japan 
+ 
+
+
+2 
+ 
+Since the discovery of superconductivity in Bi4O4(SO4)1−xBi2S4,1) much attention has 
+been paid to developing BiS2-based layered superconductors. BiS2-based compounds have a 
+layered structure composed of an alternate stacking of superconducting and blocking layers, 
+which is a common feature of cuprate or Fe-based superconductors.2,3) The typical BiS2-based 
+compound LaOBiS2 shows superconductivity by O substitution with F in the blocking layer,4) 
+which supplies electron carriers into the BiS2 superconducting layer. This led to considerable 
+advances in the BiS2-based superconducting family within a few years.5-18) Interestingly, 
+many BiS2-based superconductors are sensitive to external pressure.19-22) The Tc enhancement 
+has been attributed to the local structure sensitivity of the BiS2-based superconducting 
+materials.23) 
+ 
+Recently, it has been reported that the BiS2-based compound EuFBiS2 shows 
+superconductivity even without any chemical doping.24-26) A charge-density-wave (CDW)-like 
+behavior was simultaneously observed in its electrical resistivity.24) It is necessary to have 
+more information about its physical properties by using other probes. In this study, we 
+demonstrate the electrical resistivity measurements of EuFBiS2 under high pressure. It is 
+found that the semiconducting sample shows insulator-metal transition and superconductivity 
+is induced by only applying pressure. 
+Polycrystalline samples of EuFBiS2 were prepared by a solid-state reaction. Powders 
+of EuS, BiF3, and Bi2S3 were weighed with the nominal composition of EuFBiS2. The mixture 
+was well-ground and pressed into pellets. The pellets were sealed in an evacuated quartz tube 
+and then heated at 700 °C for 20 h. X-ray diffraction (XRD) measurement with Cu K 
+radiation was carried out using Mini Flex 600 (RIGAKU). The compositional ratio was 
+analyzed by energy dispersive X-ray spectroscopy (EDX) using JSM-6010LA (JEOL). The 
+electrical resistivity measurement was performed in the temperature range from 2 to 300 K 
+using a physical property measurement system (PPMS, Quantum Design) by a four-probe 
+method. A piston-cylinder-type high-pressure cell was used for applying hydrostatic pressure 
+
+
+3 
+ 
+to the sample. Fluorinert 70/77 was employed as a pressure-transmitting medium. All the 
+pressure values were estimated from the Tc of a Pb manometer, although the actual pressure 
+around room temperature includes underestimation. 
+ 
+The obtained sample is the single phase of EuFBiS2, and the diffraction peaks can be 
+indexed on the basis of a tetragonal unit cell with the lattice parameters a = 4.0478(7) Å and c 
+= 13.520(3) Å, as shown in Fig. 1. The compositional ratio is estimated to be Eu: F: Bi: S = 1: 
+0.9(4): 0.9(5): 1.7(7) from EDX analysis, which is in good agreement with the nominal 
+composition of EuFBiS2 within the error. 
+ 
+The electrical resistivity at ambient pressure shows semiconducting behavior with a 
+broad hump at around 230 K [Fig. 2(a)]. The resistivity increases with decreasing temperature, 
+and is insulating in the temperature range below 180 K. The behavior drastically changes 
+upon compression. The insulating behavior turns to metallic with applying pressure. This 
+insulator-metal transition occurred at the pressure between 0.3 and 0.7 GPa. And also, the 
+superconducting transition clearly appears at the pressure of 0.7 GPa as shown in Fig. 2(b). 
+The onset superconducting transition temperature (Tc
+onset) and zero-resistivity temperature 
+(Tc
+zero) are 5.2 and 2.1 K, respectively, at a pressure of 0.7 GPa. As shown in the lower panel 
+of Fig. 2(c), both Tc
+onset and Tc
+zero exhibit a bell-shaped curve with the maximum of 8.6 K at 
+1.8 GPa against the applied pressure.  
+The broad hump at around 230 K at ambient pressure was gradually suppressed upon 
+compression, and the peak temperature of the hump (Thump) decreased with increasing 
+pressure, as shown in the upper panel of Fig. 2(c). It is interesting to note that there is a 
+correlation between the hump suppression and superconducting appearance. When the hump 
+is suppressed completely, Tc reaches its highest value at 1.8 GPa. 
+Figure 3(a) shows the electrical resistivity at a pressure of 1.8 GPa under magnetic 
+fields up to 3.5 T. The superconducting transition was suppressed with increasing magnetic 
+field. The magnetic field dependences of Tc
+onset and Tc
+zero are shown in Fig. 3(b). The upper 
+
+
+4 
+ 
+critical field (Hc2) and irreversible field (Hirr) were estimated to be 3.0 and 1.5 T, respectively.  
+It has been reported that the Tc of RE(O,F)BiS2 (RE = La, Ce, Pr, Nd, Yb) series 
+suddenly increases with increasing pressure.19-22) In the case of EuFBiS2, however, Tc 
+increases gradually up to its maximum with increasing pressure. The gradual increases in Tc 
+may evoke a correlation between Tc and its electron density of states at the Fermi level. There 
+is a possibility that the europium valence changes with applied pressure. If the europium 
+valence changes from +2 to +3 with applied pressure, more carriers are doped into BiS2 layers. 
+The superconducting mechanism of EuFBiS2 still attracts considerable interest. Further 
+investigations are required to understand the intrinsic properties of superconductivity of 
+EuFBiS2, for example, structural analysis, magnetic property and specific heat measurements 
+under pressure. 
+ 
+In conclusion, the superconducting transition in EuFBiS2 was induced by only 
+applying pressure. The electrical resistivity at ambient pressure showed semiconducting 
+behavior with a broad hump at around 230 K. EuFBiS2 showed insulator-metal transition and 
+the superconductivity was observed at a pressure of 0.7 GPa. Tc increased gradually with 
+increasing pressure and showed a maximum of 8.6 K at a pressure of 1.8 GPa. 
+  
+Acknowledgement 
+This work was partially supported by the Advanced Low Carbon Technology R&D 
+Program (ALCA) of the Japan Science and Technology Agency. 
+ 
+References 
+1) Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, 
+H. Izawa, and O. Miura, Phys. Rev. B 86, 220510(R) (2012). 
+2) J. G. Bednorz and K. A. Müller, Z. Phys. B 64, 189 (1986). 
+3) Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. 130, 3296 
+
+
+5 
+ 
+(2008). 
+4) Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. 
+Miura, J. Phys. Soc. Jpn. 81, 114725 (2012). 
+5) A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka, and N. Kumada, J. Solid State Chem. 
+212, 213 (2014). 
+6) M. Nagao, S. Demura, K. Deguchi, A. Miura, S. Watauchi, T. Takei, Y. Takano, N. Kumada, 
+and I. Tanaka, J. Phys. Soc. Jpn. 82, 113701 (2013). 
+7) M. Nagao, A. Miura, S. Demura, K. Deguchi, S. Watauchi, T. Takei, Y. Takano, N. Kumada, 
+and I. Tanaka, Solid State Commun. 178, 33 (2014). 
+8) J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen, Phys. Rev. B 86, 214518 (2012). 
+9) R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Supercond. Nov. Magn. 26, 499 
+(2013). 
+10) S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, 
+M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. 
+Takano, J. Phys. Soc. Jpn. 82, 033708 (2013). 
+11) D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, Philos. 
+Mag. 93, 673 (2013). 
+12) D. Yazici, K. Huang, B. White, I. Jeon, V. Burnett, A. Friedman, I. Lum, I. Nallaiyan, S. 
+Spagna, and M. B. Maple, Phys. Rev. B. 87, 174512 (2013). 
+13) J. Kajitani, T. Hiroi, A. Omachi, O. Miura, and Y. Mizuguchi, J. Phys. Soc. Jpn. 84, 
+044712 (2015). 
+14) X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, 
+and Z. Xu, Phys. Rev. B 87, 020504 (2013). 
+15) Y. Mizuguchi, J. Phys. Chem. Solids 84, 34 (2015). 
+16) M. Tanaka, M. Nagao, Y. Matsushita, M. Fujioka, S. J. Denholme, T. Yamaguchi, H. 
+Takeya, and Y. Takano, J. Solid State Chem. 219, 168 (2014). 
+
+
+6 
+ 
+17) A. Miura, M. Nagao, T. Takei, S. Watauchi, Y. Mizuguchi, Y. Takano, I. Tanaka, and N. 
+Kumada, Cryst. Growth Des. 15, 39 (2015). 
+18) M. Tanaka, T. Yamaki, Y. Matsushita, M. Fujioka, S. J. Denholme, T. Yamaguchi, H. 
+Takeya, and Y. Takano, Appl. Phys. Lett. 106, 112601 (2015). 
+19) H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 81, 103702 (2012). 
+20) C. T. Wolowiec, B. D. White, I. Jeon, D. Yazici, K. Huang, and M. B. Maple, J. Phys.: 
+Condens. Matter 25, 422201 (2013). 
+21) M. Fujioka, M. Nagao, S. J. Denholme, M. Tanaka, H. Takeya, T. Yamaguchi, and Y. 
+Takano, Appl. Phys. Lett. 105, 052601 (2014). 
+22) M. Fujioka, M. Tanaka, S. J. Denholme, T. Yamaki, H. Takeya, T. Yamaguchi, and Y. 
+Takano, Europhys. Lett. 108, 47007 (2014). 
+23) T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. 
+Izawa, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 83, 063704 
+(2014). 
+24) H.-F. Zhai, Z.-T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J.-K. Bao, Y.-L. Sun, W.-H. 
+Jiao, I. Nowik, I. Felner, Y.-K. Li, X.-F. Xu, Q. Tao, C.-M. Feng, Z.-A. Xu, and G.-H. Cao, 
+Phys. Rev. B 90, 064518 (2014). 
+25) G. S. Thakur, R. Jha, Z. Haque, V. P. S. Awana, L. C. Gupta, and A. K. Ganguli, 
+arXiv:1504.08088. 
+26) H.-F. Zhai, P. Zhang, Z.-T. Tang, J.-K. Bao, H. Jiang, C.-M. Feng, Z.-A. Xu, and G.-H. 
+Cao, arXiv: 1505.06447. 
+ 
+
+
+7 
+ 
+Figure captions 
+Fig. 1 (Color online) XRD pattern of the polycrystalline sample of EuFBiS2. Schematic 
+illustration of the inset shows the crystal structure of EuFBiS2. 
+ 
+Fig. 2 (Color online) (a) Temperature dependence of electrical resistivity for EuFBiS2 under 
+various pressures. The arrows indicate the peak temperature of the hump structure (Thump). (b) 
+Enlargement scale of the superconducting transition. Tc
+onset was determined to the temperature 
+at 95% of the resistivity in its normal conduction state. (c) Pressure dependences of Thump, 
+Tc
+onset and Tc
+zero. 
+  
+Fig. 3 (Color online) (a) Temperature dependence of electrical resistivity under various 
+magnetic fields at a pressure of 1.8 GPa. (b) Magnetic field dependences of Tc
+onset and Tc
+zero. 
+The dotted line in Hc2 corresponds to the estimation from the Werthamer–Helfand–Hohenberg 
+(WHH) approximation for the type-II superconductor in a dirty limit. The dashed line in Hirr is 
+the linear extrapolation of Tc
+zero. 
+ 
+
+
+8 
+ 
+Figures 
+ 
+ 
+Figure 1 
+ 
+ 
+
+
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+ 
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+0
+5
+10
+15
+Temperature [K]
+Resistivity [mcm]
+0.3 GPa
+0.7 GPa
+0.9 GPa
+1.1 GPa
+1.3 GPa
+1.4 GPa
+2.2 GPa
+2.6 GPa
+1.8 GPa
+(b)
+0.0
+0.5
+1.0
+1.5
+2.0
+0
+50
+100
+150
+200
+250
+300
+Temperature [K]
+Resistivity [mcm]
+0.3 GPa
+0.7 GPa
+0.9 GPa
+1.1 GPa
+1.3 GPa
+Ambient
+1.4 GPa
+2.2 GPa
+2.6 GPa
+1.8 GPa
+(a)
+pressure
+180
+200
+220
+240
+Temperature [K]
+Pressure [GPa]
+(c)
+Thump
+2
+4
+6
+8
+10
+0
+1
+2
+3
+Tc
+onset
+Tc
+onset
+
+
+10 
+ 
+ 
+Figure 3 
+0.0
+0.2
+0.4
+0.6
+0
+2
+4
+6
+8
+10
+Temperature [K]
+Resistivity [mcm]
+(a)
+3.5 T
+0 T
+0
+1
+2
+3
+4
+0
+2
+4
+6
+8
+10
+Temperature [K]
+Magnetic Field [T]
+(b)
+3.0 T
+1.5 T
+
+

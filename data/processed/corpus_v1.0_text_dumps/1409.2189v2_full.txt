@@ -1,0 +1,299 @@
+1 
+ 
+Enhancement of thermoelectric properties by Se substitution in layered 
+bismuth-chalcogenide LaOBiS2-xSex 
+ 
+ 
+Yoshikazu Mizuguchi1*, Atsushi Omachi1, Yosuke Goto2, Yoichi Kamihara2, Masanori 
+Matoba2, Takafumi Hiroi1, Joe Kajitani1, Osuke Miura1 
+ 
+1. Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, 
+1-1, Minami-osawa, Hachioji 192-0397, Japan 
+2. Department of Applied Physics and Physico-Informatics, Keio University, 3-14-1 
+Hiyoshi, Yokohama 223-8522, Japan 
+ 
+Corresponding author: Yoshikazu Mizuguchi (mizugu@tmu.ac.jp) 
+ 
+ 
+Abstract 
+ We have investigated the thermoelectric properties of the novel layered bismuth 
+chalcogenides LaOBiS2-xSex. The partial substitution of S by Se produced the 
+enhancement of electrical conductivity (metallic characteristics) in LaOBiS2-xSex. The 
+power factor largely increased with increasing Se concentration. The highest power 
+factor was 4.5 W/cmK2 at around 470 ºC for LaOBiS1.2Se0.8. The obtained 
+dimensionless figure-of-merit (ZT) was 0.17 at around 470 ºC in LaOBiS1.2Se0.8.  
+ 
+ 
+ 
+ 
+
+
+2 
+ 
+ Discovery of novel thermoelectric materials with a high performance is one of the most 
+important issues for the development of thermoelectric application [1]. In recent years, 
+researchers have focused on layered materials as candidates of a novel thermoelectric 
+material because their low-dimensional crystal structure and electronic states can 
+produce a high thermoelectric property as realized in Bi2Te3, cobalt oxides and CsBi4Te6 
+[2-4]. 
+ Since 2012, layered compounds with the BiS2 layers have got much attention in the 
+field of condensed matter physics due to the discovery of superconductivity with a 
+transition temperature as high as 11 K in Bi4O4S3 [5], REO1-xFxBiS2 (RE = La, Ce, Pr, 
+Nd and Yb) [6-12] and AE1-xRExFBiS2 (AE = Sr and Eu) [13-16]. Their crystal structure 
+is basically composed of alternate stacks of the conduction layer (BiS2 layer) and the 
+blocking layer such as REO layer. In the BiS2-based materials, the Bi-6p orbitals within 
+the BiS2 layer are essential for electronic conduction. It has been revealed that the 
+electronic states are easily tunable by element substitutions at the blocking layers. 
+Having considered the low-dimensional crystal structure and electronic states, we have 
+regarded the layered bismuth chalcogenides as potential thermoelectric materials. 
+ In the previous study, we investigated physical properties of the BiS2-based layered 
+compounds LaO1-xFxBiS2 at high temperatures [17]. We observed an anomalous metallic 
+behavior in LaOBiS2: a metal-semiconductor transition was revealed at around 270 K. 
+The highest power factor of 1.9 W/cmK2 at ~480 ºC was observed for LaOBiS2. In 
+addition, we investigated the effect of F substitution (electron doping) on the power 
+factor in LaO1-xFxBiS2. Although the electrical conductivity increases by the partial 
+substitution of O by F, the Seebeck coefficient largely decreases. Hence, the F 
+substitution resulted in a decrease of power factor. This result suggests that the 
+element substitution at the blocking layer negatively works in enhancing thermoelectric 
+properties. Therefore, we have investigated the effects of element substitution at the 
+BiS2 conduction layer on thermoelectric properties of LaOBiS2. Here, we report a large 
+enhancement of the power factor and the dimensionless figure-of-merit (ZT) by a partial 
+substitution of S by Se in LaOBiS2-xSex. On the basis of the systematic changes in lattice 
+constants, we have considered that the S and Se ions are mixed as shown in Fig. 1(a). 
+The partial Se substitution achieves both metallic conductivity and a large Seebeck 
+coefficient in LaOBiS2-xSex. 
+ 
+ Polycrystalline samples of LaOBiS2-xSex were prepared by the solid-state reaction 
+method using powders of La2S3 (99.9 %), La2O3 (99.9 %), Bi2S3, Bi2Se3 and grains of Bi 
+(99.999 %). The Bi2S3 and Bi2Se3 powders were synthesized by reacting Bi, S (99.99 %) 
+
+
+3 
+ 
+or Se (99.99 %) grains in an evacuated quartz tube. Other chemicals were purchased 
+from Kojundo-Kagaku Laboratory. The mixture of starting materials with nominal 
+compositions of LaOBiS2-xSex (x = 0, 0.2, 0.6, 0.8 and 1.0) was mixed-well, pelletized and 
+sealed into an evacuated quartz tube. The samples were heated at 700 ºC for 15 h. The 
+obtained products were ground, pelletized, sealed into an evacuated quartz tube and 
+heated under the same heating conditions for homogenization. The prepared samples 
+were characterized by powder x-ray diffraction (XRD) with a CuK radiation using the 
+-2 method.  
+ The XRD patterns of the typical LaOBiS2-xSex samples (x = 0 and 1.0) are shown in Fig. 
+1(b). Almost single-phase samples were obtained for x = 0 - 1.0, except for a small 
+amount of La-oxide impurities as indicated by asterisk in the XRD pattern. The 
+numbers in the XRD pattern is Miller indices with the space group of P4/nmm. 
+Although we attempted to prepare the samples with x = 1.5 and 2.0, single-phase 
+samples were not obtained probably due to the existence of a solubility limit of Se for 
+the S site in LaOBiS2-xSex. The lattice constants of a and c were calculated using the 
+peak positions of the (200) and (003) peaks, and plotted in Fig. 1(c) and 1(d), respectively. 
+We have corrected the peak positions using the corrected data obtained from the peak 
+position of Si [14]. Both the lattice constants of a and c increase with increasing Se 
+concentration. The increase of lattice volume can be understood by the difference in the 
+ionic radius of S2- and Se2-. 
+ 
+ The electrical resistivity and the Seebeck coefficient were measured by the 
+four-terminal method using ULVAC-RIKO ZEM-3 up to 480 ºC in an atmosphere of 
+low-pressure He gas. The measurements of the thermal conductivity () was conducted 
+at temperatures up to 400 ºC using a lamp heating unit (Ulvac, MILA-5000). The  was 
+obtained from the slopes of the plots of heat flux density vs. T using a strain gauge as a 
+heater and was measured under pressures less than 10−3 Pa. The heat loss by radiation 
+through the samples [18] was subtracted under the assumption that emissivity is 
+independent of temperature and wavelength during the measurements of . The 
+emissivity of 0.8 was employed on the basis of reflectivity measurements, which were 
+performed at room temperature using a spectrometer equipped with an integrating 
+sphere (Hitachi High-tech, U-4100). The relative density of the sintered pellet used in 
+these measurements is ~85 % (84 % for x = 0 and 91 % for x = 1.0). 
+The power factor was calculated using an equation P = S2/, where S and  are Seebeck 
+coefficient and electrical resistivity, respectively. The dimensionless figure-of-merit was 
+calculated using an equation of ZT = P T / , where  and T are thermal conductivity 
+
+
+4 
+ 
+and absolute temperature, respectively. 
+ Figure 2(a) shows the temperature dependences of electrical resistivity for 
+LaOBiS2-xSex. An anomaly is observed at around 400 ºC for x = 0.2, which is similar to 
+those observed at around 200 ºC in x = 0 (LaOBiS2) and F-doped LaOBiS2 [17]. The 
+anomaly may be related to a charge-density-wave transition, which was recently 
+observed in EuFBiS2 [16]. In the temperature dependences for x = 0.6, 0.8 and 1.0, 
+metallic behavior is observed without any anomalies below 480 ºC. With increasing Se 
+concentration, the values of electrical resistivity systematically decrease, indicating 
+that the Se substitution enhances metallic characteristics. The value of electrical 
+resistivity at around 470 ºC for LaOBiSSe (x = 1.0) is ~4.7 mcm, which is clearly lower 
+than that for LaOBiS2 (x = 0) (~21 mcm) [17]. To clarify the mechanism of the 
+enhancement of electrical conductivity by Se substitution, investigations with single 
+crystals and band calculations are needed. 
+ Figure 2(b) shows the temperature dependences of Seebeck coefficient for LaOBiS2-xSex. 
+All the samples show negative Seebeck coefficient, indicating that the contributing 
+carrier is basically electron. The absolute value of the Seebeck coefficient tends to 
+increase with increasing temperature for all the samples. Although the absolute values 
+of Seebeck coefficient decrease with increasing Se concentration, the values at around 
+470 ºC for x = 0.8 and 1.0 are still around -150 V/K, which is a relatively high value as 
+a metallic compound. 
+ The obtained power factors are plotted in Fig. 2(c) as a function of temperature. The 
+values of power factor are largely enhanced by Se substitution. For x = 0.2 and 0.6, the 
+temperature dependence of power factor shows a maximum at around 200 - 300 ºC. For 
+x = 0.8 and 1.0, the values of power factor monotonously increase with increasing 
+temperature within a range of T < 480 ºC. The highest power factor is 4.5 W/cmK2 at 
+around 470 ºC for x = 1.0 (LaOBiSSe). This value is 237 % of the highest value obtained 
+in LaOBiS2. 
+Finally, we discuss the thermoelectric performance of the LaOBiS2-xSex system. In 
+order to calculate the dimensionless figure-of-merit (ZT), we have measured thermal 
+conductivity for the end members (x = 0 and 1.0). Figure 3(a) shows the temperature 
+dependences of thermal conductivity for x = 0 and 1.0. It is found that the thermal 
+conductivity for LaOBiS2-xSex is almost independent of temperature. Furthermore, the 
+obtained values of thermal conductivity are almost the same for LaOBiS2 and 
+LaOBiSSe, indicating that the partial substitution of S by Se does not affect the thermal 
+conductivity in this system. In general, electronic thermal conductivity increases with 
+enhancing metallic characteristics. On another front, the phonon thermal conductivity 
+
+
+5 
+ 
+could decrease by substituting the chalcogen site in LaOBiS2-xSex due to introduction of 
+the randomness. Hence, it is considered that the total thermal conductivity does not 
+change with increasing Se concentration because of the compensation of the changes in 
+the electron thermal conductivity and the phonon thermal conductivity. Therefore, we 
+use a typical (average) value of 2 W/m·K, which is the value estimated at room 
+temperature for LaOBiS2 and LaOBiSSe, to estimate ZT. This  value is consistent with 
+that reported in the previous study on low-temperature thermal properties of LaOBiS2 
+[19]. The temperature dependences of dimensionless figure-of-merit (ZT) for 
+LaOBiS2-xSex are plotted in Fig. 3(b). For all the samples, the value of ZT tends to 
+increase with increasing temperature, and it reaches a maximum value at around 470 
+ºC, which is the measurement limit of the present work. This fact indicates that the 
+LaOBiS2-xSex system is a potential thermoelectric material for the use at high 
+temperatures. The highest value of ZT is 0.17 for x = 0.8 (LaOBiS1.2Se0.8) at 470 ºC. To 
+further increase the thermoelectric performance in this family, precise tuning of carrier 
+concentration and/or local crystal structure are needed. In this family, partial 
+substitutions at the blocking layer can tune both the carrier concentration within the 
+conduction layers and the local structure that largely affects the physical properties [6, 
+17, 20]. Therefore, a strategy to enhance the thermoelectric performance of this system 
+will be tuning of the structure of the blocking layer. 
+ 
+ In conclusion, we have synthesized polycrystalline samples of novel layered bismuth 
+chalcogenides LaOBiS2-xSex and systematically investigated thermoelectric properties. 
+It was found that a partial substitution of S by Se enhanced metallic conductivity. The 
+power factor largely increased with increasing Se concentration. The highest power 
+factor was 4.5 W/cmK2 at around 470 ºC for LaOBiS1.2Se0.8. We found that the thermal 
+conductivity for LaOBiS2-xSex is independent of both temperature and Se concentration. 
+Using an average value of thermal conductivity, 2 W/m·K, we calculated the 
+dimensionless figure-of-merit (ZT) as a function of temperature. The highest ZT was 
+0.17 at around 470 ºC in LaOBiS1.2Se0.8. Optimization of the carrier concentration 
+and/or the local structure will further enhance the thermoelectric performance of the 
+layered bismuth chalcogenides. 
+ 
+Acknowledgements 
+ This work was partly supported by a Grant-in-Aid for Scientific Research for Young 
+Scientist (A)( 25707031). 
+ 
+
+
+6 
+ 
+References 
+ 
+[1] G. J. Snyder, and E.S.Toberer, Nat. Mater. 7, 105 (2008). 
+[2] H. J. Goldsmid, proc. Phys. Soc. London 71, 633 (1958). 
+[3] I. Terasaki, Y. Sasago, and K. Uchinokura, Phys. Rev. B 56, 12685(R) (1997). 
+[4] D. Y. Chung, T. Hogan, P. Brazis, M. R. Lane, C. Kannewurf, M. Bastea, C. Uher, and 
+M. G. Kanatzidis, Science 287, 1024 (2000). 
+[5] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa, and O. Miura, Phys. Rev. B 86, 220510 (2012). 
+[6] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+and O. Miura, J. Phys. Soc. Jpn. 81, 114725 (2012). 
+[7] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano, J. Phys. Soc. Jpn. 82, 033708 (2013). 
+[8] J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B 86, 214518 (2012). 
+[9] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Sup. Novel Mag. 26, 499 (2013). 
+[10] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, 
+Philosophical Mag. 93, 673 (2012). 
+[11] K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, and Y. Takano, EPL 
+101, 17004 (2013). 
+[12] D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, 
+M. Nallaiyan, S. Spagna, and M. B. Maple, Phys. Rev. B 87, 174512 (2013). 
+[13] X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, 
+and Z. Xu, Phys. Rev. B 87, 020504 (2013). 
+[14] H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wakisaka, M. Mizumaki, K. Nitta, Y. 
+Tokura, and S. Ishiwata, J. Phys. Soc. Jpn. 83, 014709 (2014). 
+[15] R. Jha, B. Tiwari, and V. P. S. Awana, arXiv:1407.3105. 
+[16] H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J. K. Bao, Y. L. Sun, W. 
+H. Jiao, I. Nowik, I. Felner, Y. K. Li, X. F. Xu, Q. Tao, C. M. Feng, Z. A. Xu, and G. H. Cao, 
+Phys. Rev. B 90, 064518 (2014). 
+[17] A. Omachi, J. kajitani, T. Hiroi, O. Miura, and Y. Mizuguchi, J. Appl. Phys. 115, 
+083909 (2014). 
+[18] H. J. Goldsmid, Applications of Thermoelectricity, Butler and Tanner: London, 
+1960. 
+
+
+7 
+ 
+[19] I. Pallecchi, G. Lamura, M. Putti, J. Kajitani, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi, and Y. Takano, Phys. Rev. B 89, 214513 (2014). 
+[20] J. Kajitani, T. Hiroi, A. Omachi, O. Miura, and Y. Mizuguchi, arXiv:1408.2625. 
+ 
+ 
+
+
+8 
+ 
+Figure captions 
+ 
+Fig. 1. (a) Schematic image of the crystal structure of LaOBiS2-xSex. (b) Powder XRD 
+patterns for the end members LaOBiS2 and LaOBiSSe (x = 0 and 1.0). (c) Se 
+concentration dependence of lattice constant of a for LaOBiS2-xSex. (d) Se concentration 
+dependence of lattice constant of c for LaOBiS2-xSex. 
+ 
+Fig. 2. (a) Temperature dependences of electrical resistivity for LaOBiS2-xSex. (b) 
+Temperature dependences of Seebeck coefficient for LaOBiS2-xSex. (c) Temperature 
+dependences of power factor for LaOBiS2-xSex. 
+ 
+Fig. 3. (a) Temperature dependences of thermal conductivity for LaOBiS2 and LaOBiSSe 
+(x = 0 and 1.0). (b) Temperature dependences of ZT for LaOBiS2-xSex. 
+
+
+9 
+ 
+ 
+ 
+Fig. 1(a) 
+ 
+ 
+ 
+ 
+ 
+
+
+10 
+ 
+Fig. 1(b) 
+ 
+ 
+ 
+ 
+
+
+11 
+ 
+Fig. 1(c,d) 
+ 
+ 
+ 
+ 
+
+
+12 
+ 
+Fig. 4 
+ 
+ 
+
+
+13 
+ 
+Fig. 5 
+ 
+ 
+
+

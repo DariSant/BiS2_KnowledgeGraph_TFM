@@ -1,0 +1,344 @@
+1 
+ 
+Investigation of in-plane anisotropy of c-axis magnetoresistance for BiCh2-based 
+layered superconductor NdO0.7F0.3BiS2 
+ 
+Kazuhisa Hoshi1, Kenta Sudo2, Yosuke Goto1, Motoi Kimata2, Yoshikazu Mizuguchi1 
+ 
+1 Department of Physics, Tokyo Metropolitan University, 1-1, Minami-osawa, Hachioji 192-0397, 
+Japan 
+2 Institute for Materials Research, Tohoku University, 2-1-1, Katahira, Sendai 980-8577, Japan 
+ 
+ 
+Abstract  
+We have investigated the in-plane anisotropy of the c-axis magnetoresistance (MR) in 
+both superconducting and normal states of single crystals of NdO0.7F0.3BiS2 under in-plane 
+magnetic fields. In the superconducting states of NdO0.7F0.3BiS2, four-fold-symmetric in-plane 
+anisotropy of the c-axis MR was observed below the superconducting transition temperature. 
+Since the crystal structure of NdO0.7F0.3BiS2 is tetragonal, the rotational symmetry in the 
+superconducting state is preserved in the present compound. This result is clearly different from 
+the previous report observed in LaO0.5F0.5BiSSe single crystals, where the in-plane MR in the 
+superconducting state shows two-fold symmetry. On the other hand, in the normal states of 
+NdO0.7F0.3BiS2, two-fold symmetric MR with a small amplitude was observed. The possible origin 
+of the two-fold-symmetric behavior was discussed with the presence of local structural disorder 
+in the conducting plane of BiCh2-based compounds. 
+ 
+ 
+ 
+ 
+
+
+2 
+ 
+1. Introduction 
+The BiCh2-based (Ch: S, Se) superconductor family was discovered in 2012 [1–3] and has 
+been extensively studied because the layered crystal structure resemble those of the cuprate and 
+Fe-based high-transition-temperature (high-Tc) superconductors [4,5]. The typical REOBiCh2 
+(RE: Rare earth) system has a layered structure composed of the alternate stacks of REO 
+insulating layers and BiCh2 conducting layers [2,3]. Fluorine substitutions for the oxygen site lead 
+to electron carriers in the BiCh2 layers, which results in the emergence of superconductivity at 
+low temperatures. The superconducting mechanisms in BiCh2-based superconductors have been 
+extensively studied from both theoretical and experimental aspects. From theoretical studies, the 
+possibilities of conventional s-wave, extended s-wave, d-wave, and g-wave states including weak 
+topological superconductivity states have been investigated for BiCh2-based superconductors [6-
+12]. Many experimental studies, such as thermal conductivity measurement, magnetic penetration 
+depth, specific heat, and muon spin resonance (SR) propose conventional s-wave 
+superconducting mechanism in BiCh2-based superconductor [13-15]. However, angle resolved 
+photoemission spectroscopy (ARPES) measurement indicated the presence of anisotropic 
+superconducting gap in NdO0.71F0.29BiS2 [17]. Also, the anomalous superconducting gap states 
+have been reported by scanning tunneling spectroscopy (STS) for Nd(O,F)BiS2 [18]. In addition, 
+the absence of isotope effect on Tc was confirmed in LaO0.6F0.4Bi(S, Se)2 by using 76Se and 80Se 
+isotopes [19]. These results suggest possibility of unconventional superconductivity in BiCh2-
+based superconductors. Thus, the discussion about the mechanisms of superconductivity in 
+BiCh2-based superconductors is still controversial. 
+   
+Recently, electronic nematicity has been a hot topic in the field of superconductivity. 
+Electronic nematicity results in electronic states which break rotational symmetry of the crystal 
+lattice. This electronic nematicity has been particularly studied in Fe-based superconductors [20, 
+21]. Moreover, the nematicity in superconducting state (called nematic superconductivity) has 
+been reported in the candidates of topological superconductor; typical examples are doped Bi2Se3 
+[22-25]. In the nematic superconductivity, the rotational symmetry of superconducting gap 
+amplitude breaks underlying symmetry of the crystal lattice. More recently, we have observed 
+two-fold symmetric in-plane anisotropy of the c-axis magnetoresistance (MR) in the 
+superconducting states of LaO1-xFxBiSSe single crystals (x = 0.1 and 0.5) [26,27]. Since the crystal 
+structure is tetragonal (P4/nmm) with four-fold symmetry in the ab-plane, the observed two-fold-
+symmetry in the superconducting states is resulting after breaking rotational symmetry of the 
+crystal lattice. In addition, from a structural phase diagram of LaO1-xFxBiSSe, we confirmed that 
+a structural transition from tetragonal to monoclinic at low temperatures is completely suppressed 
+by 4%-F substitution for the O site, i.e., x > 0.04 [28]. However, the universality of symmetry-
+breaking MR in various type of BiCh2 superconducting family is still an open question, and thus 
+
+
+3 
+ 
+further investigation including different compositions would be helpful to clarify the overall 
+features of MR symmetry in the superconducting states. In this study, we show that in-plane 
+anisotropy of the c-axis MR for BiCh2-based superconductor NdO0.7F0.3BiS2 single crystals in 
+both superconducting and normal states. We found that four-fold symmetry of the c-axis MR in 
+the superconducting states. This result is clearly different from those observed for LaO1-xFxBiSSe 
+in which two-fold symmetry was observed in superconducting states [26,27]. 
+ 
+ 
+2. Experimental details 
+NdO0.7F0.3BiS2 single crystals were grown by a high-temperature flux method in an 
+evacuated quartz tube [29]. Polycrystalline samples of NdO0.7F0.3BiS2 were prepared by the solid-
+state-reaction method using powders of Nd2S3 (99.9%), Bi2O3 (99.999%), and BiF3 (99.9%) and 
+grains of Bi (99.999%) and S (99.999%). A mixture of the starting materials with a nominal ratio 
+of NdO0.7F0.3BiS2 was mixed, pressed into a pellet, and annealed at 700 ºC for 15 h in an evacuated 
+quartz tube. The obtained sample was grounded, mixed, pelletized, and heated at same 
+temperature. The polycrystalline powder of NdO0.7F0.3BiS2 (0.5 g) was mixed with CsCl/KCl flux 
+(3.0 g), and the mixture was sealed into an evacuated quartz tube. The tube was heated at 800 ºC 
+for 15 h and slowly cooled to 600 ºC with a rate of -1.0 ºC /h, followed by furnace cooling to 
+room temperature. At room temperature, the quartz tube was opened under air atmosphere, and 
+the product was filtered and washed with pure water. Single crystals were analyzed by scanning 
+electron microscopy (SEM) TM3030 (Hitachi high-tech). As shown in Fig. 1(a), plate-like 
+crystals were obtained. The plate surface with a square shape is corresponding to the ab-plane of 
+tetragonal NdO0.7F0.3BiS2 [3,29]. The chemical composition of the obtained crystals was 
+investigated by energy-dispersive X-ray spectroscopy (EDX) on the SEM. The average ratio of 
+the constituent elements (except for O and F) was Nd : Bi : S = 1 : 1.0 : 2.1, which was normalized 
+by the Nd value. The analyzed atomic ratio is almost consistent with the nominal composition. 
+   
+ The MR measurement was performed using a superconducting magnet at the high field 
+laboratory of Institute for Materials Research (IMR), Tohoku University. To precisely control the 
+magnetic field direction, a two-axes rotational probe was used. Figure 1(b) shows a schematic 
+image of the terminal configuration, which was made using Au wires and Ag pastes, for the c-
+axis resistivity measurements.  
+ 
+ 
+3. Results and discussion 
+Figure 1(c) shows the temperature (T) dependence of the c-axis resistivity (c) of 
+NdO0.7F0.3BiS2. The inset of Fig.1 (c) shows enlarged temperature dependence of the c (c-T) 
+
+
+4 
+ 
+around superconducting transition. The Tconset is 5.8 K, and Tczero is 5.2 K. A small upturn behavior 
+on the c-T is observed at low temperature. Similar upturn behavior is observed for some layered 
+superconductors having two-dimensional transport characteristics, such as cuprate and Fe-based 
+superconductors [30,31].  
+As shown in Fig. 2(a),  and  are defined.  is measured from the c-axis, and  is 
+azimuth angle measured from the a-axis to the b-axis, while the a-axis and the b-axis are 
+equivalent in a tetragonal crystal. Note that the charge current is always perpendicular to the 
+magnetic field when the magnetic field is in the conducting plane since the c-axis resistivity was 
+measured. Figure 2(b) shows the  angle dependence of the c-axis electrical resistivity at  = 180˚, 
+B = 14 T, and T = 2.7 K. As shown in Fig. 2(b), B || ab, which was defined as the MR where the 
+magnetic field is exactly parallel to the ab-plane, was estimated and used to investigate the in-
+plane anisotropy.  
+Figure 2(c) shows the  angle dependences of the B || ab at B = 14 T measured at 
+temperatures from 10.0 to 2.5 K. Four-fold symmetry of the B || ab was observed in the 
+superconducting states, which is trivial behavior because ab-plane of NdO0.7F0.3BiS2 single crystal 
+has a tetragonal square Bi-S plane with four-fold symmetry. The result suggests that rotational 
+symmetry in the crystal lattice is preserved when we see the in-plane anisotropy of the 
+superconducting properties in NdO0.7F0.3BiS2. Similar four-fold-symmetric in-plane MR in the 
+superconducting states was observed for a crystal taken from a different batch (See supplementary 
+information). This fact is clearly different from the two-fold symmetric MR observed in the 
+superconducting states of LaO1-xFxBiSSe single crystals [26,27].  
+Although we cannot conclude the origins of the switching between the two-fold-
+symmetric and four-fold-symmetric superconducting properties in BiCh2-based superconductors 
+so far, here we briefly discuss the possible origins of the different behaviors of the in-plane 
+anisotropy for NdO0.7F0.3BiS2 and LaO1-xFxBiSSe to encourage further theoretical and 
+experimental studies on those systems. First, in LaO1-xFxBiSSe, two-fold-symmetric behavior was 
+observed for x = 0.1 and 0.5. Since the carrier concentration and the Fermi surface topology could 
+be different each other for those F concentrations, one can assume that the emergence of two-
+fold-symmetric behavior is not affected by the carrier concentration. Then, we compare the 
+constituent elements in the superconducting layer in NdO0.7F0.3BiS2 and LaO1-xFxBiSSe. 
+NdO0.7F0.3BiS2 contains Bi-S superconducting planes, while LaO1-xFxBiSSe contains nearly Bi-
+Se superconducting planes, according to the structural analysis of LaO1-xFxBiSSe [31]. The Se 
+substitution for S at the superconducting plane should enhance spin-orbit interaction, and the spin-
+orbit interaction is known as an important parameter to understand the electronic states and 
+superconducting characteristics in the BiCh2-based systems [33-36]. The importance of spin-orbit 
+interaction is also pointed out in the doped Bi2Se3 systems, which show nematic superconducting 
+
+
+5 
+ 
+behavior. Thus, the stronger spin-orbit interaction in the conducting plane of LaO1-xFxBiSSe might 
+be crucial for the symmetry breaking MR in this compound. To conclude the origins for four-fold 
+and two-fold-symmetric anisotropies of the MR in the superconducting states in NdO0.7F0.3BiS2 
+and LaO1-xFxBiSSe, further studies are desired. 
+ 
+On the normal state properties, we observed two-fold-symmetric in-plane anisotropy of 
+MR, as shown in Fig. 3(a). For comparison, the normal-state MR anisotropy for LaO0.5F0.5BiSSe 
+is shown in Fig. 3(b), in which four-fold symmetry is dominant. Note that the amplitude of those 
+signals is very small as shown in Fig. 2(c). We consider that those anisotropy observed in the 
+normal states is not directly linked to those in the superconducting states for both systems. 
+Basically, the BiCh2-based compounds possess in-plane structural disorder due to the presence of 
+Bi lone-pair electrons [37-40]. From extended X-ray absorption fine structure studies, in-plane 
+local structures were explained using two different Bi-Ch bonds. However, the local disorder can 
+be suppressed by chemical pressure effects [37,38], which is higher in a Bi-Se plane than in a Bi-
+S plane [40]. Therefore, we expect disordered local structure in NdO0.7F0.3BiS2 than LaO1-
+xFxBiSSe. Although the samples used in the experiments are single crystals, such intrinsic local 
+disorder (formation of local domains) would exist in both systems, and that should be more 
+prominent in the transport properties of NdO0.7F0.3BiS2 than LaO1-xFxBiSSe. 
+ 
+4. Summary 
+We have investigated the in-plane anisotropy of the c-axis MR in both superconducting 
+and normal states of single crystals of NdO0.7F0.3BiS2 under in-plane magnetic fields. In the 
+superconducting states, four-fold-symmetric in-plane anisotropy of MR was observed below the 
+Tc. Since the crystal structure of NdO0.7F0.3BiS2 is tetragonal, the results suggest no symmetry 
+breaking in the in-plane anisotropy of MR in the superconducting states. This is clearly different 
+from those observed for LaO0.5F0.5BiSSe single crystals, in which two-fold-symmetric anisotropy 
+of MR was observed in its superconducting states. We consider that the switching between two-
+fold-symmetric and four-fold-symmetric anisotropy of MR in the superconducting properties of 
+those systems is related to the constituent elements at the superconducting planes, which is 
+expected to modify the spin-orbit interactions. In the normal states of NdO0.7F0.3BiS2, two-fold 
+symmetric MR with a small amplitude was observed, while four-fold-symmetric anisotropy was 
+observed in the normal states of LaO0.5F0.5BiSSe. We consider that the normal-state in-plane 
+anisotropy of MR in NdO0.7F0.3BiS2 is caused by local structural instability that is commonly 
+observed in BiCh2-based compounds and tunable by chemical pressures. 
+ 
+ 
+ 
+
+
+6 
+ 
+Acknowledgement 
+The authors thank O. Miura for experimental support. This work was partly supported by Collaborative 
+Research with IMR, Tohoku Univ. (proposal number: 18H0006, 19H0023), Grants-in-Aid for 
+Scientific Research (Nos. 15H05886, 16H04493, 18KK0076, and 19K15291) and the Advanced 
+Research Program under the Human Resources Funds of Tokyo (Grant Number: H31-1). 
+ 
+ 
+References 
+1. 
+Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. 
+Izawa, O. Miura, Phys. Rev. B 86, 220510 (2012). 
+2. 
+Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, O. Miura, J. 
+Phys. Soc. Jpn. 81, 114725 (2012). 
+3. 
+S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, Y. Takano, J. Phys. 
+Soc. Jpn. 82, 033708 (2013). 
+4. 
+J. G. Bednorz, K. A. Müller, Z. Phys. B 64, 189 (1986). 
+5. 
+Y. Kamihara, T. Watanabe, M. Hirano, H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+6. 
+K. Suzuki, H. Usui, K. Kuroki, T. Nomoto, K. Hattori, H. Ikeda, J. Phys. Soc. Jpn. 88, 041008 
+(2019). 
+7. 
+X. Wan, H. C. Ding, S. Y. Savrasov, C. G. Duan, Phys. Rev. B 87, 115124 (2013). 
+8. 
+Y. Liang, X. Wu, W. F. Tsai, J. Hu, Front. Phys. 9, 194 (2014). 
+9. 
+Y. Feng, H. C. Ding, Y. Du, X. Wan, B. Wang, S. Y. Savrasov, C. G. Duan, J. Appl. Phys. 115, 
+233901 (2014).  
+10. X. Wu, J. Yuan, Y. Liang, H. Fan, J. Hu, EPL 108, 27006 (2014). 
+11. Y. Yang, W. S. Wang, Y. Y. Xiang, Z. Z. Li, Q. H. Wang, Phys. Rev. B 88, 094519 (2013). 
+12. K. Suzuki, H. Usui, K. Kuroki, H. Ikeda, Phys. Rev. B 96, 024513 (2017). 
+13. T. Yamashita, Y. Tokiwa, D. Terazawa, M. Nagao, S. Watauchi, I. Tanaka, T. Terashima, Y. 
+Matsuda, J. Phys. Soc. Jpn. 85, 073707 (2016). 
+14. L. Jiao, Z. F. Weng, J. Z. Liu, J. L. Zhang, G. M. Pang, C. Y. Guo, F. Gao, X. Y. Zhu, H. H. Wen, 
+H. Q. Yuan, J. Phys.: Condens. Matter 27, 225701 (2015). 
+15. N. Kase, Y. Terui, T. Nakano, N. Takeda, Phys. Rev. B. 96, 214506 (2017). 
+16. G. Lamura, T. Shiroka, P. Bonfa, S. Sanna, R. De Renzi, C. Baines, H. Luetkens, J. Kajitani, Y. 
+Mizuguchi, O. Miura, K. Deguchi, S. Demura, Y. Takano, M. Putti, Phys. Rev. B 88, 180509 
+(2013). 
+17. Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S. Watanabe, C. Chen, M. Nagao, S. 
+Watauchi, I. Tanaka, Y. Takano, S. Shin, Phys. Rev. Lett. 118, 167002 (2017). 
+
+
+7 
+ 
+18. J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, X. Zhu, H. Yang, H. H. Wen, EPL 106, 67002 (2014). 
+19. K. Hoshi, Y. Goto, Y. Mizuguchi, Phys. Rev. B 97, 094509 (2018). 
+20. R. M. Fernandes, A. V. Chubukov, J. Schmalian, Nat. Phys. 10, 97 (2014). 
+21. J. P. Sun, K. Matsuura, G. Z. Ye, Y. Mizukami, M. Shimozawa, K. Matsubayashi, M. Yamashita, 
+T. Watashige, S. Kasahara, Y. Matsuda, J. -Q. Yan, B. C. Sales, Y. Uwatoko, J. -G. Cheng, T. 
+Shibauchi, Nat. Commun.7, 12146 (2016). 
+22. S. Yonezawa, K. Tajiri, S. Nakata, Y. Nagai, Z. Wang, K. Segawa, Y. Ando, Y. Maeno, Nat. Phys. 
+13, 123 (2017). 
+23. Y. Pan, A. M. Nikitin, G. K. Araizi, Y. K. Huang, Y. Matsushita, T. Naka, A. de Visser, Sci. Rep. 
+6, 28632 (2016). 
+24. S. Yonezawa, Condens. Matter 4, 2 (2019). 
+25. K. Matano, M. Kriener, K. Segawa, Y. Ando, G. Q. Zheng, Nat. Phys. 12, 852 (2016). 
+26. K. Hoshi, M. Kimata, Y. Goto, T. D. Matsuda, Y. Mizuguchi, J. Phys. Soc. Jpn. 88, 033704 (2019). 
+27. K. Hoshi, M. Kimata, Y. Goto, A. Miura, C. Moriyoshi, Y. Kuroiwa, M. Nagao, Y. Mizuguchi, 
+arXiv: 2006.11576. 
+28. K. Hoshi, S. Sakuragi, T. Yajima, Y. Goto, A. Miura, C. Moriyoshi, Y. Kuroiwa, Y. Mizuguchi, 
+arXiv: 2006.07798. 
+29. M. Nagao Nov. Supercond. Mater. 1, 64 (2015). 
+30. X. H. Hou, W. J. Zhu, J. Q. Li, J. W. Li, J. W. Xiong, F. Wu, Y. Z. Huang, Z. X. Zhao, Phys. Rev. 
+B, 50, 496 (1994). 
+31. M. Nakajima, M. Nagafuchi, S. Tajima, Phys. Rev. B 97, 094511 (2018). 
+32. M. Tanaka, T. Yamaki, Y. Matsushita, M. Fujioka, S. J. Denholme, T. Yamaguchi, H. Takeya, Y. 
+Takano, Appl. Phys. Lett. 106, 112601 (2015). 
+33. S. Cobo-Lopez, M. S. Bahramy, R. Arita, A. Akbari, I. Eremin, New J. Phys. 20, 043029 (2018). 
+34. K. Terashima, T. Wakita, and T. Yokoya, J. Phys. Soc. Jpn. 88, 041006 (2019). 
+35. S. L. Wu, K. Sumida, K. Miyamoto, K. Taguchi, T. Yoshikawa, A. Kimura, Y. Ueda, M. Arita, M. 
+Nagao, S. Watauchi, I. Tanaka, T. Okuda, Nat. Commun. 8 1919 (2017). 
+36. Y. C. Chan, K. Y. Yip, Y. W. Cheung, Y. T. Chan, Q. Niu, J. Kajitani, R. Higashinaka, T. D. 
+Matsuda, Y. Yanase, Y. Aoki, K. T. Lai, S. K. Goh, Phys. Rev. B 97, 104509 (2018). 
+37. E. Paris, Y. Mizuguchi, T. Wakita, K. Terashima, T. Yokoya, T. Mizokawa, N. L. Saini, J. Phys.: 
+Condens. Matter 30 455703 (2018). 
+38. Y. Mizuguchi, K. Hoshi, Y. Goto, A. Miura, K. Tadanaga, C. Moriyoshi, Y. Kuroiwa, J. Phys. Soc. 
+Jpn. 87, 023704 (2018). 
+39. A. Athauda, D. Louca, J. Phys. Soc. Jpn. 88, 041004 (2019). 
+40. Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, E. Magome, 
+C. Moriyoshi, Y. Kuroiwa, Sci. Rep. 5, 14968 (2015). 
+ 
+
+
+8 
+ 
+Figures 
+ 
+ 
+Fig. 1. (a) SEM image of a NdO0.7F0.3BiS2 single crystal. (b) Schematic image of the terminal 
+configuration for the c-axis resistivity measurement performed on NdO0.7F0.3BiS2 single crystals. 
+(c) Temperature dependence of the c-axis resistivity for NdO0.7F0.3BiS2. The inset shows the 
+enlarged resistivity data near a superconducting transition. 
+ 
+ 
+ 
+ 
+ 
+
+
+9 
+ 
+ 
+ 
+Fig. 2. (a) Schematic image of the rotation angles for the in-plane anisotropy measurement. (b)  angle 
+dependence of the c-axis resistivity for NdO0.7F0.3BiS2 measured at the condition of  =180˚, B = 14 
+T, and T = 2.7 K. (c)  angle dependences of the B || ab for NdO0.7F0.3BiS2 measured at B =14 T and 
+T = 2.5–10.0 K.  
+ 
+ 
+ 
+
+
+10 
+ 
+ 
+ 
+ 
+Fig. 3. (a)  angle dependences of the normal-state MR for NdO0.7F0.3BiS2 measured at B =14 T in 
+normal states at T = 5.0–10.0 K. (b) angle dependences of the normal-state MR for LaO0.5F0.5BiSSe 
+measured at B =15 T and at T = 5.0 K. The plotted data was fitted by the function of Asin(2 + ) + 
+Bsin(4 + ) + C. 
+ 
+ 
+ 
+ 
+
+
+11 
+ 
+Supplementary information 
+ 
+ 
+ 
+Fig. S1. (a)  angle dependences of the superconducting-state MR for NdO0.7F0.3BiS2 obtained from a 
+different batch measured at B =14 T and T = 2.5–10.0 K. (b)  angle dependences of the MR for 
+NdO0.7F0.3BiS2 measured at B =14 T and T = 6.0 and 10.0 K. The plotted data was fitted by the function 
+of Asin(2 + ) + Bsin(4 + ) + C.  
+ 
+ 
+ 
+ 
+ 
+
+

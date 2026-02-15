@@ -1,0 +1,779 @@
+Theoretical aspects of the study on the new bismuth chalcogenide based 
+superconductors  
+ 
+Hidetomo Usui and Kazuhiko Kuroki 
+Department of Physics, Osaka University, 1-1 Machikaneyama-cho, Toyonaka, Osaka, 
+560-0043, Japan 
+ 
+Abstract 
+We review theoretical aspects of the studies on the recently discovered BiCh2 
+(Ch=chalcogen) based superconductors. We first focus on the electronic band structure, 
+the Fermi surface and their correlation with the lattice structure. We then discuss the 
+phonon features and the issue of the lattice instability. Finally, we survey the 
+phonon-mediated as well as the unconventional pairing mechanisms that have been 
+proposed so far. 
+ 
+1. Introduction 
+Ever since the discovery of high Tc superconductivity in the cuprates, a number of 
+interesting superconductors possessing layered structure have been found. Among them 
+are the organic superconductors [1,2], MgB2 [3,4], Sr2RuO4 [5,6], NaxCoO2 [7,8], 
+(Hf,Zr)NCl [9-11], and the iron-based superconductors [12,13]. Theoretically, the 
+pairing mechanism and/or the pairing symmetry of these materials have been of great 
+interest, and in order to clarify these issues, it is important to understand the electronic 
+as well as the phonon features. Among these materials, the cuprates and the iron-based 
+superconductors share a commonality in that they consist of conducting and insulating 
+blocking layers, and many different materials can be synthesized by varying the 
+blocking layer. In this regard, the newly discovered BiCh2 (Ch: chalcogen) based 
+superconductors form another group of layered materials with various kinds of blocking 
+layers [14,15]. Mizuguchi et al. first discovered in 2012 Bi4O4S3 with Tc = 8.6 K [16]. 
+Bi4O4S3 has a layered structure consisting of BiS2, SO4 and BiO layers, and it was 
+revealed from the first principles band calculation that the BiS2 layer is the conducting 
+layer. BiS2 layers take a bi-pyramidal lattice structure reminiscent of those in some of 
+the cuprate superconductors consisting of CuO pyramids [17]. After the discovery of 
+Bi4O4S3, LaOBiS2 was immediately discovered [18]. This material has the same BiS2 
+layers, but the blocking layer consists of LaO, which has the same structure as the in the 
+iron based superconductor LaFeAsO [12]. Many materials have been found by 
+substituting the lanthanide, e.g. CeOBiS2 [19], PrOBiS2 [20], NdOBiS2 [21], 
+
+
+SrFBiS2[22] and other materials [23-24]. Recently, bismuth selenide LaOBiSe2 has also 
+been found to show superconducting properties similar to the sulfides [25]. These 
+materials are often referred to as the 1112 systems.  
+Superconductivity appears by doping electrons into the BiS2 layers. In Bi4O4S3, the 
+electron doping is accomplished by controlling the amount of SO4 molecules as (SO4)1-x. 
+It has been found that Bi4O4S3 (x = 0.5) is metallic, while Bi6O8S5 (x = 0) is a band 
+insulator [16,26]. In the 1112 materials REOBi(S,Se)2 (RE=rare earth), electron doping 
+is realized by substituting fluorine for oxygen in the same way as in the iron based 
+superconductors. Superconducting transition temperature Tc is maximized at the 
+fluorine doping level of x = 0.5 and the maximum Tc exceeds 10K for LaO0.5F0.5BiS2 
+[27]. Chalcogen S can also be replaced by Se, which gives LaOBiSe2 with Tc = 2.6 K 
+[25]. In this article, we give a review on the theoretical aspects of the studies on BiCh2 
+based superconductors. Features of the crystal structures, band structures, phonon 
+dispersions and candidates for the superconducting pairing mechanism will be discussed. 
+ 
+2. The crystal structure and band structure  
+2.1 Crystal structure 
+ 
+Fig. 1 The crystal structure of (a) Bi4O4S3 and (b) LaOBiS2, and (c) the BiS plane. 
+ 
+ 
+
+
+The crystal structure of BiCh2 based superconductors consists of the Bi-Ch2 bilayers 
+and the blocking layers. The crystal structures Bi4O4S3 and LaOBiS2 are shown in Fig.1 
+(a) and (b), respectively.  Here, we will focus only on the 1112 system. LaOBiS2 has a 
+tetragonal lattice structure belonging to the P4/nmm space group, with the lattice 
+constants a = 4.04 Å and c = 13.8Å [28]. The BiS2 bilayers have a pyramidal type 
+structure consisting of the BiS plane and the apical S atoms, which is reminiscent of the 
+bi-layer cuprates consisting of CuO pyramids [17]. The BiS plane exhibits a 
+two-dimensional square lattice, as shown in Fig. 1(c). The BiS plane is not perfectly flat, 
+and the atoms are buckled to some extent. The Bi-Ch-Bi bond angle, namely the 
+strength of the buckling, is governed by the blocking layer [29] and also the amount of 
+fluorine doping [30].  
+The lattice structure can also be determined by theoretical optimization[31-34]. These 
+results indicate that the effect of the fluorine doping on the crystal structure is to 
+increase the lattice constant a and reduce the lattice constant c, and in total to reduce the 
+unit cell volume. From the first principles calculations [31,32], it is shown that the BiS 
+plane is flattened as the fluorine content increases from x = 0 to 0.5. On the other hand, 
+at x = 1 the buckling of the BiS plane increases again. Therefore, not only the blocking 
+layer, but also the amount of the electron doping controls the conduction layer. As will 
+be discussed in section 2.3, theoretical studies have predicted dynamical or static lattice 
+distortions [31-33]. Local distortion of Bi-S bond length has also been observed 
+experimentally [35]. 
+ 
+2.2 Electronic band structure 
+The band structure of BiCh2 based superconductors has been obtained by first 
+principles band calculations [16, 31-34, 36-41]. The band structures of Bi4O4S3 and 
+LaOBiS2 calculated without spin orbit coupling are shown in Fig. 2 (a) and (b), 
+respectively [16,36]. For Bi4O4S3, the radii of the circles in Fig. 2(a) shows the strength 
+of the Bi 6p orbital character. The orbital character of the band structure of LaO1-xFxBiS2 
+(x = 0, 0.5 and 1) is shown in Fig. 3 [32]. The common feature of the band structure is 
+that the conduction bands consist of the antibonding states of the Bi 6p and S 3p orbitals 
+(mainly Bi 6p orbitals).  In LaOBiS2, there are four conduction bands mainly 
+composed of the Bi px and py orbitals, while in Bi4O4S3, there are also other bands 
+originating from other layers that contribute to the conductivity. We shall see later that 
+the hopping integrals between the Bi 6 px and py orbitals are small, so that the 
+conduction bands actually possesses one dimensional nature in spite of the apparently 
+two dimensional feature of the crystal structure (see the modeling part in the latter part 
+
+
+of this section). Due to the strong Bi-S hybridization, the valence bands have S 3px, 3py 
+character mixed with Bi 6p, but we can see in Fig.3(a) that the valence bands just below 
+the Fermi level around the  point do not have Bi 6px/y nor S 3px/y character for the 
+mother compound (x = 0), which is because the origin of these bands is the blocking 
+layers and the S 3pz orbitals.  
+The conduction bands exhibit two-fold degeneracy along kx =  or ky =  (along 
+X-M) due to the P4/nmm symmetry of the 1112 system. In Bi4O4S3, this two-fold 
+degeneracy is lifted because of the I4/mmm symmetry [16].  Even in the 1112 systems, 
+the degeneracy is lifted along the X- line, and this splitting reflects the magnitude of 
+the hopping integral between the two layers within the Bi-Ch2 bilayer structure (i.e., 
+bilayer splitting). The splitting is small within the conduction bands because px and py 
+orbitals of different layers barely overlap [36]. 
+ 
+ 
+Fig. 2 The band structure of (a) Bi4O4S3 [16] and (b) LaOBiS2 [36]. 
+ 
+As mentioned in subsection 2.1, the lattice constants and the internal coordinates vary 
+with fluorine doping. The fluorine doping affects the band gap, band width and the 
+details of the band structure. It can be seen from Fig.3 that the conduction bands around 
+the  point shift downwards with respect to other bands as the fluorine is doped, and 
+these bands eventually cross the Fermi energy (Fig. 3 (c)). Therefore, the number of 
+Fermi surfaces is expected to increase when x becomes close to 1, but such a large 
+amount of doping is not realized in actual materials. Hence, within the realistic doping 
+range, the rigid band picture is valid around the Fermi energy.  
+In Fig.4, the Fermi surface evolution of LaOBiS2 is displayed, which was obtained 
+
+
+within a rigid band approximation by varying the electron doping rate from x = 0.2 to 
+0.7 [37]. For all doping rates, the Fermi surface exhibits very weak three dimensionality, 
+reflecting the layered crystal structure as well as the in-plane nature of the px, py orbitals 
+of the conduction bands. This is actually consistent with experimental observations on 
+single crystals suggesting strong anisotropy of the conductivity[42]. The Fermi surfaces 
+that appear around (,0) and (0,) are almost two-fold degenerate, where the splitting of 
+the Fermi surface occurs due to the hoppings between the two BiS layers within the 
+bilayer structure, i.e, the bilayer splitting. The density of states at the Fermi energy is 
+maximized at around x = 0.5 because of the Lifshitz transition of the Fermi surface. For 
+x > 0.5, the shape of the Fermi surface appears to be two dimensional as in the curates 
+[43], but the orbital component of the Fermi surface possesses one dimensional 
+character more like in Sr2RuO4 [44]. Note, however, that the band filling of Sr2RuO4 is 
+around 1.33 per band on average, while that of LaO0.5F0.5BiS2 is one-eighth filled per 
+band.  
+ 
+ 
+
+
+Fig. 3 The fluorine doping dependence of the band structure of LaO1-xFxBiS2 [x = (a) 0, 
+(b) 0.5, and (c) 1] [32]. 
+ 
+ 
+Fig. 4 The Fermi surface of LaO1-xFxBiS2 without spin orbit coupling [37]. 
+ 
+As far as the Fermi surface is concerned, the rigid band picture works well. However, 
+the band gap itself is largely affected by fluorine doping, which can also be seen in 
+Fig.3. For the non-doped material, the band gap is an indirect one between the band 
+originating from Bi p orbitals at the X point and that originating from the O p orbitals at 
+the  point. On the other hand, for x = 0.5, the band gap becomes a direct one between 
+the bands at the X point coming mainly from Bi p and S p orbitals within the BiS plane. 
+ The indirect gap can be controlled by the onsite energy of O p orbitals, which in turn 
+is affected by the relative position between La and O in the blocking layer. The band 
+structure assuming  hypothetical lattice structure of LaOBiS2 was calculated in ref. 
+[39] as shown in Fig. 5, where the bond length between La and apical S atoms was 
+varied. The indirect band gap increases upon increasing the bond length, namely, 
+decreasing the onsite energy of the oxygen. The substitution of fluorine for oxygen also 
+decreases the oxygen (fluorine) onsite energy. On the other hand, the direct band gap is 
+
+
+controlled by the Bi-Ch intralayer hopping. When the Bi-Ch bond length becomes small 
+by reducing the lattice constant a, the direct band gap decreases because the band width 
+increases. The size of the band gap is also affected by the Bi-Ch-Bi bond angle, which 
+controls the overlap of the Bi and Ch orbitals, and hence the hopping integral of the 
+conduction bands. 
+ 
+ 
+Fig. 5 The band structure as a function of lLa-S= (a) 4.11 Å, (b) 3.92 Å (original) and (c) 
+3.83 Å. [39] 
+ 
+  So far we have seen the band structures calculated without spin-orbit coupling, but 
+the Bi atom is generally known to have strong spin-orbit coupling effects. Fig.6 shows 
+the comparison of the band structure and the Fermi surface calculated with and without 
+taking into account the spin-orbit coupling [31]. With the spin-orbit coupling included, 
+the band gap becomes small, and also the band splitting around the X point increases 
+because the hopping integral between Bi-Ch layers within the bilayer structure increases. 
+Hence, the bilayer splitting of the Fermi surface also increases with spin-orbit coupling. 
+ 
+
+
+ 
+ 
+ 
+Fig. 6 Comparison of the band structure and the Fermi surface calculated with (right in 
+the lower panel) and without spin-orbit coupling. [31]. 
+ 
+We will now compare the calculation results with some experimental data. In Fig.7, 
+we show the comparison between the first principles band calculation and the angle 
+resolved photoemission (ARPES) result for LaO1-xFxBiS2 with x ~ 0.5 [45]. At a glance, 
+the agreement between experiment and theory looks good. The band width is nicely 
+reproduced by the bare LDA calculation results, showing that the electron correlation 
+effects are not so strong like in the 3d systems such as the cuprates and the iron-based 
+superconductors. Similar agreement between ARPES and the band calculation has also 
+been found in ref.[46]. To be precise, however, there seems to exist some discrepancies 
+between the theory and the experiment. For instance, in cuts (e) and (f) of Fig. 7(d), the 
+theoretical expectation seems to be different from the experiment. Also, the ARPES 
+Fermi surfaces of NdO0.5F0.5BiS2 (Fig.8) [47] and CeO0.5F0.5BiS2 [48] are found to be 
+much smaller than the theoretical expectation of 50% fluorine doped compounds. In fact, 
+
+
+the observed Fermi surface resembles that of the first principles band calculation 
+assuming less than 20% doping. There may be some reason for the effective number of 
+doped electrons to be much smaller than the nominal value. 
+ 
+ 
+Fig. 7 (a) and (b) The observed Fermi surface with angle resolved photo emission 
+spectroscopy, which is symmetrized according to the fourfold symmetry of the material.  
+(d) Intensity plots as a function of the wave vector. The calculated bands and Fermi 
+surface are superposed with solid lines [45].  
+ 
+Fig. 8 (a) The band structure of NdO1-xFxBiS2 calculated without spin-orbit coupling. 
+
+
+(b) the observed and the calculated Fermi surface for x = 0.16 and 0.5. (c) and (d) The 
+comparison of the band structure near EF between the photoemission data and the first 
+principles band calculations along the -X and M-X directions, respectively [47]. 
+ 
+  It is interesting to compare the electronic band features of BiCh2 based 
+superconductors to those of other bismuth based materials such as BaBiO3 [49-51] or 
+Bi2Se3 [52, 53]. (Ba,K)(Bi,Pb)O3 becomes a superconductor with relatively high Tc [51] 
+and Bi2Se3 is famous as a topological insulator with a possibility of becoming a  
+topological superconductor when doped with Cu [54, 55]. In BaBiO3, the bands near the 
+Fermi level originate from the Bi 6s orbital, so that the Fermi surface has a three 
+dimensional shape [56]. In the case of Bi2Se3, the orbital character of the conduction 
+bands is mainly 6p as in the BiCh2 based compound, but the band structure exhibits 
+strong three dimensionality [57]. 
+We now move on to the modeling of the electronic structure [36]. As mentioned 
+above, the band structure around the band gap is constructed from O, Bi, Ch p orbitals, 
+and the conduction bands mainly consist of the Bi 6px and 6py orbitals, which are 
+strongly mixed with the S 3px and 3py orbitals. Due to the bilayer lattice structure, an 
+eight-orbital model can be considered as suitable for describing the conduction states. 
+The model can be further simplified by considering the fact that the hopping integral 
+between the two layers within the bilayer structure is small due to the strong in-plane 
+character of the px/y orbitals. Then, adopting a single layer approximation, we can 
+construct a four-orbital model originating from Bi 6 px/y and S 3 px/y orbitals as shown in 
+Fig. 9(a). Finally, considering only the conduction bands, we can construct a two-orbital 
+model as shown in Fig.9(b). This two-orbital model has been widely used for theoretical 
+studies of unconventional pairing by adding the electron-electron interaction and/or the 
+spin-orbit coupling terms [58-67]. 
+ 
+ 
+Fig. 9 The band structure of (a) the effective two-orbital,  (b) the four-orbital models, 
+and (c) the tightbinding model of the BiS plane [36]. 
+
+
+ 
+In order to discuss the magnitude of the hopping integrals, we adopt the pX and pY 
+orbitals, where the X-Y axes are rotated by 45° (see Fig. 9(c)) [36]. This is because the 
+largest hopping integral is along the Bi-S bonding direction, namely, the X and Y axes. 
+The two orbital model mainly consists of the nearest and the next nearest neighbor 
+intraorbital hoppings t and t’, and the nearest neighbor interorbital hopping tXY (Fig. 
+9(c)). The values are t=-0.167, t’= 0.88 and tXY = 0.107eV for LaOBiS2 [36]. The 
+mixture between the pX and pY orbitals (tXY) is relatively small, and this mixing controls 
+the two dimensionality of the system. The Fermi surface at a fluorine doping ratio of x = 
+0.2 in Fig. 4 exhibits a two dimensional feature due to this pX-pY mixing. 
+Although this two-orbital model almost perfectly reproduces the band structure and 
+the Fermi surface of the first principles calculation, the hopping integral between the 
+Bi-Ch layers should be included if the effect of the spin-orbit coupling on the band 
+structure is taken into account. The spin-orbit coupling slightly increases the bilayer 
+splitting of the Fermi surface [31]. Then, the four-orbital (conduction bands only) or the 
+eight-orbital (conduction and valence bands) models are more suitable for describing 
+the effect of the mixture of the orbitals between the layers. 
+ 
+2.3 Phonon features  
+The phonon dispersion has been calculated for LaOBiS2 [31-33] and LaOBiSe2 [34]. 
+In the left panel of Fig.10, we show the phonon dispersion calculated in ref.[33] for the 
+P4/nmm lattice structure of LaO1-xFxBiS2 at x = 0 and 0.5 using a 4 × 4 × 1 supercell. 
+Negative energy, hence unstable, phonon modes are seen for both doping levels. 
+The phonon modes at  and M points can be divided into 6B2, 10E and 4A1 at  point 
+and 4B1, 4A1, 5B2 5A2 and 6E at M point [32]. At x = 0, the orthorhombic P21mn 
+symmetry is the most stable structure due to the E mode at , where the S atoms move 
+towards Bi atoms along the a or b axis [33]. The total energy of this structure is ~1 meV 
+smaller than that of the original lattice structure as shown in the right panel of Fig.10. 
+The potential energy is therefore very shallow, so that the tetragonal lattice structure 
+should be observed because of the quantum fluctuations, in agreement with the actual 
+experiments.  
+ 
+
+
+ 
+ 
+Fig. 10  Left panel : the phonon dispersion of LaO1-xFxBiS2 at x = 0 and 0.5. Right 
+panel : energy variation when the system is distorted by the negative energy phonons. 
+(a) at  for x=0, (b) at M for x=0.5. [33]. 
+ 
+ 
+Fig. 11 Calculated double well potential for the frozen phonon mode as a function of the 
+displacement from the symmetric point in the tetragonal structure, along with the 
+probability of the ground state atomic wave function [31].  
+ 
+  At x = 0.5, the unstable mode is present at the M point, namely the wave vector  
+The potential energy against the distortion corresponding to the lowest phonon mode 
+has a much deeper local minimum compared to the distortion for x = 0. In ref.[33], 
+
+
+energy levels that are bound to this local minimum were obtained (Fig.10 right panel), 
+while in ref. [31], the obtained energy levels were unbound (Figs. 11), so that the system 
+should appear as tetragonal. In any case, the system is close to the border between 
+dynamically or statically distorted lattice structure. 
+The origin of the unstable modes for x = 0 and 0.5 is different. In ref. [33], it has been 
+suggested that the ferroelectric unstable mode at x = 0 occurs due to the mismatch of the 
+optimum lattice constants between LaO and BiS2 layers. This was confirmed by 
+recalculating the phonon dispersion with a smaller lattice constant a (a = 3.8Å), for 
+which the soft phonon mode was not obtained. On the other hand, at x = 0.5, it was 
+shown that taking a smaller lattice constant does not stabilize the negative energy 
+phonons.  
+Actually, the unstable mode at x = 0.5 is more related to the Fermi surface nesting. In 
+ref.[33], it was shown that this unstable phonon mode actually spreads along the -M 
+line. The relation between this and the Fermi surface nesting can be clearly seen in the 
+two orbital model described in subsection 2.2. The largest eigenvalue of the irreducible 
+susceptibility of the two-orbital model at x=0.5 is shown in Fig. 12(a) [36]. The 
+diagonal structures that go through (0,0) or (,) are due to the Fermi surface nesting 
+shown by the arrows in Fig. 12 (b). Along the (q,q,0) line, the irreducible susceptibility 
+is enhanced because of the one dimensional nature of the pX and pY orbitals. Hence, the 
+unstable phonon dispersion along -M reflects the unstable nature of the electronic 
+system along this line, which implies a strong electron phonon coupling. 
+ 
+Fig. 12 (a) The irreducible susceptibilitywith the two orbital model of LaO1-xFxBiS2 [36], 
+and (b) the Fermi surface and the nesting vector. 
+ 
+
+
+The phonon features of LaO0.5F0.5BiSe2 are basically similar to that of the sulfur 
+counterpart [34]. However, the potential energy minimum of the  distortion is 
+much shallower. In the case of the selenide, it is unlikely that the distortion is statically 
+stabilized.  
+ 
+3. Superconductivity 
+The pairing mechanism of the BiCh2 based superconductors is still under debate. In 
+this section, we will discuss some of the pairing mechanism candidates.  
+ 
+3.1 Expriemental results  
+  First, we briefly summarize some of the experimental results. It has experimentally 
+been found that Tc of LaO1-xFxBiS2 is maximized at x = 0.5 [27]. The maximum Tc at 
+around x = 0.5 has also been observed in other 1112 systems. Tc is also dependent on the 
+lattice parameters within the 1112 systems. This may be expected because different rare 
+earth blocking layer gives slight difference in the lattice constants as well as the 
+buckling within the BiCh planes. Quite recently, it has been shown that Tc is 
+systematically correlated with the chemical pressure, which has been quantitatively 
+defined as the in-plane distance between Bi and Ch atoms normalized by the summation 
+of their ionic radii [68]. 
+   As for the pairing symmetry, experimental results have suggested the fully gaped 
+state, which is consistent with s-wave pairing [69-72]. For example, the penetration 
+depth measurements indicate that the superfluid density can be fit by theoretical 
+calculations assuming multiple s-wave gaps [69-71]. Strong coupling superconductivity 
+has been indicated in a number of studies, but the value of 2/kBTc varies among 
+various measurements ; for instance, very large values such as 7.2 for Bi4O4S3 
+(penetration depth measurement) [69] and 16.8 for Nd(O,F)BiS2 (scanning tunneling 
+spectroscopy) [73] was reported, while the above mentioned penetration depth 
+measurement for Nd(O,F)BiS2 observed  2/kBTc ~4 [71]. 
+ 
+3.2 Phonon mediated pairing 
+The possibility of phonon-mediated pairing has been investigated from the early stage 
+of the theoretical studies [31-34]. Based on the first principles calculation results, Tc can 
+be estimated using the Allen-Dynes formula [74, 75], 𝑇c =
+𝜔ln
+1.2 exp [−
+1.04(1+𝜆)
+𝜆−𝜇∗(1+0.62)𝜆] , 
+where is the electron-phonon coupling, * is the screened Coulomb interaction 
+parameter, and ln is the logarithmically averaged phonon frequency. The electron 
+
+
+phonon coupling  can be calculated as λ = 2 ∫
+𝛼2𝐹(𝐸)
+𝐸
+𝑑𝐸
+𝜔
+0
+, where 2F is the 
+Eliashberg function. In all of the calculations, the electron-phonon coupling is estimated 
+to be large. For the tetragonal lattice structure, = 0.85 was obtained for LaO0.5F0.5BiS2 
+[31] and = 0.51 [34] for LaO0.5F0.5BiSe2. The difference comes from the contribution 
+of the anharmonic, unstable phonons, for which the sulfide has a deeper potential 
+minimum and a larger distortion. These calculations give Tc = 9~11K for La(O,F)BiS2 
+[31-33] and Tc ~ 2.4 K for La(O,F)BiSe2 [34], assuming * = 0.1. 
+In ref.[33], the electron-phonon coupling was calculated for two distorted lattice 
+structures of LaO0.5F0.5BiS2, namely,  = 0.83 for the (,) optimized phase and  = 0.6 
+for the CDW phase [33]. The phonon density of states, the Eliashberg function 2F and 
+the electron-phonon coupling constant  calculated in ref. [33] are shown in Fig. 13.  
+ 
+ 
+Fig. 13 The phonon density of states, the Eliashberg function 2F along with  the 
+electron-phonon coupling constant  (dashed lines) calculated for the two distorted 
+lattice structures of LaO0.5F0.5BiS2 [33]. 
+ 
+In both phases, the Eliashberg function 2F exhibits similar features. The electron 
+phonon spectral function is large in the low frequency regime around several meV, and 
+also in the intermediate frequency regime around 20 meV. The phonon density of states 
+shows that the low frequency modes originate from Bi (and La) vibrations, while the 
+intermediate frequency modes around 20 meV are from S vibrations. According to ref. 
+[32], one of the low frequency phonon modes is the A1 mode, which corresponds to the 
+vertical vibrations with the upper and lower BiS2 layers moving in the opposite 
+
+
+direction, and two of the intermediate frequency modes are the E and B2 modes. In the E 
+mode, LaO and BiS2 layers move toward the x or y axis. In the B2 mode, La, Bi and 
+in-plane S atoms move along the same vertical direction, while the apical S in the BiS2 
+plane and O atoms move in the opposite directions of La, Bi and in-plane S atoms. 
+The large electron-phonon couplings obtained for BiCh2 based superconductors are 
+comparable to that of MgB2 [3,4], which has the highest Tc among conventional 
+superconductors at ambient pressure. Within the phonon-mediated pairing scenario, the 
+reason why Tc of the BiCh2 based superconductors is much lower than that of MgB2 is 
+because of the small logarithmic phonon frequency average. The logarithmic frequency 
+average is 100~260K for LaOBiS2 [31-33], while estimations for MgB2 have given  = 
+540K [76] and 700K [77] . 
+These calculated Tc values appear to be in good agreement with the experimental 
+observations (few K ~ 10K), and the phonon-mediated s-wave state is consistent with 
+the experiments mentioned in the beginning of this section. Nonetheless, there are some 
+controversies regarding the strong electron-phonon coupling scenario. For instance, a 
+Raman scattering experiment estimates the electron-phonon coupling to be large, 
+consistent with the theories [72], while another Raman experiment, with different kind 
+of analysis, gives a smaller estimation, suggesting unconventional pairing [78]. Also, 
+applying chemical [68,79,80] or physical pressure [81-83] gives rise to enhancement of 
+Tc, but this may be in contradiction with a simple BCS expectation because the 
+application of pressure should reduce the density of states. Moreover, a neutron 
+scattering study of La(O,F)BiS2 has shown that the phonon modes are not affected by 
+the normal to superconducting transition, in contradiction to the theoretical expectation 
+of a strong electron-phonon coupling superconductor [84]. One should also note that the 
+theoretical estimations of strong electron-phonon coupling have been obtained for the 
+fluorine content of x=0.5, where the Fermi surface nesting is good and the Fermi level 
+sits at the peak of the electronic density of states, but the ARPES experiments for 
+NdO0.5F0.5BiS2 (Fig.8) [47] and CeO0.5F0.5BiS2 [48] suggest that the effective electron 
+doping rate is much smaller than that expected for x = 0.5, as mentioned previously. In 
+fact, the Sommerfeld coefficient of the specific heat  is estimated to be smaller (less 
+than 2.5mJ/mol K2) than the theoretical estimation for LaO0.5F0.5BiS2 (3mJ/molK2) [15] 
+suggesting both smaller carrier concentration and weak electron-phonon coupling. 
+ 
+ 
+3.3 Unconventional pairing mechanisms 
+Unconventional pairing mechanisms have also been proposed for the BiCh2 based 
+
+
+superconductors. Several studies have examined the spin-fluctuation-mediated pairing 
+scenario [36,61,64,67]. If one assumes a short range (e.g., on-site only) interaction, 
+strong spin fluctuation may arise due to the Fermi surface nesting. Applying the random 
+phase approximation to the two-orbital model of Bi 6px, py orbitals (in which the 
+spin-orbit coupling is omitted), the competition among extended s, dxy, dx2-y2, and 
+g-wave pairings have been discussed [36,61,64,67]. Fig.14 shows the calculation result 
+of ref. [64]. Here, the eigenvalue  of the Eliashberg equation is a qualitative measure of 
+the superconducting transition temperature (note that here is not the electron-phonon 
+coupling constant). In the small doping regime around x = 0.14, the g-wave (A2g) 
+symmetry is dominant. However, in the strong Hund’s coupling regime, d-wave, g-wave 
+and s-wave (A1g) are in close competition. In the large doping regime, the results show 
+that the g-wave pairing competes with both the s-wave (A1g) and d-wave (B2g) pairing, 
+and no pairing symmetry emerges dominantly as shown in Fig.15.  
+In the spin-fluctuation-mediated pairing, the sign of the superconducting gap should 
+change across the nesting vector along the (q,q,0) line. In fact, the superconducting gap 
+obtained within this formalism all have nodal structure on the Fermi surface. Hence, the 
+experimental observation of a fully open superconducting gap cannot be explained 
+within these scenarios. On the other hand, magnetic-interaction-mediated pairing has 
+been examined in a model where the nearest and the next nearest neighbor 
+antiferromagnetic interactions (J1, J2) between localized spins are considered. There, a 
+superconducting state with fully gapped extended s-wave pairing was obtained [60]. 
+Taking into account the spin-orbit coupling does not basically affect these results [60]. 
+
+
+ 
+Fig. 14 The eigenvalue  of the Eliashberg equation for the A2g, A1g, dxy and dx2-y2 
+pairing symmetries at x = 0.14 as a function of (a) on-site Coulomb interaction U and 
+(d) Hund coupling J. The superconducting gap on the Fermi surface for (b) A2g and (c) 
+A1g pairing symmetries [64]. 
+ 
+ 
+Fig. 15 Upper panels : the superconducting gap on the Fermi surface at x = 0.25 for (a) 
+A2g and (b) dx2-y2 pairing symmetries. Lower panels: the superconducting gap on the 
+Fermi surface at x = 0.5 for (a) A1g and (b) dxy pairing symmetries [64]. 
+
+
+ 
+ The effect of the spin-orbit coupling on superconductivity has also been studied in 
+refs.[63,65,66]. In ref.[63], the functional renormalization group method was applied to 
+the two-orbital model in the presence of the spin-orbit coupling, There d*x2-y2-wave state 
+was found to have the leading pairing instability, where “*” stands for the simultaneous 
+rotation operation of both the spin and the lattice. This pairing respects the time reversal 
+symmetry, and the triplet and singlet component are mixed, where the former dominates. 
+This can be categorized as a time-reversal-invariant weak topological superconductor 
+[63]. When the band filling is below the Lifshitz transition point, i.e., when two 
+disconnected Fermi surfaces exist around  the sign of the superconducting 
+gap changes sign between the two Fermi surfaces, so that the gap is fully open  as 
+shown in Fig. 16. The calculated superfluid density based on this state is in good 
+agreement with the experimental results (Fig. 17) [66]. An interesting prediction of this 
+scenario is that the superconducting gap closes on the edge states because the system 
+belongs to the category of weak topological superconductors.  
+ 
+ 
+Fig. 16 The gap function of NdOBiS2 obtained within the functional renormalization 
+group method [66]. 
+ 
+ 
+Fig. 17 The calculated superfluid density along with the experimental results for 
+
+
+Bi4O4S3 and LaOBiS2 [66]. 
+ 
+The existing theoretical studies basically use the two-orbital model, which consider 
+only one BiS plane. Therefore, the effect of the hoppings between the layers is not taken 
+into account. The interlayer hopping barely affects the Fermi surface, but the bilayer 
+lattice structure itself may affect superconductivity in a manner where the crystal 
+symmetry plays some important role. 
+Before closing this subsection, we will briefly mention some of the experimental 
+observations that may be related to the possibility of (other types of) unconventional 
+pairing mechanisms. In ref.[73], the large 2/kBTc was interpreted as an  indication of 
+strong pairing interaction and the presence of superconducting fluctuation well above Tc. 
+Suppressing the superconductivity by the magnetic field revealed unexpected 
+semiconducting behavior in the normal state. These observations were taken as a 
+possible indication that the pairing is related to charge density wave or valence 
+fluctuations. Speaking of charge fluctuations, local structural distortions that accompany 
+long and short Bi-S bond distances (either ferro or antiferro distortive)  have been 
+observed in an neutron scattering experiment for polycrystals of La(O,F)BiS2 [35]. This 
+local distortive fluctuation was linked to charge disproportionation of the Bi ions, which 
+in turn may be related to the pairing mechanism. Also, scanning tunneling spectroscopy 
+measurement on NdO1-xFx BiS2 has revealed a “checkerboard stripe” charge ordering on 
+the surface [85]. This ordering forms one dimensional stripe structure along the Bi-Bi 
+direction.  
+For SrFBiS2 [22], an insulator to superconducting transition has been observed. 
+Namely, the superconducting phase abruptly appears as soon as the metallicity sets in 
+with electron doping by partially substituting Sr with La, and within the 
+superconducting phase, Tc interestingly increases with decreasing the electron doping 
+content [86]. Similar behavior has been observed in layered nitride superconductors 
+MNCl (M=Hf,Zr) [11], where unconventional pairing has been discussed. In MNCl, the 
+conduction bands originate from 4d or 5d orbitals, so that the Fermi surface and its 
+orbital character are different from those of the BiCh2 based superconductors. However, 
+the above experimental observation might suggest a commonality possibly connected to 
+unconventional pairing. Other experimental observations have also suggested the 
+possibility of unconventional pairing mechanism, e.g. structural instability [35] and 
+structural phase transitions under pressure [87] 
+ 
+3.4 Proposals for probing the pairing state 
+
+
+Various experimental probes to determine the pairing state have been proposed, 
+among which are the impurity effect [59], spin excitation [58] and nuclear magnetic 
+resonance [66]. In unconventional superconductors with sign reversing order parameters, 
+Tc is reduced upon increasing the amount of non-magnetic impurities. In ref. [59], it was 
+shown that Tc is strongly suppressed against the impurity content for the p and d-wave 
+pairings, while Tc hardly decreases in the s-wave state. In ref.[58], the imaginary part of 
+the spin susceptibility of various pairing states was calculated as a probe to determine 
+the pairing state. It was shown that the s-wave shows no spin excitation, while spin 
+excitations appear at the incommensurate momentum (0.7, 0.7) for d-wave, around 
+(0,0) for p-wave. Ref. [66] studied NMR as a probe to detect the d*x2-y2-wave state. 
+Although both s-wave and d*x2-y2-wave pairings are fully gapped states (below the 
+Lifshitz point for d*x2-y2-wave), the magnitude of the coherence peak just below Tc in the 
+spin-lattice relaxation rate 1/T1 is significantly different between the two states due to 
+the sign reversal of the order parameter in the latter. Namely, a large coherence peak 
+appears in the s-wave, while it is suppressed in the d*x2-y2-wave. Since the d*x2-y2-wave 
+state has predominant a spin-triplet pairing component, one might expect that the 
+Knight shift can also be used as a probe to detect such a state. The calculation in ref. 
+[66] however shows that the difference between s-wave and d*x2-y2-wave is insignificant. 
+ 
+4. Conclusion 
+  In this review article, we have surveyed the features of the BiCh2 based 
+superconductors from a theoretical point of view. The BiCh2 based superconductors are a 
+group of layered superconductors constructed from the pyramidal BiCh2 bilayers, and 
+blocking layers having tetragonal structure. In 1112 systems, the electrons can be doped 
+into the BiCh plane with fluorine substitution for oxygen. The conduction bands consist 
+of the p orbitals within the BiCh plane. The conduction bands and the Fermi surface 
+therefore have one dimensional nature with small hoppings along the vertical directions. 
+The irreducible susceptibility is enhanced along the (q,q,0) line due to the Fermi surface 
+nesting and its one dimensional nature. The calculated phonon dispersion in the 
+tetragonal lattice structure also shows the soft phonon modes along the (q,q,0) line. This 
+indicates the presence of strong electron-phonon coupling in these materials. The first 
+principles electronic band calculation results are overall in good agreement with the 
+ARPES experiment, suggesting absence of strong electron correlation as in the 3d-based 
+layered superconductors. On the other hand, there do exist some discrepancies between 
+theory and experiment, whose origin remains to be clarified. 
+  The pairing mechanism has been studied in the context of both conventional and 
+
+
+unconventional scenarios. Tc values comparable to the experimental observations have 
+been obtained within the phonon-mediated pairing owing to the strong electron-phonon 
+coupling. As for the unconventional pairing, the weak coupling spin-fluctuation 
+calculations omitting the spin-orbit coupling predicts nodal gap functions, while a fully 
+gapped s-wave state is obtained for the J1-J2 local spin model. In a model with spin-orbit 
+coupling, a functional renormalization group study predicts a d*x2-y2-wave pairing, which 
+belongs to the category of the weak topological superconductivity.  In this pairing, the 
+triplet and the singlet pairing components are mixed, and the order parameter changes 
+its sign between the disconnected Fermi surfaces. Experimental results also suggest the 
+possibility of charge-fluctuation-mediated superconductivity. 
+  As surveyed in this review, the BiCh2 based superconductors have interesting features, 
+such as the one dimensional nature of the electronic bands and the Fermi surface nesting, 
+strong electron-phonon coupling, and the strong spin-orbit coupling, which may be 
+entangled in a complex manner. The issue of the pairing mechanism and the pairing 
+symmetry should be closely related to these features. In order to have better 
+understanding on these issues, further theoretical as well as experimental studies are 
+necessary. 
+ 
+Acknowledgement 
+ We are grateful to Katsuhiro Suzuki, Yoshikazu Mizuguchi, Yoshihiko Takano, Hiroshi 
+Fujihisa, Hisashi Kotegawa, Takashi Yokoya, Kensei Terashima, Ryotaro Arita, Akihiro 
+Kokubo, Hiroaki Tsuchiya, Yuki Fuseya, George Martins, Hai-Hu Wen, Dong-Lei Feng, 
+Naurang Saini, Yuichi Ota, Kozo Okazaki, Takuya Sugimoto, and Takashi Mizokawa 
+for fruitful discussions. This study has been partially supported by Grants-in-Aid for 
+Scientific Research No. 26610101 and 26247067 from the Japan Society for the 
+Promotion of Science. 
+ 
+References 
+1. 
+For a review, see, e.g., A. Ardavan, S. Brown, S. Kagoshima, K. Kanoda, K. Kuroki, 
+H. Mori, M. Ogata, S. Uji and J. Wosnitza., J. Phys. Soc. Jpn. 81,011004 (2012). 
+2. 
+For a review on the theory of the -type layered organic superconductors in 
+particular, see e.g., K. Kuroki, J. Phys. Soc. Jpn. 75, 051013 (2006).  
+3. 
+J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani and J. Akimitsu, Nature 410, 
+63 (2001). 
+4. 
+For a recent review, see e.g., S. L. Bud’ko and P. C. Canfield, Physica C 514, 142 
+(2015). 
+
+
+5. 
+Y. Maeno, H. Hashimoto, K. Yoshida, S. Nishizaki, T. Fujita, J.G. Bednorz and F. 
+Lichtenberg, Nature 372 532 (1994). 
+6. 
+For a recent review, see e.g., Y. Liu and Z.-Q. Mao, Physica C 514, 339 (2015). 
+7. 
+K. Takada, H. Sakurai, E. Takayama-Muromachi, F. Izumi, R.A. Dilanian and T. 
+Sasaki, Nature 422, 53 (2003). 
+8. 
+For a recent review, see H. Sakurai, Y. Ihara and K. Takada, Physica C 514, 378, 
+(2015). 
+9. 
+S. Yamanaka, H. Kawaji, K. Hotehama and M. Ohashi. Adv. Mater. 8, 771 (1996) 
+10. S. Yamanaka, K. Hotehama and H. Kawaji, Nature 392, 580 (1998). 
+11. For a recent review, see Y. Kasahara, K. Kuroki, S. Yamanaka and Y. Taguchi, 
+Physica C 514, 354 (2015). 
+12. Y. Kamihara, T. Watanabe, M. Hirano and H. Hosono, J. Am. Chem. Soc. 130, 3296 
+(2008). 
+13. For a recent review, see e.g.,H. Hosono and K. Kuroki, Physica C 514, 399 (2015). 
+14. For a review, see Y. Mizuguchi, J. Phys. Chem. Solid 84, 34 (2015). 
+15. For a review, see D. Yazici, I. Jeon, B.D. White and M.B. Maple, Physica C 514, 
+218 (2015). 
+16. Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. 
+Takano, H. Izawa and O. Miura, Phys. Rev. B 86, 220510(R) (2012). 
+17. R. J. Cava, B. Batlogg, R. B. Van Dover, J. J. Krajewski, J. V. Waszczak, R. M. 
+Fleming, W. F. Peck Jr., L. W. Rupp Jr., P. Marsh, A. C. W. P. James and L. F. 
+Schneemeyer, Nature 345, 602 (1990). 
+18. Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa 
+and O. Miura, J. Phys. Soc. Jpn. 81, 114725 (2012). 
+19. J. Xing, S. Li, X. Ding, H. Yang and H.-H. Wen, Phys. Rev. B 86, 214518 (2012). 
+20. R. Jha, A. Kumar, S. K. Singh and V. P. S. Awana, J. Sup. and Novel Mag. 26, 499 
+(2013). 
+21. S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya and Y. Takano, J. Phys. Soc. Jpn. 82, 033708 (2013). 
+22. H. Lei, K. Wang, M. Abeykoon, E. S. Bozin and C. Petrovic, Inorg. Chem. 52, 
+10685 (2013). 
+23. D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman and M. B. Maple, 
+Philos. Mag. 93, 673 (2012). 
+24. G. S. Thakur, G. K. Selvan, Z. Haque, L. C. Gupta, S. L. Samal, S. Arumugam and 
+A. K. Ganguli, Inorg. Chem. 54, 1076 (2015). 
+
+
+25. A.Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V. Pomjakushin, R. Khasanov, 
+H. Luetkens, P. Biswas, A. Amato, H. Keller and K. Conder, J. Phys.: Condens. 
+Matter 26, 215702 (2014). 
+26. Y. Yu, J. Shao, S. Tan, C. Zhang and Y. Zhang, J. Phys. Soc. Jpn. 82, 034718 
+(2013). 
+27. K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. 
+Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura and Y. Takano, 
+Europhys. Lett. 101, 17004 (2013). 
+28. V.S. Tanryverdiev and O.M. Aliev, Inorg. Mater. 31, 1361 (1995). 
+29. R. Jha, B. Tiwari and V.P.S. Awana, J. Appl. Phys. 117, 013901 (2015). 
+30. A. Miura, M. Nagao, T. Takei, S. Watauchi, I. Tanaka and N. Kumada, J. Solid State 
+Chem. 212, 213 (2014). 
+31. X. Wan, H.-C. Ding, S. Y. Savrasov and C.-G. Duan, Phys. Rev. B 87, 115124 
+(2013). 
+32. B. Li, Z. W. Xing and G. Q. Huang, Europhys. Lett. 101, 47002 (2013). 
+33. T. Yildirim, Phys. Rev. B 87, 020506(R) (2013). 
+34. Y. Feng, H.-C. Ding, Y. Du, X. Wan, B. Wang, S. Y. Savrasov and C.-G. Duan, J. 
+Appl. Phys. 115, 233901 (2014). 
+35. A. Athauda, J. Yang, S. Lee, Y. Mizuguchi, K. Deguchi, Y. Takano, O. Miura and D. 
+Louca, Phys. Rev. B 91, 144112 (2015). 
+36. H. Usui, K. Suzuki and K. Kuroki, Phys. Rev. B 86, 220501(R) (2012). 
+37. I. R. Shein and A. L. Ivanovskii, JETP Lett. 96, 769 (2012). 
+38. S. S. Saxena, J. Phys.: Condens. Matter 27, 135501 (2015). 
+39. K. Suzuki, H. Usui and K. Kuroki, Physics Procedia 45, 21 (2013). 
+40. C. Morice, E. Artacho, S. E. Dutton, D. Molnar, H.-J. Kim, and S. S. Saxena, 
+arXiv:1312.2615. 
+41. N. Benayad, M. Djermouni and A. Zaoui, Computational Condensed Matter 1, 19 
+(2014). 
+42. M. Nagao, A. Miura, S. Watauchi, Y. Takano and I. Tanaka, Jpn. J. App. Phys. 54, 
+083101 (2015). 
+43. H. Sakakibara, K. Suzuki, H. Usui, S. Miyao, I. Maruyama, K. Kusakabe, R. Arita, 
+H. Aoki and K. Kuroki, Phys. Rev. B 89, 224505 (2014). 
+44. T. Oguchi, Phys. Rev. B 51, R1385 (1995). 
+45. S. Nagira, J. Sonoyama, T. Wakita, M. Sunagawa, Y. Izumi, T. Muro, H. 
+Kumigashira, M. Oshima, K. Deguchi, H. Okazaki, Y. Takano, O. Miura, Y. 
+Mizuguchi, K. Suzuki, H. Usui, K. Kuroki, K. Okada, Y. Muraoka and T. Yokoya, J. 
+
+
+Phys. Soc. Jpn. 83, 033703 (2014). 
+46. M. Xia, J. Jiang, X. H. Niu, J. Z. Liu, C. H. Wen, H. Y. Lu, X. Lou, Y. J. Pu, Z. C. 
+Huang, X. Zhu, H. H. Wen, B. P. Xie, D. W. Shen and D. L. Feng, J. Phys.: Cond. 
+Mat. 27, 285502 (2015). 
+47. Z. R. Ye, H. F. Yang, D. W. Shen, J. Jiang, X. H. Niu, D. L. Feng, Y. P. Du, X. G. 
+Wan, J. Z. Liu, X. Y. Zhu, H. H. Wen and M. H. Jiang, Phys. Rev. B 90, 045116 
+(2014). 
+48. T. Sugimoto, D. Ootsuki, M. Takahashi, C. Morice, E. Artacho, S. S. Saxena, E. F. 
+Schwier, M. Zheng, Y. Kojima, H. Iwasawa, K. Shimada, M. Arita, H. Namatame, 
+M. Taniguchi, N. L. Saini, T. Asano, T. Nakajima, R. Higashinaka, T. D. Matsuda, Y. 
+Aoki and T. Mizokawa, Phys. Rev. B 92, 041113(R) (2015). 
+49. A.W. Sleight, J.L. Gillson and P.E. Bierstedt, Solid State Commun. 17, 27 (1975). 
+50. R. J. Cava, B. Batlogg, J.J. Krajewski, R.C. Farrow, L.W. Rupp, A.E. White, K.T. 
+Short, W.F. Peck and T.Y. Kometani, Nature 332, 814–816 (1988). 
+51. A. W. Sleight, Physica C 514, 152 (2015). 
+52. Y. Xia, D. Qian, D. Hsieh, L. Wray, A. Pal1, H. Lin, A. Bansil, D. Grauer, Y. S. Hor, 
+R. J. Cava and M. Z. Hasan, Nat. Phys. 5, 398 (2009). 
+53. M. Z. Hasan and C. L. Kane, Rev. Mod. Phys. 82, 3045 (2010). 
+54. L. A. Wray, S.-Y. Xu, Y. Xia, Y. S. Hor, D. Qian, A. V. Fedorov, H. Lin, A. Bansil, R. 
+J. Cava and M. Z. Hasan, Nat. Phys. 6, 855 (2010). 
+55. S. Sasaki and T. Mizushima, Physica C 514, 206 (2015). 
+56. L.F. Mattheiss and D.R. Hamann, Phys. Rev. B 28, 4228 (1983). 
+57. W. Zhang, R. Yu, H.-J. Zhang, X. Dai and Z. Fang, New J. Phys. 12, 065013 
+(2010). 
+58. T. Zhou and Z. D. Wang, Journal of Superconductivity and Novel Magnetism 26, 
+2735 (2013). 
+59. S. L. Liu, J. Supercond. Novel Mag. 26, 3411 (2013). 
+60. Y. Liang, X. Wu, W.-F. Tsai and J. Hu, Frontiers of Physics 9, 194 (2014). 
+61. G. Martins, A. Moreo and E. Dagotto, Phys. Rev. B 87, 081102(R) (2013). 
+62. Y. Gao, arXiv:1304.2102. 
+63. Y. Yang, W. S. Wang, Y. Y. Xiang, Z. Z. Li and Q. H. Wang, Phys. Rev. B 88, 
+094519 (2013). 
+64. X. Wu, J. Yuan, Y. Liang, H. Fan and J. Hu, Europhys. Lett. 108, 27006 (2014). 
+65. Y. Gao, T. Zhou, H. Huang, P. Tong and Q.-H. Wang, Phys. Rev. B 90, 054518 
+(2014). 
+66. C.-L. Dai, Y. Yang, W.-S. Wang and Q.-H. Wang, Phys. Rev. B 91, 024512 (2015). 
+
+
+67. T. Agatsuma and T. Hotta, arXiv:1507.05400. 
+68. Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, 
+E. Magome, C. Moriyoshi and Y. Kuroiwa, arXiv:1504.01208. 
+69. Shruti, P. Srivastava and S. Patnaik, J. Phys.: Condens. Matter 25, 312202 (2013). 
+70. G. Lamura, T. Shiroka, P. Bonfa, S. Sanna, R. De Renzi, C. Baines, H. Luetkens, J. 
+Kajitani, Y. Mizuguchi, O. Miura, K. Deguchi, S. Demura, Y. Takano and M. Putti, 
+Phys. Rev. B 88, 180509 (2013). 
+71. L. Jiao, Z. F. Weng, J. Z. Liu, J. L. Zhang, G. M. Pang, C. Y. Guo, F. Gao, X. Y. Zhu, 
+H. H. Wen and H. Q. Yuan, J. Phys.: Condens. Matter 27, 225701 (2015). 
+72. S. F. Wu, P. Richard, X. B. Wang, C. S. Lian, S. M. Nie, J. T. Wang, N. L. Wang and 
+H. Ding, Phys. Rev. B 90, 054519 (2014). 
+73. J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, X. Zhu, H. Yang and H.-H Wen, Europhys. 
+Lett. 106, 67002 (2014). 
+74. W. L. McMillan, Phys. Rev. 167, 331 (1968). 
+75. P. B. Allen and R. C. Dynes, Phys. Rev. B 12, 905 (1975). 
+76. C. Xiang-Rong, G. Hua-Zhong, C. Ling-Cang and G. Jie, Chinese Phys. Lett. 22 
+1504 (2005). 
+77. J. Kortus, I. I. Mazin, K. D. Belashchenko, V. P. Antropov and L. L. Boyer, Phys. 
+Rev. Lett., 86 4656 (2001). 
+78. Y. Tian, A. Zhang, J. Ji, J. Liu, X. Zhu, H.-H. Wen, F. Jin, X. Ma and Q.-M. Zhang, 
+arXiv:1501.04453. 
+79. J. Kajitani, A. Omachi, T. Hiroi, O. Miura and Y. Mizuguchi, Physica C 504, 33 
+(2014). 
+80. J. Kajitani, T. Hiroi, A. Omachi, O. Miura and Y. Mizuguchi, J. Phys. Soc. Jpn. 84, 
+044712 (2015). 
+81. H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. 
+Deguchi and Y. Takano,. J. Phys. Soc. Jpn. 81, 103702 (2012). 
+82. G. K. Selvan, M. Kanagaraj, S. E. Muthu, R. Jha, V. P. S. Awana and S. Arumugam, 
+Phys. Stat. Sol. Rapid Res. Lett. 7, 510 (2013). 
+83. C. T. Wolowiec, D. Yazici, B. D. White, K. Huang and M. B. Maple, Phys. Rev. B 
+88, 064503 (2013). 
+84. J. Lee, M. B. Stone, A. Huq, T. Yildrim, G. Ehlers, Y. Mizuguchi, O. Miura, Y. 
+Takano, K. Deguchi, S. Demura and S.-H. Lee, Phys. Rev. B 87, 205134 (2013). 
+85. T. Machida, Y. Fujisawa, M. Nagao, S. Demura, K. Deguchi, Y. Mizuguchi, Y. 
+Takano and H. Sakata, J. Phys. Soc. Jpn 83, 113701 (2014). 
+86. H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wakisaka, M. Mizumaki, K. Nitta, Y. 
+
+
+Tokura and S. Ishiwata, J. Phys. Soc. Jpn. 83, 014709 (2014). 
+87. T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, 
+H. Izawa, O. Miura, S. Demura, K. Deguchi and Y. Takano, J. Phys. Soc. Jpn. 83, 
+063704 (2014). 
+
+

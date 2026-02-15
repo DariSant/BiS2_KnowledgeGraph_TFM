@@ -1,0 +1,575 @@
+Hydrostatic pressure effect on Tc of new BiS2 based Bi4O4S3 and 
+NdO0.5F0.5BiS2 layered superconductors 
+ 
+G. Kalai Selvan1, M. Kanagaraj1, S. Esakki Muthu1, Rajveer Jha2, V. P. S. Awana2 and S. Arumugam*,1 
+ 
+1Centre for High Pressure Research, School of Physics, Bharathidasan University, Tiruchirappalli 620024, India 
+2Quantum Phenomena and Application Division, National Physical Laboratory (CSIR), Dr. K. S. Krishnan Road, New Delhi 110012, 
+India 
+Keywords: Superconductivity, Bi4O4S3, Nd(O,F)BiS2, Hydrostatic pressure 
+_________________ 
+*Corresponding author: e-mail sarumugam1963@yahoo.com, Phone: - (O): 91-431- 2407118, Cell: 91-95009 10310; Fax No: - 91-431- 
+2407045, 2407032. 
+ 
+We investigate the external hydrostatic pressure effect on the superconducting transition temperature (Tc) of new layered 
+superconductors Bi4O4S3 and NdO0.5F0.5BiS2. Though the Tc is found to have moderate decrease from 4.8 K to 4.3 K (dTc
+onset/dP = -
+0.28 K/GPa) for Bi4O4S3 superconductor, the same increases from 4.6 K to 5 K (dTc
+onset/dP = 0.44 K/GPa) upto 1.31 GPa followed by a 
+sudden decrease from 5 K to 4.7 K upto 1.75 GPa for NdO0.5F0.5BiS2 superconductor. The variation of Tc in these systems may be 
+correlated to increase or decrease of the charge carriers in the density of states under externally applied pressure.  
+ 
+1 Introduction In the past 102 years many 
+superconductors have been discovered and categorized into 
+low temperature and high temperature superconductors. 
+The low temperature superconductors which obey BCS 
+theory had been well investigated in the past. In 1986, the 
+first high Tc of more than 30 K was found in La2-xBaxCuO4 
+by Bednorz and Muller [1]. Soon after, many new 
+superconductors were discovered, and the maximum Tc of 
+130 K was reported in HgBa2Ca2Cu3Oy at ambient 
+pressure. Geo et al. found that on application of external 
+pressure (31 GPa), the Tc of HgBa2Ca2Cu3Oy enhanced 
+dramatically to 164 K [2]. This study unveiled the 
+importance 
+of 
+high 
+pressure 
+effect 
+on 
+high 
+Tc 
+superconductors [2]. Recently, Kamihara et al., reported 
+that doping of F- atom in the place of O2- atom in 
+LaFeAsO/F brought superconductivity with Tc ~ 26 K [3]. 
+These 
+compounds 
+are 
+called 
+Fe 
+based 
+pnictide 
+superconductors [3], having quaternary ZrCuSiAs type 
+tetragonal structure at room temperature, consisting of two 
+alternating layers of insulating La-O and conducting Fe-
+As. 
+Later 
+new 
+members 
+of 
+Fe 
+based 
+pnictide 
+superconductors were reported with maximum Tc of 56 K 
+for SmFeAsO1-xFx [4]. In addition to the chemical pressure 
+(La/Sm substitution), application of external pressures also 
+played an important and enhanced the Tc of LaFeAsO/F 
+from 26 K to 43 K (dTc/d P= 4.25 K/GPa) [5]. Further, a 
+maximum record of pressure dependence of Tc (+9.1 
+K/GPa) has been reported in FeSe superconductors [6].  
+ Hence, it is clear that a small change in the conducting 
+layer by use of chemical doping of elements and/or 
+externally applied pressure would modify the Tc for the 
+layered superconductors. Very recently, superconductivity 
+with the Tc of 4.4 K is found in Bi4O4S3 polycrystalline 
+compound [7]. It has the 2D tetragonal layered structure 
+(space group I4/mmm) with stacking of Bi2S4, Bi2O2 and 
+SO4 layers. In this system, superconductivity is found in 
+BiS2 layer through the strong hybridization of Bi (6p) and 
+S (3p) atoms. These compounds are called BiS2 based 
+superconductors. The doping of rare-earth elements (Ce, 
+Pr, Yb) in the place of Ln in another BiS2 based 
+superconductor LnO0.5F0.5BiS2 leads to increase of Tc from 
+1.8 K to 5.3 K, [8,9]. A large shielding fraction of ~100 % 
+and maximum onset of Tc ~ 10 K has been reported in 
+under high pressure (~2 GPa) synthesized LaBiS2O0.5F0.5 
+[10].  Also, a new superconductor based on the rare earth 
+blocking layer Nd-O in NdO1-xFx BiS2 (0.1≤ x ≤ 0.6) 
+exhibited maximum Tc of 6.7 K [11]. Kotegawa et al., 
+reported pressure effect on Tc of Bi4O4S3 superconductor 
+and found that Tc gradually decreases for all the applied 
+pressures up to 1.92 GPa. However, the Tc increases upto ~ 
+1GPa followed by decreasing trend upto 4 GPa in 
+LaBiS2(O/F) superconductor [12]. Keeping in view, the 
+important role played by external pressure in discovery of 
+new superconducting materials, we investigate the 
+temperature dependence of electrical resistivity (300-3.5 
+K) measurements under various hydrostatic pressures for 
+both Bi4O4S3 (1.46 GPa) and NdO0.5F0.5BiS2 (1.75 GPa) 
+superconducting polycrystalline samples to understand the 
+mechanism of superconducting transition temperature.   
+ 
+2 Experiment The polycrystalline samples of Bi4O4S3 and 
+NdBiS2O0.5F0.5 were synthesized by two step solid state 
+reaction method. The detailed investigation of synthesis 
+and structural analysis were already described elsewhere 
+[13,14]. The temperature dependence of electrical 
+resistivity (ρ) at ambient and under various hydrostatic 
+pressures is measured using four probe technique up to ~2 
+GPa using Closed Cycle Refrigerator – Variable 
+Temperature Insert (CCR- VTI) system (REF-1810) in the 
+temperature ranges of 300 to 3.5 K. A self-clamp type 
+hybrid double cylinder (non-magnetic Ni-Cr-Al inner 
+cylinder; Be-Cu outer cylinder) pressure cell was used to 
+generate hydrostatic pressure up to 3.5 GPa. Daphne 7373 
+oil was used as a pressure transmitting medium. The 
+applied pressure in the cell was estimated by the structural 
+change of bismuth at room temperature.  
+ 
+3 Results and discussion Figs. 1(a & b) show the 
+temperature 
+dependence 
+(300-3.5 
+K) 
+of 
+electrical 
+resistivity 
+(ρ) 
+for 
+superconducting 
+Bi4O4S3 
+and 
+NdO0.5F0.5BiS2 samples measured at ambient pressure. It is 
+found that ρ of both the compounds gradually decreases 
+when the temperature reduces to 5 K, followed by sudden 
+drop at Tc onset of 4.8 K and 4.6 K corresponding to 
+
+
+ 
+ 
+ 
+ 
+Bi4O4S3 and NdO0.5F0.5 BiS2 superconductor respectively. 
+The observation of Tc
+onset, Tc
+mid and Tc
+offset is indicated by 
+arrows in the respective figures. The Tc
+onset is determined 
+from the intersection of the two extrapolated lines, Tc
+mid is 
+determined from the 50% of the drop in resistivity and 
+Tc
+offset is determined as the resistivity reaches zero as 
+shown in fig. 1(a & b). 
+The 
+ρ vs T of Bi4O4S3 and NdO0.5F0.5BiS2 
+superconducting samples at various hydrostatic pressures 
+are displayed in Figs. 2(a) and 2(b) respectively. It is 
+clearly noted that the Tc of Bi4O4S3 decreases from 4.8 K to 
+4.3 K under applied pressure of upto 1.46 GPa. The insets 
+of Figs. 2 (a & b) show ρ(T) in the Tc region (3.5 K to 6 K) 
+on the corresponding samples to see the variation of Tc 
+under pressure clearly. Figs. 3(a& b) show Tc vs P (phase 
+diagram) of Bi4O4S3 and NdO0.5F0.5BiS2 superconductors 
+respectively. The negative pressure coefficient of – 0.287 
+K/GPa is observed in Bi4O4S3, which is comparatively 
+lower than the value (-1.1 K/GPa) reported by Kotegawa et 
+al., for the same compound. Such discrepancy between 
+these 
+two results 
+might be 
+connected 
+with the 
+inhomogeneity of pressure transmitting medium in the 
+intender cell and piston cylinder cell. The data obtained 
+from the piston cylinder setup is more reliable than the 
+intender cell [12]. Under external pressure of 1.31 GPa, the 
+Tc
+onset of NdO0.5F0.5 BiS2 enhanced gradually from 4.6 K to 
+5 K, revealing a positive pressure coefficient of 0.4351 
+K/GPa. For Further higher pressures, the Tc
+onset decreased 
+from 5 K to 4.7 K (dTc
+onset/dP= -0.1714 K/GPa) as the 
+pressure increased from 1.31 GPa to 1.75 GPa, as shown in 
+Fig. 3(b). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 Temperature dependent electrical resistivity of (a) 
+Bi4O4S3 and (b) NdO0.5F0.5BiS2 at ambient pressure. The 
+methodology of Tc marking is also indicated in the same figures. 
+ 
+Hence it is clear that pressure dependence of Tc and 
+pressure coefficient in Bi4O4S3 and NdO0.5F0.5BiS2 
+superconductors display different trends. The present 
+investigation of the pressure dependence of Tc in 
+NdO0.5F0.5BiS2 superconductor resembles to pressure 
+dependence 
+of 
+FeAs 
+based 
+1111 
+type 
+pnictide 
+superconductors [13]. In our case, the polycrystalline 
+Bi4O4S3 compound shows the reduction of Tc for all the 
+applied pressures (0 to 1.46 GPa) and it may be due to 
+existence of  impurity phases (Bi, Bi2S3), which has been 
+reported previously [14, 15]. Kotegawa et al. suggested 
+that the Tc of these new superconductors (Bi4O4S3 and 
+LaBiS2O0.5F0.5) have been located between boundary of 
+semiconducting/metallic region and it could be modified 
+with respect to externally applied pressure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 The normal state resistivity (ρ) as a function of 
+temperature (T) at various external hydrostatic pressures for (a) 
+Bi4O4S3 and (b) NdO0.5F0.5BiS2. Insets of both figures denoted an 
+enlarged view of Tc variation in the low temperature region under 
+various pressures. 
+ 
+The temperature dependence of electrical resistivity 
+shows 
+semiconducting 
+nature 
+before 
+it 
+becomes 
+superconductor at ambient pressure, and slowly changed 
+into metallic nature at a pressure of ~3.4 GPa. Further, 
+pressure dependence of Tc shows increasing trend upto 
+1.16 Gpa followed by decreasing trend for further increase 
+of pressure upto ~4 GPa. Summarily, our results on 
+temperature dependence of resistivity at various pressures 
+and pressure dependence of Tc show a similar trend upto 
+1.75 GPa, and consistence with the results reported by 
+Kotegawa et al.       
+At high pressure region above 1.31 GPa both 
+compounds found to display similar effect on Tc under 
+pressure, 
+see 
+Figs. 
+3(a)&(b). 
+Obviously, 
+the 
+3
+4
+5
+6
+7
+0.0
+1.2
+2.4
+3.6
+Tcoffset 
+Tcmid 
+Tconset ~ 4.6 K
+ 
+ 
+ (mcm)
+T (K)
+(b)
+0.00
+0.15
+0.30
+0.45
+ (mcm)
+Tcoffset 
+Tcmid  
+Tconset ~ 4.8 K
+ 
+ 
+ 
+(a)
+0
+15
+30
+45
+60
+0.0
+1.1
+2.2
+3.3
+4.0
+4.5
+5.0
+5.5
+6.0
+0.00
+0.75
+1.50
+2.25
+3.00
+3.75
+ 
+ 
+Tc 
+T (K)
+mcm)
+ 
+ 
+ 0 GPa
+ 0.29 GPa
+ 0.73 GPa
+ 1.02 GPa
+ 1.31 GPa
+ 1.75 GPa
+ 0 GPa
+ 0.29 GPa
+ 0.73 GPa
+ 1.02 GPa
+ 1.31 GPa
+ 1.75 GPa
+T (K)
+(mcm)
+ 
+ 
+(b)
+0.0
+0.2
+0.4
+0.6
+3.6
+4.2
+4.8
+5.4
+6.0
+0.00
+0.15
+0.30
+0.45
+0.60
+Tc 
+ 
+ 
+(mcm)
+T (K)
+ 0 GPa
+ 0.29 GPa
+ 0.73 GPa
+ 1.02 GPa
+ 1.46 GPa
+ 0 GPa
+ 0.29 GPa
+ 0.73 GPa
+ 1.02 GPa
+ 1.46 GPa
+ 
+ 
+(mcm)
+(a)
+
+
+ 
+ 
+ 
+ 
+superconductor with positive pressure coefficient 
+denotes an increase of density of charge carriers at the 
+Fermi surface, whereas negative pressure coefficient 
+on Tc meant a reduction of charge carriers at density of 
+states (DOS) [16]. At high pressure of 1.75 GPa the 
+magnitude of the normal state resistivity increases and 
+maintains the semiconducting nature before it becomes 
+superconductivity in NdO0.5F0.5BiS2 superconductor, 
+see Fig. 2(b). This may be accounted for an unstable 
+Fermi surface with respect to rate of change of carrier 
+concentration between conducting (BiS2) and 
+insulating (NdO/F) layers under pressure.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 Tc
+onset, Tc
+mid and Tc
+offset   vs applied pressure phase 
+diagram for (a) Bi4O4S3 and (b) NdO0.5F0.5BiS2. 
+ 
+To be honest, we are unable to judge the exact reasons 
+for the pressure dependence of Tc and mechanism of 
+superconductivity in BiS2 based novel superconductors 
+from our transport measurements under pressure. The 
+origin of such intellectual arguments arises due to less 
+number of high pressure measurements and review on BiS2 
+based superconducting materials. Though, to the best of 
+our knowledge, some other possible reasons may be 
+responsible for the reduction of Tc at high pressure: 1) a 
+structural distortions 2) collapsed volume phase [17], 3) a 
+strong hybridization of rare earth metal Nd3+ (4f) and post 
+transition metal Bi3+(6P) with localized electrons resulting 
+in a scattering of magnetic impurities 4) induced Kondo 
+effect at low temperature [18]. The detailed theoretical 
+work on DOS at high pressure and structural analysis by 
+high pressure X-ray diffraction and neutron diffraction 
+could be useful for better understanding of the change of Tc 
+at high pressure, and mechanism of Tc of these 
+superconducting materials.  
+In summary, we have carried out the temperature 
+dependence 
+high 
+pressure 
+electrical 
+resistivity 
+measurements up to ~1.8 GPa for BiS2 based Bi4O4S3 and 
+NdO0.5F0.5BiS2 novel layered superconductors. Also, we 
+have investigated the variation of Tc at different applied 
+pressures using four probe techniques. The Tc
+onset decreases 
+gradually from 4.8 K to 4.3 K in Bi4O4S3 for all the applied 
+pressures (0 to 1.4 GPa) and therefore it holds a negative 
+pressure coefficient of -0.287 K/GPa. Contrarily, the 
+pressure effect on Tc of NdO0.5F0.5BiS2 has positive 
+pressure coefficient where the Tc
+onset increases up to 1.31 
+GPa at a rate of 0.435 K/GPa and thereafter it reduces for 
+further enhancement of pressure becomes negative 
+coefficient (dTc
+onset/dP= -0.1714 K/GPa    K/GPa) on Tc at 
+high pressure of 1.75 GPa. The present results of 
+hydrostatic pressure studies on electrical resistivity of these 
+two BiS2 based superconductors from  vs T studies 
+suggest that the change of Tc and superconducting state 
+under pressure obtained for both compounds are to quite 
+different from each other. Further theoretical and other 
+experimental studies are required to understand the BiS2 
+based series of superconducting materials.  
+ 
+Acknowledgements The author S. Arumugam wishes to thank 
+DST (SERC, IDP, FIST) and UGC for the financial support.         
+G. Kalai Selvan would like to thank UGC- BSR for the 
+meritorious fellowship. M. Kanagaraj and S. Esakki Muthu, 
+acknowledge the CSIR for the fellowship. Rajveer Jha 
+acknowledges the CSIR for the senior research fellowship. This 
+research at NPL is supported by DAE-SRC outstanding 
+investigator scheme to work on search for new superconductors. 
+ 
+ 
+ 
+References 
+ 
+[1] J. B. Bednorz et al., Z. Phys. B 64, 189 (1986).  
+[2] L. Gao et al., Phys. Rev. B 50, 6 (1994). 
+[3] Y. Kamihara et al., J. Am. Chem. Soc. 130, 3296 (2008). 
+[4] G. F. Chen et al., Chin. Phys. Lett. 25, 2215 (2008). 
+[5] H. Takahashi et al., Nature. 453, 376 (2008). 
+[6] S. Medvedev et al., Nature Mater. 8, 630 (2009). 
+ [7] Y. Mizuguchi et al., Phys. Rev. B. 86, 220510 (2012). 
+[8] D. Yazici et al., Philosophical Magazine , DOI: 10.1080, 1–8  
+     (2012). Complete ? 
+[9] H. Usui et al., arXiv: 1207.3888 (2012). Complete ? 
+[10] Y. Mizuguchi et al., J. Phys. Soc. Jpn. 81, 114725 (2012). 
+[11] S. Demura et al., J. Phys. Soc. Jpn. 82, 033708 (2013). 
+[12] H. Kotegawa et al., J. Phys. Soc. Jpn. 81, 103702 (2012). 
+[13] R. Jha et al., J. Appl. Phys. 113, 056102 (2013) 
+[14] S. K. Singh et al., J. Am. Chem. Soc. 134, 16504 (2012). 
+[15] S. Arumugam et al., Phys. Status Solidi (RRL). 6, 5 (2012). 
+[16] K. Igawa et al., J. Phys. Soc. Jpn. 78, 025001 (2009). 
+[17] R. S. Kumar et al., Appl. Phys. Lett. 98, 012511 (2011). 
+[18] L. Pourovskii et al., Europhys. Lett. 84, 37006 (2008). 
+0.0
+0.4
+0.8
+1.2
+1.6
+4.2
+4.5
+4.8
+5.1
+  Tc
+onset
+ Tc
+mid
+ Tc
+offset
+Tc (K)
+P (GPa)
+ 
+ 
+(b)
+3.9
+4.2
+4.5
+4.8
+ 
+Tc (K)
+  Tc
+onset
+Tc
+mid
+Tc
+offset
+(a)
+
+

@@ -1,0 +1,13 @@
+{
+  "source_meta": {
+    "source_id": "1508.04820v1_v3_ext.txt",
+    "primary_material_family": "BiS2 (Theoretical)"
+  },
+  "extracted_samples": [],
+  "general_conclusions": [
+    "BiS2 presents a 'hidden' 1D electronic structure.",
+    "Sulfur s-orbital undergoes strong hybridization with Bismuth p-orbital.",
+    "Including s- and p-orbital pairs and intra/interband scattering yields results consistent with experiments.",
+    "Single-gap SC models do not produce acceptable results for this family."
+  ]
+}

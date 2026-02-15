@@ -1,0 +1,766 @@
+Fluorine solubility and superconducting properties of Sm(O,F)BiS2 single crystals 
+Koki Kinami1, Yuji Hanada1, Masanori Nagao1,*, Akira Miura2, Shigeto Hirai3, Yuki 
+Maruyama1, Satoshi Watauchi1, Isao Tanaka1 
+1University of Yamanashi, 7-32 Miyamae, Kofu, Yamanashi 400-0021, Japan 
+2Hokkaido University, Kita-13 Nishi-8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan 
+3School of Earth, Energy and Environmental Engineering, Kitami Institute of 
+Technology, 165 Koen-cho, Kitami, Hokkaido 090-8507, Japan 
+ 
+*Corresponding Author  
+Masanori Nagao  
+Postal address: University of Yamanashi, Center for Crystal Science and Technology 
+Miyamae 7-32, Kofu, Yamanashi 400-0021, Japan 
+Telephone number: (+81)55-220-8610 
+Fax number: (+81)55-254-3035 
+E-mail address: mnagao@yamanashi.ac.jp 
+ 
+
+
+Abstract 
+ Sm(O,F)BiS2 superconducting single crystals with various nominal F contents have 
+been grown using KI-KCl flux. The solid solution limit of F at the O-site in 
+Sm(O,F)BiS2 single crystals was approximately less than 20 at%. F concentrations of 
+Sm(O,F)BiS2 single crystals were hardly controlled by nominal F contents. It suggests 
+the existence of intrinsic stable phase. Superconductivity was shown at around 5 K. 
+Superconducting transition temperature with zero resistivity were increased with 
+increasing nominal F contents within less than 70 at% in O-site, despite similar F 
+concentration and c-axis lattice constants.  
+ 
+ 
+Keywords 
+A. Rare earth alloys and compounds, Superconductors; B. Crystal growth; C. 
+Anisotropy; D. NEXAFS, X-ray diffraction;  
+ 
+ 
+
+
+Main text 
+1. Introduction 
+Superconductors with high transition temperature (Tc) are composed of an alternate 
+stacking of a superconducting layer and a blocking layer structure, such as cuprate 
+superconductors [1-3], and iron-based superconductors [4,5]. R(O,F)BiS2 (R: rare earth 
+elements) superconductors also show similar stacking structure [6]. However, 
+superconducting transition exhibits low temperature which is 2-5 K range [7]. 
+Superconducting transition temperatures (Tc) of R(O,F)BiS2 are enhanced by chemical 
+pressure, which is induced by substituting R-site elements with lanthanoid elements of 
+smaller ion radii [7,8]. We focused on Sm substitution in R-site for R(O,F)BiS2, which 
+ionic radius is smaller than that of other lanthanoid elements, such as La, Ce, Pr and Nd 
+[6,9-11]. In consequence, Sm(O,F)BiS2 superconducting single crystals with 
+approximately 17 at% F substituted in O-site were successfully grown using KI-KCl 
+flux [12]. By G. S. Thakur at al., Sm(O,F)BiS2 single crystals were successfully grown 
+using CsCl-KCl flux [13]. In our experiment, exceedingly tiny Sm(O,F)BiS2 single 
+crystals with the size of less than 20 μm and impurity phases such as Bi2S3 were 
+
+
+obtained using CsCl-KCl flux. Perhaps, this reason is due to the molar ratio of 
+CsCl-KCl flux. The CsCl : KCl molar ratio of our experiment and G. S. Thakur at al. 
+experiment were 5 : 3 and 1 : 1, respectively. Our previous paper showed that 
+Sm(O,F)BiS2 single crystals had been grown using KI-KCl flux [12]. Therefore, we 
+employed KI-KCl flux for Sm(O,F)BiS2 single crystals growth.  
+In this paper, we are interested in the relationship between F contents and 
+superconducting properties for Sm(O,F)BiS2 single crystals. We report the growth of 
+Sm(O,F)BiS2 single crystals with various nominal F contents. Analytical compositions, 
+c-axis lattice constants and superconducting properties of the obtained Sm(O,F)BiS2 
+single crystals with various nominal F contents are investigated.  
+ 
+2. Material and methods 
+  Sm(O,F)BiS2 single crystals were grown by using KI-KCl flux. The raw materials: 
+Sm2S3 (99.9 % : Mitsuwa Chemicals Co., Ltd.), Bi2S3 (99.99 % : Kojundo Chemical 
+Lab. Co., Ltd.), Bi2O3 (99.9 % : Kojundo Chemical Lab. Co., Ltd.), BiF3 (99.99 % : 
+Rare Metallic Co., Ltd.), and Bi (99.999 % : Rare Metallic Co., Ltd.) were weighted to 
+
+
+achieve the nominal composition of SmO1-xFxBiS2 (x = 0.2-0.8). The molar ratio of the 
+KI-KCl flux was KI:KCl = 3:2 using KI (99.5 % : Kanto Chemical Co., Inc.) and KCl 
+(99.5 % : Kanto Chemical Co., Inc.). The mixture of raw materials (0.8 g) and KI-KCl 
+flux (5.0 g) were ground using a mortar and pestle, and then sealed into an evacuated 
+quartz tube (~10 Pa). The quartz tube was heated at 700 °C for 10 h, and subsequently 
+cooled to 600 °C at the rate of 0.5 °C/h. Then, the sample was cooled to room 
+temperature, while still in the furnace. The heated quartz tube was then opened in air, 
+and the obtained materials were washed and filtered using distilled water to remove the 
+KI-KCl flux. Single crystals growth condition except to the F contents is same to 
+previous reports [12].  
+X-ray diffraction (XRD, MultiFlex, Rigaku) using Cu Kα radiation was employed to 
+identify the crystal structure and determine their orientation. The lattice constants were 
+determined using X-ray diffraction with a two dimensional detector (Bruker D8). The 
+compositional ratio of the obtained Sm(O,F)BiS2 single crystals was evaluated using 
+energy dispersive X-ray spectrometry (EDS, Quantax 70, Bruker), and the 
+microstructure was observed using scanning electron microscopy (SEM) (Hitachi 
+
+
+High-Technologies, TM3030). The obtained compositional values were normalized 
+using the atomic content of S =2.00, while Sm and Bi were measured. On the other 
+hand, the atomic ratio of O and F was determined using electron probe microanalysis 
+(EPMA, JXA-8200, JEOL). Those standard samples were Bi2O3 and PbF2 for O and F, 
+respectively. The number of analyzed points was around three to five in the crystal. The 
+estimated values were normalized using the atomic content of O + F = 1.00. Atomic 
+content of each element is defined as CXX (XX: symbol of element). In particular, the 
+normalized analytical F content is defined as “y” which was same meaning of CF. 
+Actually, F contents were dramatically different between nominal and analytical 
+composition, which were defined as “x” and “y”, respectively.  
+The valence states of the Sm components in the obtained single crystals were 
+estimated by X-ray absorption spectroscopy (XAS) analysis of Sm-L3 edges using an 
+Aichi XAS beam-line with a synchrotron X-ray radiation (BL05S1: Experimental 
+No.201905108).  
+The resistivity-temperature (ρ-T) characteristics of the obtained single crystals were 
+measured using the standard four-probe method, in constant current density (J) mode, 
+
+
+employing the physical property measurement system (PPMS DynaCool, Quantum 
+Design). 
+The 
+electrical 
+terminals 
+were 
+fabricated 
+using 
+Ag 
+paste. 
+The 
+superconductivity-onset temperature (Tc
+onset) is defined as the temperature where the 
+normal conducting state deviates from linear behavior in the ρ-T characteristics. The 
+zero-resistivity critical temperature (Tc
+zero) is defined as the temperature at which 
+resistivity is lower than 20 μΩcm. The Tc
+onset with applied various magnetic fields were 
+measured from the ρ-T characteristics under a magnetic fields (H) perpendicular to the 
+c-axis and parallel to the c-axis with range of 0.1-9.0 T, and then the upper critical field 
+values of each magnetic fields direction, H┴c-axis
+C2 and H//c-axis
+C2 were estimated from the 
+linear extrapolations of those Tc
+onset data. The superconducting anisotropy (γs) was 
+calculated from two kinds of methods which were ratio of upper critical field (H┴c-axis
+C2 
+and H//c-axis
+C2) and effective mass model [14-16].  
+ 
+3. Results and discussion 
+The single crystals of Sm(O,F)BiS2 were grown, only in the range of x = 0.3-0.8 of 
+SmO1-xFxBiS2. We tried to grow the x = 0.2 sample. However, the Sm(O,F)BiS2 single 
+
+
+crystals were not obtained, whereas Bi2S3 crystals and Sm-O-S-F impurities (Note: The 
+typical atomic composition of Sm-O-S-F impurity was detected to be roughly Sm:O:S = 
+2:1:1 with included small amount fluorine by EDS analysis. However, this impurity 
+phase could not be identified.) were synthesized. Figure 1 shows a typical SEM image 
+of Sm(O,F)BiS2 single crystals. The obtained Sm(O,F)BiS2 single crystals have a 
+platy-shape with size of 0.3-0.5 mm and thickness of 10-20 μm, and side faces are 
+ill-defined. According to XRD data, c-plane is well-developed. In other words, the 
+grown crystals have the c-axis perpendicular to the c-plane. The a-axis lattice constants 
+were also tried to measure using X-ray diffraction with a two dimensional detector. 
+However, they were not able to be estimated due to their particularly thin character 
+along the a-axis direction in the obtained single crystals. X-ray powder diffraction was 
+also tried using the crushed Sm(O,F)BiS2 single crystals. However, reactions yield of 
+Sm(O,F)BiS2 single crystals was a few mass% which was too little amount for X-ray 
+powder diffraction measurement. Main phase, analytical compositions and c-axis lattice 
+constants of the obtained single crystals are listed in Table I. The atomic ratios of Sm, 
+Bi and S approximately corresponded with nominal compositions in all samples, 
+
+
+respectively. K, I and Cl from the flux were not detected in the single crystals at the 
+minimum sensitivity limit of 0.1 wt%. On the other hand, averaged values of analytical 
+F contents (y) of x = 0.3 and x = 0.4-0.8 were y = 0.13 and y = 0.16-0.19, respectively 
+(Table I). This result suggests that the solid solution limit of F at the O site is 
+approximately less than 20 at% in the Sm(O,F)BiS2 single crystals. On the other hand, 
+the lower limit of F may be approximately 13 at%. However, those values have a large 
+margin of error using EPMA, and then analytical F contents of the all samples become 
+same within the error range. Moreover, differences of the c-axis lattice constants in all 
+samples were not observed within the error range. These results suggest that 
+approximately 20 at% F substituted Sm(O,F)BiS2 has possibility to be of intrinsic stable 
+phase. Therefore, F concentrations and c-axis lattice constants of Sm(O,F)BiS2 single 
+crystals are hardly controlled by nominal F contents.  
+Then, the valence states of the Sm components in the obtained single crystals were 
+evaluated by XAS. Figure 2 shows the Sm L3-edge absorption spectra of the 
+Sm(O,F)BiS2 single crystals with x = 0.3 and 0.5 at room temperature obtained by XAS 
+analysis. Sm L3-edge showed a peak at 6719 eV, which can be assigned to a trivalent 
+
+
+electronic configuration (Sm3+). This is consistent with the other XAS results for Sm3+ 
+[17]. The associated absorption-edge spectra of both samples (x = 0.3 and 0.5) show 
+similar peak shape. This result suggests the same valence state that is characteristic for 
+mainly trivalent electronic configuration (Sm3+).  
+The temperature dependence of the electrical resistivity (ρ-T) for obtained 
+Sm(O,F)BiS2 single crystals were shown in Figure 3. All samples exhibited metallic 
+behavior, and superconductivity was shown at around 4.5 K. Superconducting transition 
+temperatures with zero resistivity (Tc
+zero) are increased with increasing nominal F 
+contents within less than x = 0.7, and then shift to decrease within more than x = 0.8. 
+The superconducting transition temperatures within x = 0.3-0.8 range changed despite 
+similar analytical F contents and c-axis lattice constants. If superconducting transition 
+temperatures of those samples were the same, they should decrease with increasing the 
+measurement current densities (J). However, those superconducting transition 
+temperatures have no clear relation with the experimental current densities (J) which 
+were shown in Table II. Therefore, the change of superconducting transition 
+temperatures may be originated from other properties of the obtained single crystals. 
+
+
+For comparison, the superconducting transition width with x = 0.5, 0.7 and 0.8 are 
+broader than those of x = 0.3, 0.4 and 0.6. The main reason for this observation could be 
+the inhomogeneous F distribution in the single crystals. More specifically, these results 
+indicate that superconducting transition temperatures are depended on the nominal F 
+contents. At this moment, the origin of various superconducting transition temperature 
+is unclear. Although, we predict that a-axis lattice constants or crystallinity are 
+dominant in superconducting transition temperature for Sm(O,F)BiS2 single crystals.  
+The ρ-T characteristics of the obtained Sm(O,F)BiS2 single crystals with x = 0.3 below 
+10 K under magnetic fields (H) of 0.1-9.0 T, which were perpendicular to the c-axis (H 
+┴ c-axis) and parallel to the c-axis (H // c-axis) are presented in Figs. 4(a) and (b), 
+respectively. The suppression of superconducting transition temperature under the effect 
+of H // c-axis was more significant than that attributed to the H ┴ c-axis. Tc
+onset was 
+estimated from Fig. 4, and the field dependences of Tc
+onset under the effects of the H ┴ 
+c-axis and H // c-axis are plotted in Fig. 5. From the linear extrapolations of the Tc
+onset 
+data, the upper critical field values, H┴c-axis
+C2 and H//c-axis
+C2, were predicted to be 35 and 
+1.1 T, respectively. The upper critical field values of another nominal F contents 
+
+
+samples were also estimated using same way. The upper critical field values of each 
+magnetic fields direction, H┴c-axis
+C2 and H//c-axis
+C2 for all samples were estimated to be 
+29-43 T and 1.0-1.4 T, respectively. These results indicate that the obtained 
+Sm(O,F)BiS2 single crystals exhibit high superconducting anisotropy. We determined 
+the superconducting anisotropy (γs) using the ratio of upper critical field (H┴c-axis
+C2 
+divided by H//c-axis
+C2) or an effective mass model [14]. γs was calculated by the upper 
+critical fields according to Eq. (1):  
+γs = H┴c-axis
+C2/H//c-axis
+C2.            (1) 
+On the other hand, γs was also evaluated using the effective mass model [14]. The 
+angular (θ) dependence of resistivity (ρ) was measured at various magnetic fields (H) 
+values in the vertices liquid state to estimate γs of the obtained single crystals [15,16]. 
+The reduced field (Hred) was evaluated using Eq. (2) for the effective mass model: 
+Hred = H(sin2θ + γs
+-2cos2θ)1/2,          (2) 
+where θ is the angle between the c-plane and magnetic field [14]. The γs value was 
+estimated using the best scaling of the graph illustrating the ρ-Hred relationship. Figure 
+6(a) shows the angular (θ) dependence of resistivity (ρ) at various magnetic fields (H = 
+
+
+0.1-9.0 T) in vertices liquid state (3 K) for the grown Sm(O,F)BiS2 single crystal with x 
+= 0.3. The ρ-θ curve exhibited almost two-fold symmetry. The ρ-Hred scaling obtained 
+from Fig. 6(a) using Eq. (2) is presented in Fig. 6(b). The best scaling was obtained for 
+γs = 20, as shown in Fig. 6(b). However, this plot was deviated from the scaling at 
+higher magnetic fields. The γs from effective mass model of another nominal F contents 
+samples were also evaluated using the same way, and then they exhibited similar 
+behavior. For the obtained Sm(O,F)BiS2 single crystals, γs values from the ratio of upper 
+critical fields were estimated as higher than those obtained from effective mass model. 
+These values were shown in Table II. The γs values showed the same trend as in the 
+previous report [12]. Measurement current densities (J), superconducting transition 
+temperature (Tc
+onset and Tc
+zero), upper critical fields (H┴c-axis
+C2 and H//c-axis
+C2) and 
+superconducting anisotropies γs (determined from upper critical field and effective mass 
+model) are listed in Table II. In a conventional (BCS-like) superconductor at the 
+weak-coupling limit, the Pauli limit (Hp) is calculated to be 9.2-10.1 T, since Hp = 1.84 
+Tc, (Tc
+onset = 5.0-5.5 K) [18]. Thus, the upper critical field in the c-plane (H┴c-axis
+C2 = 
+29-46 T) is significantly higher than the Pauli limit (Hp = 9.2-10.1 T), indicating the 
+
+
+possibility of an unconventional superconductor. On the other hand, the upper critical 
+fields and superconducting anisotropies have no observed correlations within x = 
+0.3-0.8 range, but the values of those superconducting parameters exhibited some 
+differences. The obtained chemical state such as c-axis lattice constants and analytical F 
+contents were similar within those nominal F contents ranges. The origin of the 
+differences of those superconducting parameters among each nominal sample F 
+contents may be other chemical parameters. At a minimum, analytical F contents had 
+similar value which was approximately 20 at%. It strongly suggests the possibility of 
+the existence of intrinsic stable phase for Sm(O,F)BiS2. Thus this predicts that 
+approximately 20 at% F substituted structure is fairly stable phase in Sm(O,F)BiS2 
+single crystals. However, the proposition of the relationship between superconducting 
+properties and chemical states for Sm(O,F)BiS2 single crystals was also given. Further 
+characterizations of Sm(O,F)BiS2 single crystals are therefore necessary to clarify this 
+proposition. Additional investigations such as a-axis lattice constants and elemental 
+deficiency are also required.  
+ 
+
+
+4. Conclusions 
+ We have successfully grown Sm(O,F)BiS2 single crystals with the nominal 
+compositions of SmO1-xFxBiS2 (x = 0.3-0.8) using KI-KCl flux. The solid solution limit 
+of F at the O site is approximately less than 20 at%. The difference of c-axis lattice 
+constants could not be observed in the all samples. But analytical F contents were 
+similar value which was approximately 20 at% F substitution in O-site. Therefore, 
+Sm(O,F)BiS2 with approximately 20 at% F substitution has possibility to be of intrinsic 
+stable phase. In consequence, F concentrations and c-axis lattice constants are hardly 
+controlled by nominal F contents. On the other hand, the peak shape of associated 
+absorption-edge spectra for Sm was almost the same between x = 0.3 and 0.5, which 
+was mainly trivalent electronic configuration (Sm3+). Superconducting transition 
+temperature were increased with increasing nominal F contents within less than x = 0.7 
+despite similar chemical properties. The upper critical fields and superconducting 
+anisotropies showed no remarkable tendencies regardless of the various nominal F 
+contents within x = 0.3-0.8 range. However, values of those superconducting parameters 
+exhibited some differences. Those observations may be originated from other chemical 
+
+
+parameters such as a-axis lattice constants, elemental deficiency and so on.  
+ 
+Acknowledgments 
+The XAS experiments were conducted at the BL05S1 of Aichi Synchrotron Radiation 
+Center, Aichi Science & Technology Foundation, Aichi, Japan (Experimental 
+No.201905108). This research was partially supported by Grants-in-Aid for Scientific 
+Research (C) (JSPS KAKENHI Grant Number JP19K05248).  
+ 
+
+
+References 
+[1] J. G. Bednorz, and K. A.   lle , Possible high Tc superconductivity in the 
+Ba−La−Cu−O system, Z. Phys. B: Condens. Matter, 64 (1986) 189-193. 
+https://doi.org/10.1007/BF01303701.  
+[2] M. K. Wu, J. R. Ashburn, C. J. Thorng, P. H. Hor, R. L. Meng, L. Gao, Z. J. Huang, 
+Y. Q. Wang, and C. W. Chu, Superconductivity at 93 K in a new mixed-phase 
+Y-Ba-Cu-O compound system at ambient pressure, Phys. Rev. Lett., 58 (1987) 908-910. 
+https://doi.org/10.1103/PhysRevLett.58.908.  
+[3] H. Maeda, Y. Tanaka, M. Fukutomi, and T. Asano, A New High-Tc Oxide 
+Superconductor without a Rare Earth Element, Jpn. J. Appl. Phys., 27 (1988) 
+L209-L210. https://doi.org/10.1143/JJAP.27.L209.  
+[4] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, Iron-Based Layered 
+Superconductor La[O1-xFx]FeAs (x = 0.05−0.12) with Tc = 26 K, J. Am. Chem. Soc., 
+130 (2008) 3296-3297. https://doi.org/10.1021/ja800073m.  
+
+
+[5] X. H. Chen, T. Wu, G. Wu, R. H. Liu, H. Chen, and D. F. Fang, Superconductivity 
+at 
+43K 
+in 
+SmFeAsO1-xFx, 
+Nature, 
+453 
+(2008) 
+761-762. 
+https://doi.org/10.1038/nature07045.  
+[6] Y. Mizuguchi, S. Demura, K. Deguch, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, 
+and O. Miura, Superconductivity in Novel BiS2-Based Layered Superconductor 
+LaO1-xFxBiS2, 
+J. 
+Phys. 
+Soc. 
+Jpn., 
+81 
+(2012) 
+114725. 
+https://doi.org/10.1143/JPSJ.81.114725.  
+[7] M. Nagao, Growth and characterization of R(O,F)BiS2 (R = La, Ce, Pr, Nd) 
+superconducting single crystals, Novel Supercond. Mater., 1 (2015) 64-74. 
+https://doi.org/10.1515/nsm-2015-0007. 
+[8] Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, O. Miura, K. Tadanaga, N. Kumada, 
+E. Magome, C. Moriyoshi, and Y. Kuroiwa, In-plane chemical pressure essential for 
+superconductivity in BiCh2-based (Ch: S, Se) layered structure, Sci. Rep., 5 (2015) 
+14968. https://doi.org/10.1038/srep14968.  
+
+
+[9] J. Xing, S. Li, X. Ding, H. Yang, and H-H. Wen, Superconductivity appears in the 
+vicinity of semiconducting-like behavior in CeO1-xFxBiS2, Phys. Rev. B, 86 (2012) 
+214518. https://doi.org/10.1103/PhysRevB.86.214518.  
+[10] R. Jha, A. Kumar, S. Kumar Singh, and V. P. S. Awana, Synthesis and 
+Superconductivity of New BiS2 Based Superconductor PrO0.5F0.5BiS2, J. Supercond. 
+Novel Magn., 26 (2013) 499-502. https://doi.org/10.1007/s10948-012-2097-9.  
+[11] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. 
+Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. 
+Takeya, and Y. Takano, New Member of BiS2-Based Superconductor NdO1-xFxBiS2, J. 
+Phys. Soc. Jpn., 82 (2013) 033708. https://doi.org/10.7566/JPSJ.82.033708.  
+[12] K. Kinami, Y. Hanada, M. Nagao, A. Miura, Y. Goto, Y. Maruyama, S. Watauchi, 
+Y. Takano, and I. Tanaka, Growth of Superconducting Sm(O,F)BiS2 Single Crystals, 
+Cryst. Growth Des., 19 (2019) 6136-6140. https://doi.org/10.1021/acs.cgd.9b00451.  
+[13] G. S. Thakur, G. K. Selvan, Z. Haque, L. C. Gupta, S. L. Samal, S. Arumugam, and 
+
+
+A. K. Ganguli, Synthesis and Properties of SmO0.5F0.5BiS2 and Enhancement in Tc in 
+La1–ySmyO0.5F0.5BiS2, 
+Inorg. 
+Chem., 
+54 
+(2015) 
+1076–1081. 
+https://doi.org/10.1021/ic5023938.  
+[14] G. Blatter, V. B. Geshkenbein, and A. I. Larkin, From isotropic to anisotropic 
+superconductors: A scaling approach, Phys. Rev. Lett., 68 (1992) 875–878. 
+https://doi.org/10.1103/PhysRevLett.68.875.  
+[15] Y. Iye, I. Oguro, T. Tamegai, W. R. Datars, N. Motohira, K. Kitazawa, Anisotropy 
+of 
+Bi2Sr2CaCu2O8+y 
+revisited, 
+Physica 
+C, 
+199 
+(1992) 
+154-160. 
+https://doi.org/10.1016/0921-4534(92)90554-P.  
+[16] H. Iwasaki, O. Taniguchi, S. Kenmochi, and N. Kobayashi, Anisotropic behavior of 
+superconductivity in Y1−xPrxBa2Cu3Oy films, Physica C, 244 (1995) 71-77. 
+https://doi.org/10.1016/0921-4534(95)00034-8.  
+[17] A. Yamada, R. Higashinaka, K. Fushiya, T. Asano, T. D. Matsuda, M. Mizumaki, S. 
+Tsutsui, K. Nitta, T. Ina, T. Uruga, and Y. Aoki, Mixed valence states in 
+(SmxLa1-x)Tr2Al20 (Tr = Ti and Ta) studied using X-ray absorption spectroscopy, J. 
+Phys.: Conf. Ser., 683 (2016) 012020. https://doi.org/10.1088/1742-6596/683/1/012020.  
+
+
+[18] Y. Lu, T. Takayama, A. F. Bangura, Y. Katsura, D. Hasizume, and H. Takagi, 
+Superconductivity at 6 K and the Violation of Pauli Limit in Ta2PdxS5, J. Phys. Soc. Jpn., 
+83 (2014) 023702. https://doi.org/10.7566/JPSJ.83.023702.  
+ 
+ 
+
+
+Figure captions 
+Figure 1. Typical SEM image of Sm(O,F)BiS2 single crystal.  
+ 
+Figure 2 (Color online). XAS spectra at room temperature for the obtained 
+Sm(O,F)BiS2 single crystals with x = 0.3, 0.5 and standard valence samples at the Sm 
+L3-edge.  
+ 
+Figure 3 (Color online). (a) Temperature dependencies of the electrical resistivity for 
+obtained Sm(O,F)BiS2 single crystals. (b) Enlargement of superconducting transition in 
+the temperature range of 3-6 K, normalized with resistivity at 6 K.  
+ 
+Figure 4. Temperature dependence of resistivity for the Sm(O,F)BiS2 single crystal with 
+x = 0.3 under the magnetic fields (H) of 0.1-9.0 T (a) perpendicular to the c-axis (H ┴ 
+c-axis) and (b) parallel to the c-axis (H // c-axis).  
+ 
+Figure 5. Date in figure 4 after plotting of field dependences of Tc
+onset under the 
+
+
+magnetic fields (H) perpendicular to the c-axis (H ┴ c-axis) and parallel to the c-axis (H 
+// c-axis) The lines are linear fits to the date.  
+ 
+Figure 6. (a) Angular θ dependence of resistivity ρ for the Sm(O,F)BiS2 single crystal 
+with x = 0.3 in vertices liquid state (3 K) at various magnetic fields (0.1-9.0 T). (b) Date 
+in figure 6 (a) after best scaling of angular θ dependence of resistivity ρ at a reduced 
+magnetic field of Hred = H(sin2θ + γs
+-2cos2θ)1/2.  
+ 
+ 
+ 
+ 
+
+
+ 
+Table I. Main phase, analytical compositions and c-axis lattice constants of the obtained 
+single crystals grown from the nominal compositions of SmO1-xFxBiS2.  
+x 
+0.2 
+0.3 
+0.4 
+0.5 
+0.6 
+0.7 
+0.8 
+Phase 
+Bi2S3 
+Sm(O,F)BiS2 
+CF ( = y) 
+--- 
+0.13±0.02 
+0.18±0.00 
+0.16±0.04 
+0.19±0.07 
+0.19±0.06 
+0.19±0.05 
+CSm 
+--- 
+1.06±0.11 
+1.00±0.09 
+1.05±0.04 
+1.04±0.03 
+0.99±0.12 
+1.02±0.04 
+CBi 
+--- 
+0.99±0.02 
+0.97±0.04 
+0.96±0.03 
+0.95±0.02 
+0.98±0.04 
+0.95±0.04 
+CS 
+--- 
+2.00 
+c-axis (Å) 
+--- 
+13.43±0.03 13.42±0.02 13.42±0.03 13.42±0.02 13.42±0.02 13.42±0.02 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Table II. Experimental current densities (J) and superconducting properties (Tc, HC2, and 
+γs) of the obtained single crystals grown from the nominal compositions of 
+SmO1-xFxBiS2.  
+ 
+ 
+F  
+x 
+0.3 
+0.4 
+0.5 
+0.6 
+0.7 
+0.8 
+y 
+0.13±0.02 0.18±0.00 0.16±0.04 0.19±0.07 0.19±0.06 0.19±0.05 
+J (A/cm2) 
+5.66 
+2.83 
+5.21 
+1.36 
+2.68 
+2.71 
+Tc (K) 
+onset 
+5.0 
+5.2 
+5.5 
+5.5 
+5.5 
+5.3 
+zero 
+4.2 
+4.2 
+4.4 
+4.7 
+4.7 
+4.4 
+Hc2 (T) 
+H┴c-axis 
+35 
+46 
+29 
+43 
+34 
+37 
+H//c-axis 
+1.1 
+1.4 
+1.1 
+1.1 
+1.3 
+1.0 
+γs 
+ratio of Hc2 
+32 
+33 
+26 
+39 
+26 
+37 
+effective mass 
+20 
+20 
+10 
+35 
+20 
+15 
+
+
+ 
+ 
+ 
+ 
+Figure 1. 
+100 μm 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6650
+6700
+6750
+6800
+Normalized absorption (arbitrary unit)
+Energy (eV)
+Sm3+
+●:Sm2S3
+●:x=0.5 (y=0.16)
+●:x=0.3 (y=0.13)
+Figure 2 (Color online). 
+
+
+ 
+ 
+ 
+0
+4
+8
+12
+16
+0
+50
+100
+150
+200
+250
+300
+Temperature (K)
+Figure 3 (Color online). 
+(a) 
+(b) 
+0
+0.2
+0.4
+0.6
+0.8
+1
+3
+4
+5
+6
+Temperature (K)
+x=0.3 (y=0.13)
+x=0.5 (y=0.16)
+●
+●
+●
+●x=0.8 (y=0.19)
+x=0.7 (y=0.19)
+x=0.4 (y=0.18)
+●
+●x=0.6 (y=0.19)
+(6 K)
+J ┴ c-axis 
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+0
+2
+4
+6
+8
+10
+0.1 T
+9.0 T
+Temperature (K)
+ 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+0
+2
+4
+6
+8
+10
+0.1 T
+9.0 T
+Temperature (K)
+Figure 4. 
+(a) 
+(b) 
+H ┴ c-axis 
+J ┴ c-axis 
+J = 5.66 A/cm2 
+H // c-axis 
+J ┴ c-axis 
+J = 5.66 A/cm2 
+
+
+ 
+ 
+ 
+Figure 5. 
+0
+10
+20
+30
+40
+0
+1
+2
+3
+4
+5
+6
+Temperature (K)
+Tc
+onset (H // c-axis) 
+Tc
+onset (H ┴ c-axis) 
+H┴c-axis
+C2 = 35 T 
+H//c-axis
+C2 = 1.1 T 
+
+
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+0.01
+0.1
+1
+10
+Hred (T)
+Figure 6. 
+(a) 
+(b) 
+0
+1
+2
+3
+4
+5
+6
+7
+-45
+0
+45
+90
+135
+180
+225
+0.1 T
+9.0 T
+ (deg.)
+H // c-axis 
+H // c-plane 
+(H ┴ c-axis) 
+H // c-plane 
+(H ┴ c-axis) 
+J ┴ c-axis 
+J = 5.66 A/cm2 
+at 3.0 K 
+γs = 20 
+
+

@@ -1,0 +1,293 @@
+Pressure-induced phase transition for single crystalline LaO0.5F0.5BiSe2 
+ 
+Masaya Fujioka1,a), Masashi Tanaka1, Saleem J. Denholme1, Takuma Yamaki1,2, 
+Hiroyuki Takeya1, Takahide Yamaguchi1, and Yoshihiko Takano1,2 
+ 
+1 National Institute for Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan 
+2University of Tsukuba, 1-1-1Tennodai, Tsukuba, Ibaraki 305-0001, Japan 
+We have demonstrated a pressure-induced phase transition from a low-Tc phase to a high-Tc phase in a 
+single crystal of the superconductor LaO0.5F0.5BiSe2. The high-Tc phase appears at 2.16 GPa and the 
+maximum superconducting transition temperature (Tc) is observed at 6.7 K under 2.44 GPa. Although 
+the anisotropy (γ) for the low-Tc phase is estimated to be 20, it is reduced by around half (9.3) in the 
+high-Tc phase. This tendency is the same for the BiS2 system. The Tc of LaO0.5F0.5BiSe2 has continued to 
+increase up to the maximum pressure of this study (2.44 GPa). Therefore applied further pressure has the 
+potential to induce a much higher Tc in this system. 
+_____________________________ 
+a) Author to whom correspondence should be addressed.  Electronic mail: FUJIOKA.Masaya@nims.go.jp  
+ 
+ 
+ 
+
+
+2 
+ 
+Recently, a series of BiS2-based superconductor such as Bi4O4S3
+1, LnO1-xFxBiS2 (Ln = La, Ce, Pr, Nd, 
+Yb) 2-8 and Sr1-xFxBiS2
+ 9,10 were discovered. These compounds have a layered structure composed of 
+superconducting BiS2 layer and charge reservoir blocking layers. This structure is in common with the 
+cuprate superconductors 11 and Fe-based superconductors 12. The most attractive point of LnO1-xFxBiS2 is 
+the pressure induced phase transition from a low-Tc phase to a high-Tc phase2, 13-16.  For instance, the Tc 
+of LaO0.5F0.5BiS2, which was synthesized by a conventional solid state reaction, is obtained at only 3 K. 
+On the other hand, the Tc largely increases above 10 K by using high pressure synthesis. Furthermore, 
+even if the sample is prepared by using a conventional solid state reaction method, high pressure 
+measurements can enhance the Tc above 10 K 16. Very recently, we have reported the pressure induced 
+phase transition for the single crystalline PrO0.5F0.5BiS2 17. From this study, it was found that the 
+semiconducting-like behavior in low-Tc phase changes to the metallic behavior and the γ is reduced by 
+around half after the phase transition.  
+The modification of superconducting and blocking layers is one of the promising approaches to 
+discover new superconducting materials 18. Polycrystalline LaO0.5F0.5BiSe2 was discovered by the 
+replacement of the BiS2 superconducting layers in LaO1-xFxBiS2 to the BiSe2 layers 19. In such a material 
+whether the pressure induced phase transition can be observed or not is a point of interest. Also it will 
+provide useful information to know the mechanism of emergence for the high-Tc phase. In previous 
+research, we have succeeded in preparing single crystalline LaO0.5F0.5BiSe2 and performing structural 
+analysis of this compound 20. According to our previous study on PrO0.5F0.5BiS2
+17, it was found that 
+applying uniaxial pressure to single crystals effectively induces the high-Tc phase. Also, measurements 
+using single crystals are suitable to investigate the intrinsic properties of these materials. In this research, 
+we investigated the pressure induced phase transition of single crystalline LaO0.5F0.5BiSe2. 
+The single crystals were prepared by the CsCl flux method. The details of characterization are shown 
+in ref. 20. All described fluorine content in this article is the nominal amount. X-ray diffraction (XRD) 
+
+
+3 
+ 
+measurement showed that the single crystals were highly oriented to the c-axis as shown in Fig.1. The c 
+lattice parameter was estimated to be 1.414(4) nm. Electrical resistivity was measured by a physical 
+properties measurement system (PPMS) under varying pressures up to a maximum of 2.44 GPa. The 
+measurement was performed by a standard four-probe method from 300 K to 2 K in a piston-cylinder-
+type pressure cell. The measured sample was formed into rectangles with dimensions of around 1.3 × 
+0.4 × 0.02 mm2. Since the thickness (20 μm) is smaller compared to the other dimensions, therefore the 
+actual applied pressure should be almost uniaxial along the c-axis, despite the fact that we are using a 
+hydrostatic pressure technique. This relationship between sample configuration and anisotropic pressure 
+has been demonstrated previously in ref.21. The resistivity measurements were performed under several 
+magnetic fields with directions both parallel to the ab plane (H//ab) and c axis (H//c), under 1.17 and 
+2.44 GPa.  
+The temperature dependence of resistivity for LaO0.5F0.5BiSe2 under various pressures is shown in 
+figure 2 (a) and (b). The data points at ambient pressure were noisy due to poor contact resistance, but 
+was improved by applied pressure. In this study, Tc
+onset and Tc
+zero were regarded as described in figure 2 
+(b). The resistivity at ambient pressure and 0.76 GPa starts to decrease at 3.4 K and a second drop is 
+observed at 2.4 K. Although the zero resistivity was not obtained at ambient pressure, Tc
+zero appeared at 
+2.2 K under 0.76 GPa. Additionally, a small hump at around 40 K is observed at ambient pressure and 
+0.76 GPa. This hump was also confirmed in our previous report 22. When increasing pressure up to 1.17 
+GPa, it completely disappears. However, even though the pressure increases up to 2.16 GPa, Tc
+zero does 
+not increase above 2.7 K. On the other hand, at 2.16 GPa, the resistivity starts to drop at 6.3 K and 
+shows a step like behavior. This means that some of parts in the sample form the high-Tc phase. For 
+further pressure up to 2.44 GPa, the Tc
+onset clearly appears at 6.7 K and the Tc
+zero suddenly increases up to 
+5 K. From this figure, it is expected that the drop of resistivity at around 3 K corresponds to the low-Tc 
+phase, and the high-Tc phase is obtained at around 7 K. However, under ambient pressure and 0.76 GPa, 
+
+
+4 
+ 
+another drop of resistivity is also observed at 2 K. This may be due to the inhomogeneous fluorine 
+concentration, or a local distortion for the extreme thinness of the sample. 
+In this measurement, we confirmed the discontinuous increase in Tc of LaO0.5F0.5BiSe2, as was also 
+observed with the BiS2 system. Therefore, regardless of whether the superconducting layers are made up 
+of sulfur or selenium, a pressure induced phase transition occurs. Furthermore, in the high-Tc phase, the 
+BiS2 and BiSe2 systems show similar behavior. Namely, the resistivity in the normal conducting state of 
+the high-Tc phase gradually increases with increasing applied pressure17. On the other hand, in the low-
+Tc phase, although the BiS2 system shows semiconducting-like behavior, the metallic behavior is 
+observed in the BiSe2 system.  
+The temperature dependences of resistivity under magnetic field along the c-axis and the ab plane 
+were measured as shown in figure 3 (a)-(d). When the magnetic field is parallel to the c axis, 
+superconductivity is drastically suppressed with increasing magnetic field. This is typical behavior 
+observed in superconductors with a layered structure. Figure 4 shows the upper critical field (Hc2) versus 
+temperature for the low- and high-Tc phase. To estimate the Hc2, 90 % of resistivity at Tc
+onset is adopted 
+as a criterion. In this article, Hc2 obtained from magnetic field H//ab and H//c are described as Hc2
+//ab and 
+Hc2
+//c respectively. In addition, the γ, the coherence length at 0 K along the c axis (ξc (0)) and the ab-
+plane (ξab (0)) are estimated from figure 4 by using following formula: γ = Hc2
+//ab / Hc2
+//c, Hc2
+//c = 
+Φ0/2πξab
+2(0) and Hc2
+//ab = Φ0/2πξab(0) ξc(0), where Φ0 is flux quantum. Obtained these superconducting 
+parameters in low- and high-Tc phase are summarized in table I.  
+Although the γ for the low-Tc phase is estimated to be 20, it is reduced by around half (9.3) in the 
+high-Tc phase. This tendency is the same as in the BiS2 system19.  As mentioned above, the BiS2 and the 
+BiSe2 systems showed very similar behavior under high pressure. It is suggested that these materials 
+exhibit the same mechanism for the pressure induced phase transition. In the previous study of 
+LaO0.5F0.5BiS2, a pressure induced structural transition from tetragonal phase (P4/nmm) to monoclinic 
+
+
+5 
+ 
+phase (P21/m) was suggested from XRD analysis under high pressure 16. Such a kind of structural 
+transition is one of the possible explanations for the pressure induced phase transition of LaO0.5F0.5BiSe2, 
+since it has the same structure as LaO0.5F0.5BiS2 in low-Tc phase. Currently, high-pressure XRD 
+measurements for the BiSe2 system have not yet been performed. Therefore, a detailed investigation for 
+the structure of BiS2 and BiSe2 system may provide useful information for understanding the mechanism 
+behind the high-Tc phase. 
+Within recent days, a paper about LaO0.5F0.5BiSe2 was submitted to arXiv 23. it shows that the results 
+of the resistivity measurements under high pressure are slightly different from our results. Although the 
+pressure induced phase transition is also shown in that paper, in the low-Tc phase, the Tc gradually 
+decreases with increasing applied pressure 23. This different behavior in low-Tc phase may be due to the 
+difference of the fluorine concentration between our samples and the reported samples.  
+In summary, we revealed that the Tc of LaO0.5F0.5BiSe2 discontinuously increases. Although our 
+sample does not show zero resistivity at ambient pressure, by applying pressure up to 2.44 GPa, 
+maximum Tc
+onset and Tc
+zero were observed at 6.7 K and 5 K. The resistivity of both low- and high-Tc 
+phases shows metallic behavior. This is very different from what was seen in the BiS2 system. The γ 
+extremely decreases from 20 to 9.3 after the phase transition, and the resistivity of the normal 
+conducting state in high-Tc phase gradually increases with increasing applied pressure which is in 
+accordance with the BiS2 system. In this current stage, the optimal Tc of LaO0.5F0.5BiSe2 was not 
+observed even at the maximum pressure obtained during this study. Therefore applied further pressure 
+has the potential to induce a much higher Tc in this system. 
+This work was supported in part by the Japan Science and Technology Agency through Strategic 
+International Collaborative Research Program (SICORP-EU-Japan) and Advanced Low Carbon 
+Technology R&D Program (ALCA) of the Japan Science and Technology Agency. 
+ 
+
+
+6 
+ 
+Reference 
+1 Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y.Takano, H. Izawa, 
+and O. Miura, Phys.Rev.B. 86, 220510 (2012).  
+2 Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. 
+Phys. Soc. Jpn. 81, 114725 (2012). 
+3 J. Xing, S. Li, X. Ding, H. Yang, and H.H.Wen, Phys. Rev. B. 86, 214518 (2012). 
+4 S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. Yamaki, H. Hara, T. 
+Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. Yamaguchi, H. Takeya, and 
+Y. Takano, arXiv:1311.4267 (2013). 
+5 R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Sup. Novel Mag. 26, 499 (2013). 
+6 S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, 
+T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. 
+82,  033708 (2013). 
+7 D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, Philos. Mag. 93, 
+673 (2013). 
+8 K. Deguchi, Y. Takano, Y. Mizuguchi, Sci. Technol. Adv. Mater. 13, 054303 (2012) 
+9 X. Lin, XNi, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, and Z. Xu, 
+Phys. Rev. B 87, 020504 (2013). 
+10 H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wakisaka, M. Mizumaki, K. Nitta, Y. Tokura, and S. 
+Ishiwata, J. Phys. Soc. Jpn. 83, 014709 (2014).  
+11 J. G. Bednorz and K. A. Müller, Z. Phys. B 64, 189 (1986). 
+12 Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. 130, 3296 (2008). 
+
+
+7 
+ 
+13 K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. 
+Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, and Y. Takano, Europhys. Lett. 101, 17004 
+(2013). 
+14 Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, and O. Miura, J. Phys. Soc. Jpn. 83, 
+053704 (2014). 
+15 J. Kajitani, K. Deguchi, T. Hiroi, A. Omachi, S. Demura, Y. Takano, O. Miura, and Y. Mizuguchi, J. 
+Phys. Soc. Jpn. 83, 065002 (2014). 
+16 T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. Izawa, O. 
+Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. 83, 063704 (2014). 
+17 M. Fujioka, M. Nagao, S. J. Denholme, M. Tanaka, H. Takeya, T. Yamaguchi and Y. Takano, 
+arXiv:1406.3888.  (Appl. Phys. Lett., accepted) 
+18 M. Fujioka, Wiley Encyclopedia of Electrical and Electronics Engineering. 1–30, (2014). 
+19 A. Krzton-Maziopa, Z. Guguchia, E. Pomjakushina, V. Pomjakushin, R. Khasanov, H. Luetkens, P.K. 
+Biswas, A. Amato, H. Keller, K. Conder: J. Phys.:Condens. Matter 26(2014) 215702 
+20 M. Tanaka, M. Nagao, Y. Matsushita, M. Fujioka, S. J. Denholme, T. Yamaguchi, H. Takeya and Y. 
+Takano, arXiv:1406.0734. (J. Solid State Chem., accepted ) 
+21 F. Nakamura, T. Goko, J. Hori, Y. Uno, N. Kikugawa, and T. Fujita, Phys. Rev. B. 61, 107 (2000). 
+22 M. Nagao, M. Tanaka, S. Watauchi, I. Tanaka and Y. Takano, arXiv:1406.3888 (2014). 
+23 J. Liu, S. Li, Y. Li, X. Zhu and H. H. Wen, arXive:1407.5939 (2014). 
+ 
+ 
+
+
+8 
+ 
+ 
+FIG. 1 
+XRD patterns of LaO0.5F0.5BiSe2. All diffraction peaks are assigned to the (00l) indices.  
+FIG. 2 
+(a): Resistivity versus temperature from 300 K to 2 K for LaO0.5F0.5BiSe2 under varying pressure. (b): 
+The expanded view around Tc. 
+FIG. 3 
+Resistivity versus temperature at 1.17 and 2.24 GPa under magnetic field with the different directions, 
+which are parallel with ab plane (H//ab) and c axis (H//c). 
+FIG.4 
+Upper critical field versus temperature for the low-Tc (black) and high-Tc (red) phases. Solid circles 
+denote the Hc2
+//ab. Open circles denote Hc2
+//c. The dashed lines denote the straight-line approximation. 
+ 
+TABLE I. Superconducting parameters for La(O0.5F0.5)BiSe2 under 1.17 (low-Tc phase) and 2.44 GPa 
+(high-Tc phase). 
+Pressure 
+(GPa) 
+dHc2
+//ab /dT 
+(T/K) 
+dHc2
+//c /dT 
+(T/K) 
+Hc2
+//ab(0) 
+(T) 
+Hc2
+//c(0) 
+(T) 
+ξab(0) 
+(nm) 
+ξc(0) 
+(nm) 
+γ(0) 
+1.17 
+-1.94 
+-0.01 
+5.5 
+0.6 
+23.4 
+2.56 
+20 
+2.44 
+--3.39 
+-0.59 
+20.6 
+3.4 
+9.83 
+1.63 
+9.3 
+ 
+ 
+ 
+
+
+9 
+ 
+ 
+Fig. 1 
+ 
+ 
+
+
+10 
+ 
+ 
+Fig. 2 
+ 
+ 
+
+
+11 
+ 
+ 
+Fig. 3. 
+ 
+ 
+
+
+12 
+ 
+ 
+Fig. 4. 
+ 
+
+

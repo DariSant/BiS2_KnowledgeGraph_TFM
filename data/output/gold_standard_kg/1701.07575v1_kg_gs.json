@@ -1,0 +1,35 @@
+{
+  "source_meta": {
+    "source_id": "1701.07575v1_v3_ext.txt",
+    "primary_material_family": "Eu0.5La0.5FBiS2-xSex"
+  },
+  "extracted_samples": [
+    {
+      "formula": "Eu0.5La0.5FBiS2-xSex",
+      "composition_variables": [],
+      "synthesis_profile": {
+        "method": "Unknown",
+        "synthesis_temperature_C": null
+      },
+      "superconducting_status": "Bulk Superconductor",
+      "measurements": [
+        {
+          "measurement_type": "Crystallography",
+          "conditions": {},
+          "data": {
+            "generic_value": {
+              "property_name": "Tendency",
+              "value": 1,
+              "unit": "bool"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "general_conclusions": [
+    "Se substitution leads to selective occupancy at the in-plane Ch1 site.",
+    "Bi-Ch bond distances correlate directly with lattice constants.",
+    "Se substitution enhances in-plane chemical pressure and suppresses in-plane disorder."
+  ]
+}

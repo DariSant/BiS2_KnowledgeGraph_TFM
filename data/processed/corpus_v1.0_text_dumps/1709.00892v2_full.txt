@@ -1,0 +1,1327 @@
+epl draft 
+(a)E-mail: xyxyxyxyx@xyxy.com 
+(b)Present address: Author's Instute, Author's  
+University - Street and number, Postal Code City, Country. 
+ 
+Pages provided by publisher 
+Header will be provided by the publisher 
+ 
+Superconductivity in La1xCexOBiSSe: carrier doping by mixed 
+valence of Ce ions 
+RYOTA SOGABE1, YOSUKE GOTO1(a), ATSUHIRO NISHIDA1, TAKAYOSHI KATASE2,3, AND YOSHIKAZU MIZUGUCHI1 
+ 
+1 Department of Physics, Tokyo Metropolitan University, Hachioji 192-0397, Japan  
+2 Laboratory for Materials and Structures, Institute of Innovative Research, Tokyo Institute of Technology, 4259 Nagatsuta, Midori, 
+Yokohama, 226−8503, Japan  
+3 PRESTO, Japan Science and Technology Agency, 7 Gobancho, Chiyoda, Tokyo, 102-0076, Japan  
+ 
+received and accepted dates provided by the publisher 
+other relevant dates provided by the publisher 
+ 
+PACS 74.25.Fy – Transport properties (electric and thermal conductivity, thermoelectric effects, etc.) 
+PACS 74.25.Dw – Superconductivity phase diagrams 
+PACS 72.15.−v – Electronic conduction in metals and alloys 
+ 
+Abstract – We report the effects of Ce substitution on structural, electronic, and magnetic properties of 
+layered bismuth-chalcogenide La1xCexOBiSSe (x = 00.9), which are newly obtained in this study. 
+Metallic conductivity was observed for x  0.1 because of electron carriers induced by mixed valence 
+of Ce ions, as revealed by bond valence sum calculation and magnetization measurements. Zero 
+resistivity and clear diamagnetic susceptibility were obtained for x = 0.20.6, indicating the emergence 
+of bulk superconductivity in these compounds. Dome-shaped superconductivity phase diagram with the 
+highest transition temperature (Tc) of 3.1 K, which is slightly lower than that of F-doped LaOBiSSe (Tc 
+= 3.7 K), was established. The present study clearly shows the mixed valence of Ce ions can be utilized 
+as an alternative approach for electron-doping in layered bismuth-chalcogenides to induce 
+superconductivity. 
+ 
+Introduction – Since the discovery of BiCh2-based (Ch: S, 
+Se) superconductors in 2012, this family of compounds has 
+received much attention as a new class of layered 
+superconductors [13]. The crystal structure composed of 
+alternate stacks of electrically conducting BiCh2 layers and 
+insulating (blocking) layers, which is schematically depicted 
+in the inset of Fig. 1, is similar to that of cuprate or Fe-based 
+high-transition-temperature 
+(Tc) 
+superconductors 
+[4,5]. 
+Several types of BiCh2-based superconductors have been 
+reported, and the record Tc of 11 K was obtained so far [3,6]. 
+Although many experimental and theoretical studies have 
+been conducted to clarify the superconductivity mechanism 
+and to increase the Tc of BiCh2-based superconductors, the 
+nature of superconductivity is still under debate [7]. In the 
+early studies including theoretical calculation [8], Raman 
+scattering [9], muon-spin spectroscopy [10], and thermal 
+conductivity 
+[11] 
+experiments 
+suggested 
+conventional 
+mechanisms with fully gapped s-wave. However, recent first-
+principles calculation [12], angle-resolved photoemission 
+spectroscopy [13], and Se isotope effect [14] proposed 
+unconventional 
+pairing 
+mechanism 
+in 
+BiCh2-based 
+superconductors. Therefore, systematic characterization is still 
+crucial to clarify the superconductivity mechanisms of these 
+compounds. 
+Primarily, superconductivity in BiCh2-based compounds is 
+induced by electron carrier doping into conduction band, 
+which mainly consists of Bi 6p and Ch p orbitals [7,15]. In 
+addition, recent studies have demonstrated that the emergence 
+of bulk superconductivity requires optimization of crystal 
+structure. This can be qualitatively described in terms of 
+sufficient overlapping of Bi 6p and Ch p orbitals, namely, in-
+plane chemical pressure [16]. A typical route to induce in-
+plane chemical pressure is Se substitution for S site [1719]. 
+It has been reported that such pressure effects successfully 
+suppressed the in-plane disorder of BiCh2 conducting layer, 
+which was revealed by means of synchrotron X-ray 
+diffraction, extended X-ray absorption fine structure, and 
+neutron diffraction [16,2023]. Intrinsic superconductivity 
+phase diagram mitigating in-plane disorder was recently 
+established for LaO1xFxBiSSe [23]. 
+On the carrier doping method for BiCh2-based compounds, 
+aliovalent ion substitution including partial substitution of F 
+for O2 ions in REOBiCh2 (RE: rare earth or Bi) [2430], or 
+RE3+ substitution for A2+ ions in AFBiCh2 (A: Ca, Sr, Eu) 
+[3136], 
+have 
+been 
+typically 
+employed 
+to 
+induce 
+
+
+ 
+ 
+ 
+ 
+F. Firstauthorfamilyname et al. 
+ 
+superconductivity. 
+It 
+was 
+also 
+reported 
+that 
+the 
+superconductivity appears via M4+ substitution at La3+ site in 
+LaOBiS2 (M: Ti, Zr, Hf, Th) [37]. Recently, zero resistivity 
+was reported in CeOBiS2, which is most likely due to electron 
+doping via mixed valence state of Ce ions [38]. However, bulk 
+superconductivity is yet to be confirmed in neither M4+-doped 
+LaOBiS2 nor CeOBiS2, on the basis of magnetic susceptibility 
+or specific heat, which is a sensitive probe for bulk 
+superconductivity. 
+In the present study, we synthesized a new BiCh2-based 
+superconductor system La1xCexOBiSSe (x = 00.9) and 
+investigated the structural, electronic, and magnetic properties. 
+Metallic conductivity was observed for x  0.1, indicating 
+electron carrier was doped by mixed valence state of Ce ions, 
+as 
+revealed 
+by 
+bond 
+valence 
+sum 
+calculation 
+and 
+magnetization 
+measurements. 
+Bulk 
+superconductivity, 
+confirmed by zero resistivity and clear diamagnetic signal, 
+was observed for x = 0.20.6. To the best of our knowledge, 
+this is the first report on the emergence of bulk 
+superconductivity and metallic conductivity by substituting 
+the RE site of REOBiCh2 and using the mixed valence state of 
+Ce ions in BiCh2-based layered compounds. 
+ 
+EXPERIMENTAL DETAILS – Polycrystalline samples of 
+La1xCexOBiSSe with x = 0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 
+and 0.9 were prepared by a solid-state reaction method. 
+Powders of CeO2 (99.99%), La2O3 (99.9%), La2S3 (99.9%), 
+Ce2S3 (99.9%), Bi (99.999%), S (99.99%), and Se (99.999%) 
+were mixed in the stoichiometric ratio, pressed into pellet, and 
+heated at 700 C for 20 h in a sealed quartz tube. The obtained 
+sample was ground, mixed, pelletized, and heated with the 
+same heating condition. 
+The obtained samples were characterized using powder X-
+ray diffraction (XRD) with a Cu K radiation (Rigaku, 
+Miniflex 600 equipped with a D/teX Ultra detector) by the 
+2 method. The crystal structure parameters were refined 
+using the Rietveld method using RIETAN-FP code [39]. 
+Crystal structure was depicted using VESTA software [40]. 
+Chemical composition analysis was performed using scanning 
+electron microscope (Hitachi, TM3030) equipped with an 
+energy dispersive X-ray spectrometer (EDX; Oxford, 
+SwiftED3000). Seebeck coefficient (S) at room temperature 
+was measured by giving a temperature difference (T) of ~4 
+K, where the actual temperatures of both sides of the bulk 
+were monitored by two thermocouples. The thermo-
+electromotive force (V) and T were simultaneously 
+measured, and the S were obtained from the linear slope of the 
+VT plots. Temperature (T) dependence of electrical 
+resistivity () was measured using a four-terminal method. 
+Magnetization as a function of T was measured using a 
+superconducting quantum interference devise (SQUID) 
+magnetometer with an applied field of 10 Oe after both zero-
+field cooling (ZFC) and field cooling (FC) using Magnetic 
+Property Measurement System (Quantum design, MPMS-3). 
+ 
+RESULTS – Figure 1 shows XRD pattern and the Rietveld 
+fitting result for x = 0.3 as a representative sample. Almost all 
+the diffraction peaks can be assigned to those of the 
+LaOBiSSe-type phase, indicating that this is a dominant phase 
+(La, Ce)
+O
+Ch2
+Ch1
+Bi
+10
+20
+30
+40
+50
+60
+70
+80
+0
+5
+ 
+ 
+Diffraction intensity (10
+4 counts)
+2 (deg)
+La1-xCexOBiSSe
+x = 0.3
+Fig. 1: (Color online) X-ray diffraction (XRD) pattern and the 
+results of Rietveld refinement for La1xCexOBiSSe with x =
+0.3. The circles and solid curve represent the observed and 
+calculated patterns, respectively, and the difference between 
+the two is shown at the bottom. The vertical marks indicate 
+the Bragg diffraction positions for La1xCexOBiSSe (upper)
+and CeO2 (lower). The inset shows the schematic 
+representation of crystal structure for x = 0.3. Ch1 and Ch2
+denote the in-plane and out-of-plane chalcogen sites,
+respectively. XRD patterns of x = 00.9 are shown in Fig. S1 
+in Supporting Information. 
+(a)
+(b)
+4.08
+4.10
+4.12
+13.8
+13.9
+14.0
+14.1
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+230
+235
+240
+30
+31
+32
+ 
+ 
+ 
+a (    )
+ 
+ 
+c (    )
+ 
+ 
+V (    )
+x of La1-xCexOBiSSe
+ 
+ 
+Diffraction intensity (arb. units)
+2 (deg)
+110
+aM
+bM
+Å
+Å
+Å3
+x = 0
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+0.1
+Fig. 2: (Color online) (a) Lattice parameters (a and c) and 
+lattice volume (V) of La1xCexOBiSSe. For x = 0, lattice 
+parameters in monoclinic phase, which were calculated using 
+synchrotron X-ray diffraction, was taken from literature [23]. 
+(b) Expanded profiles of X-ray diffraction of 110 peak in 
+tetragonal phase. 
+
+
+ 
+ 
+in 
+the 
+samples, 
+although 
+minor 
+diffraction 
+peaks 
+corresponding to CeO2 impurity phase (< 6 wt%) were also  
+observed. We have tested several annealing conditions for the 
+Ce-substituted samples, but the CeO2 impurity phase cannot  
+be eliminated. Therefore, we have investigated the physical 
+properties of the La1-xCexOBiSSe system with the samples 
+obtained by the present annealing condition. Note that the 
+sample with nominal x = 1 is excluded from further 
+experiments because it contains significant amount of Bi2Se3 
+and CeO2 impurities. 
+Lattice parameters decrease with increasing x, as 
+shown in Figure 2(a), primarily due to smaller ionic 
+radius of Ce than that of La ions. Notably, it can be seen 
+that diffraction peaks were broadened when the chemi-
+cal composition was apart from the end member, as 
+presented in Figure 2(b), most likely due to the local 
+inhomogeneity of the crystal structure of these phases 
+[41]. We note that symmetry lowering has been report-
+ed for x = 0 using synchrotron XRD equipped with a 
+high-resolution one-dimensional semiconductor detec-
+tor [23]. However, the previous report also determined 
+that the crystal structure of the F-doped (electron-
+doped) LaOBiSSe system was tetragonal, without 
+symmetry lowering. Therefore, it is most likely that the 
+crystal structure of present Ce-doped (electron-doped) 
+La1xCexOBiSSe is also tetragonal P4/nmm. Chalcogen 
+site occupancies were determined using Rietveld meth-
+od imposing linear constraints to maintain their total 
+occupancies in the stoichiometric one. Se occupancy at 
+Table 1: Ce content (Ce/(La + Ce)) determined using chemical composition analysis, bond valence sum of RE site (BVSRE), Curie 
+constant (C), paramagnetic CurieWeiss temperature (CW), Ce valence and averaged La/Ce valence calculated using CurieWeiss 
+fitting for La1xCexOBiSSe. 
+x 
+Ce/(La + Ce)a 
+BVSRE 
+C (emu/K mol) 
+CW (K) 
+Ce valenceb 
+Averaged La/Ce 
+valenceb 
+0 
+ 
+2.98 
+ 
+ 
+ 
+ 
+0.1 
+0.10 
+3.04 
+0.011 
+1.4 
+3.64 
+3.07 
+0.2 
+0.20 
+2.78 
+0.029 
+1.0 
+3.58 
+3.12 
+0.3 
+0.30 
+3.02 
+0.066 
+0.4 
+3.47 
+3.14 
+0.4 
+0.36 
+3.09 
+0.107 
+0.1 
+3.36 
+3.12 
+0.5 
+0.49 
+3.10 
+0.153 
+0.2 
+3.37 
+3.19 
+0.6 
+0.62 
+3.11 
+0.194 
+0.0 
+3.38 
+3.23 
+0.7 
+0.70 
+3.16 
+0.241 
+0.2 
+3.34 
+3.24 
+0.8 
+0.80 
+3.14 
+0.271 
+0.2 
+3.35 
+3.28 
+0.9 
+0.91 
+3.15 
+0.334 
+0.4 
+3.32 
+3.29 
+aamount of Ce/(La + Ce) was determined using EDX analysis. 
+bCe valence and averaged La/Ce valence were obtained using CurieWeiss fitting of magnetization data measured from 5 to 20 K at 
+1 T (see text in detail).  
+ 
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+-50
+-40
+-30
+-20
+-10
+0
+S (V K
+-1)
+x of La1-xCexOBiSSe
+Fig. 3: (Color online) Room temperature Seebeck coefficient 
+(S) for La1xCexOBiSSe. 
+0
+100
+200
+300
+0
+5
+10
+15
+20
+0
+1
+2
+3
+4
+2
+3
+4
+0
+2
+4
+6
+ 
+ 
+ (mcm)
+T (K)
+ x = 0    
+ 0.5
+    0.1    
+ 0.6
+    0.2    
+ 0.7
+    0.3    
+ 0.8
+    0.4    
+ 0.9
+ 
+ 
+ (mcm)
+ 
+ 
+ (mcm)
+T (K)
+(a)
+(b)
+x = 0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.9
+0.8
+0.7
+Fig. 4: (Color online) (a) Temperature (T) dependences
+of electrical resistivity () for La1xCexOBiSSe. (b, c)
+T plots below 4 K. 
+
+
+ 
+ 
+ 
+ 
+F. Firstauthorfamilyname et al. 
+ 
+the in-plane Ch1 site was higher than 85% for all sam-
+ples, indicating that Se ions selectively occupy the in-
+plane Ch1 site, rather than the out-of-plane Ch2 site, 
+which is consistent with the observations in related 
+BiCh2-based layered compounds [1719, 23]. We evalu-
+ated the valence state of La/Ce site using bond valence sum 
+(BVSRE). The BVSRE was calculated using the following pa-
+rameters: b0 = 0.37 Å, R0 = 2.172 Å for LaO bond, 2.151 Å 
+for CeO bond, 2.64 Å for LaS bond, 2.62 Å for CeS bond, 
+2.74 Å for LaSe bond, and 2.74 Å for CeSe bond [42,43]. 
+Experimental bond distances between La/Ce and nine coordi-
+nating anions were determined using Rietveld analysis. Site 
+occupancies of both La/Ce sites and chalcogen sites were 
+included in the calculation of the BVS. The BVSRE of x = 0 
+was evaluated to be 2.98, corresponding to 3+ valence state of 
+La ions. The BVSRE tends to increase with increasing x and it 
+reaches 3.15 for x = 0.9, as listed in Table 1. These results 
+strongly suggest the mixed valence of Ce ions in 
+La1xCexOBiSSe, as in the case of CeOBiS2, in which Ce 
+mixed valence was demonstrated using X-ray absorption spec-
+troscopy [44,45]. 
+Figure 3 shows the S at room temperature for x = 00.9. 
+Negative values of S indicate that the majority of carrier is 
+electrons in all samples. Assuming single parabolic band 
+model and acoustic phonon scattering as a dominant scattering 
+process for carrier transport, the S for metals or degenerate 
+semiconductors is given by: 
+ 
+)1(
+3
+3
+8
+3
+2
+*
+2
+2
+2
+
+
+
+
+
+
+
+n
+T
+m
+eh
+k
+S
+B
+
+
+ 
+where n is the carrier concentration and m* is the effective 
+mass of the carrier [46]. Absolute value of S tends to decrease 
+with increasing x, indicating that electron carrier was doped 
+into the conduction band by Ce substitution. 
+Figure 4(a)(c) shows the T dependences of  for x = 00.9. 
+For x = 0,  increases with decreasing T below 70 K (Fig. 
+4(a)). In contrast, metallic behavior was observed for x  0.1, 
+namely, the  decreases with decreasing T. The metallic 
+conductivity originates from electrons that provided to BiCh2 
+conducting layers [23] via the mixed valence of Ce ions. 
+Regarding the superconducting characteristics, a steep 
+decrease of  attributable to Tconset was observed for x  0.1 
+(Figs. 4(b) and (c)). However, zero resistivity was obtained 
+only for x = 0.20.6, and the highest Tczero was 3.1 K for x = 
+0.30.5. 
+Figure 5(a) shows the temperature dependences of 
+magnetization below 4 K with an applied magnetic field of 10 
+Oe after ZFC for La1xCexOBiSSe. Clear diamagnetic signals 
+corresponding to superconductivity are observed for x = 
+0.20.6, in consistent with the zero resistivity states of the 
+samples in T data, indicating that the observed 
+superconducting states are bulk in nature. The largest 
+shielding volume fraction and the Tc of 3.1 K were obtained 
+for x = 0.3, as plotted in Figure 5(b). The large shielding 
+volume fraction exceeding the full diamagnetic response can 
+be understood by the large demagnetization effect due to the 
+presence of plate-like grains [47]. Magnetization measured 
+under FC shows the onset to superconducting state as same as 
+that measured under ZFC, as shown in Fig. S2, while 
+diamagnetic signal is noticeably weak because the present 
+samples are a type-2 superconductor with a strong pinning 
+effect. Although measuring specific heat around Tc is one of 
+the best way to confirm the bulk nature of superconductivity 
+for this system, it is challenging to characterize a 
+superconducting transition from specific heat because 
+magnetic entropy of Ce 4f electrons should overwhelm the 
+electronic specific heat jump at a superconducting transition 
+[48]. 
+-0.3
+-0.2
+-0.1
+0
+1.5
+2
+2.5
+3
+3.5
+4
+La1-xCexOBiSSe
+Magnetization (emu/g)
+Temperature (K)
+H = 10 Oe
+ZFC
+0.3
+0.4
+0.2
+0.5
+0.6
+x = 0.9
+0.8
+0.1
+0.7
+0
+0.1
+0.2
+0.3
+0
+0.2
+0.4
+0.6
+0.8
+1
+M2K (emu/g)
+x of La1-xCexOBiSSe
+(a)
+(b)
+H = 10 Oe
+Fig. 5: (Color online) (a) Temperature dependences of 
+magnetization with an applied magnetic field of 10 Oe for
+La1xCexOBiSSe measured after zero-field cooling (ZFC).
+Magnetization measured after field cooling (FC) was shown 
+in Fig. S2 in Supporting Information. (b) The amplitude of 
+magnetization at 2 K (M2K) as a function of x for
+La1xCexOBiSSe. 
+0
+2
+4
+6
+0
+0.2
+0.4
+0.6
+0.8
+T (K)
+x of La1-xCexOBiSSe
+Metallic
+Tc 
+onset
+Tc
+zero
+Filamentary SC
+Filamentary SC
+Semiconducting
+Bulk SC
+Fig. 6: (Color online) Superconductivity phase diagram of 
+La1xCexOBiSSe. 
+
+
+ 
+ 
+On the basis of the measurement results of electrical 
+resistivity and magnetization, a superconductivity phase 
+diagram was depicted in Figure 6. Weakly localized transport 
+behavior was observed in T for x = 0 below 70 K. This 
+behavior was immediately suppressed, and metallic-like T 
+was observed for x  0.1. The decrease of  attributable to a 
+superconducting transition was observed for x = 0.10.9, and 
+Tconset was ranged from 2.9 to 3.7 K in this region. While, zero 
+resistivity and clear diamagnetic signal corresponding to the 
+emergence of the bulk superconductivity states were achieved 
+for x = 0.20.6. A dome-shaped superconductivity phase 
+diagram, with the highest Tczero of 3.1 K for x = 0.30.5, was 
+obtained. 
+Indeed, 
+superconductivity 
+of 
+BiCh2-based 
+compounds are essentially sensitive to its local structure 
+fluctuation. In the case of a Nd(O,F)BiS2 single crystal, a bulk 
+superconducting transition occurs below 5 K, while 
+superconducting gap, measured by spectroscopy, remains up 
+to 26 K [49]. Besides, a sharp superconducting transition was 
+observed for optimally doped LaO1xFxBiSSe with x = 0.20.5 
+[23]. This suggests that the present samples exhibiting broad 
+phase transition (x = 0.1, 0.7, 0.8, 0.9) contains local 
+inhomogeneity/fluctuations of their crystal structure, although 
+these samples show relatively narrow peak widths of the XRD 
+(Fig. 2(b)). To get further information about local structure 
+inhomogeneity or structural fluctuations, experiments that 
+sensitive to local structure such as extended X-ray absorption 
+fine structure (EXAFS), are needed. 
+ 
+DISCUSSION – In order to examine the Ce valence state 
+from magnetization measurements, CurieWeiss fitting using 
+M/H = C/(TCW) to the data of 1 T was performed, where C 
+is Curie constant and CW is paramagnetic CurieWeiss 
+temperature. Note that the magnetization data from 5 to 20 K 
+are employed because 1 shows shoulder-like anomaly at 
+around 100 K due to crystalline-electric-field effects [48]. 
+CurieWeiss fitting result of x = 0.1 is shown in Fig. 7 as a 
+representative sample, and the analogous data of other 
+samples are presented in Fig. S3. For x = 0.1, C was evaluated 
+to be 0.011 emu/K mol, indicating Ce valence state is +3.64. 
+As listed in Table 1, Ce valence tends to decrease with 
+increasing x, resulting in +3.32 for x = 0.9. The decrease of Ce 
+valence seems to be correlated with increased in-plane 
+chemical pressure because lattice constant a decreases with x 
+(Fig. 2(b)). In the case of Eu0.5La0.5FBiS2xSex system, the 
+increase of in-plane chemical pressure suppress the mixed 
+valence of Eu ions, which is demonstrated using a combined 
+analysis of X-ray absorption near-edge structure and X-ray 
+photoelectron spectroscopy [50]. It should be noted that while 
+Ce valence tends to decreases with increasing x, the averaged 
+RE valence (trivalent La and mixed-valent Ce) increase with x, 
+in consistent with that obtained using BVS calculation (Table 
+1).  
+It is interesting to note that an anomaly in the temperature 
+dependence of magnetization was observed at around 8 K for 
+x = 0.5, as depicted in Fig. S4. It has been reported that 
+magnetic moment of Ce3+ ions of CeO0.3F0.7BiS2 orders 
+ferromagnetically, which was demonstrated using neutron 
+scattering measurements [51]. Therefore, the magnetic 
+anomaly for x = 0.5 at 8 K would be attributable to the 
+ferromagnetic ordering of Ce3+ moment, as well. The valence 
+states and magnetism of Ce in La1xCexOBiSSe are believed 
+to be essentially sensitive to its chemical composition and/or 
+(local) crystal structure. As an example, X-ray absorption 
+spectroscopy revealed that mixed valence of Ce ions was 
+suppressed by F doping for CeO1xFxBiS2 [44,45]. We note 
+that the present samples are not single phase but contain CeO2 
+impurity phase (< 6 wt%) (Figs 1 and S1). It has been 
+reported that CeO2 clusters may significantly contribute to the 
+observed magnetic behavior [52]. Further investigation of 
+local crystal/electronic structure is required to clarify the 
+detailed 
+relationship 
+between 
+magnetism 
+and 
+superconductivity in La1xCexOBiSSe. 
+The highest Tc of 3.1 K in La1xCexOBiSSe is slightly lower 
+than that of F-doped system, LaO1xFxBiSSe (Tc = 3.7 K) 
+[14,23]. The present results suggest that substitution at 
+different sites (substituting whether the O site or the La site) 
+in blocking layer affect the superconducting properties of 
+BiCh2-based superconductors. For example, it has been 
+reported that carrier doping via partial substitution for the site 
+spatially far from the superconducting Fe plane results in 
+higher Tc in Fe-based superconductor BaFe2As2 [53]. It was 
+also demonstrated that the decrease in Tc originates from 
+magnetic pair breaking by interaction of the localized 4f 
+orbitals in the RE dopants with the itinerant Fe 3d orbitals for 
+the corresponding compound [54]. 
+ 
+CONCLUDING REMARKS – In summary, we have 
+synthesized a new BiCh2-based superconductor system 
+La1xCexOBiSSe. Polycrystalline samples for x = 00.9 were 
+prepared by a solid-state reaction. Crystal structure analysis 
+showed that both lattice constants a and c decrease with 
+increasing 
+x. 
+BVS 
+calculation 
+and 
+magnetization 
+measurements showed mixed valence states of Ce ions in 
+0
+10
+20
+0
+1000
+2000
+ 
+-1 (mol emu
+-1)
+ 
+ 
+ T (K)
+x = 0.1
+H = 10000 Oe
+Fig. 7: (Color online) Temperature (T) dependences of
+reciprocal susceptibility (1) of La1xCexOBiSSe (x = 0.1)
+measured at 1 T. Red solid lines represent the CurieWeiss
+fitting lines. Analogous data of other samples are shown in 
+Fig. S3 in Supporting Information. 
+
+
+ 
+ 
+ 
+ 
+F. Firstauthorfamilyname et al. 
+ 
+these compounds. Carrier doping into BiCh2 conducting layer 
+by Ce substitution is confirmed by the measurements of S. 
+Metallic-like T plots were observed for x  0.1. Zero 
+resistivity and clear diamagnetic signal corresponding to bulk 
+superconductivity were obtained for x = 0.20.6. A dome-
+shaped superconductivity phase diagram, with the highest Tc 
+of 3.1 K for x = 0.30.5, was established. This work clearly 
+showed the emergence of bulk superconductivity and metallic 
+conductivity via mixed valence state of Ce ions in BiCh2-
+based layered compounds. 
+ 
+ 
+ 
+ 
+*** 
+We thank OSUKE MIURA of Tokyo Metropolitan 
+University for experimental support. This work was partly 
+supported by Grant-in-Aid for Scientific Research (Nos. 
+15H05886, 16H04493, 17K19058, and 16K17944), JST-
+PRESTO 
+(No. 
+JPMJPR16R1), 
+and 
+JST-CREST 
+(No. 
+JPMJCR16Q6), Japan. 
+REFERENCES 
+[1] 
+MIZUGUCHI Y. et al., Phys. Rev. B, 86 
+(2012) 220510. 
+[2] 
+MIZUGUCHI Y. et al., J. Phys. Soc. Jpn., 81 
+(2012) 114725. 
+[3] 
+MIZUGUCHI Y., J. Phys. Chem. Solids., 84 
+(2015) 34. 
+[4] 
+BEDNORZ J. B. and MÜLLER K., Z. Phys. 
+B, 64 (1986) 189. 
+[5] 
+KAMIHARA Y. et al., J. Am. Chem. Soc., 
+130 (2008) 3296. 
+[6] 
+MIZUGUCHI Y. et al., J. Phys. Soc. Jpn., 83 
+(2014) 53704. 
+[7] 
+USUI H. and KUROKI K., Nov. Supercond. 
+Mater., 1 (2015) 50. 
+[8] 
+WAN X. et al., Phys. Rev. B, 87 (2013) 
+115124. 
+[9] 
+WU S. F. et al., Phys. Rev. B, 90 (2014) 
+54519. 
+[10] 
+ LAMURA G. et al., Phys. Rev. B, 88 (2013) 
+180509. 
+[11] 
+ YAMASHITA T. et al., J. Phys. Soc. Japan, 
+85 (2016) 73707. 
+[12] 
+ MORICE C. et al., Phys. Rev. B, 95 (2017) 
+180505. 
+[13] 
+ OTA Y. et al., Phys. Rev. Lett., 118 (2017) 
+167002. 
+[14] 
+ HOSHI K., GOTO Y. and MIZUGUCHI Y., 
+Phys. Rev. B 97 (2018) 094509. 
+[15] 
+ USUI H., SUZUKI K. and KUROKI K., 
+Phys. Rev. B, 86 (2012) 220501. 
+[16] 
+ MIZUGUCHI Y. et al., Sci. Rep., 5 (2015) 
+14968. 
+[17] 
+ HIROI T. et al., J. Phys. Soc. Jpn., 84 (2015) 
+024723. 
+[18] 
+ JINNO G. et al., J. Phys. Soc. Jpn., 85 
+(2016) 124708. 
+[19] 
+ GOTO Y., SOGABE R. and MIZUGUCHI 
+Y., J. Phys. Soc. Jpn., 86 (2017) 104712. 
+[20] 
+ PARIS E. et al., J. Phys.: Condens. Matter, 
+26 (2014) 435701. 
+[21] 
+ MIZUGUCHI Y. et al., Phys. Chem. Chem. 
+Phys., 17 (2015) 22090. 
+[22] 
+ ATHAUDA A. et al., Phys. Rev. B, 91 
+(2014) 144112. 
+[23] 
+ NAGASAKA K. et al., J. Phys. Soc. Jpn., 86 
+(2017) 074701. 
+[24] 
+ XING J. et al., Phys. Rev. B, 86 (2012) 
+214518. 
+[25] 
+ YAZICI D. et al., Philosophical Magazine., 
+93 (2012) 673. 
+[26] 
+ DEMURA S. et al., J. Phys. Soc. Jpn., 82 
+(2013) 033708. 
+[27] 
+ JHA R. et al., J. Appl. Phys., 113 (2013) 
+056102. 
+[28] 
+ OKADA T. et al., Appl. Phys. Express, 8 
+(2015) 23102. 
+[29] 
+ SHAO J. et al., Supercond. Sci. Technol., 28 
+(2015) 15008. 
+[30] 
+ THAKUR G. S. et al., Inorg. Chem., 54 
+(2015) 1076. 
+[31] 
+ LEI H. et al., Inorg. Chem., 52 (2013) 10685. 
+[32] 
+ LIN X. et al., Phys. Rev. B, 87 (2013) 20504. 
+[33] 
+ ZHAI H. F. et al., Phys. Rev. B, 90 (2014) 
+64518. 
+[34] 
+ JHA R., TIWARI B. and AWANA V. P. S., 
+J. Appl. Phys., 117(2015) 13901. 
+[35] 
+ ZHAI H. et al., J. Phys.: Condens. Matter, 
+27 (2015) 385701. 
+[36] 
+ ZHAN J. et al., J. Supercond. Nov. Mag., 30 
+(2017) 305. 
+[37] 
+ YAZICI D. et al., Phys. Rev. B, 87 (2013) 
+174512. 
+[38] 
+ TANAKA M. et al., J. Alloys Compd., 722 
+(2017) 467. 
+[39] 
+ IZUMI F. and MOMMA K., Solid State 
+Phenom., 130 (2007) 15. 
+[40] 
+ MOMMA K. and IZUMI F., J. Appl. 
+Crystallogr., 41 (2008) 653. 
+[41] 
+SUGIMOTO T. et al., Sci. Rep. 8 (2018) 2011. 
+[42] 
+ BRESE N. E. and O’KEEFFE M., Acta 
+Crystallogr. Sect. B, 47 (1991) 192. 
+[43] 
+ ZHAI H. F. et al., Phys. Rev. B, 90 (2014) 
+64518. 
+[44] 
+ SUGIMOTO T. et al., Phys. Rev. B, 89 
+(2014) 201117. 
+[45] 
+ SUGIMOTO T. et al., Phys. Rev. B, 94 
+(2016) 081106. 
+[46] 
+CUTLER M, LEAVY JF, and FITZATRICK 
+RL, Phys. Rev, 133 (1964) A1143. 
+[47] 
+BRANDT E. H. et al., Phys. Rev. B, 54 (1996) 
+4246. 
+[48] 
+ HIGASHINAKA R. et al., J. Phys. Soc. Jpn., 
+84 (2015) 23702. 
+[49] 
+ LIU J. et al., EPL, 106 (2014) 67002. 
+[50] 
+ MIZUGUCHI Y. et al., Phys. Rev. B, 95 
+(2017) 064515. 
+[51] 
+ LEE J. et al., Phys. Rev. B, 90 (2014) 224410. 
+[52] 
+ COEY M. et al., Nat. Phys., 12 (2016) 694. 
+
+
+ 
+ 
+[53] 
+ ISHIDA S. et al., J. Am. Chem. Soc., 135 
+(2013) 3158. 
+[54] 
+ KATASE T. et al., New J. Phys., 15 (2013) 
+73019.  
+ 
+
+
+1 
+ 
+Supporting Information for 
+“Superconductivity in La1xCexOBiSSe: carrier doping by mixed 
+valence of Ce ions” 
+ 
+R. Sogabe1, Y. Goto1,*, A. Nishida1, T. Katase2,3, and Y. Mizuguchi1 
+ 
+1. Department of Physics, Tokyo Metropolitan University, Hachioji 192-0397, Japan 
+2. Laboratory for Materials and Structures, Institute of Innovative Research, Tokyo 
+Institute of Technology, 4259 Nagatsuta, Midori, Yokohama, 226−8503, Japan  
+3. PRESTO, Japan Science and Technology Agency, 7 Gobancho, Chiyoda, Tokyo, 102-
+0076, Japan 
+ 
+E-mail: y_goto@tmu.ac.jp 
+ 
+ 
+
+
+2 
+ 
+ 
+ 
+FIG. S1. XRD patterns for La1xCexOBiSSe with x = 00.9. Asteriks denote the 
+diffraction peaks due to CeO2 impurity phase. 
+10
+20
+30
+40
+50
+60
+70
+La1-xCexOBiSSe
+ 
+Diffraction intensity (arb. units)
+2 (deg)
+x = 0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+3 
+ 
+ 
+FIG. S2. (a) Temperature dependences of magnetization with an applied magnetic field 
+of 10 Oe for La1xCexOBiSSe measured after zero-field cooling (ZFC) and field cooling 
+(FC). The inset shows expanded view near superconducting transition. For x = 0.9, 
+magnetization measured after ZFC and FC nearly coincide. 
+ 
+-0.2
+0.0
+-100
+0
+0
+2
+4
+6
+8
+10
+-200
+0
+-100
+0
+-100
+0
+0
+2
+4
+6
+8
+10
+-50
+0
+-5
+0
+0
+2
+4
+0
+2
+4
+6
+8
+10
+0
+5
+2
+3
+4
+0.0
+0.1
+2
+3
+4
+-0.5
+0.0
+0.5
+2
+3
+4
+-1
+0
+1
+2
+3
+4
+-1
+0
+1
+2
+3
+4
+0
+1
+2
+2
+4
+0
+1
+2
+2
+3
+4
+0
+2
+2
+3
+4
+2
+3
+2
+3
+4
+3
+4
+FC
+ZFC
+La1-xCexOBiSSe
+H = 10 Oe
+ 
+ 
+ 
+x = 0.1
+FC
+ZFC
+Magnetization (10
+-3 emu/g)
+ 
+ 
+ 
+x = 0.2
+FC
+ZFC
+ 
+ 
+ 
+x = 0.3
+FC
+ZFC
+ 
+ 
+ 
+x = 0.4
+FC
+ZFC
+ 
+ 
+ 
+x = 0.5
+FC
+ZFC
+ 
+ 
+Temperature (K)
+x = 0.6
+FC
+ZFC
+ 
+ 
+ 
+x = 0.7
+FC
+ZFC
+ 
+ 
+ 
+x = 0.8
+ 
+ 
+x = 0.9
+FC
+ 
+ 
+ 
+ZFC
+FC
+ 
+ 
+ 
+ZFC
+FC
+ 
+ 
+ 
+ZFC
+FC
+ 
+ 
+ 
+ZFC
+FC
+ 
+ 
+ 
+ZFC
+FC
+ 
+ 
+ 
+ZFC
+FC
+ 
+ 
+ 
+ZFC
+FC
+ 
+ 
+ 
+ZFC
+ 
+ 
+
+
+4 
+ 
+ 
+FIG. S3. Temperature (T) dependences of reciprocal susceptibility (1) of 
+La1xCexOBiSSe measured at 1 T. Red solid lines represent the CurieWeiss fitting lines. 
+Note that the magnetization data from 5 to 20 K are employed because 1 shows 
+shoulder-like anomaly at around 100 K due to crystalline-electric-field effects when 
+magnetic field was applied along c-axis (R. Higashinaka et al. J. Phys. Soc. Jpn. 84, 
+023702 (2015).). 
+ 
+ 
+0
+1000
+2000
+0
+400
+800
+0
+10
+20
+0
+200
+400
+0
+100
+200
+0
+100
+200
+0
+10
+20
+0
+100
+0
+50
+100
+0
+50
+100
+0
+10
+20
+0
+50
+100
+ 
+ 
+ 
+x = 0.1
+
+-1 (mol emu
+-1)
+ 
+ 
+ 
+x = 0.2
+ 
+ 
+T (K)
+x = 0.3
+ 
+ 
+ 
+x = 0.4
+ 
+ 
+ 
+x = 0.5
+ 
+ 
+T (K)
+x = 0.6
+ 
+ 
+x = 0.7
+ 
+ 
+x = 0.8
+ 
+T (K)
+x = 0.9
+
+
+5 
+ 
+ 
+ 
+0
+0.0005
+0.001
+0.0015
+0.002
+4
+5
+6
+7
+8
+9
+10
+La1-xCexOBiSSe
+Magnetization (emu/g)
+Temperature (K)
+H = 10 Oe
+ZFC
+FC
+x = 0.9
+0.5
+0.1
+FIG. S4. Magnetization at 410 K for La1xCexOBiSSe measured after ZFC and FC. Note 
+that magnetic susceptibility after ZFC and FC nearly coincide except for x = 0.5. 
+
+
