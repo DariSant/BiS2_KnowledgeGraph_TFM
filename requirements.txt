@@ -1,0 +1,25 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+accelerate
+arxiv
+bitsandbytes
+fuzzywuzzy
+huggingface_hub
+matplotlib
+networkx
+numpy
+pandas
+plotly
+PyMuPDF
+python-dateutil
+python-Levenshtein
+python-louvain
+pyvis
+requests
+scikit-learn
+seaborn
+sentence-transformers
+torch
+tqdm
+transformers
+wordcloud
