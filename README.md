@@ -1,88 +1,102 @@
-# TFM: Mapping Scientific Controversy in BiS2 Superconductors
+# Automated Information Extraction & Knowledge Graph Construction for -Based Superconductors
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Domain](https://img.shields.io/badge/Domain-Computational%20Linguistics%20%7C%20Condensed%20Matter%20Physics-blue)
-![Python](https://img.shields.io/badge/Python-3.9%2B-green)
+This repository contains the end-to-end pipeline for the automated extraction of scientific knowledge from unstructured physics literature. By leveraging Large Language Models (LLMs) and "Literate Programming" principles, this project transforms a corpus of  superconductor research into a structured, queryable **Domain Knowledge Graph (KG)**.
 
-## 📖 Abstract
+## 🔬 Project Overview
 
-This Master’s Dissertation (TFM) explores the intersection of **Computational Linguistics** and **Materials Physics**. The project builds a Knowledge Graph (KG) to map the evolution of scientific consensus and controversy regarding the *$BiS_2$-based superconductor family* (2012–2025).
+The "information fragmentation" in materials science prevents researchers from seeing the "big picture" across thousands of PDF publications. This project operationalizes the **Materials Science GPT** paradigm by:
 
-Unlike standard information extraction pipelines, this project focuses on **epistemic modality**: how authors use "hedging" (e.g., *"suggests,"* *"might indicate"*) to express uncertainty about the pairing mechanism (Phonon-mediated vs. Unconventional).
-
-## 🎯 Objectives
-
-1.  **Corpus Construction:** Curate a domain-specific corpus of arXiv papers excluding "false friends" (e.g., Topological Insulators like $Bi_2Se_3$).
-2.  **Ontological Modeling:** Define a schema connecting *Materials*, *Techniques* (e.g., $\mu$SR, ARPES), and *Physical Properties* ($T_c$, Gap Symmetry).
-3.  **Linguistic Analysis:** Detect and map rhetorical patterns of disagreement and uncertainty using NLP and LLM-assisted extraction.
-4.  **Graph Analysis:** Use Neo4j to visualize how the "controversy" structure changes over time.
-
-## 📂 Project Structure (Notebooks)
-
-The technical pipeline is divided into 7 modular Jupyter Notebooks. The final extraction phase (Notebook 5) is split into three sub-notebooks due to computational constraints and the use of different LLMs for specific tasks.
-
-### 1️⃣ `TFM_Notebook1_CorpusBuild_latest.ipynb`
-* **Goal:** Corpus Construction from arXiv.
-* **Method:** Queries the arXiv API using strict inclusion/exclusion logic to target the $BiS_2/BiCh_2$ family.
-* **Output:** `corpus_metadata.csv` and initial dataset.
-
-### 2️⃣ `TFM_Notebook2_PDFDownload.ipynb`
-* **Goal:** PDF Download & Raw Text Extraction.
-* **Method:** Iterates through the corpus metadata, downloads full-text PDFs, and extracts raw text for NLP tasks.
-* **Output:** Raw text files from PDFs.
-
-### 3️⃣ `TFM_Notebook3_TextExtractionAndEvaluation.ipynb`
-* **Goal:** Text Preprocessing & Section Extraction.
-* **Method:** Rule-based pipeline to clean text (ligature correction, de-hyphenation) and isolate specific sections (Abstracts, Conclusions). Includes evaluation against a Gold Standard.
-* **Output:** Cleaned text segments.
-
-### 4️⃣ `TFM_Notebook4_Normalization.ipynb`
-* **Goal:** Text Normalization & Entity Standardization.
-* **Method:** Standardizes chemical formulas and entities (e.g., unifying "LaO0.5F0.5BiS2" and "La(O,F)BiS2") to ensure consistency across the dataset.
-* **Output:** Normalized text ready for extraction.
-
-### 5️⃣ `TFM_Notebook5.1_ClaimExtraction_Gemma_2.5_9B-it.ipynb`
-* **Goal:** Claim Extraction (Stage 1).
-* **Method:** Uses **Gemma 2 (9B)** to extract epistemological claims and structured attributes from the scientific text.
-* **Output:** Extracted claims with uncertainty markers.
-
-### 6️⃣ `TFM-Notebook5.2_EntityExtraction_Qwen_3_8b.ipynb`
-* **Goal:** Named Entity Recognition (NER).
-* **Method:** Uses **Qwen 3 (8B)** to identify and categorize domain-specific entities (Materials, Methods, Properties) within the extracted claims.
-* **Output:** Structured entities linked to claims.
-
-### 7️⃣ `TFM_Notebook5.3_RelationsAndGraph.ipynb`
-* **Goal:** Relation Extraction & Graph Construction.
-* **Method:** Extracts semantic relationships between entities using LLMs and builds the final Knowledge Graph.
-* **Output:** Final Knowledge Graph (nodes and edges).
-
-## 🛠️ Installation & Usage
-
-**Prerequisites:**
-* Python 3.9+
-* Neo4j Desktop (or AuraDB free tier)
-
-**Setup:**
-1.  Clone the repo:
-    ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/TFM_BiS2_Graph.git
-    ```
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Configure Environment:
-    * Create a `.env` file for API keys (if using OpenAI/Anthropic for extraction).
-
-## ⚠️ Data Constraints
-* **Raw PDF Data:** Due to copyright restrictions, raw PDFs are not hosted in this repository.
-* **Reproducibility:** The `01_Corpus_Acquisition` notebook allows anyone to reconstruct the dataset from public arXiv identifiers.
-
-## 🎓 Academic Context
-* **Author:**  Dario Santos
-* **Program:** MA in Computational Linguistics
-* **Institution:** La Rioja University
-* **Year:** 2025-2026
+1. **Curation:** Filtering the arXiv repository for high-fidelity  literature.
+2. **Extraction:** Using open-weights LLMs (**Gemma 2.5 9B** & **Qwen 3 8B**) for Named Entity Recognition (NER) and Relation Extraction (RE).
+3. **Synthesis:** Constructing a Directed Multigraph to visualize the research ecosystem and identify "hub" materials and hidden property correlations.
 
 ---
-*Disclaimer: This tool is for academic research purposes only.*
+
+## 🏗️ Repository Structure
+
+The project follows a "Separation of Concerns" architecture to ensure data provenance and computational reproducibility.
+
+```text
+TFM/                             
+├── notebooks/                   # Sequential Jupyter notebooks (01–05.3)
+├── code/                        # Supporting scripts and utility functions
+├── data/
+│   ├── raw/                     # Original PDF binaries
+│   ├── processed/               # Intermediate processed datasets
+│   ├── output/                  # Final analysis outputs
+│   └── corpora/                 # Data snapshots at distinct processing stages
+│       ├── 01_raw/              # Metadata and JSON snapshots
+│       ├── 02_extracted/        # Text converted from PDFs
+│       ├── 03_normalized/       # Cleaned and standardized text
+│       └── 04_enriched/         # Ontology-aligned corpus with Claims/Entities
+└── results/                     # Figures, tables, and visualization outputs
+
+```
+
+---
+
+## ⚙️ The Computational Pipeline
+
+The workflow is divided into four distinct phases, executed via sequential notebooks:
+
+### Phase I: Data Acquisition
+
+* **Notebook 01: Corpus Acquisition** | Implements an iterative query architecture (v3.0) via the arXiv API. Uses Boolean exclusions to filter noise (e.g., bismuthate compounds).
+* **Notebook 02: Binary Retrieval** | Downloads full-text PDFs and uses **PyMuPDF** for layout-aware text extraction to preserve reading order.
+
+### Phase II: Text Engineering
+
+* **Notebook 03: Section Segmentation** | Isolates "Conclusion" and "Summary" sections using "Strict Mode" regex (v3.1) with lookahead assertions to prevent reference bleed.
+* **Notebook 04: Scientific Normalization** | Uses a custom `ScientificTextNormalizer` to map PUA characters and standardize LaTeX formatting (e.g., converting `ho` to `ρ` and consistent  subscript handling).
+
+### Phase III: Semantic Extraction (LLM Pipeline)
+
+* **Notebook 5.1: Epistemological Claim Extraction** | Uses **Gemma 2.5 9B-IT** (4-bit) to classify assertions (Observation, Inference, Speculation) and resolve anaphora (replacing "it" with specific material formulas).
+* **Notebook 5.2: NER** | Uses **Qwen 3 8B** to identify nodes based on a strict ontology: `Material`, `Property`, `Condition`, `Method`, and `Value`.
+
+### Phase IV: Knowledge Synthesis
+
+* **Notebook 5.3: Relation Extraction & Graph Assembly** | Extracts Subject-Predicate-Object triplets. Performs entity fuzzy matching for canonicalization and executes **Louvain Clustering** for community detection.
+
+---
+
+## 🛠️ Tech Stack & Methodology
+
+* **Language:** Python
+* **NLP/Graphing:** NetworkX, PyVis, PyMuPDF (fitz)
+* **LLM Frameworks:** Hugging Face Transformers, `bitsandbytes` (4-bit quantization)
+* **Hardware:** Optimized for consumer-grade GPUs (e.g., NVIDIA T4 / 16GB VRAM)
+* **Key Concepts:** * **Literate Programming:** Notebooks serve as verifiable technical appendices.
+* **Prompt Engineering:** Chain-of-Thought (CoT) and "Materials Scientist" persona patterns. Hard constraints into formatted output to prevent hallucination and malformed inferences.
+
+
+
+---
+
+## 📊 Key Outcomes
+
+* **Final Corpus:** 122 verified, high-confidence papers.
+* **Graph Density:** 2,035 unique entities and 5,743 relational edges.
+* **Topological Insights:** Identified 51 distinct scientific sub-communities. Confirmed  as the primary central "hub" node.
+* **Performance:** "Strict Mode" extraction reduced boundary failures and noise by **90%** compared to baseline regex methods.
+
+---
+
+## 🚀 Future Work
+
+* **Syntactic Normalization:** Pre-processing Stage I to rewrite complex sentences into atomic SVO structures.
+* **Vision Integration:** Implementing vision-based models to extract synthesis parameters from tables and figures.
+* **Scaling:** Migrating to multi-GPU inference for larger-scale physics corpora.
+
+---
+
+
+## 🤝 Citation
+
+If you use this dataset, pipeline, or methodology in your research, please cite:
+
+> **Santos Prego, Dario**. (2026). *Automated Knowledge Graph Construction for BiS₂-based Layered Superconductors*. Master's Thesis.
+
+---
+
+*Maintained by [DariSant*](https://www.google.com/search?q=https://github.com/DariSant)
